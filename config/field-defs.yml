@@ -1,12 +1,12 @@
 national:
-  national_population:
+  - id: national_population
     type: number
     label: Population of Country
     translations:
       es: Población del país
       id: Penduduk Negara
       pt: População do país
-  national_gdp:
+  - id: national_gdp
     type: numberAndCurrency
     label: Country GDP
     isRescale: true
@@ -15,7 +15,7 @@ national:
       es: PIB del país
       id: PDB negara
       pt: País PIB
-  national_per_capita_income:
+  - id: national_per_capita_income
     type: numberAndCurrency
     label: Annual Per Capita Income
     formatOptions:
@@ -27,7 +27,7 @@ national:
       es: Ingreso anual per cápita
       id: Pendapatan Per Kapita Tahunan
       pt: Renda anual per capita
-  national_human_development_index:
+  - id: national_human_development_index
     type: number
     label: Human Development Index
     formatOptions:
@@ -38,7 +38,7 @@ national:
       es: Índice de Desarrollo Humano
       id: Indeks Pembangunan Manusia
       pt: Índice de Desenvolvimento Humano
-  national_land_area:
+  - id: national_land_area
     type: number
     label: Total Land Area
     units: km²
@@ -46,7 +46,7 @@ national:
       es: Área total de la tierra
       id: Luas Tanah
       pt: Área de Terra Total
-  national_percent_forested:
+  - id: national_percent_forested
     type: number
     label: '% of Land That Is Forest'
     formatOptions:
@@ -57,14 +57,14 @@ national:
       es: '% de tierra que es bosque'
       id: '% Tanah Itu Hutan'
       pt: '% de terra que é floresta'
-  national_main_exports:
+  - id: national_main_exports
     type: string
     label: Main Exports
     translations:
       es: Exportaciones principales
       id: Ekspor utama
       pt: Principais exportações
-  national_social_groups_percent:
+  - id: national_social_groups_percent
     type: categorical
     label: Ethnic Groups
     categoryLabel: Group
@@ -90,7 +90,7 @@ national:
       es: Grupos étnicos
       id: Kelompok etnis
       pt: Grupos étnicos
-  national_urban_vs_rural_population_percent:
+  - id: national_urban_vs_rural_population_percent
     type: categorical
     label: Urban vs. Rural Population
     categoryLabel: Type
@@ -119,7 +119,7 @@ national:
       es: Población urbana vs. rural
       id: Penduduk Urban vs. Pedesaan
       pt: População urbana versus rural
-  national_gdp_breakdown_percent:
+  - id: national_gdp_breakdown_percent
     type: categorical
     label: GDP Breakdown
     categoryLabel: Type
@@ -165,7 +165,7 @@ national:
       es: Desglose del PIB
       id: PDB
       pt: Desagregação do PIB
-  national_deforestation_rate:
+  - id: national_deforestation_rate
     type: series
     label: Deforestation Rates
     categoryLabel: Year
@@ -229,28 +229,28 @@ national:
       es: Tasas de deforestación
       id: Tingkat Deforestasi
       pt: Taxas de desmatamento
-  txt_laws:
+  - id: txt_laws
     type: text
     label: Laws
     translations:
       es: Leyes
       id: Hukum
       pt: Leis
-  txt_policies_and_plans:
+  - id: txt_policies_and_plans
     type: text
     label: Policies and Plans
     translations:
       es: Políticas y planes
       id: Kebijakan dan Rencana
       pt: Políticas e planos
-  txt_institutions:
+  - id: txt_institutions
     type: text
     label: Institutions
     translations:
       es: Instituciones
       id: Institusi
       pt: Instituições
-  deforestationTrend:
+  - id: deforestationTrend
     type: numberAndYear
     label: Deforestation Trend
     formatOptions:
@@ -264,7 +264,7 @@ national:
       id: Tren Deforestasi
       pt: Tendência do desmatamento
 jurisdictional:
-  forestArea:
+  - forestArea:
     type: number
     label: Current Forest Area
     formatOptions:
@@ -276,7 +276,7 @@ jurisdictional:
       es: Área actual del bosque
       id: Kawasan Hutan Saat Ini
       pt: Área florestal atual
-  forestCarbon:
+  - id: forestCarbon
     type: number
     label: Total Forest Carbon
     formatOptions:
@@ -288,7 +288,7 @@ jurisdictional:
       es: Carbón forestal total
       id: Total Karbon Hutan
       pt: Carbono Florestal Total
-  population:
+  - id: population
     type: number
     label: Population of State/Province
     formatOptions:
@@ -298,7 +298,7 @@ jurisdictional:
       es: Población del Estado / Provincia
       id: Penduduk Negara Bagian / Propinsi
       pt: População do Estado / Província
-  gdp:
+  - id: gdp
     type: numberAndCurrency
     label: State/Province GDP
     formatOptions:
@@ -309,7 +309,7 @@ jurisdictional:
       es: Estado / Provincia PIB
       id: PDB Negara Bagian / Provinsi
       pt: PIB estadual / provincial
-  per_capita_income:
+  - id: per_capita_income
     type: numberAndCurrency
     label: Annual Per Capita Income
     formatOptions:
@@ -320,7 +320,7 @@ jurisdictional:
       es: Ingreso anual per cápita
       id: Pendapatan Per Kapita Tahunan
       pt: Renda anual per capita
-  human_development_index:
+  - id: human_development_index
     type: number
     label: Human Development Index
     formatOptions:
@@ -331,7 +331,7 @@ jurisdictional:
       es: Índice de Desarrollo Humano
       id: Indeks Pembangunan Manusia
       pt: Índice de Desenvolvimento Humano
-  deforestation_reduction_goal:
+  - id: deforestation_reduction_goal
     type: numberAndYear
     label: Deforestation Reduction Goals
     valueID: deforestation_reduction_goal_value
@@ -344,7 +344,7 @@ jurisdictional:
       es: Objetivos de reducción de la deforestación
       id: Tujuan Reduksi Deforestasi
       pt: Objetivos de redução do desmatamento
-  tons_of_co2_avoided:
+  - id: tons_of_co2_avoided
     type: numberAndYear
     label: CO₂ Avoided
     valueID: tons_of_co2_avoided_value
@@ -357,7 +357,7 @@ jurisdictional:
       es: CO₂ Evitado
       id: COO Dihindari
       pt: CO2 evitado
-  deforestation_rate_target_value:
+  - id: deforestation_rate_target_value
     type: number
     label: Deforestation Rate Target
     formatOptions:
@@ -368,7 +368,7 @@ jurisdictional:
       es: Objetivo de tasa de deforestación
       id: Target Tingkat Deforestasi
       pt: Alvo da taxa de desmatamento
-  original_forest_area:
+  - id: original_forest_area
     type: number
     label: Original Forest Area
     units: km²
@@ -379,7 +379,7 @@ jurisdictional:
       es: Área original del bosque
       id: Kawasan Hutan Asli
       pt: Área Florestal Original
-  land_area:
+  - id: land_area
     type: number
     label: Total Land Area
     units: km²
@@ -390,63 +390,63 @@ jurisdictional:
       es: Área total de la tierra
       id: Luas Tanah
       pt: Área de Terra Total
-  main_exports:
+  - id: main_exports
     type: string
     label: Main Exports
     translations:
       es: Exportaciones principales
       id: Ekspor utama
       pt: Principais exportações
-  txt_state_description:
+  - id: txt_state_description
     type: text
     label: Description
     translations:
       es: Descripción
       id: Deskripsi
       pt: Descrição
-  overviewForestMonitoringAndMeasurementSystems:
+  - id: overviewForestMonitoringAndMeasurementSystems
     type: text
     label: Overview of Forest Monitoring and Measurement Systems
     translations:
       es: Descripción general de los sistemas de monitoreo y medición forestal
       id: Ikhtisar Sistem Monitoring dan Pengukuran Hutan
       pt: Visão geral dos sistemas de monitoramento e medição florestal
-  frameworksLawsPoliciesStrategies:
+  - id: frameworksLawsPoliciesStrategies
     type: text
     label: 'Laws, Policies and Strategies'
     translations:
       es: 'Leyes, políticas y estrategias'
       id: 'Hukum, Kebijakan dan Strategi'
       pt: 'Leis, políticas e estratégias'
-  frameworksInstitutionalFramework:
+  - id: frameworksInstitutionalFramework
     type: text
     label: Institutional Framework
     translations:
       es: Marco institucional
       id: Kerangka kelembagaan
       pt: Estrutura institucional
-  frameworksZoningSpatialPlanning:
+  - id: frameworksZoningSpatialPlanning
     type: text
     label: Zoning and Spatial Planning
     translations:
       es: Zonificación y planificación espacial
       id: Perencanaan Zonasi dan Tata Ruang
       pt: Zoneamento e Ordenamento do Território
-  frameworksSafeguards:
+  - id: frameworksSafeguards
     type: text
     label: Safeguards
     translations:
       es: Salvaguardias
       id: Pengamanan
       pt: proteções
-  txt_causes_of_deforestation:
+  - id: txt_causes_of_deforestation
     type: text
     label: Drivers of Deforestation
     translations:
       es: Impulsores de la deforestación
       id: Pengemudi Deforestasi
       pt: Drivers of Deforestation
-  initiatives:
+  - id: initiatives
     type: '[initiative]'
     label: Current Partnerships and Initiatives
     isNotCited: true
@@ -499,7 +499,7 @@ jurisdictional:
           es: Estado de Iniciativa
           id: Status Inisiatif
           pt: Status da iniciativa
-  urban_vs_rural_population_percent:
+  - id: urban_vs_rural_population_percent
     type: categorical
     label: Urban vs. Rural Population
     categoryLabel: Type
@@ -528,7 +528,7 @@ jurisdictional:
       es: Población urbana vs. rural
       id: Penduduk Urban vs. Pedesaan
       pt: População urbana versus rural
-  social_groups_percent:
+  - id: social_groups_percent
     type: categorical
     label: Ethnic Groups
     categoryLabel: Group
@@ -554,7 +554,7 @@ jurisdictional:
       es: Grupos étnicos
       id: Kelompok etnis
       pt: Grupos étnicos
-  gdp_breakdown_percent:
+  - id: gdp_breakdown_percent
     type: categorical
     label: GDP Breakdown
     categoryLabel: Type
@@ -600,7 +600,7 @@ jurisdictional:
       es: Desglose del PIB
       id: PDB
       pt: Desagregação do PIB
-  current_forest_area_typologies:
+  - id: current_forest_area_typologies
     type: categorical
     label: Major Vegetation Types
     categoryLabel: Type
@@ -663,7 +663,7 @@ jurisdictional:
       es: Principales tipos de vegetación
       id: Jenis Vegetasi Utama
       pt: Tipos principais de vegetação
-  forest_management:
+  - id: forest_management
     type: categorical
     label: Forest Management
     categoryLabel: Type
@@ -677,7 +677,7 @@ jurisdictional:
       es: Gestión de bosques
       id: Pengelolaan hutan
       pt: Gestão florestal
-  deforestation_vs_degradation:
+  - id: deforestation_vs_degradation
     type: categorical
     label: Deforestation vs. Degradation
     categoryLabel: Type
@@ -710,28 +710,28 @@ jurisdictional:
       es: Deforestación vs. Degradación
       id: Deforestasi vs. Degradasi
       pt: Desmatamento vs. Degradação
-  governor:
+  - id: governor
     type: person
     label: Governor
     translations:
       es: Gobernador
       id: Gubernur
       pt: Governador
-  representative_1:
+  - id: representative_1
     type: person
     label: Representative
     translations:
       es: Representante
       id: Wakil
       pt: Representante
-  representative_2:
+  - id: representative_2
     type: person
     label: Representative
     translations:
       es: Representante
       id: Wakil
       pt: Representante
-  deforestation_rates:
+  - id: deforestation_rates
     type: series
     label: Deforestation Rates
     categoryLabel: Year
@@ -808,7 +808,7 @@ jurisdictional:
       es: Tasas de deforestación
       id: Tingkat Deforestasi
       pt: Taxas de desmatamento
-  are_current_deforestation_rates_known:
+  - id: are_current_deforestation_rates_known
     type: select
     label: Are Current Deforestation Rates Known?
     options:
@@ -822,7 +822,7 @@ jurisdictional:
       es: ¿Se conocen las tasas actuales de deforestación?
       id: Apakah Harga Deforestasi Saat Ini Dikenal?
       pt: São conhecidas as taxas atuais de desmatamento?
-  are_current_degradation_rates_known:
+  - id: are_current_degradation_rates_known
     type: select
     label: Are Current Degradation Rates Known?
     options:
@@ -836,7 +836,7 @@ jurisdictional:
       es: ¿Se conocen las tasas actuales de degradación?
       id: Apakah Harga Degradasi Saat Ini Dikenal?
       pt: As taxas atuais de degradação são conhecidas?
-  populationPercent:
+  - id: populationPercent
     type: number
     label: '% of National Population'
     formatOptions:
@@ -849,7 +849,7 @@ jurisdictional:
       es: '% de la población nacional'
       id: '% Penduduk Nasional'
       pt: '% da população nacional'
-  currentForestAreaPercent:
+  - id: currentForestAreaPercent
     type: number
     label: '% of Land That Is Forest'
     formatOptions:
@@ -862,7 +862,7 @@ jurisdictional:
       es: '% de tierra que es bosque'
       id: '% Tanah Itu Hutan'
       pt: '% de terra que é floresta'
-  carbonPercentOfGlobal:
+  - id: carbonPercentOfGlobal
     type: number
     label: '% of Global Total'
     formatOptions:
@@ -875,7 +875,7 @@ jurisdictional:
       es: '% del total global'
       id: '% dari Total Global'
       pt: '% do Total Global'
-  landAreaPercentOfNation:
+  - id: landAreaPercentOfNation
     type: number
     label: ''
     formatOptions:
@@ -888,7 +888,7 @@ jurisdictional:
       es: ''
       id: ''
       pt: ''
-  nationalPercentForested:
+  - id: nationalPercentForested
     type: number
     label: ''
     formatOptions:
@@ -901,7 +901,7 @@ jurisdictional:
       es: ''
       id: ''
       pt: ''
-  totalAreaDeforested:
+  - id: totalAreaDeforested
     type: number
     label: Total Area Deforested
     formatOptions:
@@ -913,7 +913,7 @@ jurisdictional:
       es: Área total deforestada
       id: Total Area yang terdebris
       pt: Área Total Desmatada
-  deforestationRateAverage:
+  - id: deforestationRateAverage
     type: numberAndYear
     label: Average Deforestation Rate
     formatOptions:
@@ -925,7 +925,7 @@ jurisdictional:
       es: Tasa promedio de deforestación
       id: Rata-rata Tingkat Deforestasi
       pt: Taxa média de desmatamento
-  deforestationTrend:
+  - id: deforestationTrend
     type: numberAndYear
     label: Deforestation Trend
     formatOptions:
