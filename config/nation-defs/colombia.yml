@@ -93,7 +93,7 @@ jurisdictionalFields:
           id: Tak terlindung
           pt: Desprotegido
 jurisdictions:
-  caqueta:
+  - id: caqueta
     name: Caquetá
     fields:
       forestArea:
