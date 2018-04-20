@@ -1,0 +1,30 @@
+{
+  "name": "mock-forest-database-api",
+  "version": "0.0.1",
+  "description": "API for a database of tropical forest nations and states/provinces.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radial-demos/mock-forest-database-api.git"
+  },
+  "author": "D Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radial-demos/mock-forest-database-api/issues"
+  },
+  "homepage": "https://github.com/radial-demos/mock-forest-database-api#readme",
+  "devDependencies": {
+    "eslint": "4.19.1",
+    "eslint-plugin-import": "2.11.0",
+    "eslint-plugin-react": "7.7.0",
+    "jest": "22.4.3"
+  },
+  "dependencies": {
+    "debug": "3.1.0",
+    "dotenv": "5.0.1",
+    "hapi": "17.3.1"
+  }
+}
