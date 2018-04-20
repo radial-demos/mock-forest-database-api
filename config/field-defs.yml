@@ -1,0 +1,940 @@
+national:
+  national_population:
+    type: number
+    label: Population of Country
+    translations:
+      es: Población del país
+      id: Penduduk Negara
+      pt: População do país
+  national_gdp:
+    type: numberAndCurrency
+    label: Country GDP
+    isRescale: true
+    isCurrency: true
+    translations:
+      es: PIB del país
+      id: PDB negara
+      pt: País PIB
+  national_per_capita_income:
+    type: numberAndCurrency
+    label: Annual Per Capita Income
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    isRescale: true
+    isCurrency: true
+    translations:
+      es: Ingreso anual per cápita
+      id: Pendapatan Per Kapita Tahunan
+      pt: Renda anual per capita
+  national_human_development_index:
+    type: number
+    label: Human Development Index
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 3
+      maximumFractionDigits: 3
+    translations:
+      es: Índice de Desarrollo Humano
+      id: Indeks Pembangunan Manusia
+      pt: Índice de Desenvolvimento Humano
+  national_land_area:
+    type: number
+    label: Total Land Area
+    units: km²
+    translations:
+      es: Área total de la tierra
+      id: Luas Tanah
+      pt: Área de Terra Total
+  national_percent_forested:
+    type: number
+    label: '% of Land That Is Forest'
+    formatOptions:
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    translations:
+      es: '% de tierra que es bosque'
+      id: '% Tanah Itu Hutan'
+      pt: '% de terra que é floresta'
+  national_main_exports:
+    type: string
+    label: Main Exports
+    translations:
+      es: Exportaciones principales
+      id: Ekspor utama
+      pt: Principais exportações
+  national_social_groups_percent:
+    type: categorical
+    label: Ethnic Groups
+    categoryLabel: Group
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    isPercent: true
+    isSorted: true
+    categories:
+      - id: a1
+        label: Multi-ethnic
+      - id: a2
+        label: White
+      - id: a3
+        label: Black
+      - id: a4
+        label: Indigenous
+      - id: a6
+        label: Other
+    translations:
+      es: Grupos étnicos
+      id: Kelompok etnis
+      pt: Grupos étnicos
+  national_urban_vs_rural_population_percent:
+    type: categorical
+    label: Urban vs. Rural Population
+    categoryLabel: Type
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    isSorted: true
+    isPercent: true
+    display: pieChart
+    categories:
+      - id: 1
+        label: Urban
+        translations:
+          es: Urbana
+          id: Urban
+          pt: Urbana
+      - id: 2
+        label: Rural
+        translations:
+          es: Rural
+          id: Pedesaan
+          pt: Rural
+    translations:
+      es: Población urbana vs. rural
+      id: Penduduk Urban vs. Pedesaan
+      pt: População urbana versus rural
+  national_gdp_breakdown_percent:
+    type: categorical
+    label: GDP Breakdown
+    categoryLabel: Type
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    isSorted: true
+    isPercent: true
+    categories:
+      - id: 1
+        label: Agriculture
+        translations:
+          es: Agricultura
+          id: Pertanian
+          pt: Agricultura
+      - id: 2
+        label: Industry
+        translations:
+          es: Industria
+          id: Industri
+          pt: Indústria
+      - id: 3
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+      - id: 4
+        label: Forestry
+        translations:
+          es: Silvicultura
+          id: Kehutanan
+          pt: Silvicultura
+      - id: 5
+        label: Mining
+        translations:
+          es: Minería
+          id: Pertambangan
+          pt: Mineração
+    translations:
+      es: Desglose del PIB
+      id: PDB
+      pt: Desagregação do PIB
+  national_deforestation_rate:
+    type: series
+    label: Deforestation Rates
+    categoryLabel: Year
+    formatOptions:
+      maximumFractionDigits: 0
+    units: km²
+    display: barChart
+    categories:
+      - id: '2000'
+        oldID: '0'
+        label: '2000'
+      - id: '2001'
+        oldID: '1'
+        label: '2001'
+      - id: '2002'
+        oldID: '2'
+        label: '2002'
+      - id: '2003'
+        oldID: '3'
+        label: '2003'
+      - id: '2004'
+        oldID: '4'
+        label: '2004'
+      - id: '2005'
+        oldID: '5'
+        label: '2005'
+      - id: '2006'
+        oldID: '6'
+        label: '2006'
+      - id: '2007'
+        oldID: '7'
+        label: '2007'
+      - id: '2008'
+        oldID: '8'
+        label: '2008'
+      - id: '2009'
+        oldID: '9'
+        label: '2009'
+      - id: '2010'
+        oldID: '10'
+        label: '2010'
+      - id: '2011'
+        oldID: '11'
+        label: '2011'
+      - id: '2012'
+        oldID: '12'
+        label: '2012'
+      - id: '2013'
+        oldID: '13'
+        label: '2013'
+      - id: '2014'
+        oldID: '14'
+        label: '2014'
+      - id: '2015'
+        oldID: '15'
+        label: '2015'
+      - id: '2016'
+        oldID: '16'
+        label: '2016'
+    translations:
+      es: Tasas de deforestación
+      id: Tingkat Deforestasi
+      pt: Taxas de desmatamento
+  txt_laws:
+    type: text
+    label: Laws
+    translations:
+      es: Leyes
+      id: Hukum
+      pt: Leis
+  txt_policies_and_plans:
+    type: text
+    label: Policies and Plans
+    translations:
+      es: Políticas y planes
+      id: Kebijakan dan Rencana
+      pt: Políticas e planos
+  txt_institutions:
+    type: text
+    label: Institutions
+    translations:
+      es: Instituciones
+      id: Institusi
+      pt: Instituições
+  deforestationTrend:
+    type: numberAndYear
+    label: Deforestation Trend
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 1
+      maximumFractionDigits: 1
+    units: '%'
+    isDerived: true
+    translations:
+      es: Tendencia de deforestación
+      id: Tren Deforestasi
+      pt: Tendência do desmatamento
+jurisdictional:
+  forestArea:
+    type: number
+    label: Current Forest Area
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²
+    isConstant: true
+    translations:
+      es: Área actual del bosque
+      id: Kawasan Hutan Saat Ini
+      pt: Área florestal atual
+  forestCarbon:
+    type: number
+    label: Total Forest Carbon
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: M MtC
+    isConstant: true
+    translations:
+      es: Carbón forestal total
+      id: Total Karbon Hutan
+      pt: Carbono Florestal Total
+  population:
+    type: number
+    label: Population of State/Province
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    translations:
+      es: Población del Estado / Provincia
+      id: Penduduk Negara Bagian / Propinsi
+      pt: População do Estado / Província
+  gdp:
+    type: numberAndCurrency
+    label: State/Province GDP
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    isRescale: true
+    translations:
+      es: Estado / Provincia PIB
+      id: PDB Negara Bagian / Provinsi
+      pt: PIB estadual / provincial
+  per_capita_income:
+    type: numberAndCurrency
+    label: Annual Per Capita Income
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    isRescale: true
+    translations:
+      es: Ingreso anual per cápita
+      id: Pendapatan Per Kapita Tahunan
+      pt: Renda anual per capita
+  human_development_index:
+    type: number
+    label: Human Development Index
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 3
+      maximumFractionDigits: 3
+    translations:
+      es: Índice de Desarrollo Humano
+      id: Indeks Pembangunan Manusia
+      pt: Índice de Desenvolvimento Humano
+  deforestation_reduction_goal:
+    type: numberAndYear
+    label: Deforestation Reduction Goals
+    valueID: deforestation_reduction_goal_value
+    yearID: deforestation_reduction_goal_year
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²/yr
+    translations:
+      es: Objetivos de reducción de la deforestación
+      id: Tujuan Reduksi Deforestasi
+      pt: Objetivos de redução do desmatamento
+  tons_of_co2_avoided:
+    type: numberAndYear
+    label: CO₂ Avoided
+    valueID: tons_of_co2_avoided_value
+    yearID: tons_of_co2_avoided_year
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: MtCO₂e
+    translations:
+      es: CO₂ Evitado
+      id: COO Dihindari
+      pt: CO2 evitado
+  deforestation_rate_target_value:
+    type: number
+    label: Deforestation Rate Target
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²/yr
+    translations:
+      es: Objetivo de tasa de deforestación
+      id: Target Tingkat Deforestasi
+      pt: Alvo da taxa de desmatamento
+  original_forest_area:
+    type: number
+    label: Original Forest Area
+    units: km²
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    translations:
+      es: Área original del bosque
+      id: Kawasan Hutan Asli
+      pt: Área Florestal Original
+  land_area:
+    type: number
+    label: Total Land Area
+    units: km²
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    translations:
+      es: Área total de la tierra
+      id: Luas Tanah
+      pt: Área de Terra Total
+  main_exports:
+    type: string
+    label: Main Exports
+    translations:
+      es: Exportaciones principales
+      id: Ekspor utama
+      pt: Principais exportações
+  txt_state_description:
+    type: text
+    label: Description
+    translations:
+      es: Descripción
+      id: Deskripsi
+      pt: Descrição
+  overviewForestMonitoringAndMeasurementSystems:
+    type: text
+    label: Overview of Forest Monitoring and Measurement Systems
+    translations:
+      es: Descripción general de los sistemas de monitoreo y medición forestal
+      id: Ikhtisar Sistem Monitoring dan Pengukuran Hutan
+      pt: Visão geral dos sistemas de monitoramento e medição florestal
+  frameworksLawsPoliciesStrategies:
+    type: text
+    label: 'Laws, Policies and Strategies'
+    translations:
+      es: 'Leyes, políticas y estrategias'
+      id: 'Hukum, Kebijakan dan Strategi'
+      pt: 'Leis, políticas e estratégias'
+  frameworksInstitutionalFramework:
+    type: text
+    label: Institutional Framework
+    translations:
+      es: Marco institucional
+      id: Kerangka kelembagaan
+      pt: Estrutura institucional
+  frameworksZoningSpatialPlanning:
+    type: text
+    label: Zoning and Spatial Planning
+    translations:
+      es: Zonificación y planificación espacial
+      id: Perencanaan Zonasi dan Tata Ruang
+      pt: Zoneamento e Ordenamento do Território
+  frameworksSafeguards:
+    type: text
+    label: Safeguards
+    translations:
+      es: Salvaguardias
+      id: Pengamanan
+      pt: proteções
+  txt_causes_of_deforestation:
+    type: text
+    label: Drivers of Deforestation
+    translations:
+      es: Impulsores de la deforestación
+      id: Pengemudi Deforestasi
+      pt: Drivers of Deforestation
+  initiatives:
+    type: '[initiative]'
+    label: Current Partnerships and Initiatives
+    isNotCited: true
+    translations:
+      es: Asociaciones e iniciativas actuales
+      id: Kemitraan dan Inisiatif Saat Ini
+      pt: Parcerias e Iniciativas Atuais
+    fields:
+      - id: name
+        modelName: string
+      - id: description
+        modelName: text
+        label: Description
+        translations:
+          es: Descripción
+          id: Deskripsi
+          pt: Descrição
+      - id: partners
+        modelName: string
+        label: Partners
+        translations:
+          es: Socios
+          id: Mitra
+          pt: Parceiros
+      - id: fundingSource
+        modelName: string
+        label: Funding Source
+        translations:
+          es: Fuente de financiamiento
+          id: Sumber Pendanaan
+          pt: Fonte de financiamento
+      - id: fundingAmount
+        modelName: string
+        label: Funding Amount
+        translations:
+          es: Importe de financiación
+          id: Jumlah dana
+          pt: Montante de Financiamento
+      - id: initiativeType
+        modelName: string
+        label: Initiative Type
+        translations:
+          es: Tipo de Iniciativa
+          id: Jenis inisiatif
+          pt: Tipo de Iniciativa
+      - id: initiativeStatus
+        modelName: string
+        label: Initiative Status
+        translations:
+          es: Estado de Iniciativa
+          id: Status Inisiatif
+          pt: Status da iniciativa
+  urban_vs_rural_population_percent:
+    type: categorical
+    label: Urban vs. Rural Population
+    categoryLabel: Type
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    isSorted: true
+    isPercent: true
+    display: pieChart
+    categories:
+      - id: 1
+        label: Urban
+        translations:
+          es: Urbana
+          id: Urban
+          pt: Urbana
+      - id: 2
+        label: Rural
+        translations:
+          es: Rural
+          id: Pedesaan
+          pt: Rural
+    translations:
+      es: Población urbana vs. rural
+      id: Penduduk Urban vs. Pedesaan
+      pt: População urbana versus rural
+  social_groups_percent:
+    type: categorical
+    label: Ethnic Groups
+    categoryLabel: Group
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    isSorted: true
+    isPercent: true
+    categories:
+      - id: a1
+        label: Multi-ethnic
+      - id: a2
+        label: White
+      - id: a3
+        label: Black
+      - id: a4
+        label: Indigenous
+      - id: a6
+        label: Other
+    translations:
+      es: Grupos étnicos
+      id: Kelompok etnis
+      pt: Grupos étnicos
+  gdp_breakdown_percent:
+    type: categorical
+    label: GDP Breakdown
+    categoryLabel: Type
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    isSorted: true
+    isPercent: true
+    categories:
+      - id: 1
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+      - id: 2
+        label: Agriculture
+        translations:
+          es: Agricultura
+          id: Pertanian'
+          pt: Agricultura
+      - id: 3
+        label: Forestry
+        translations:
+          es: Silvicultura
+          id: Kehutanan
+          pt: Silvicultura
+      - id: 4
+        label: Industry
+        translations:
+          es: Industria
+          id: Industri
+          pt: Indústria
+      - id: 5
+        label: Mining
+        translations:
+          es: Minería
+          id: Pertambangan
+          pt: Mineração
+    translations:
+      es: Desglose del PIB
+      id: PDB
+      pt: Desagregação do PIB
+  current_forest_area_typologies:
+    type: categorical
+    label: Major Vegetation Types
+    categoryLabel: Type
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²
+    isSorted: true
+    isPercent: true
+    categories:
+      - id: 1
+        label: Upland Dense Humid Forest
+        translations:
+          es: Upland Dense Bosque Húmedo
+          id: Dataran Tinggi Hutan Dataran Tinggi
+          pt: Floresta húmida densa Upland
+      - id: 2
+        label: Floodplain Forest
+        translations:
+          es: Bosque de la llanura de inundación
+          id: Hutan Banjir
+          pt: Floresta de planalto
+      - id: 3
+        label: Upland/Transition Dry Forest
+        translations:
+          es: Upland / Transition Dry Forest
+          id: Hutan Kering Dataran Tinggi / Transisi
+          pt: Upland / Transition Dry Forest
+      - id: 4
+        label: Savannah
+        translations:
+          es: Sabana
+          id: Savannah
+          pt: Savana
+      - id: 5
+        label: Woodlands
+        translations:
+          es: Bosques
+          id: Woodlands
+          pt: Woodlands
+      - id: 6
+        label: Peat Forest
+        translations:
+          es: Bosque de turba
+          id: Hutan Gambut'
+          pt: Floresta de turfa
+      - id: 7
+        label: Wetlands
+        translations:
+          es: Humedales
+          id: Lahan basah
+          pt: Zonas húmidas
+      - id: 8
+        label: Mangroves
+        translations:
+          es: Manglares
+          id: Bakau
+          pt: Manguezais
+    translations:
+      es: Principales tipos de vegetación
+      id: Jenis Vegetasi Utama
+      pt: Tipos principais de vegetação
+  forest_management:
+    type: categorical
+    label: Forest Management
+    categoryLabel: Type
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²
+    isSorted: true
+    isPercent: true
+    translations:
+      es: Gestión de bosques
+      id: Pengelolaan hutan
+      pt: Gestão florestal
+  deforestation_vs_degradation:
+    type: categorical
+    label: Deforestation vs. Degradation
+    categoryLabel: Type
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 2
+      maximumFractionDigits: 2
+    units: '%'
+    isSorted: true
+    categories:
+      - id: 1
+        label: Intact Forest Area
+        translations:
+          es: Área de bosque intacto
+          id: Area Hutan Utuh
+          pt: Área florestal intacta
+      - id: 2
+        label: Deforested Area
+        translations:
+          es: Área Deforestada
+          id: Area Deforested
+          pt: Área desmatada
+      - id: 3
+        label: Degraded Area
+        translations:
+          es: Área degradada
+          id: Area Terdegradasi
+          pt: Área Degradada
+    translations:
+      es: Deforestación vs. Degradación
+      id: Deforestasi vs. Degradasi
+      pt: Desmatamento vs. Degradação
+  governor:
+    type: person
+    label: Governor
+    translations:
+      es: Gobernador
+      id: Gubernur
+      pt: Governador
+  representative_1:
+    type: person
+    label: Representative
+    translations:
+      es: Representante
+      id: Wakil
+      pt: Representante
+  representative_2:
+    type: person
+    label: Representative
+    translations:
+      es: Representante
+      id: Wakil
+      pt: Representante
+  deforestation_rates:
+    type: series
+    label: Deforestation Rates
+    categoryLabel: Year
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²
+    display: barChart
+    categories:
+      - id: '1996'
+        oldID: '1'
+        label: '1996'
+      - id: '1997'
+        oldID: '2'
+        label: '1997'
+      - id: '1998'
+        oldID: '3'
+        label: '1998'
+      - id: '1999'
+        oldID: '4'
+        label: '1999'
+      - id: '2000'
+        oldID: '5'
+        label: '2000'
+      - id: '2001'
+        oldID: '6'
+        label: '2001'
+      - id: '2002'
+        oldID: '7'
+        label: '2002'
+      - id: '2003'
+        oldID: '8'
+        label: '2003'
+      - id: '2004'
+        oldID: '9'
+        label: '2004'
+      - id: '2005'
+        oldID: '10'
+        label: '2005'
+      - id: '2006'
+        oldID: '11'
+        label: '2006'
+      - id: '2007'
+        oldID: '12'
+        label: '2007'
+      - id: '2008'
+        oldID: '13'
+        label: '2008'
+      - id: '2009'
+        oldID: '14'
+        label: '2009'
+      - id: '2010'
+        oldID: '15'
+        label: '2010'
+      - id: '2011'
+        oldID: '16'
+        label: '2011'
+      - id: '2012'
+        oldID: '17'
+        label: '2012'
+      - id: '2013'
+        oldID: '18'
+        label: '2013'
+      - id: '2014'
+        oldID: '19'
+        label: '2014'
+      - id: '2015'
+        oldID: '20'
+        label: '2015'
+      - id: '2016'
+        oldID: '21'
+        label: '2016'
+    translations:
+      es: Tasas de deforestación
+      id: Tingkat Deforestasi
+      pt: Taxas de desmatamento
+  are_current_deforestation_rates_known:
+    type: select
+    label: Are Current Deforestation Rates Known?
+    options:
+      - value: 0
+        label: 'Yes'
+      - value: 1
+        label: 'No'
+      - value: 2
+        label: Partially
+    translations:
+      es: ¿Se conocen las tasas actuales de deforestación?
+      id: Apakah Harga Deforestasi Saat Ini Dikenal?
+      pt: São conhecidas as taxas atuais de desmatamento?
+  are_current_degradation_rates_known:
+    type: select
+    label: Are Current Degradation Rates Known?
+    options:
+      - value: 0
+        label: 'Yes'
+      - value: 1
+        label: 'No'
+      - value: 2
+        label: Partially
+    translations:
+      es: ¿Se conocen las tasas actuales de degradación?
+      id: Apakah Harga Degradasi Saat Ini Dikenal?
+      pt: As taxas atuais de degradação são conhecidas?
+  populationPercent:
+    type: number
+    label: '% of National Population'
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 1
+      maximumFractionDigits: 1
+    units: '%'
+    isDerived: true
+    translations:
+      es: '% de la población nacional'
+      id: '% Penduduk Nasional'
+      pt: '% da população nacional'
+  currentForestAreaPercent:
+    type: number
+    label: '% of Land That Is Forest'
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 1
+      maximumFractionDigits: 1
+    units: '%'
+    isDerived: true
+    translations:
+      es: '% de tierra que es bosque'
+      id: '% Tanah Itu Hutan'
+      pt: '% de terra que é floresta'
+  carbonPercentOfGlobal:
+    type: number
+    label: '% of Global Total'
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 3
+      maximumFractionDigits: 3
+    units: '%'
+    isDerived: true
+    translations:
+      es: '% del total global'
+      id: '% dari Total Global'
+      pt: '% do Total Global'
+  landAreaPercentOfNation:
+    type: number
+    label: ''
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 1
+      maximumFractionDigits: 1
+    units: '%'
+    isDerived: true
+    translations:
+      es: ''
+      id: ''
+      pt: ''
+  nationalPercentForested:
+    type: number
+    label: ''
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 1
+      maximumFractionDigits: 1
+    units: '%'
+    isDerived: true
+    translations:
+      es: ''
+      id: ''
+      pt: ''
+  totalAreaDeforested:
+    type: number
+    label: Total Area Deforested
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²
+    isDerived: true
+    translations:
+      es: Área total deforestada
+      id: Total Area yang terdebris
+      pt: Área Total Desmatada
+  deforestationRateAverage:
+    type: numberAndYear
+    label: Average Deforestation Rate
+    formatOptions:
+      minimumFractionDigits: 0
+      maximumFractionDigits: 0
+    units: km²
+    isDerived: true
+    translations:
+      es: Tasa promedio de deforestación
+      id: Rata-rata Tingkat Deforestasi
+      pt: Taxa média de desmatamento
+  deforestationTrend:
+    type: numberAndYear
+    label: Deforestation Trend
+    formatOptions:
+      minimumIntegerDigits: 1
+      minimumFractionDigits: 1
+      maximumFractionDigits: 1
+    units: '%'
+    isDerived: true
+    translations:
+      es: Tendencia de deforestación
+      id: Tren Deforestasi
+      pt: Tendência do desmatamento
