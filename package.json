@@ -25,6 +25,8 @@
   "dependencies": {
     "debug": "3.1.0",
     "dotenv": "5.0.1",
-    "hapi": "17.3.1"
+    "fs-extra": "5.0.0",
+    "hapi": "17.3.1",
+    "js-yaml": "3.11.0"
   }
 }
