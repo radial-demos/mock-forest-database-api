@@ -1,0 +1,265 @@
+name: Indonesia
+navColumn: 1
+currency: IDR
+fields:
+  - id: national_gdp_breakdown_percent
+    categories:
+      - id: a1
+        label: 'Agriculture, Livestock, Forestry & Fisheries'
+        translations:
+          es: 'Agricultura, Ganadería, Silvicultura y Pesca'
+          id: 'Pertanian, Peternakan, Kehutanan & Perikanan'
+          pt: 'Agricultura, pecuária, silvicultura e pesca'
+      - id: a2
+        label: Mining & Quarrying
+        translations:
+          es: Minería y Excavación
+          id: Pertambangan & penggalian
+          pt: Minas e pedreiras
+      - id: a3
+        label: Processing Industry
+        translations:
+          es: Industria de procesos
+          id: Industri pengolahan
+          pt: Indústria de processamento
+      - id: a4
+        label: Construction
+        translations:
+          es: Construcción
+          id: Konstruksi
+          pt: Construção
+      - id: a5
+        label: 'Trade, Hotel & Restaurant'
+        translations:
+          es: 'Comercio, Hotel y Restaurante'
+          id: 'Perdagangan, Hotel & Restoran'
+          pt: 'Trade, Hotel & Restaurant'
+      - id: a6
+        label: Transport & Communication
+        translations:
+          es: Transporte y comunicación
+          id: Transportasi & Komunikasi
+          pt: Transporte e comunicação
+      - id: a7
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+jurisdictionalFields:
+  - id: gdp_breakdown_percent
+    categories:
+      - id: a1
+        label: 'Agriculture, Livestock, Forestry & Fisheries'
+        translations:
+          es: 'Agricultura, Ganadería, Silvicultura y Pesca'
+          id: 'Pertanian, Peternakan, Kehutanan & Perikanan'
+          pt: 'Agricultura, pecuária, silvicultura e pesca'
+      - id: a2
+        label: Mining & Quarrying
+        translations:
+          es: Minería y Excavación
+          id: Pertambangan & penggalian
+          pt: Minas e pedreiras
+      - id: a3
+        label: Processing Industry
+        translations:
+          es: Industria de procesos
+          id: Industri pengolahan
+          pt: Indústria de processamento
+      - id: a4
+        label: Construction
+        translations:
+          es: Construcción
+          id: Konstruksi
+          pt: Construção
+      - id: a5
+        label: 'Trade, Hotel & Restaurant'
+        translations:
+          es: 'Comercio, Hotel y Restaurante'
+          id: 'Perdagangan, Hotel & Restoran'
+          pt: 'Trade, Hotel & Restaurant'
+      - id: a6
+        label: Transport & Communication
+        translations:
+          es: Transporte y comunicación
+          id: Transportasi & Komunikasi
+          pt: Transporte e comunicação
+      - id: a7
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+  - id: forest_management
+    categories:
+      - id: unprotected_forest_area
+        label: Unprotected Forest Area
+        translations:
+          es: Área de bosque desprotegido
+          id: Kawasan Hutan yang Tidak Terproteksi
+          pt: Área de floresta desprotegida
+      - id: conserved_forest_area_breakdown
+        label: Conserved Forest Area
+        translations:
+          es: Área de bosque conservado
+          id: Kawasan Hutan Konservasi
+          pt: Área Florestal Conservada
+      - id: fully_protected_forest_area_breakdown
+        label: Fully Protected Forest Area
+        translations:
+          es: Área Forestal Totalmente Protegida
+          id: Kawasan Hutan yang Dilindungi sepenuhnya
+          pt: Área Florestal Totalmente Protegida
+      - id: sustainably_managed_forest_area_breakdown
+        label: Sustainably Managed Forest Area
+        translations:
+          es: Área forestal gestionada de forma sostenible
+          id: Kawasan Hutan yang dikelola secara lestari
+          pt: Área Florestal Sustentável
+jurisdictions:
+  - id: aceh
+    name: Aceh
+    fields:
+      forestArea:
+        value: 31600
+      forestCarbon:
+        value: 449.3265
+      social_groups_percent:
+        categories:
+          - id: a1
+            label: Acehnese
+          - id: a2
+            label: Gayo Lut
+          - id: a3
+            label: Gayo Luwes
+          - id: a4
+            label: Alas
+          - id: a5
+            label: Singkil
+          - id: a6
+            label: Simeulue
+          - id: a7
+            label: Other
+  - id: central_kalimantan
+    name: Central Kalimantan
+    shortName: C. Kalimantan
+    localName: Kalimantan Tengah
+    fields:
+      forestArea:
+        value: 80200
+      forestCarbon:
+        value: 1130.7401
+      social_groups_percent:
+        categories:
+          - id: a1
+            label: Banjarese
+          - id: a2
+            label: Ngaju
+          - id: a3
+            label: Javanese
+          - id: a4
+            label: Dayak
+          - id: a5
+            label: Bakumpai
+          - id: a6
+            label: Other
+  - id: east_kalimantan
+    name: East Kalimantan
+    shortName: E. Kalimantan
+    localName: Kalimantan Timur
+    fields:
+      forestArea:
+        value: 62200
+      forestCarbon:
+        value: 933.6279
+      social_groups_percent:
+        categories:
+          - id: a1
+            label: Javanese
+          - id: a2
+            label: Bugis
+          - id: a3
+            label: Banjarese
+          - id: a4
+            label: Dayak
+          - id: a5
+            label: Kutai
+          - id: a6
+            label: Other
+  - id: north_kalimantan
+    name: North Kalimantan
+    shortName: N. Kalimantan
+    localName: Kalimantan Utara
+    fields:
+      forestArea:
+        value: 58900
+      forestCarbon:
+        value: 872.9876
+  - id: west_kalimantan
+    name: West Kalimantan
+    shortName: W. Kalimantan
+    localName: Kalimantan Barat
+    fields:
+      forestArea:
+        value: 61500
+      forestCarbon:
+        value: 872.9896
+      social_groups_percent:
+        categories:
+          - id: a1
+            label: Dayak
+          - id: a2
+            label: Malay
+          - id: a3
+            label: Chinese
+          - id: a4
+            label: Javanese
+          - id: a5
+            label: Bugis
+          - id: a6
+            label: Sundanese
+          - id: a9
+            label: Other
+  - id: papua
+    name: Papua
+    fields:
+      forestArea:
+        value: 260200
+      forestCarbon:
+        value: 3757.7765
+      social_groups_percent:
+        categories:
+          - id: a1
+            label: Amungme
+          - id: a2
+            label: Asmat
+          - id: a3
+            label: Bauzi
+          - id: a4
+            label: Dani
+          - id: a5
+            label: Kamoro
+          - id: a6
+            label: Kombai
+          - id: a7
+            label: Korowai
+          - id: a8
+            label: Mee
+          - id: a9
+            label: Sentani
+          - id: a10
+            label: Yali
+          - id: a11
+            label: Yei
+          - id: a12
+            label: Other
+  - id: west_papua
+    name: West Papua
+    shortName: W. Papua
+    localName: Papua Barat
+    fields:
+      forestArea:
+        value: 90500
+      forestCarbon:
+        value: 1322.7662

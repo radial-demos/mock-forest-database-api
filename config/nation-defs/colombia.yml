@@ -1,0 +1,102 @@
+name: Colombia
+navColumn: 4
+currency: COP
+jurisdictionalFields:
+  - id: gdp_breakdown_percent
+    categories:
+      - id: 1
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+      - id: 2
+        label: Agriculture
+        translations:
+          es: Agricultura
+          id: Pertanian
+          pt: Agricultura
+      - id: 3
+        label: Forestry
+        translations:
+          es: Silvicultura
+          id: Kehutanan
+          pt: Silvicultura
+      - id: 4
+        label: Industry
+        translations:
+          es: Industria
+          id: Industri
+          pt: Indústria
+      - id: 5
+        label: Mining
+        translations:
+          es: Minería
+          id: Pertambangan
+          pt: Mineração
+  - id: social_groups_percent
+    categories:
+      - id: a1
+        label: Multi-ethnic
+      - id: a2
+        label: White
+      - id: a3
+        label: Black
+      - id: a4
+        label: Indigenous
+      - id: a6
+        label: Other
+  - id: current_forest_area_typologies
+    categories:
+      - id: u2017a
+        label: Agriculture
+        translations:
+          es: Agricultura
+          id: Pertanian
+          pt: Agricultura
+      - id: u2017b
+        label: Forest
+        translations:
+          es: Bosque
+          id: Hutan
+          pt: Floresta
+      - id: u2017c
+        label: Pastureland
+        translations:
+          es: Pastizal
+          id: Pastureland
+          pt: Pastagem
+      - id: u2017d
+        label: Secondary Vegetation
+        translations:
+          es: Vegetación secundaria
+          id: Vegetasi Sekunder
+          pt: Vegetação Secundária
+      - id: u2017e
+        label: Other Land Uses
+        translations:
+          es: Otros usos de la tierra
+          id: Penggunaan lahan lainnya
+          pt: Outros usos do solo
+  - id: forest_management
+    categories:
+      - id: u2017a
+        label: Protected
+        translations:
+          es: Protegido
+          id: Terlindung
+          pt: Protegido
+      - id: u2017b
+        label: Unprotected
+        translations:
+          es: Desprotegido
+          id: Tak terlindung
+          pt: Desprotegido
+jurisdictions:
+  caqueta:
+    name: Caquetá
+    fields:
+      forestArea:
+        value: 65700
+      forestCarbon:
+        value: 538.29

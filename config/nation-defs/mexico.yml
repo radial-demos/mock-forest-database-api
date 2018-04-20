@@ -1,0 +1,227 @@
+name: Mexico
+navColumn: 2
+currency: MXN
+fields:
+  - id: national_social_groups_percent
+    categories:
+      - id: a1
+        label: Mestizo
+      - id: a8
+        label: Indigenous
+      - id: a9
+        label: Others
+  - id: national_gdp_breakdown_percent
+    categories:
+      - id: a1
+        label: 'Agriculture,Forestry'
+        translations:
+          es: 'Agricultura, Silvicultura'
+          id: 'Pertanian, Kehutanan'
+          pt: 'Agricultura, silvicultura'
+      - id: a2
+        label: 'Industry, Mining'
+        translations:
+          es: 'Industria, Minería'
+          id: 'Industri, Pertambangan'
+          pt: 'Indústria, Mineração'
+      - id: a3
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+jurisdictionalFields:
+  - id: gdp_breakdown_percent
+    categories:
+      - id: a1
+        label: 'Agriculture, Forestry'
+        translations:
+          es: 'Agricultura, Silvicultura'
+          id: 'Pertanian, Kehutanan'
+          pt: 'Agricultura, silvicultura'
+      - id: a2
+        label: 'Industry, Mining'
+        translations:
+          es: 'Industria, Minería'
+          id: 'Industri, Pertambangan'
+          pt: 'Indústria, Mineração'
+      - id: a3
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+  - id: current_forest_area_typologies
+    categories:
+      - id: u2017a
+        label: Conifer Forest Primary
+        translations:
+          es: Bosque primario de coníferas
+          id: Hutan Primer Konifer
+          pt: Conifer Forest Primary
+      - id: u2017b
+        label: Primary Encino Forest
+        translations:
+          es: Bosque primario de Encino
+          id: Hutan Encino Utama
+          pt: Floresta encino primária
+      - id: u2017c
+        label: Primary Mesophytic Forest
+        translations:
+          es: Bosque mesofítico primario
+          id: Hutan Mesofitik primer
+          pt: Floresta mesofítica primária
+      - id: u2017d
+        label: Primary Deciduous
+        translations:
+          es: Primitivo de hoja caduca
+          id: Dasar surut
+          pt: Decídua primária
+      - id: u2017e
+        label: Primary Perrenial
+        translations:
+          es: Perrenial primario
+          id: Perrenial Primer
+          pt: Perrenial primário
+      - id: u2017f
+        label: Secondary Sub-deciduous Forest
+        translations:
+          es: Bosque subcaducto secundario
+          id: Hutan sub-deciduous sekunder
+          pt: Floresta Secundária Sub-decídua
+      - id: u2017g
+        label: Secondary Coniferous
+        translations:
+          es: Conífero secundario
+          id: Konifer sekunder
+          pt: Conífera secundária
+      - id: u2017h
+        label: Secondary Encino Forest
+        translations:
+          es: Bosque secundario de Encino
+          id: Hutan Encino Sekunder
+          pt: Floresta Encino Secundária
+      - id: u2017i
+        label: Secondary Mesophytic Foresty
+        translations:
+          es: Selva mesofítica secundaria
+          id: Hutan Mesofitik sekunder
+          pt: Floresto Mesofítico Secundário
+      - id: u2017j
+        label: Secondary Deciduous
+        translations:
+          es: Secundario Deciduo
+          id: Secondary Deciduous
+          pt: Secundária Deciduous
+      - id: u2017k
+        label: Secondary Perennial Forest
+        translations:
+          es: Bosque perenne secundario
+          id: Hutan Perennial Sekunder
+          pt: Floresta perene secundária
+      - id: u2017l
+        label: Secondary Sub-deciduous Jungle
+        translations:
+          es: Selva Sub-decidua Secundaria
+          id: Hutan Sub-deciduous Sekunder
+          pt: Junção Secundária Sub-deciduous
+  - id: forest_management
+    categories:
+      - id: u2017a
+        label: Ejido
+        translations:
+          es: Ejido
+          id: Ejido
+          pt: Ejido
+      - id: u2017b
+        label: Protected Area
+        translations:
+          es: Área protegida
+          id: Kawasan Lindung
+          pt: Área protegida
+      - id: u2017c
+        label: Other
+        translations:
+          es: Otro
+          id: Lain
+          pt: De outros
+jurisdictions:
+  - id: campeche
+    name: Campeche
+    fields:
+      forestArea:
+        value: 41063.28
+      forestCarbon:
+        value: 215.67
+      social_groups_percent:
+        categories:
+          - id: a1
+            label: Maya
+          - id: a2
+            label: Chol
+          - id: a3
+            label: Tzeltal
+          - id: a4
+            label: Kanjobal
+          - id: a5
+            label: Mame
+          - id: a7
+            label: Others
+  - id: chiapas
+    name: Chiapas
+    fields:
+      forestArea:
+        value: 32817.235
+      forestCarbon:
+        value: 232.04
+      social_groups_percent:
+        categories:
+          - id: a1
+            label: Mestizo
+          - id: a2
+            label: Tzeltal
+          - id: a3
+            label: Tzotzil
+          - id: a4
+            label: Chol
+          - id: a5
+            label: Zoque
+          - id: a6
+            label: Tojolabales
+          - id: a7
+            label: Others
+  - id: jalisco
+    name: Jalisco
+    fields:
+      forestArea:
+        value: 33680.505
+      forestCarbon:
+        value: 86.88
+  - id: oaxaca
+    name: Oaxaca
+    fields:
+      forestArea:
+        value: 33680.505
+      forestCarbon:
+        value: 86.88
+  - id: quintana_roo
+    name: Quintana Roo
+    fields:
+      forestArea:
+        value: 36364.6
+      forestCarbon:
+        value: 161.86
+  - id: tabasco
+    name: Tabasco
+    fields:
+      forestArea:
+        value: 1337.29
+      forestCarbon:
+        value: 5.69
+  - id: yucatan
+    name: Yucatán
+    fields:
+      forestArea:
+        value: 19327.56
+      forestCarbon:
+        value: 70.91

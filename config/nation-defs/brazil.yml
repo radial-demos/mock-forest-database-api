@@ -1,0 +1,152 @@
+name: Brazil
+navColumn: 0
+currency: BRL
+jurisdictionalFields:
+  - id: social_groups_percent
+    categories:
+      - id: a1
+        label: Multi-ethnic
+      - id: a2
+        label: White
+      - id: a3
+        label: Black
+      - id: a4
+        label: Indigenous
+      - id: a6
+        label: Other
+  - id: gdp_breakdown_percent
+    categories:
+      - id: a1
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+      - id: a2
+        label: 'Agriculture, Forestry'
+        translations:
+          es: 'Agricultura, Silvicultura'
+          id: 'Pertanian, Kehutanan'
+          pt: 'Agricultura, silvicultura'
+      - id: a4
+        label: Industry
+        translations:
+          es: Industria
+          id: Industri
+          pt: Indústria
+      - id: a5
+        label: Mining
+        translations:
+          es: Minería
+          id: Pertambangan
+          pt: Mineração
+  - id: current_forest_area_typologies
+    categories:
+      - id: u2017a
+        label: Agriculture
+        translations:
+          es: Agricultura
+          id: Pertanian
+          pt: Agricultura
+      - id: u2017b
+        label: Forest
+        translations:
+          es: Bosque
+          id: Hutan
+          pt: Floresta
+      - id: u2017c
+        label: Pastureland
+        translations:
+          es: Pastizal
+          id: Pastureland
+          pt: Pastagem
+      - id: u2017d
+        label: Secondary Vegetation
+        translations:
+          es: Vegetación secundaria
+          id: Vegetasi Sekunder
+          pt: Vegetação Secundária
+      - id: u2017e
+        label: Other Land Uses
+        translations:
+          es: Otros usos de la tierra
+          id: Penggunaan lahan lainnya
+          pt: Outros usos do solo
+  - id: forest_management
+    categories:
+      - id: u2017a
+        label: Protected
+        translations:
+          es: Protegido
+          id: Terlindung
+          pt: Protegido
+      - id: u2017b
+        label: Unprotected
+        translations:
+          es: Desprotegido
+          id: Tak terlindung
+          pt: Desprotegido
+jurisdictions:
+  - id: acre
+    name: Acre
+    fields:
+      forestArea:
+        value: 148500
+      forestCarbon:
+        value: 1851.7
+  - id: amapa
+    name: Amapá
+    fields:
+      forestArea:
+        value: 101700
+      forestCarbon:
+        value: 1452.3
+  - id: amazonas
+    name: Amazonas
+    fields:
+      forestArea:
+        value: 1450100
+      forestCarbon:
+        value: 18476.2
+  - id: maranhao
+    name: Maranhão
+    fields:
+      forestArea:
+        value: 25400
+      forestCarbon:
+        value: 238.5
+  - id: mato_grosso
+    name: Mato Grosso
+    fields:
+      forestArea:
+        value: 314000
+      forestCarbon:
+        value: 3258.9
+  - id: para
+    name: Pará
+    fields:
+      forestArea:
+        value: 866200
+      forestCarbon:
+        value: 10466.9
+  - id: rondonia
+    name: Rondônia
+    fields:
+      forestArea:
+        value: 124200
+      forestCarbon:
+        value: 1471.9
+  - id: roraima
+    name: Roraima
+    fields:
+      forestArea:
+        value: 124200
+      forestCarbon:
+        value: 1471.9
+  - id: tocantins
+    name: Tocantins
+    fields:
+      forestArea:
+        value: 2600
+      forestCarbon:
+        value: 17.4

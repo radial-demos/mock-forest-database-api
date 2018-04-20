@@ -1,0 +1,176 @@
+name: Nigeria
+navColumn: 4
+currency: NGN
+fields:
+  - id: national_social_groups_percent
+    categories:
+      - id: a1
+        label: Hausa and Fulani
+      - id: a2
+        label: Yoruba
+      - id: a3
+        label: Igbo (Ibo)
+      - id: a4
+        label: Ijaw
+      - id: a5
+        label: Kanuri
+      - id: a6
+        label: Ibibio
+      - id: a7
+        label: Tiv
+      - id: a8
+        label: Other
+jurisdictionalFields:
+  - id: social_groups_percent
+    categories:
+      - id: a1
+        label: Efik
+      - id: a2
+        label: Ekoi
+      - id: a3
+        label: Ejagham
+      - id: a4
+        label: Bako
+      - id: a5
+        label: Bete
+      - id: a6
+        label: Boki
+      - id: a7
+        label: Mbembe
+      - id: a8
+        label: Other
+  - id: gdp_breakdown_percent
+    categories:
+      - id: 1
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+      - id: 2
+        label: Agriculture
+        translations:
+          es: Agricultura
+          id: Pertanian
+          pt: Agricultura
+      - id: 3
+        label: Forestry
+        translations:
+          es: Silvicultura
+          id: Kehutanan
+          pt: Silvicultura
+      - id: 4
+        label: Industry
+        translations:
+          es: Industria
+          id: Industri
+          pt: Indústria
+      - id: 5
+        label: Mining
+        translations:
+          es: Minería
+          id: Pertambangan
+          pt: Mineração
+  - id: current_forest_area_typologies
+    categories:
+      - id: u2017a
+        label: Settlement
+        translations:
+          es: Asentamiento
+          id: Penyelesaian
+          pt: Assentamento
+      - id: u2017b
+        label: 'Oil palm, Rubber'
+        translations:
+          es: 'Palma de aceite, caucho'
+          id: 'Kelapa sawit, karet'
+          pt: 'Palma de óleo, borracha'
+      - id: u2017c
+        label: Farmland
+        translations:
+          es: Tierras de cultivo
+          id: Tanah pertanian
+          pt: Terras agrícolas
+      - id: u2017d
+        label: Tropical High Forest
+        translations:
+          es: Bosque tropical alto
+          id: Hutan Tinggi Tropis
+          pt: Floresta tropical alta
+      - id: u2017e
+        label: Open Forest
+        translations:
+          es: Bosque abierto
+          id: Hutan Terbuka
+          pt: Floresta aberta
+      - id: u2017f
+        label: Montane Forest
+        translations:
+          es: Bosque montano
+          id: Hutan Montane
+          pt: Montane Forest
+      - id: u2017g
+        label: Gmelina
+        translations:
+          es: Gmelina
+          id: Gmelina
+          pt: Gmelina
+      - id: u2017h
+        label: Derived Savannah
+        translations:
+          es: Sabana derivada
+          id: Berasal dari Savannah
+          pt: Savana derivada
+      - id: u2017i
+        label: Grazing Field
+        translations:
+          es: Campo de pastoreo
+          id: Lapangan penggembalaan
+          pt: Campo de pastagem
+      - id: u2017j
+        label: Mangrove
+        translations:
+          es: Mangle
+          id: Bakau
+          pt: Mangue
+      - id: u2017k
+        label: Swamp
+        translations:
+          es: Pantano
+          id: Rawa
+          pt: Pântano
+      - id: u2017l
+        label: Waterbody
+        translations:
+          es: Agua corporal
+          id: Waterbody
+          pt: Corpo d'água
+  - id: forest_management
+    categories:
+      - id: management_national
+        label: National Conservation Areas
+        translations:
+          es: Áreas Nacionales de Conservación
+          id: Kawasan Konservasi Nasional
+          pt: Áreas nacionais de conservação
+      - id: management_state
+        label: State Forest Reserves
+        translations:
+          es: Reservas forestales estatales
+          id: Cadangan Hutan Negara
+          pt: Reservas Florestais Estaduais
+      - id: management_community
+        label: Community Forest Estates
+        translations:
+          es: Comunidad Forest Estates
+          id: Perkebunan Hutan Rakyat
+          pt: Community Forest Estates
+jurisdictions:
+  - id: cross_river_state
+    name: Cross River State
+    shortName: Cross River
+    fields:
+      forestArea:
+        value: 2070
+      forestCarbon:
+        value: 15.97

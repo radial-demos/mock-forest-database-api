@@ -1,0 +1,22 @@
+name: Ivory Coast
+gisName: Côte d'Ivoire
+navColumn: 4
+currency: CFA Fran
+jurisdictions:
+  - id: belier
+    name: Bélier
+    gisName: Lacs
+    fields:
+      forestArea:
+        value: 640
+      forestCarbon:
+        value: 0.89
+  - id: cavally
+    name: Cavally
+    gisName: Moyen-Cavally
+    isInDatabase: 1
+    fields:
+      forestArea:
+        value: 820
+      forestCarbon:
+        value: 6.91

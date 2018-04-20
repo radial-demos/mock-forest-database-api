@@ -1,0 +1,212 @@
+name: Peru
+navColumn: 3
+currency: PEN
+fields:
+  - id: national_social_groups_percent
+    categories:
+      - id: a1
+        label: Ashaninka
+      - id: a2
+        label: Aguaruna
+      - id: a3
+        label: Shipibo-Conibo
+      - id: a4
+        label: Chayahuitas
+      - id: a5
+        label: Quichuas
+      - id: a6
+        label: Other
+jurisdictionalFields:
+  - id: social_groups_percent
+    categories:
+      - id: a1
+        label: Amarakaeri
+      - id: a2
+        label: Matsiguenga
+      - id: a3
+        label: Ese'eja
+      - id: a4
+        label: Piro
+      - id: a5
+        label: Shipibo Konibo
+      - id: a6
+        label: Other
+  - id: gdp_breakdown_percent
+    categories:
+      - id: 1
+        label: Services
+        translations:
+          es: Servicios
+          id: Jasa
+          pt: Serviços
+      - id: 2
+        label: Agriculture
+        translations:
+          es: Agricultura
+          id: Pertanian
+          pt: Agricultura
+      - id: 3
+        label: Forestry
+        translations:
+          es: Silvicultura
+          id: Kehutanan
+          pt: Silvicultura
+      - id: 4
+        label: Industry
+        translations:
+          es: Industria
+          id: Industri
+          pt: Indústria
+      - id: 5
+        label: Mining
+        translations:
+          es: Minería
+          id: Pertambangan
+          pt: Mineração
+  - id: current_forest_area_typologies
+    categories:
+      - id: u2017a
+        label: Non-Forested Areas
+        translations:
+          es: Áreas no boscosas
+          id: Kawasan Bukan Hutan
+          pt: Áreas não florestas
+      - id: u2017b
+        label: Hill Forests
+        translations:
+          es: Bosques de la colina
+          id: Hutan bukit
+          pt: Hill Forests
+      - id: u2017c
+        label: Mountain Forests
+        translations:
+          es: Bosques de montaña
+          id: Hutan Gunung
+          pt: Florestas da montanha
+      - id: u2017d
+        label: Terrace Forests
+        translations:
+          es: Bosques de terraza
+          id: Hutan Teras
+          pt: Florestas do terraço
+      - id: u2017e
+        label: Flooded Forests
+        translations:
+          es: Bosques inundados
+          id: Hutan Banjir
+          pt: Florestas Inundadas
+      - id: u2017f
+        label: Waterways
+        translations:
+          es: Canales
+          id: Jalan air
+          pt: Vias navegáveis
+      - id: u2017g
+        label: Other Land Uses
+        translations:
+          es: Otros usos de la tierra
+          id: Penggunaan lahan lainnya
+          pt: Outros usos do solo
+  - id: forest_management
+    categories:
+      - id: u2017a
+        label: Private Conservation Areas
+        translations:
+          es: Áreas privadas de conservación
+          id: Kawasan Konservasi Swasta
+          pt: Áreas de conservação privadas
+      - id: u2017b
+        label: Areas of Regional Conservation
+        translations:
+          es: Áreas de conservación regional
+          id: Area Konservasi Kawasan
+          pt: Áreas de Conservação Regional
+      - id: u2017c
+        label: National Protected Natural Areas
+        translations:
+          es: Áreas Naturales Protegidas Nacionales
+          id: Kawasan Alam Lindung Nasional
+          pt: Áreas naturais protegidas nacionais
+      - id: u2017d
+        label: Concessions for conservation
+        translations:
+          es: Concesiones para la conservación
+          id: Konsesi untuk konservasi
+          pt: Concessões para conservação
+      - id: u2017e
+        label: Forestry concessions
+        translations:
+          es: Concesiones forestales
+          id: Konsesi hutan
+          pt: Concessões florestais
+      - id: u2017f
+        label: Regional areas for conservation and recovery purposes (ZOCRES)
+        translations:
+          es: Zonas regionales para fines de conservación y recuperación (ZOCRES)
+          id: Daerah untuk tujuan konservasi dan pemulihan (ZOCRES)
+          pt: Áreas regionais para fins de conservação e recuperação (ZOCRES)
+      - id: u2017g
+        label: Native titled communities
+        translations:
+          es: Comunidades con títulos nativos
+          id: Komunitas berjudul asli
+          pt: Comunidades de nomes nativos
+      - id: u2017h
+        label: No forest management category / Other holding categories
+        translations:
+          es: Ninguna categoría de manejo forestal / Otras categorías de tenencia
+          id: Tidak ada kategori pengelolaan hutan / kategori penahanan lainnya
+          pt: >-
+            Nenhuma categoria de manejo florestal / Outras categorias de
+            exploração
+jurisdictions:
+  - id: amazonas
+    name: Amazonas
+    kdbSlug: AmazonasPeru
+    fields:
+      forestArea:
+        value: 28700
+      forestCarbon:
+        value: 226.1
+  - id: huanuco
+    name: Huánuco
+    fields:
+      forestArea:
+        value: 16300
+      forestCarbon:
+        value: 107.5
+  - id: loreto
+    name: Loreto
+    fields:
+      forestArea:
+        value: 352200
+      forestCarbon:
+        value: 3584.6
+  - id: madre_de_dios
+    name: Madre de Dios
+    fields:
+      forestArea:
+        value: 80000
+      forestCarbon:
+        value: 796.2
+  - id: piura
+    name: Piura
+    fields:
+      forestArea:
+        value: 400
+      forestCarbon:
+        value: 1.2
+  - id: san_martin
+    name: San Martín
+    fields:
+      forestArea:
+        value: 34200
+      forestCarbon:
+        value: 262.7
+  - id: ucayali
+    name: Ucayali
+    fields:
+      forestArea:
+        value: 94700
+      forestCarbon:
+        value: 947.4
