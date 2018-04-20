@@ -4,6 +4,9 @@ require('dotenv').config();
 const debug = require('debug')('debug:server');
 const Hapi = require('hapi');
 
+const model = require('./model');
+const MissingArgumentError = require('./config/errors/MissingArgumentError');
+
 const server = Hapi.server({
     host: 'localhost',
     port: 8000,
@@ -18,9 +21,11 @@ server.route({
     method: 'GET',
     path: '/getEntries',
     options: { cors: true },
-    handler: (request, h) => {
+    handler: async (request, h) => {
 
-        return { status: 'success', entries: [] };
+        if (!('regionId' in request.query)) throw new MissingArgumentError('Query string must include "regionId".');
+
+        return { status: 'success', entries: await model.getEntries(request.query.regionId) };
     }
 });
 
