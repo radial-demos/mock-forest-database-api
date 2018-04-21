@@ -5,7 +5,7 @@ const debug = require('debug')('debug:server');
 const Hapi = require('hapi');
 
 const model = require('./model');
-const MissingArgumentError = require('./config/errors/MissingArgumentError');
+// const MissingArgumentError = require('./config/errors/MissingArgumentError');
 
 const server = Hapi.server({
     host: 'localhost',
@@ -19,14 +19,25 @@ server.options = {
 
 server.route({
     method: 'GET',
-    path: '/getEntries',
+    path: '/getNationDefs',
     options: { cors: true },
     handler: async (request, h) => {
 
-        if (!('regionId' in request.query)) throw new MissingArgumentError('Query string must include "regionId".');
+        const nationDefs = await model.getNationDefs();
+        return { status: 'success', nationDefs };
+    },
+});
 
-        return { status: 'success', entries: await model.getEntries(request.query.regionId) };
-    }
+server.route({
+    method: 'GET',
+    path: '/getData',
+    options: { cors: true },
+    handler: async (request, h) => {
+
+        // if (!('regionId' in request.query)) throw new MissingArgumentError('Query string must include "regionId".');
+        const data = await model.getData(request.query.regionId);
+        return { status: 'success', data };
+    },
 });
 
 const init = async () => {
