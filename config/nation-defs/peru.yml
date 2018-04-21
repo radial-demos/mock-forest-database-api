@@ -164,49 +164,49 @@ jurisdictions:
     name: Amazonas
     kdbSlug: AmazonasPeru
     fields:
-      forestArea:
+      - id: forestArea
         value: 28700
-      forestCarbon:
+      - id: forestCarbon
         value: 226.1
   - id: huanuco
     name: Huánuco
     fields:
-      forestArea:
+      - id: forestArea
         value: 16300
-      forestCarbon:
+      - id: forestCarbon
         value: 107.5
   - id: loreto
     name: Loreto
     fields:
-      forestArea:
+      - id: forestArea
         value: 352200
-      forestCarbon:
+      - id: forestCarbon
         value: 3584.6
   - id: madre_de_dios
     name: Madre de Dios
     fields:
-      forestArea:
+      - id: forestArea
         value: 80000
-      forestCarbon:
+      - id: forestCarbon
         value: 796.2
   - id: piura
     name: Piura
     fields:
-      forestArea:
+      - id: forestArea
         value: 400
-      forestCarbon:
+      - id: forestCarbon
         value: 1.2
   - id: san_martin
     name: San Martín
     fields:
-      forestArea:
+      - id: forestArea
         value: 34200
-      forestCarbon:
+      - id: forestCarbon
         value: 262.7
   - id: ucayali
     name: Ucayali
     fields:
-      forestArea:
+      - id: forestArea
         value: 94700
-      forestCarbon:
+      - id: forestCarbon
         value: 947.4

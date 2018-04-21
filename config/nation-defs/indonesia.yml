@@ -121,11 +121,11 @@ jurisdictions:
   - id: aceh
     name: Aceh
     fields:
-      forestArea:
+      - id: forestArea
         value: 31600
-      forestCarbon:
+      - id: forestCarbon
         value: 449.3265
-      social_groups_percent:
+      - id: social_groups_percent
         categories:
           - id: a1
             label: Acehnese
@@ -146,11 +146,11 @@ jurisdictions:
     shortName: C. Kalimantan
     localName: Kalimantan Tengah
     fields:
-      forestArea:
+      - id: forestArea
         value: 80200
-      forestCarbon:
+      - id: forestCarbon
         value: 1130.7401
-      social_groups_percent:
+      - id: social_groups_percent
         categories:
           - id: a1
             label: Banjarese
@@ -169,11 +169,11 @@ jurisdictions:
     shortName: E. Kalimantan
     localName: Kalimantan Timur
     fields:
-      forestArea:
+      - id: forestArea
         value: 62200
-      forestCarbon:
+      - id: forestCarbon
         value: 933.6279
-      social_groups_percent:
+      - id: social_groups_percent
         categories:
           - id: a1
             label: Javanese
@@ -192,20 +192,20 @@ jurisdictions:
     shortName: N. Kalimantan
     localName: Kalimantan Utara
     fields:
-      forestArea:
+      - id: forestArea
         value: 58900
-      forestCarbon:
+      - id: forestCarbon
         value: 872.9876
   - id: west_kalimantan
     name: West Kalimantan
     shortName: W. Kalimantan
     localName: Kalimantan Barat
     fields:
-      forestArea:
+      - id: forestArea
         value: 61500
-      forestCarbon:
+      - id: forestCarbon
         value: 872.9896
-      social_groups_percent:
+      - id: social_groups_percent
         categories:
           - id: a1
             label: Dayak
@@ -224,11 +224,11 @@ jurisdictions:
   - id: papua
     name: Papua
     fields:
-      forestArea:
+      - id: forestArea
         value: 260200
-      forestCarbon:
+      - id: forestCarbon
         value: 3757.7765
-      social_groups_percent:
+      - id: social_groups_percent
         categories:
           - id: a1
             label: Amungme
@@ -259,7 +259,7 @@ jurisdictions:
     shortName: W. Papua
     localName: Papua Barat
     fields:
-      forestArea:
+      - id: forestArea
         value: 90500
-      forestCarbon:
+      - id: forestCarbon
         value: 1322.7662

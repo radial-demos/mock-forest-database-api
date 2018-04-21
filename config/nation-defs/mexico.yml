@@ -149,11 +149,11 @@ jurisdictions:
   - id: campeche
     name: Campeche
     fields:
-      forestArea:
+      - id: forestArea
         value: 41063.28
-      forestCarbon:
+      - id: forestCarbon
         value: 215.67
-      social_groups_percent:
+      - id: social_groups_percent
         categories:
           - id: a1
             label: Maya
@@ -170,11 +170,11 @@ jurisdictions:
   - id: chiapas
     name: Chiapas
     fields:
-      forestArea:
+      - id: forestArea
         value: 32817.235
-      forestCarbon:
+      - id: forestCarbon
         value: 232.04
-      social_groups_percent:
+      - id: social_groups_percent
         categories:
           - id: a1
             label: Mestizo
@@ -193,35 +193,35 @@ jurisdictions:
   - id: jalisco
     name: Jalisco
     fields:
-      forestArea:
+      - id: forestArea
         value: 33680.505
-      forestCarbon:
+      - id: forestCarbon
         value: 86.88
   - id: oaxaca
     name: Oaxaca
     fields:
-      forestArea:
+      - id: forestArea
         value: 33680.505
-      forestCarbon:
+      - id: forestCarbon
         value: 86.88
   - id: quintana_roo
     name: Quintana Roo
     fields:
-      forestArea:
+      - id: forestArea
         value: 36364.6
-      forestCarbon:
+      - id: forestCarbon
         value: 161.86
   - id: tabasco
     name: Tabasco
     fields:
-      forestArea:
+      - id: forestArea
         value: 1337.29
-      forestCarbon:
+      - id: forestCarbon
         value: 5.69
   - id: yucatan
     name: Yucatán
     fields:
-      forestArea:
+      - id: forestArea
         value: 19327.56
-      forestCarbon:
+      - id: forestCarbon
         value: 70.91

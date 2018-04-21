@@ -96,7 +96,7 @@ jurisdictions:
   - id: caqueta
     name: Caquetá
     fields:
-      forestArea:
+      - id: forestArea
         value: 65700
-      forestCarbon:
+      - id: forestCarbon
         value: 538.29

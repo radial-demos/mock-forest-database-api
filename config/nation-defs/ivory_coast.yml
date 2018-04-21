@@ -7,16 +7,16 @@ jurisdictions:
     name: Bélier
     gisName: Lacs
     fields:
-      forestArea:
+      - id: forestArea
         value: 640
-      forestCarbon:
+      - id: forestCarbon
         value: 0.89
   - id: cavally
     name: Cavally
     gisName: Moyen-Cavally
     isInDatabase: 1
     fields:
-      forestArea:
+      - id: forestArea
         value: 820
-      forestCarbon:
+      - id: forestCarbon
         value: 6.91

@@ -170,7 +170,7 @@ jurisdictions:
     name: Cross River State
     shortName: Cross River
     fields:
-      forestArea:
+      - id: forestArea
         value: 2070
-      forestCarbon:
+      - id: forestCarbon
         value: 15.97

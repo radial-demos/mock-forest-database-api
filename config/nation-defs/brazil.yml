@@ -90,63 +90,63 @@ jurisdictions:
   - id: acre
     name: Acre
     fields:
-      forestArea:
+      - id: forestArea
         value: 148500
-      forestCarbon:
+      - id: forestCarbon
         value: 1851.7
   - id: amapa
     name: Amapá
     fields:
-      forestArea:
+      - id: forestArea
         value: 101700
-      forestCarbon:
+      - id: forestCarbon
         value: 1452.3
   - id: amazonas
     name: Amazonas
     fields:
-      forestArea:
+      - id: forestArea
         value: 1450100
-      forestCarbon:
+      - id: forestCarbon
         value: 18476.2
   - id: maranhao
     name: Maranhão
     fields:
-      forestArea:
+      - id: forestArea
         value: 25400
-      forestCarbon:
+      - id: forestCarbon
         value: 238.5
   - id: mato_grosso
     name: Mato Grosso
     fields:
-      forestArea:
+      - id: forestArea
         value: 314000
-      forestCarbon:
+      - id: forestCarbon
         value: 3258.9
   - id: para
     name: Pará
     fields:
-      forestArea:
+      - id: forestArea
         value: 866200
-      forestCarbon:
+      - id: forestCarbon
         value: 10466.9
   - id: rondonia
     name: Rondônia
     fields:
-      forestArea:
+      - id: forestArea
         value: 124200
-      forestCarbon:
+      - id: forestCarbon
         value: 1471.9
   - id: roraima
     name: Roraima
     fields:
-      forestArea:
+      - id: forestArea
         value: 124200
-      forestCarbon:
+      - id: forestCarbon
         value: 1471.9
   - id: tocantins
     name: Tocantins
     fields:
-      forestArea:
+      - id: forestArea
         value: 2600
-      forestCarbon:
+      - id: forestCarbon
         value: 17.4
