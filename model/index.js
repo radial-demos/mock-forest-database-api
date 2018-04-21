@@ -4,8 +4,10 @@ require('dotenv').config();
 const debug = require('debug')('debug:model');
 const path   = require('path');
 const fs   = require('fs-extra');
+const _ = require('lodash');
 const yaml = require('js-yaml');
 const klawSync = require('klaw-sync');
+const values = require('./values');
 // Error Classes Used In This Module
 const MissingArgumentError = require('../config/errors/MissingArgumentError');
 // Module-Level "Constants"
@@ -45,12 +47,49 @@ try {
     });
 }
 
+const getNationDefs = () => {
+
+    return _.cloneDeep(nationDefs);
+};
+
+const getData = async (regionId, lang) => {
+
+    /** Note that nationDefs has not been 'deep cloned'. DO NOT modify (corrupt) its objects! */
+    /** For each nation and jurisdiction, we are copying necessary string properties and assigning a 'data' property with all the fields/values */
+    const data = nationDefs.map((nationDef) => {
+
+        return {
+            id: nationDef.id,
+            name: nationDef.name,
+            currency: nationDef.currency,
+            data: values.parseData(nationDef.id, fieldDefs.national, nationDefs.fields),
+            jurisdictions: (nationDef.jurisdictions || []).map((jurisdictionDef) => {
+
+                const jurisdictionId = `${nationDef.id}.${jurisdictionDef.id}`; /** pre-append the nation ID (e.g. brazil.acre) */
+                return {
+                    id: jurisdictionId,
+                    name: jurisdictionDef.name,
+                    /** include some useful properties from nationDef */
+                    currency: nationDef.currency,
+                    nationId: nationDef.id,
+                    nationName: nationDef.name,
+                    data: values.parseData(jurisdictionId, fieldDefs.jurisdictional, nationDef.jurisdictionalFields, jurisdictionDef.fields),
+                };
+            }),
+        };
+    });
+    return data;
+};
+
 const getEntries = async (regionId, lang) => {
 
-    if (typeof regionId !== 'string') throw new MissingArgumentError('The "regionId" argument to getEntries(regionId) is required.');
+    // if (typeof regionId !== 'string') throw new MissingArgumentError('The "regionId" argument to getEntries(regionId) is required.');
+    // const [nationIdSegment, jurisdictionIdSegment]
     return [];
 };
 
 module.exports = {
+    getNationDefs,
+    getData,
     getEntries,
 };
