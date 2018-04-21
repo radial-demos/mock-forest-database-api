@@ -1,0 +1,778 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2070
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 15.97
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2888966
+    string: ''
+  citation:
+    html: >-
+      Otong et al., 2010. The Population Situation in Cross River State of
+      Nigeria and Its Implication for Socio-Economic Development: Observations
+      from the 1991 and 2006 Censuses <a
+      href="http://jeteraps.scholarlinkresearch.org/articles/THE%20POPULATION%20SITUATION%20IN%20CROSS%20RIVER%20STATE_OCTOBER-1.pdf">About
+      Cross River State</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 9290000000
+    currency: NGN
+    string: ''
+  citation:
+    html: >-
+      Cross River State Government, Investment Promotion Bureau. Accessed on 24
+      June 2013, values for 2009 <a
+      href="http://invest.crossriverstate.gov.ng/15-ipb/why-cross-river">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 3150
+    currency: NGN
+    string: ''
+  citation:
+    html: >-
+      Calculated using values from: Cross River State Government, Investment
+      Promotion Bureau. Accessed on 24 June 2013, values for 2009. <a
+      href="http://invest.crossriverstate.gov.ng/15-ipb/why-cross-river">Cross
+      River State Government, Investment Promotion Bureau</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.471
+    string: ''
+  citation:
+    html: >-
+      UNDP, 2013. Human Development Report. <a
+      href="http://hdr.undp.org/en/media/HDR_2013_EN_complete.pdf">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 12160
+    string: ''
+  citation:
+    html: >-
+      Oyebo, Bisong &amp; Morakinyo 2010. A preliminary assessment of the
+      context for REDD in Nigeria. A Preliminary Assessment of the Context for
+      REDD in Nigeria, Own calculations commissioned by the Federal Ministry of
+      Environment, the Cross River State's Forestry Comission and UNDP <a
+      href="https://www.google.de/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;ved=0CEIQFjAC&amp;url=http%3A%2F%2Fwww.unredd.net%2Findex.php%3Foption%3Dcom_docman%26task%3Ddoc_download%26gid%3D4129%26Itemid%3D53&amp;ei=gupnUcyNEYjCtQbm3oGoAg&amp;usg=AFQjCNHiwkIKcCgsm8N3zXMugTt36TeC3Q&amp;bvm=bv.45175338,d.Yms">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 23074
+    string: ''
+  citation:
+    html: >-
+      Cross River State Government, 2006. About Cross River State <a
+      href="http://www.crossriverstate.gov.ng/index.php?option=com_content&amp;view=article&amp;id=721&amp;Itemid=97.">About
+      Cross River State</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Rubber, palm oil and wood products'
+  citation:
+    html: >-
+      Macarthy Oyebo, Francis Bisong, and Tunde Morakinyo, A Preliminary
+      Assessment of the Context for REDD in Nigeria, the Federal Ministry of
+      Environment, the Cross River State’s Forestry Commission and the United
+      Nations Development Program (Nov. 2010), <a
+      href="http://www.un-redd.org/AboutUNREDDProgramme/NationalProgrammes/Nigeria/tabid/992/Default.aspx.">A
+      Preliminary Assessment of the Context for REDD in Nigeria</a>
+txt_state_description:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>Over 90 per cent of Nigeria’s forests have already been cleared, and
+      more than 50% of forested areas that remain in the country are found in
+      Cross River State. Approximately 75% of Nigeria’s endangered tree species
+      are only found in Cross River State. The State is considered one of the
+      richest biodiversity reserves in all of Africa and is part of the “Gulf of
+      Guinea” forests, a global biodiversity hotspot, with a rich diversity of
+      primates, birds, butterflies, plants, reptiles, amphibians and other
+      species. </p><p>Cross River's forests support 22 primate species,
+      including endemics like the Cross River Gorilla, Drill monkey, and
+      Preuss's Guenon monkey.</p><p>Cross River State has taken many steps to
+      protect its forests, including the following: <br />1. Holding a
+      Stakeholders Summit on the Environment in June 2008; <br />2. Enacting a
+      two-year logging moratorium; <br />3. Establishing and supporting an
+      anti-logging task force to enforce the moratorium, with approximately
+      USD$1 million committed to this cause;<br />4. Implementing far-reaching
+      reforms in the Cross River State Forestry Commission; and<br />5.
+      Committing to plant 5 million indigenous trees annually, with the
+      development of nurseries in progress across the state.</p><p>Within 10
+      years, Cross River State plans to have 1 million hectares of forest lands
+      managed for climate change-friendly activities, including carbon,
+      non-timber forest products, sustainable tree crops and ecotourism. This
+      could generate substantial economic value for the state.</p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T18:36:12.115Z'
+  value:
+    html: >-
+      <p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/nigeria/cross_river_state/cross_river_state_law_3_2010.pdf"
+      target="_blank">Law 3 of 2010</a> -   Forestry Commission Law<br
+      />Establishes the Cross River State Forest Commission as a body corporate,
+      defines its functions and powers, and clarifies its administration and
+      operations. It also provides guidance on the management of forests,
+      concessions, and community based forest,  land use planning,
+      afforestation, and enforcement through community enforcement officers in
+      collaboration with government. However, the Forestry Law’s most
+      significant provisions have not been implemented (and have no implementing
+      regulations). This Law also defines the roles and responsibilities of all
+      the potential stakeholders and beneficiaries of forest resources in the
+      state. It provides all the procedures, processes and checks and balances
+      necessary to ensure that all of the existing and potential benefits from
+      the state’s forest resources contribute directly to the well–being of the
+      people of CRS. It also enabled the government to allocate “carbon
+      concessions” in the states forests [as well as biodiversity offsets,
+      eco-tourism and watershed protection concessions.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/nigeria/cross_river_state/cross_river_state_law_19_2007.pdf"
+      target="_blank">Law No. 19 2007</a> - This Law establishes the Cross River
+      State Investment Promotion Bureau as a body corporate, defines its
+      functions and powers, and provides with respect to its administration and
+      operations. The law also concerns registration of enterprises, investment
+      policy and settlement of disputes between an investor and the Cross River
+      State Government.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/nigeria/cross_river_state/cross_river_state_law_17_2007.pdf"
+      target="_blank">Law No. 17 of 2007</a> - This Law establishes the Cross
+      River State Rural Development Agency as a body corporate, defines its
+      functions and provides with respect to its administration and
+      operation</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-12-01T18:53:57.440Z'
+  value:
+    html: >-
+      <p><strong>Ministry of Environment</strong> -  formulates and implements
+      policies for the protection of the natural environment against pollution
+      and degradation.</p><p><strong>Ministry of Lands </strong>- responsible
+      for establishing a land management and housing system that will provide a
+      sustainable living environment for its citizen.  Responsible for
+      developing land registry for properties and issuing
+      titles.</p><p><strong>Ministry of Climate Change &amp; Forestry CRS
+      -</strong>Established with a mandate of initiating and driving Climate
+      Change mitigation activities in Cross River State, the Ministry of Climate
+      Change and Forestry works to ensure that government objectives of
+      regenerating and protecting the forest and its natural resources are
+      achieved. The institution charged with the implementation of the UN-REDD
+      programme in  CRS  with support from the CRS forestry Commission and the
+      Nigerian Federal ministry of Environment. The Ministry was created in
+      November 2015 to articulate policies and strategies on climate change
+      adaptation and mitigation by ensuring efficient utilization of the State
+      forestry potentials. The Ministry also provides oversight on the
+      operations of CRS Forestry Commission and the Department of Forestry,
+      Biodiversity &amp; Conservation. The Commission draws its powers from CRS
+      Law No. 11 of 2011.  Key activities involving adaptation include
+      alternative means of livelihood, Clean Energy Programme, Renewable &amp;
+      Non-Renewable Energy and Green economy. For mitigation we have tree
+      planting, nursery development, community-based forest monitoring and
+      protection.<br />Vision statement: To be a key driver of activities in
+      climate change adaptation, mitigation and resilience in line with global
+      conventions.<br /><br /><em>Mission statement:</em> To play a major role
+      in the mitigation of climate change in the State using sustainable actions
+      and regulatory frameworks.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-12-01T16:06:21.707Z'
+  value:
+    html: >-
+      <p>Cross River State does not have its own spatial or zoning plan. At the
+      national level land use planning is guided by the Land Use Act of 1978. 
+      While there is no central spatial or land use plan for the entire country,
+      there are 445 gazetted forest reserves covering 2.7 million ha, 7 national
+      parks covering 2.509 million ha,  and approximately 2.7 million ha of
+      forest land that are 'free' or community forests (non gazzetted)</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-01T15:59:00.702Z'
+  value:
+    html: >-
+      <p><strong>The main (direct) drivers of deforestation in Cross River State
+      include</strong>:Commercial agriculture, subsistence agriculture,
+      Logging/timber extraction Mining, Fuel wood extraction practices dominate
+      the list of deforestation drivers. </p><p><strong>Indirect causes of
+      deforestation in Nigeria</strong><br />The underlying causes of
+      deforestation and forest degradation can be grouped under macro economic
+      factors, governance factors and other factors (including demographic
+      technological and cultural factors).</p><p><strong>Macro economic
+      factors</strong><br />The higher profitability of agriculture is the main
+      economic factor underlying the conversion of forests to other uses. Other
+      macro economic factors include external debt; foreign exchange rate policy
+      and trade policies governing the sector. For example, the ban on log and
+      sawn timber export has contributed significantly to this inefficiency by
+      keeping prices lower than their true competitive levels. This has
+      continued to protect the inefficiency of the wood industry. According to a
+      World Bank study’s analysis, four states (for which complete data are
+      available) subsidized the forest industry to the tune of US $6.5 million
+      in 2003 through a failure to adjust their fees to their real levels and a
+      failure to capture revenues lost through illegal logging. This study
+      estimated that between 2001 and 2003, the four states lost US $ 18.7
+      million from these sources.</p><p><strong>Governance factors</strong><br
+      />Deforestation and degradation can result from the combined impact of
+      poor forest tenure arrangements and weak forestry institutions, which in
+      turn determine the set of incentives that leads to
+      overexploitation.</p><p><strong>Outdated forest laws</strong>: The
+      legislative structure for forest management in Nigeria has remained
+      largely unchanged since colonial times. Forest resources fall under three
+      main categories: Forest Reserves, State and private tree plantations, and
+      ‘free areas’. The colonial legislation set a number of precedents that are
+      still evident today, including a policy thrust based upon the expansion of
+      reserved areas and plantations, in which communities have very limited
+      rights. The current National Forest Policy (1988), 11 continues this trend
+      by focusing on achieving national self-sufficiency in wood production and
+      a doubling of the reserved forest area. However, the status quo appears to
+      have continued largely unchanged by this policy environment. The role of
+      rural communities in forest management and the importance of forest
+      resources to the rural poor have not been recognized so
+      far.</p><p><strong>No integration with other ministries</strong>:
+      Government agricultural programmes, and the potential expansion of the
+      solid minerals sector, have a significant impact on forestry in Nigeria,
+      with this largely being overlooked in national planning processes.
+      Forestry and the environment in general, is not effectively integrated
+      across national planning, despite the presence of mainstreaming mechanisms
+      (such as the inactive biodiversity inter-ministerial
+      committee).</p><p><strong>Land tenure</strong>: Land tenure laws fail to
+      formally recognize community tenure of land removing an incentive for
+      villages to manage their land resources more effectively. The rights of
+      communities over the forest sector worsened following the Land Use Decree
+      of 1978.</p><p><strong>Weak capacity at Federal level</strong>: The
+      management of forest resources and the right to generate revenue from the
+      forest estate are both vested in the State Governments at present. The
+      1978 Land Use Decree, which vests all land in the hands of the State
+      Governors, strengthened this mandate. The role of the Federal Government
+      appears somewhat limited, although the Federal Department of Forestry
+      (FDF) holds the remit to advance national forest policy. The FDF is in a
+      weak position, having suffered from a lack of capacity development over
+      last fifteen years. The National Forest Development Committee (NFDC) is
+      the forum that brings together all the State Forestry Directors and is
+      chaired by the Director of the FDF. It provides an important institutional
+      link between the Federal authority and the States. In recent times it has
+      been involved in guiding forest policy and legislation
+      development.</p><p><strong>Weak capacity at state level</strong>: This
+      lack of capacity and funding situation is reflected at the state level,
+      where the State Forestry Departments lack capacity to manage forests
+      effectively. On the other hand, forestry plays a pivotal role in State
+      finances for example, in Ekiti State, with 40 % of Internally Generated
+      Revenue being raised from timber royalties and license fees in 2002.
+      Nevertheless, the funding of government agencies remains weak and there is
+      very limited civil society capacity to compensate for this
+      deficiency.</p><p>Absence of forest management planning: An important
+      cause for deforestation within the forest reserves can be linked to state
+      forestry departments who have abandoned any form of forest management for
+      natural forest since the 1970s. As a result, reserve forests are being
+      treated as an infinite resource with no effective policies in place to
+      regulate their harvesting. An example of this is the practice of
+      allocating short-term concession of 1 to 3 years that encourage annual
+      re-entries thereby totally degrading the forests. In many reserves
+      management amounts to salvage logging for the last remaining
+      trees.</p><p><strong>High revenue targets and low timber fees</strong>:
+      The forest revenue system of the states has also contributed to the
+      forests’ demise. The allocation of concessions is by discretion and annual
+      timber removal is driven by the states’ revenue targets. These are set
+      administratively without regard to what actually exists in the forest or
+      what can be sustainable harvested. A World Bank Forestry Economic Study
+      for Nigeria in year 2005 showed that low timber fees have had a direct
+      impact on the efficiency of forest industry, costing the state significant
+      losses in revenue as well as causing wastage of valuable timber resources.
+      Other reasons for degradation in the forest reserves include inefficient
+      wood-utilization by industry and, therefore, a higher demand for
+      industrial grade timber, and illegal logging.</p><p><strong>De-reservation
+      by state governments</strong>: In addition, forest estates are being
+      de-reserved by some state Governments and the State Forest Departments who
+      have been resist the spate of requests from corporate and influential
+      individuals for excisions from the forest estate for the establishment of
+      agricultural cropland. The unfortunate impression has thus been created
+      that the forest estate exists as a land bank as the demands for
+      de-reservation continue nationwide.</p><p><strong>Ban on wood
+      export</strong>: In addition, the ban on log and sawn timber export has
+      contributed significantly to this inefficiency by keeping prices lower
+      than their true competitive levels. This has continued to protect the
+      inefficiency of the wood industry. According to this World Bank study’s
+      analysis, four states (for which complete data are available) subsidized
+      the forest industry to the tune of US $6.5 million in 2003 through a
+      failure to adjust their fees to their real levels and a failure to capture
+      revenues lost through illegal logging. This study estimated that between
+      2001 and 2003, the four states lost US $ 18.7 million from these
+      sources.</p><p><strong>Demographic factors</strong><br />A growing rural
+      population and migration to the agricultural frontier increases the
+      pressure on forests. An increasing population in urban and rural areas
+      also raises the demand for food and other land-based commodities, thus,
+      requiring more land to produce them.</p><p><strong>Technological
+      factors</strong><br />Technological improvements can affect deforestation
+      rates. The adoption of land extensive technologies inevitably results in
+      the expansion of agriculture at the expense of
+      forests.</p><p><strong>Cultural factors</strong><br />Sacred groves and
+      forest areas are often protected from land conversion and degradation.
+      However, other cultural factors exert pressure on forests. The majorities
+      of forest communities with a few exceptions is unaware of any alternatives
+      to unsustainable exploitation and are often divided amongst themselves as
+      to how to best exploit the forests for their development. In a typical
+      village individuals supported by logging interests are often pitted
+      against hunters and NTFP collectors. Chiefs are often compromised by
+      loggers and are unable to protect the forests for the good of the majority
+      in the village who may depend on NTFPs and bush meat and other forest
+      products to supplement farming income. Divided communities are often far
+      more vulnerable to predatory logging interests and so within a few
+      generations, their forests are cleared while the villages remain poor.</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 95078a10-ce34-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:51:29.201Z'
+      name:
+        value:
+          string: Sustainable Energy Management Project
+      description:
+        value:
+          html: >-
+            <p><em>Raise 36,000 hectre of fuelwood lot to enhance the
+            sustainable provision of fuelwood across CR State.</em></p><p>The
+            project has a total project value of $20,810,000. Geographically
+            focused in the States of Cross River, Delta and Kaduna, Fuel Wood
+            Management seeks to reduce GHG emissions from the use of fuelwood in
+            the country’s domestic, institutional and industrial sectors through
+            integrated and sustainable fuelwood production and utilisation, and
+            promotion of sustainable biomass energy technologies using
+            output-based and market-based approachesThe project is designed to
+            comprehensively address one of the major causes of deforestation in
+            Cross River which is unsustainable fuelwood harvesting and Delta
+            states and land degradation and desertification in Kaduna State.The
+            project is also designed to balance the supply and demand for
+            fuelwood through a bottoms-up approach of leveraging private sector
+            resources and provide inclusive financial incentives (start-up
+            loans, matching rebate schemes) and market mechanisms for sustained
+            market supply and demand for energy efficient stoves/kilns and
+            certified fuelwood.</p>
+      partners:
+        value:
+          string: >-
+            United Nations Development Programme (UNDP), Global Environment
+            Facility (GEF)
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Energy Initiative
+      initiativeStatus:
+        value:
+          string: 'Project Inception and Scoping '
+    - id: dab7cf70-ce34-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:53:26.119Z'
+      name:
+        value:
+          string: Clean Energy and Energy Efficiency Project
+      description:
+        value:
+          html: >-
+            <p><em>Clean cook stoves &amp; biofuels, solar and energy efficient
+            light bulbs for over 10,000 public and civil
+            servants.</em></p><p>The aim of the project is to reduce emissions
+            from carbon-intensive cooking fuels via encouraging the use of
+            cleaner bio-fuel cook stoves, as well as to encourage the adoption
+            of solar energy and energy efficient lighting for domestic energy
+            requirements. The project has an estimated cost of $ 2,000,000.00,
+            which would be financed by the private sector organization, Avila
+            Technologies Ltd. and implementation to be handled in partnership
+            with the Ministry of Climate Change and Forestry. The project is
+            designed to target well-over 10,000 senior civil servants of Cross
+            River State at the initial stage, and to be scaled-up progressively
+            to capture the entire 18,000 civil service workforce. Beyond the
+            civil servants, the project is intended to ultimately capture the
+            entire State (both rural and urban dwellers).</p>
+      partners:
+        value:
+          string: 'MCCF Avila Tech Ltd. '
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Energy Initiative
+      initiativeStatus:
+        value:
+          string: Under discussion
+    - id: ef0d0a80-ce34-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:56:07.574Z'
+      name:
+        value:
+          string: Government Forest Legislative/Policy Framework
+      description:
+        value:
+          html: >-
+            <p><em>Reduce deforestation and plant 5 million trees
+            yearly.</em><br><br>In 2008, the Government placed a total ban on
+            the logging of woods in the State’s Forest Reserves. Since then,this
+            moratorium has been in force, following the government’s institution
+            of an Anti-deforestation Task Force that has been used to ensure
+            compliance.On assumption of office, the Government of Cross River
+            State, established a whole new Ministry of Climate Change and
+            Forestry to properly deal with the issue of climate change
+            mitigation and adaptation. The Ministry so established was given the
+            mandate to plant five million trees yearly across the State. The
+            Government also engaged 1,000 youths into the Green Sheriff
+            Volunteer Scheme to aggressively combat deforestation. In 2016, the
+            Carbon Emissions Board was established to monitor and regulate
+            emissions within the State.</p>
+      partners:
+        value:
+          string: YESSO (World Bank)
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Investment
+      initiativeStatus:
+        value:
+          string: Inmplementation
+    - id: 6265d980-ce35-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:57:13.752Z'
+      name:
+        value:
+          string: Social Housing Scheme
+      description:
+        value:
+          html: >-
+            <p><em>5000 residential housing units for resettlement of displaced
+            people of Bakassi LGA of Cross River State.</em></p><p>The project
+            seeks to restore the displaced Bakassi indigenes to their original
+            habitat and occupation of fishing and tidal fish-farming. The
+            project has an estimated cost of about $200,000,000.00 and is funded
+            by the Africa Nations Development Programme, ANDP, in partnership
+            with the Cross River State Government. The 5,000 housing units is
+            being constructed in Ikpa Nkanya village, Akpabuyo Local Government
+            Area of the State, and will benefit the Bakassi refugees who are
+            predominantly fishermen by occupation, thus protecting their rights
+            and livelihoods.</p>
+      partners:
+        value:
+          string: 'ANDP, CRSG'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Energy Initiative
+      initiativeStatus:
+        value:
+          string: >-
+            Implementation (Ground-breaking concluded Construction work in
+            progress)
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 65
+        src: '65'
+    - id: 1
+      value:
+        value: 35
+        src: '35'
+  citation:
+    html: >-
+      Cross River State Government, About Cross River State <a
+      href="http://www.crossriverstate.gov.ng/index.php?option=com_content&amp;view=article&amp;id=721&amp;Itemid=97.">About
+      Cross River State</a>
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 28
+        src: '28'
+    - id: a2
+      value:
+        value: 16
+        src: '16'
+    - id: a3
+      value:
+        value: 15.5
+        src: '15.5'
+    - id: a4
+      value:
+        value: 13.7
+        src: '13.7'
+    - id: a5
+      value:
+        value: 12
+        src: '12'
+    - id: a6
+      value:
+        value: 7
+        src: '7'
+    - id: a7
+      value:
+        value: 6.9
+        src: '6.9'
+    - id: a8
+      value:
+        value: 0.9
+        src: '0.9'
+  citation:
+    html: ''
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 50.93
+        src: '50.93'
+    - id: 2
+      value:
+        value: 48.5
+        src: '48.5'
+    - id: 5
+      value:
+        value: 0.02
+        src: '0.02'
+    - id: 4
+      value:
+        value: 0.003
+        src: '0.003'
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Ayara, Ubi, Effiom, 2012. Adding Value to Service Sector Development in
+      Nigeria: The Cross River State Experience, IJSST Vol. 1, No. 10 <a
+      href="http://www.ijsst.com/issue/1025.pdf">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-01T16:02:02.845Z'
+  values:
+    - id: u2017c
+      value:
+        value: 5934
+        src: null
+    - id: u2017k
+      value:
+        value: 3128
+        src: null
+    - id: u2017e
+      value:
+        value: 3123
+        src: null
+    - id: u2017d
+      value:
+        value: 2360
+        src: null
+    - id: u2017h
+      value:
+        value: 2234
+        src: null
+    - id: u2017g
+      value:
+        value: 1577
+        src: null
+    - id: u2017f
+      value:
+        value: 1577
+        src: null
+    - id: u2017b
+      value:
+        value: 700
+        src: null
+    - id: u2017a
+      value:
+        value: 542
+        src: null
+    - id: u2017j
+      value:
+        value: 492
+        src: null
+    - id: u2017l
+      value:
+        value: 404
+        src: null
+    - id: u2017i
+      value:
+        value: 28
+        src: null
+  citation:
+    html: >-
+      SOURCE: NASRDA Report on Deforestation Study carried out in CRS in
+      collaboration with FAO &amp; CRS Forestry Commission
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 28.68
+        src: '28.68'
+    - id: 2
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Macarthy Oyebo, Francis Bisong, and Tunde Morakinyo, A Preliminary
+      Assessment of the Context for REDD in Nigeria, the Federal Ministry of
+      Environment, the Cross River State’s Forestry Commission and the United
+      Nations Development Program (Nov. 2010). <a
+      href="http://www.un-redd.org/AboutUNREDDProgramme/NationalProgrammes/Nigeria/tabid/992/Default.aspx.">A
+      Preliminary Assessment of the Context for REDD in Nigeria</a>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Ben
+    lastName: Ayade
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T15:34:17.142Z'
+  value:
+    firstName: Dr. Alice
+    lastName: O. Ekwu
+    email: ekwualice@yahoo.com
+    companyTitle: 'Hon Commissioner, Ministry of Climate Change and Forestry'
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Edu
+    lastName: Efiom
+    email: edu.efiom@biol.lu.se
+    companyTitle: Acting State REDD+ Coordinator
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-01T15:57:02.096Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: 5701
+        src: null
+    - id: '2001'
+      value:
+        value: 5701
+        src: null
+    - id: '2002'
+      value:
+        value: 5701
+        src: null
+    - id: '2003'
+      value:
+        value: 5701
+        src: null
+    - id: '2004'
+      value:
+        value: 5701
+        src: null
+    - id: '2005'
+      value:
+        value: 5701
+        src: null
+    - id: '2006'
+      value:
+        value: 5701
+        src: null
+    - id: '2007'
+      value:
+        value: 23911
+        src: null
+    - id: '2008'
+      value:
+        value: 23911
+        src: null
+    - id: '2009'
+      value:
+        value: 23911
+        src: null
+    - id: '2010'
+      value:
+        value: 23911
+        src: null
+    - id: '2011'
+      value:
+        value: 23911
+        src: null
+    - id: '2012'
+      value:
+        value: 23911
+        src: null
+    - id: '2013'
+      value:
+        value: 23911
+        src: null
+    - id: '2014'
+      value:
+        value: 23911
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: NASRDA
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: ''

@@ -1,0 +1,468 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 90500
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1322.7662
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 871510
+    string: ''
+  citation:
+    html: Papua Barat Dalam Angka 2015
+per_capita_income:
+  timestamp: '2017-12-05T16:12:34.952Z'
+  value:
+    value: 5967.17
+    currency: USD
+    string: ''
+  citation:
+    html: 'BPS - Statistics Indonesia ,<br>2016'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 70.62
+    string: ''
+  citation:
+    html: 'Central Statistic Bureau, Analyzed from SUSENAS 2011-2013'
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1.976
+    year: '2020'
+    string: ''
+  citation:
+    html: >-
+      STRATEGI DAN RENCANA AKSI PROVINSI (SRAP) PAPUA BARAT DALAM IMPLEMENTASI
+      REDD+, Pemda Provinsi Papua Barat 2012
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 15.156
+    year: ''
+    string: ''
+  citation:
+    html: >-
+      STRATEGI DAN RENCANA AKSI PROVINSI (SRAP) PAPUA BARAT DALAM IMPLEMENTASI
+      REDD+, halaman 5
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 91560.9
+    string: ''
+  citation:
+    html: Potret Keadaan Hutan Indonesia 2000-2009 oleh Forest Watch Indonesia
+land_area:
+  timestamp: '2017-12-01T00:37:25.630Z'
+  value:
+    value: 97024
+    string: ''
+  citation:
+    html: ''
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Oil and gas, fish, shrimp, jewelery, wood, metals, cacao'
+  citation:
+    html: 'Official Statistic Announcement, West Papua Central Statistic Bureau'
+txt_state_description:
+  timestamp: '2017-12-28T17:22:54.033Z'
+  value:
+    html: >-
+      <p>West Papua (Papua Barat) covers the two western peninsulas of the
+      island of New Guinea. Its capital is Manokwari, although the largest city
+      is Sorong, and the 2010 census recorded a population of 760,855. West
+      Papua is one of the provinces in Indonesia located in the western part of
+      the island of Papua with a population of about 1.1 million inhabitants.
+      The total area of approximately 10.0 million hectares where 10.0 million
+      hectares of forest and 1.0 million hectares is peatland</p><p>With the
+      forest covering 90% of the total area of the province, West Papua has some
+      of the most pristine primary forests in Indonesia.  The type of vegetation
+      of West Papua Province consists of (1) Primary Dryland Forest, (2)
+      Secondary Dryland Forest, (3) Primary Mangrove Forest, (4) Secondary
+      Mangrove Forest, 5) Primary Swamp forests, and (6) Secondary Swamp
+      Forests. For 5 years (2006-2011), degradation rates reached nearly 600
+      thousand hectares. The calculation of above ground carbon stock in 2009
+      amounted to 1,514.79 million tons and was conducted using the Tier-1
+      methodology based on the IPCC.<br />The strategic issues raised in the
+      SRAP document (Provincial Strategy and Action Plan) include (1) provincial
+      conservation policies; (2) Accelerating establishment and operation of
+      forest management units (KPH); (3) Addressing uncertainty of customary law
+      community rights; (4) Implementation of community-based forest management
+      paradigm; and (5) The policy of limiting the sale of logs to outside West
+      Papua.<br />The objectives of the implementation of the  REDD+ Strategy
+      and Action Plan in West Papua Province are (1) Reduce degradation and
+      deforestation due to conversion of forest land and forest area functions;
+      (2) Increasing efforts to rehabilitate degraded land and development of
+      community plantations; and (3) Improving forest and land governance and
+      management through the implementation of development of Forest Management
+      Units (KPH).</p><p>More information can be found on the <a
+      href="http://gcfimpact.org/states?region=10692,states"><strong>GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-13T15:29:22.416Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/west_papua/west_papua_provincial_redd_action_plan_srap.pdf"
+      target="_blank"><em>West Papua Provincial REDD+ Action Plan</em></a>
+      (SRAP) - Published in April 2013, the REDD+ Action Plan  highlights the
+      general condition and issues of forestry, vision, mission, issues,
+      implementation strategies, specific basis, accomplishment measurements,
+      monitoring, reference emission level, and mitigation
+      actions.</p><p><em>Local Action Plan for Greenhouse Gases Emission
+      Reduction (RAD-GRK) – </em>Completed in 2011, the RAD-GRK provides a
+      medium term action plan for reducing greenhouse gas emissions across
+      sectors in West Papua through 2020. The Projected Business as Usual (BAU)
+      of West Papua Province by 2020 without mitigation action intervention, the
+      forestry sector occupies the largest share of GHG emissions by 98%. The
+      strategy was formalized in 2012 through governor decree. 
+      </p><p><strong>Laws and Regulations:</strong></p><p>Governor Decree
+      (674/98/III/2012) formation of coordination team to implement provincial
+      action plan on GHG reduction to coordinate, socialization, facilitate, and
+      monitoring of the related activities.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-12-05T16:43:17.391Z'
+  value:
+    html: >-
+      <p><strong>Provincial Forestry Agency</strong> - manages and oversees the
+      forestry sector related issues, including policy
+      formulation.</p><p><strong>Plantation Agency </strong>- controls the
+      non-forest areas land use, plan, and issuance of the
+      permits.</p><p><strong>Environmental Agency </strong>– has authority over
+      the protection and management of the environment, including climate change
+      related issues.</p><p><strong>BAPPEDA </strong>- the Provincial
+      Development Planning Agency that coordinates on the policy formulation of
+      the regional development planning with sustainable development and low
+      carbon as the basis</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-12-05T16:44:33.159Z'
+  value:
+    html: >-
+      <p>West Papua's Spatial Plan was formalized through the provincial bylaw
+      4/2013 and covers the period 2013-2033.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-01T00:31:59.735Z'
+  value:
+    html: >-
+      <ol><li>Extractive activity of mining
+      industry</li><li>Plantations</li><li>Infrastructure
+      development</li><li>Illegal logging and logging concession
+      activity</li></ol>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: fd919540-ce33-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:47:15.092Z'
+      name:
+        value:
+          string: Planting a Replacement Area of a Protected Forest Area
+      description:
+        value:
+          html: >-
+            <p>SKK-Migas and BP-Berau with indigenous peoples- customary owners
+            will be planted with forest trees and versatile plant on degraded
+            land of about 1320 Ha of protected forests of Bintuni Bay, Bintuni
+            Bay that began in 2017 for 6 years up to 2022.</p><p>Currently, the
+            process of structuring the plantation area is on-going.</p>
+      partners:
+        value:
+          string: SKK-Migas and BP Berau
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: Rp.84.127.510.000.00 or 6 Million USD
+      initiativeType:
+        value:
+          string: Private Investment
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 399b9bd0-ce34-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-12-06T23:18:26.131Z'
+      name:
+        value:
+          string: >-
+            Establishment of Production FMU with Indigenous Forest Community
+            Model
+      description:
+        value:
+          html: >-
+            <p>Production FMU- Customary Forest Community model is the
+            Production FMU that cooperates with indigenous peoples to operate
+            the FMU Function. The model will be conducted in the Manokwari
+            district and it aims to fulfill the needs of local wood in Manokwari
+            city and nearby areas as well as improving the welfare of indigenous
+            people who have customary rights in the Production FMU region.</p>
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Indigenous Peoples Initiative'
+      initiativeStatus:
+        value:
+          string: In Discussion
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 74.7
+        src: '74.70'
+    - id: 1
+      value:
+        value: 25.3
+        src: '25.30'
+  citation:
+    html: 'Papua Barat Dalam Angka 2012, hal. 88, BPS Papua Barat'
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a3
+      value:
+        value: 28.76
+        src: '28.76'
+    - id: a2
+      value:
+        value: 19.49
+        src: '19.49'
+    - id: a4
+      value:
+        value: 13.95
+        src: '13.95'
+    - id: a1
+      value:
+        value: 10.82
+        src: '10.82'
+    - id: a5
+      value:
+        value: 6.73
+        src: '6.73'
+    - id: a7
+      value:
+        value: 4.83
+        src: '4.83'
+    - id: a6
+      value:
+        value: 4.12
+        src: '4.12'
+  citation:
+    html: 'West Papua in Number 2015, West Papua Statistic Central Bureau'
+current_forest_area_typologies:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+    - id: 5
+      value:
+        value: null
+        src: null
+    - id: 6
+      value:
+        value: null
+        src: null
+    - id: 7
+      value:
+        value: null
+        src: null
+    - id: 8
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 104.38
+        src: '104.38'
+    - id: 3
+      value:
+        value: 1.28
+        src: '1.28'
+    - id: 2
+      value:
+        value: -5.65
+        src: '-5.65'
+  citation:
+    html: >-
+      STRATEGI DAN RENCANA AKSI PROVINSI (SRAP) PAPUA BARAT DALAM IMPLEMENTASI
+      REDD+, halaman 3
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Abraham
+    lastName: Octavianus Atururi
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      Sekilas Papua Barat <a
+      href="http://www.papuabaratprov.go.id/index.php?option=com_content&amp;view=article&amp;id=49:sekilas-papua-barat&amp;catid=34:papua&amp;Itemid=57">link</a>
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Herman Donatus
+    lastName: Pelix Orisoe
+    email: hermanorisu@yahoo.com
+    companyTitle: ''
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Fredrik Hendrik
+    lastName: Runaweri
+    email: kadishut_pb@yahoo.com
+    companyTitle: ''
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-05T16:14:12.260Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: 1300
+        src: null
+    - id: '2006'
+      value:
+        value: 1300
+        src: null
+    - id: '2007'
+      value:
+        value: 3100
+        src: null
+    - id: '2008'
+      value:
+        value: 3100
+        src: null
+    - id: '2009'
+      value:
+        value: 3100
+        src: null
+    - id: '2010'
+      value:
+        value: 1000
+        src: null
+    - id: '2011'
+      value:
+        value: 1000
+        src: null
+    - id: '2012'
+      value:
+        value: 19607
+        src: null
+    - id: '2013'
+      value:
+        value: 10600
+        src: null
+    - id: '2014'
+      value:
+        value: 7100
+        src: null
+    - id: '2015'
+      value:
+        value: 7100
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      BPKH Wilayah XVII Manokwari, 2012, dalam buku STRATEGI DAN RENCANA AKSI
+      PROVINSI (SRAP) PAPUA BARAT DALAM IMPLEMENTASI REDD+, hal. 2-8, Pemda
+      Papua Barat 2012
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      STRATEGI DAN RENCANA AKSI PROVINSI (SRAP) PAPUA BARAT DALAM IMPLEMENTASI
+      REDD+, hal. 7-9, Pemda Papua Barat 2012

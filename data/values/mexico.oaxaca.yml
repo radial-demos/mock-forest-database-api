@@ -1,0 +1,14 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 33680.505
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 86.88
+    string: ''
+  citation:
+    html: ''

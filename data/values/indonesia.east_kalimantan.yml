@@ -1,0 +1,714 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 62200
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 933.6279
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2017-12-01T19:07:15.067Z'
+  value:
+    value: 3576100
+    string: ''
+  citation:
+    html: 'BPS - Statistics Indonesia, 2010'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 390640000000000
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Kaltim dalam angka, BPS'
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 41331965
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Kaltim dalam angka, BPS'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.756
+    string: ''
+  citation:
+    html: '<a href="http://kaltim.bps.go.id/?p=359">link</a>'
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 41
+    year: '2020'
+    string: ''
+  citation:
+    html: ''
+original_forest_area:
+  timestamp: '2017-12-01T19:02:58.759Z'
+  value:
+    value: 114191
+    string: ''
+  citation:
+    html: ''
+land_area:
+  timestamp: '2017-12-01T19:02:36.640Z'
+  value:
+    value: 128031
+    string: ''
+  citation:
+    html: ''
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Fossil fuels, chemicals, oils and fats, timber and timber products.'
+  citation:
+    html: 'Kaltim dalam angka, BPS 2012'
+txt_state_description:
+  timestamp: '2017-12-28T17:10:42.302Z'
+  value:
+    html: >-
+      <p>East Kalimantan Province has jurisdiction over a land area of 200 000
+      km2 and a marine environment of 10 000 km2. It is second largest province
+      in Indonesia but like Papua, it is sparsely populated with 3.5 million
+      people of whom about half live in rural villages. It is rich in natural
+      resources with oil and natural gas, coal and gold which linked to its
+      forest resources, estate crops and fishing give it the second highest GDP
+      behind Jakarta DKI. The capital of East Kalimantan is Samarinda on the
+      Mahakam River, while Balikpapan to the south and Tarakan in the far north
+      are also large cities. With greater infrastructure and communication and
+      transport corridors along the main rivers, service delivery has been much
+      easier than in many other part of the country and literacy and levels of
+      poverty are much more in line with a province which has benefited from the
+      exploitation of its natural resources.</p><p>Nevertheless, the province
+      has many challenges with issues in energy generation and the supply of
+      water to its urban centers. One consequence of this has been a significant
+      focus on alternative sources of sustainable resource use. East Kalimantan
+      has been one of the target provinces to benefit from the President’s
+      commitment to reduce greenhouse gas emissions and as a result has
+      developed its own low carbon use economic strategy. Reduction in carbon
+      emissions through forest land conversion has figured prominently and is
+      the reason for the Province to be a leading member of the Indonesian GCF
+      program.</p><p>Forests continue to cover about 14.6 million ha out of an
+      estimated original forest cover of 17.1 million ha. Of that remaining 5
+      million ha are under conservation or protected status, including large and
+      important national parks such as Kutai. While it appears that most
+      converted forests within the national estate has already been incorporated
+      in non- forest uses, the largest challenge facing the province is to
+      contain forest degradation driven by encroachment and illegal logging and
+      conflict over other resources such as illegal gold mining. The forests are
+      essentially closed tropical humid forest with elevation, soils and
+      rainfall, significant factors in determining variation in forest structure
+      and species composition. East Kalimantan has extensive areas of delta
+      (Mahakam River) with mangrove, Nipa and pandanus forests. Lateritic mid
+      slope forests offer the highest proliferation of high value dipterocarp
+      forest with some 267 species recognised. Limestone ridges and high
+      mountains offer a range of forest communities of lower structure and high
+      endemic diversity.</p><p>East Kalimantan has been selected as the focal
+      province for Indonesia's efforts to reduce deforestation through the
+      Forest Carbon Partnership Facility's Carbon Fund.  The province is working
+      through close support from civil society and the private sector, which
+      have joined with the government to launch a Green Growth Compact in
+      2017.</p><p>Additional information can found on the <a
+      href="http://gcfimpact.org/states?region=10664,states"><strong>GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T19:50:11.611Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_provincial_redd_strategy_srap.pdf"
+      target="_blank"><em>Provincial REDD+ Strategy (SRAP)</em></a> - finalized
+      in 2012, the SRAP highlights on driver of deforestation, strategies and
+      action plans, monitoring, reporting, verification, and mainstreaming of
+      SRAP into regional development.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_rad_grk_governor_decree_39_2014.pdf"
+      target="_blank"><em>Local Action Plan for Greenhouse Gases Emission
+      Reduction (RAD-GRK)</em></a><em> </em>- establishes a provincial strategy
+      for reducing greenhouse gas emissions through 2020.  Through the strategy
+      East Kalimantan seeks to reduce GHG emissions by 15.6% by 2020 and was <a
+      href="http://jdih.kaltimprov.go.id/asset/upload/pp/perda/PERGUB.39.2014.pdf">formalized
+      in 2014.</a></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_provincial_forest_plan_2011_2030.pdf"
+      target="_blank"><em>East Kalimantan Provincial Forest Plan
+      2011-2030</em></a> - Medium term forest development plan for the province.
+      </p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_provincial_regulation_6_2016.pdf"
+      target="_blank"><em>Provincial Regulation (6/2016)</em><em> </em></a><em>-
+      </em> provincial regulation on the rehabilitation of critical forest
+      land</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_governor_regulation_101_2016.pdf"
+      target="_blank"><em>Governor Regulation (101/2016)</em> </a>- establishes
+      the organizational structure of technical activities unit for regional
+      development in East Kalimantan province</p><p><a
+      href="http://jdih.kaltimprov.go.id/asset/upload/pp/perda/PERGUB.101.2016.pdf">Governor
+      Regulation (60/2015)</a> - establishment of the organizations structure of
+      the technical specialty unit for forestry development  in East Kalimantan
+      province</p><p><em><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_provincial_regulation_17_2015.pdf"
+      target="_blank">Provincial Regulation (17/2015)</a></em> - regulates legal
+      management in the mining, forestry and palm oil planning sectors in East
+      Kalimantan province.</p><p><em><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_provincial_regulation_15_2015.pdf"
+      target="_blank">Provincial Regulation (15/2015)</a></em> - guidelines for
+      issuing the right forest management rights<br /><strong><br /></strong><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_governor_regulation_39_2014.pdf"
+      target="_blank"><em>Governor Regulation (39/2014)</em></a><em>
+      </em><strong>-</strong> enacts provincial action plan to reduce the GHG
+      that covers forestry, plantation, mining, peat, husbandry, enery,
+      transportation, industry, and waste.  </p><p><em>Governor decree
+      (180/1375-Hk/2013)</em><strong> - </strong>issues a moratorium of mining,
+      forestry and plantation new permits issuance which pending the permits and
+      conducting audit of the current permits.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/east_kalimantan/east_kalimantan_governor_regulation_19_2012.pdf"
+      target="_blank">Governor Regulation (19/2012)</a> - Formalizing the East
+      Kalimantan Provincial Forestry Plan through 2030</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-29T17:39:04.561Z'
+  value:
+    html: >-
+      <p><strong>Technical Unit for Conservation Management</strong> (<em>UPTD
+      Pembinaan dan Pelastarian Alam</em>) – tasked with the enforcement of laws
+      against illegal logging activities. Works in coordination with Forest
+      Police unit ‘SPORC’. </p><p><strong>Technical Unit for Land and Forest
+      Fire Control </strong><em>(UPTD Pengendalian Kebakaran Hutan dan
+      Lahan)</em><strong> </strong>– tasked with overseeing strategy aimed at
+      implementing zero burning policy. </p><p><strong>Regional Forestry
+      Council</strong> (<em>Dewan Kehutanan Daerah</em>) – oversees provincial
+      government forestry policy and declared ‘East Kalimantan Green’ vision at
+      the East Kalimantan Summit in 2010. </p><p><strong>Regional Climate Change
+      Council</strong>  (<em>Dewan Daerah Perubahan Iklim - DDPI</em>)– the
+      ‘East Kalimantan Green’ is designed to be the nucleus of the Regional
+      Climate Change Board which is aimed at becoming an extension of the
+      National Climate Change Council. Coordination body chaired by the Governor
+      and composed of representatives of different agencies that related to land
+      uses and climate change. The council also works with different
+      stakeholders that seek to achieve the action plans to reduce GHG
+      emissions.  <br /><br /><strong>Forestry Agency</strong> - manages and
+      oversees the forestry sector related issues, including policy
+      formulation.<br /><br /><strong>Plantation Agency- </strong>controls the
+      non-forest areas land use, plan, and issuance of the permits.<br
+      />Environmental Agency which authorities related to the protection and
+      management of environment, including climate change related issues.<br
+      /><br /><strong>BAPPEDA </strong>- the Provincial Development Planning
+      Agency that coordinates on the policy formulation of the regional
+      development planning with sustainable development and low carbon as the
+      basis.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-12-05T21:11:13.698Z'
+  value:
+    html: >-
+      <p>East Kalimantan's Provincial Spatial Plan was approved through <a
+      href="https://musnanda.files.wordpress.com/2016/04/perda-no-1-th-2016-rtrwp-kaltim-lampiran.pdf">provincial
+      bylaw 1/2016</a>, covering the period of 2016-2036.  The plan is available
+      for download<a
+      href="http://sipd.bangda.kemendagri.go.id/dokumen//uploads/rtrw_379_2016.rar">
+      here. </a></p>
+  citation:
+    html: ''
+frameworksSafeguards:
+  timestamp: '2017-11-29T18:02:48.528Z'
+  value:
+    html: >-
+      <p>There is a need for analysis of current legal frameworks (national and
+      regional) to address rights recognition (incorporating land and carbon
+      ownerships rights) in particular as it relates to local and indigenous
+      communities and regional and special autonomy laws.  This framework would
+      need to be harmonized across provincial and central government regulations
+      and ensure that communities and indigenous peoples properly benefit from
+      REDD+ activities. Benefits need to be fair and ‘real’ (i.e. real impact on
+      local community and standard of living) and a transparent mechanism for
+      distribution needs to be achieved. Furthermore, work is needed to find
+      mechanisms and pathways for communities to be more involved in early stage
+      project development, not simply as project beneficiaries. This should go
+      hand in hand with rights recognition of communities over forest areas.
+      Finally, a recognised procedure is needed to be able to acknowledge
+      rights, such as participatory mapping supported by legal mechanisms, e.g.
+      Hutan Desa and other mechanisms (Gubernatorial / Regency Decrees,
+      sub-national legal mechanisms). There are still many challenges to
+      overcome community needs / rights and the central government land
+      classification / designation.  REDD can be used to strengthen community
+      and indigenous rights recognition.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-11-29T17:34:04.832Z'
+  value:
+    html: >-
+      <p>1. Overharvesting and illegal logging<br />2. Forest encroachment for
+      slash-and-burn agriculture and other forms of agriculture<br />3. Land
+      clearing for coal mining<br />4. Forest fires</p><p><br /></p>
+  citation:
+    html: Strategi dan Rencana Aksi (SRAP) implementasi REDD+ Kaltim hal 57-72
+initiatives:
+  rows:
+    - id: cc0dd170-ce2c-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:55:45.543Z'
+      name:
+        value:
+          string: >-
+            Implementing the development of sustainable low-carbon Palm Oil
+            Plantations in East Kalimantan 
+      description:
+        value:
+          html: >-
+            <p>The agricultural sector in East Kalimantan is dominated by the
+            estate/plantation subsector with the oil palm crops as main
+            commodities.Based on GRDP on the basis of Current Price In 2015, the
+            plantation sector dominated by 43.4% (2.19% of total PDRB East
+            Kalimantan) of the total area of 1,251.213 ha of all plantation
+            commodities, 87% of them are oil palm plantations.Sustainable
+            Plantation development program in East Kalimantan implemented with
+            strategy: Encourage the implementation of ISPO in Palm
+            Plantation;Encouraging Partnership between local people and
+            plantation companies;HCV Protection, HCV Mapping;Greenhouse Gas
+            Emission Mitigation (GHG Emission) and Developing Cooperation and
+            Partnership.In order to accelerate the achievement of these target,
+            then building the partnership will be proceed to be built especially
+            with the development partners in East Kalimantan.</p><p>Progress
+            thus far includes:</p><ul><li>Signed MOU between Plantation
+            AgencyofEast Kalimantan Office with TNC / BMUB-ICI, MOU between DDPI
+            and TNC / BMUB</li><li>Socialization of the partnership program to
+            the district level (PPU, Berau)</li><li>Drafted Local Regulations
+            for Sustainable Plantation Development</li><li>Designed Plantation
+            Multi-stakeholder Forum initiated by TNC-Disbun</li></ul>
+      partners:
+        value:
+          string: >-
+            Big Private Companies, Community planters, GAPKI, Disbun; TNC /
+            BMUB-ICI, CPI and DDPI 
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Under socialization and implementation among partners
+    - id: 482fecc0-ce2d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:59:13.804Z'
+      name:
+        value:
+          string: >-
+            Realization of Sustainable Management of Natural Forests in East
+            Kalimantan 
+      description:
+        value:
+          html: >-
+            <p>The implementation of Sustainable Production Forest Management
+            (SFM) system has been started in Indonesia since the establishment
+            of SFM-SFM Criteria and Indicators based on ITTO Guide Line since
+            1997 (initially initiated by APHI, in collaboration with Forestry
+            Faculties in Indonesia with further development bythe stipulation of
+            Ministry of Forestry policy,SK.Menhut, No. 4795 / Kpts-II / 2002, on
+            Criteria and Indicator of Sustainable Forest Management, followed by
+            regulation of SK Dirjen BPK No. 42 / Kpts-Set / 2003 on Guidelines
+            Technical Assessment of PHPL Performance by management unit
+            Furthermore stipulation that Production Forest Management by license
+            holder is "obligation - mandatory" hence developed policy of PHPL
+            Performance Assessment is "Mandatory" which is last based on
+            Kepmenhut Permen.LHK No. P.30 / Menlhk / Setjan / PHPL.3 / 3/2016,
+            on Assessment of PHPL and VLK Performance on License Holder, Right
+            of Management or on Right Forest and the Director General of PHPL
+            no.P. 14 / PHPL / Set / 4/2016, tenthg Standards and Guidelines for
+            Performance Assessment of PHPL and VLK.<br><br>At the same time
+            developing a scheme of PHPL performance assessment under the FSC
+            standard (as a Global Market requirement) is a "Voluntary"
+            certification.Thus the practice of natural forest production is
+            confronted with two "mandatory" and "option" certification
+            schemes.Under these conditions, to accelerate the achievement of
+            both forms of certification requires assistance from other
+            institutions.In relation to the acceleration process the Pattern
+            Partnership developed in achieving the two certification schemes.The
+            partnership programs in the framework of certification achievements
+            that have been and will continue to be developed in East Kalimantan
+            are in two patterns: partnerships in the form of technical
+            assistance and expertise (TNC-GIZ-WWF) and partnership pole in the
+            Grant Funding aspect (The Borneo Initiative - TBI).This partnership
+            pattern has been developed since 2005 in East
+            Kalimantan.&nbsp;</p><p>Progress so far includes:</p><p>Implemented
+            in the field by the committed IUPHHK-HA holder.It will continue to
+            be developed into other Forest Management Units (FMUs) through the
+            role of KPHP in each district&nbsp;</p>
+      partners:
+        value:
+          string: 'Holders of IUPHHK-HA;  APHI;  Dishut / KPHP;  TNC GIZ and TBI '
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: b03e42d0-ce2d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:02:08.381Z'
+      name:
+        value:
+          string: >-
+            Forest Carbon Partnership Facility (FCPF) - Carbon Fund Program
+            (CFP) 
+      description:
+        value:
+          html: >-
+            <p>The Carbon Fund (CF) program is a follow up of the REDD +
+            preparation process facilitated by the Forest Carbon Partnership
+            Facility (FCPF), CF is a fee-based trial for land-based emissions
+            reductions.Payments will be made if the implementer of the emission
+            reduction program has been able to prove that performance-based
+            payments with the repayment period (2018 - 2024) in the
+            LOI.<br>Performance-based payments are performance-based payments
+            made after being assessed and verified to reduce emissions.Payments
+            are not made early in the activity.&nbsp;</p><p>Currently, the
+            process of compiling the Emissions Reduction Program Document (ERPD)
+            documents is being completed.</p>
+      partners:
+        value:
+          string: >-
+            Provincial Government of East Kalimantan, Regional Government,
+            Private Sectors, NGO, Academician
+      fundingSource:
+        value:
+          string: 'Private Sectors, NGOs'
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Emissions Reduction Program (REDD +) with Performance-based payments
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: ec763730-ce2d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:03:49.411Z'
+      name:
+        value:
+          string: >-
+            Local Regulation no. 1  year 2015 (Perda Kalimantan Timur No. 1
+            Tahun 2015)
+      description:
+        value:
+          html: >-
+            <p>The existence of guidelines for the recognition and protection of
+            indigenous and tribal peoples in East
+            Kalimantan.&nbsp;</p><p>Sociologically, the recognition and
+            protection of the rights of indigenous and tribal peoples in East
+            Kalimantan is an urgent need to place them on the dignity of the
+            nation.With the existence of these rules the people are expected to
+            enjoy the inherent rights and originate in the political, economic,
+            social and cultural systems, religious traditions, history and
+            worldview.Especially those concerning rights to land, territory and
+            natural resources.&nbsp;</p>
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Protection and Recognition of Customary Law Community '
+      initiativeStatus:
+        value:
+          string: Planning
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 54.35
+        src: '54.35'
+    - id: 1
+      value:
+        value: 46.65
+        src: '46.65'
+  citation:
+    html: 'BPS,Kaltim dalam angka 2012'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 29.54
+        src: '29.54'
+    - id: a6
+      value:
+        value: 27.01
+        src: '27.01'
+    - id: a2
+      value:
+        value: 18.26
+        src: '18.26'
+    - id: a3
+      value:
+        value: 13.94
+        src: '13.94'
+    - id: a5
+      value:
+        value: 9.21
+        src: '9.21'
+    - id: a4
+      value:
+        value: 2.04
+        src: '2.04'
+  citation:
+    html: 'BPS,Kaltim dalam angka 2012'
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a2
+      value:
+        value: 65.6
+        src: '65.6'
+    - id: a5
+      value:
+        value: 10.2
+        src: '10.2'
+    - id: a1
+      value:
+        value: 7.5
+        src: '7.5'
+    - id: a7
+      value:
+        value: 5.1
+        src: '5.1'
+    - id: a6
+      value:
+        value: 4.7
+        src: '4.7'
+    - id: a4
+      value:
+        value: 3.4
+        src: '3.4'
+    - id: a3
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Kaltim dalam angka, BPS 2012'
+current_forest_area_typologies:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+    - id: 5
+      value:
+        value: null
+        src: null
+    - id: 6
+      value:
+        value: null
+        src: null
+    - id: 7
+      value:
+        value: null
+        src: null
+    - id: 8
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-01T19:03:58.429Z'
+  values:
+    - id: conserved_forest_area_breakdown
+      value:
+        value: 4461
+        src: null
+    - id: unprotected_forest_area
+      value:
+        value: null
+        src: null
+    - id: fully_protected_forest_area_breakdown
+      value:
+        value: null
+        src: null
+    - id: sustainably_managed_forest_area_breakdown
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 87
+        src: '87'
+    - id: 3
+      value:
+        value: 7
+        src: '7'
+    - id: 2
+      value:
+        value: 6
+        src: '6'
+  citation:
+    html: Pengolahan Data SRAP REDD+ 2013
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Awang
+    lastName: Faroek Ishak
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T17:30:58.657Z'
+  value:
+    firstName: Daddy
+    lastName: Ruhiyat
+    email: daddyruhiyat@yahoo.com
+    companyTitle: ''
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-12-01T17:31:13.824Z'
+  value:
+    firstName: Riza
+    lastName: Indra Riadi
+    email: riza.indrariadi@gmail.com
+    companyTitle: ''
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-01T19:05:29.851Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: 574
+        src: null
+    - id: '2006'
+      value:
+        value: 574
+        src: null
+    - id: '2007'
+      value:
+        value: 652
+        src: null
+    - id: '2008'
+      value:
+        value: 652
+        src: null
+    - id: '2009'
+      value:
+        value: 652
+        src: null
+    - id: '2010'
+      value:
+        value: 354
+        src: null
+    - id: '2011'
+      value:
+        value: 354
+        src: null
+    - id: '2012'
+      value:
+        value: 1201
+        src: null
+    - id: '2013'
+      value:
+        value: 872
+        src: null
+    - id: '2014'
+      value:
+        value: 457
+        src: null
+    - id: '2015'
+      value:
+        value: 457
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Ministry of Forestry, Indonesia'
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: SRAP REDD+ Kaltim 2013

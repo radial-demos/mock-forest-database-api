@@ -1,0 +1,650 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 80200
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1130.7401
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2202599
+    string: ''
+  citation:
+    html: 'BPS,Kalteng dalam angka 2014'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 49072510000
+    currency: IDR
+    string: ''
+  citation:
+    html: >-
+      <a
+      href="http://kalteng.bps.go.id/publikasilengkap-21-pdrb-lapangan-usaha.html">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 21821616
+    currency: IDR
+    string: ''
+  citation:
+    html: 'BPS,Kalteng dalam angka 2013'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.746
+    string: ''
+  citation:
+    html: 'http://kalteng.bps.go.id/linkTableDinamis/view/id/142'
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 41
+    year: '2020'
+    string: ''
+  citation:
+    html: ''
+original_forest_area:
+  timestamp: '2017-12-01T19:15:26.313Z'
+  value:
+    value: 121878
+    string: ''
+  citation:
+    html: '1973'
+land_area:
+  timestamp: '2017-12-01T19:15:45.903Z'
+  value:
+    value: 153559
+    string: ''
+  citation:
+    html: '2014, Strategi Daerah REDD+ Kalimantan Tengah'
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Oils and fats, timber and timber products, ore, steel and coal.'
+  citation:
+    html: 'BPS,Kalteng dalam angka 2012'
+txt_state_description:
+  timestamp: '2017-12-28T17:09:30.130Z'
+  value:
+    html: >-
+      <p>Spanning across 153,564 km2, Central Kalimantan is Indonesia’s third
+      largest province and has 13 districts and 1 city, 129 subdistricts, 136
+      kelurahan, 1,344 villages and 67 Kademangan (Note: kelurahan and villages
+      are basically two identical local levels of government, the former is used
+      in cities, the latter is used in rural areas). The Province of Central
+      Kalimantan became Indonesia’s fifth full member of the GCF in 2010. It
+      occupies an area of 153,564 km with just 2.2 million people, resulting in
+      very low population density. The capital of the Province is Palangkaraya.
+      There are 13 local government Districts and 1500 urban and rural villages.
+      Overall 67% of the population live in rural areas, where villages tend to
+      be distributed along the banks of the 11 large rivers which flow from the
+      central mountains to the Java Sea. The largest ethnic group are the
+      indigenous Dayaks, but there are significant numbers of official and
+      economic migrants from Java, Bali and Sulawesi in both rural and urban
+      settlements. Poverty remains a major issue particularly in rural areas
+      because of the difficulty and cost of transport and communication and the
+      impact that this has on basic human services delivery. Education and
+      health services in the hinterland are poor and this is reflected in their
+      Human Development Index (HDI).</p><p>Despite the low population, Central
+      Kalimantan has suffered serious and widespread environmental degradation.
+      From 1996 to 1999 it was the sight of the so-called mega rice project
+      which impacted one million hectares of peat swamp forests which were
+      cleared and 4000 km of canals constructed. The continuing legacy of this
+      period has been the draining of the peats in the dry season leading to
+      high emissions of GHG’s through oxidation and through annual dry season
+      fires. Central Kalimantan has about 3 million hectares of Peat soils,
+      equaling West, East and South Kalimantan combined. The extent of the
+      impact of the clearing of the swamp forests for agriculture and estate
+      crops can be appreciated from the forest figures which show only 865,000
+      hectares of remaining swamp forest compared to 1.4 million hectares of
+      secondary forest and a further 1.1 million hectares of degraded shrubland.
+      Of the original area of peat, 80% is subject to the danger of seasonal
+      fire or oxidation. Restoration of the damaged peat ecosystems is a high
+      priority of the Provincial Government and is also identified as a priority
+      through Presidential Instruction.</p><p>Management of the remaining
+      forests in Central Kalimantan is subject to continuing discussion and
+      planning. 12.6 million hectares remains within the national forest estate
+      with a further 2.8 million in other land use categories. Negotiations are
+      continuing to firm up the zoning of the forest land, but proposed changes
+      have greatly increased the proportion within the Protection Forest
+      category where its role in hydrologic regulation and reduced soil carbon
+      emissions is regarded as critical. Central Kalimantan has been pursuing a
+      low carbon development strategy in line with national policies. In 2010,
+      Central Kalimantan was chosen to serve as a pilot Province for REDD+
+      development following the LOI between Norway and Indonesia. In 2005 it
+      established a “green” policy framework which evolved in 2010 to a vision
+      of Central Kalimantan as a “Green and Clean Province”.  The province is
+      the site for the Australia-Indonesia Forest Carbon Partnership REDD+
+      Demonstration Project which aims to reduce emissions on 135 000 hectares
+      of degraded peatlands. It also hosts a number of other private investment
+      REDD+ Projects and is a participant in the Heart of Borneo trans-boundary
+      conservation project.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=10662,states">GCF Impact
+      Platform.</a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T19:46:59.905Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies:</strong></p><p><em>Central Kalimantan
+      Local Action Plan for Reducing Greenhouse Gas</em> (RAD-GRK) 2012 -
+      Completed in 2011, the RAD-GRK provides a medium term action plan for
+      reducing greenhouse gas emissions across sectors in Central Kalimantan
+      through 2020. </p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_provincial_redd_strategy_strada_2012.pdf"
+      target="_blank"><em>Provincial REDD+ Strategy (STRADA)  2012</em></a> -
+      the document covers the relation between the national and provincial
+      emissions reduction, the issues of deforestation and forest degradation in
+      the province, the REDD+ strategies and action plans, MRV and mainstreaming
+      these into the development activities.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_provincial_long_term_development_plan_rencana_pembangunan_jangka_panjang_daerah_rpjpd.pdf"
+      target="_blank">Provincial Long-Term Development Plan (<em>Rencana
+      Pembangunan Jangka Panjang Daerah - RPJPD</em>)</a> - The RPJPD is a
+      long-term development planning document for 20 years, from 2005 to 2025. 
+      It contains the vision, mission and direction of development in the
+      province.</p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_governor_decree_5_2015.pdf"
+      target="_blank"><em>Governor Decree </em>(05/2015) -</a> In 2015 the
+      province enacted the spatial plans for 2015-2035 which regulates the land
+      use for all development sectors.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_governor_decree_41_2014.pdf"
+      target="_blank"><em>Governor Decree (41/2014)</em></a> - on the management
+      of high conservation value (HCV) forests in the plantation areas for the
+      protection of biodiversity, environmental services, social, and
+      cultural.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_governor_decree_36_2012.pdf"
+      target="_blank"><em>Governor Decree (36/2012)</em></a><strong> </strong>-
+      on provincial action plan to reduce the GHG, this covers several sectors,
+      namely: agriculture, forestry and peat, energy and transportation,
+      industry, waste, and others.<strong> </strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_governor_decree_660_945_blh_iv_2011.pdf"
+      target="_blank"><em>Governor Decree (660/945/BLH/IV/2011)</em></a><strong>
+      - </strong>decree on formation of local commission for REDD+ which
+      function inclusive of coordinate the local strategy arrangement, implement
+      the activities, prepare funding instrument and mechanism, prepare
+      formation of MRV institution, and monitor the President decree on
+      moratorium of forestry permits. </p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_provincial_regulation_4_2010.pdf"
+      target="_blank"><em>Provincial Regulation 4/2010</em></a> -  Updating the
+      provincial long term development plan for the period 2005-2025</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-28T18:36:20.705Z'
+  value:
+    html: >-
+      <p><strong>Provincial Commission on the REDD+</strong> - Created in 2011
+      which as a coordination, communication, harmonization, and implementation
+      body to facilitate REDD+ activities.  The body is chaired by the Governor
+      and composed of representatives of different agencies that related to land
+      uses and climate change. The commission tasks including: coordination of
+      REDD+ strategies establishment; implementation of REDD+ activities;
+      formation of MRV agency; and, implementation of President's Instruction on
+      forestry permits moratorium.  </p><p><strong>Forestry Agency -
+      </strong>manages and oversees the forestry sector related issues,
+      including policy formulation.<br /><br /><strong>Plantation
+      Agency</strong> - controls the non-forest areas land use, plan, and
+      issuance of the permits.<br /><br /><strong>Environmental Agency -
+      </strong>authorizes the protection and management of environment,
+      including climate change related issues.<br /><br /><strong>BAPPEDA
+      </strong>- the Provincial Development Planning Agency that coordinates on
+      the policy formulation of the regional development planning with
+      sustainable development and low carbon as the basis.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-12T19:47:23.873Z'
+  value:
+    html: >-
+      <p>Central Kalimantan Province Spatial Plans was formalized by the <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/central_kalimantan/central_kalimantan_provincial_bylaw_5_2015.pdf"
+      target="_blank">provincial bylaw 5/2015</a>.  It  covers the period of 
+      2015-2035.  The spatial plan represents an effort to organize spatial
+      management through the authority of the Central Kalimantan Provincial
+      Government, to guide development by regional government, communities and
+      the private sector to promote sustainable and environmentally friendly
+      development .  The plan is <a
+      href="http://jdih.kalteng.go.id/uploads/prokum-2015081911125430.rar">available
+      for download here.</a></p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>The deforestation rate in Indonesia reaches 1.17 million hectares
+      annually with 64.8% of deforestation occurring in forest areas and 35.2%
+      in non-forest areas (APL).</p><p>The rate in the province stands at 63.1
+      thousand hectares annually, with nearly all deforestation occurring in
+      forest areas (99.8% vs. 0.2% in non-forest areas). ) The deforestation has
+      been increasing the emission of CO2 and NH4, two of the main greenhouse
+      gases) .
+      (http://borneonews.co.id/news/kotawaringin-barat/12-kobar/11662-laju-deforestasi-di-kalteng-631-hektare-per-tahun.html)</p><p>Monitoring
+      methodologies and accuracy</p><p>On 5 January 2012, a new regulation was
+      issued concerning the island-wide spatial plan, i.e. President’s Decree
+      No. 3 of 2012 on Kalimantan Island’s Spatial Plan. It stipulates that the
+      minimum size of conservation areas and vegetated protected areas to be
+      protected is 45% of the island’s total area. It also supports
+      rehabilitation of degraded forests, including ex-mining areas, and aims at
+      making the island the world’s lung.</p><p>The regulation, however,
+      abolishes Limited Production Forests in State’s Forest, entailing a more
+      serious threat of deforestation to the province, as suggested by Forest
+      Watch Indonesia (FWI) and Telapak after analyzing Appendix 2 of the
+      Regulation. These forest monitoring NGOs found “a loss of 3.32 million
+      hectares of forest”, which had previously been categorized as Limited
+      Production Forest. Although the area is as not wholly forested, most of it
+      is natural forest.</p><p>In its Portrait of Indonesia’s Forests report,
+      released in July 2011, FWI reported that Central Kalimantan had the
+      highest deforestation rate in Indonesia. The province had at least lost
+      about 2 million hectares of forest during 2000 through 2009. The
+      deforestation occurred in almost all forest ecosystem types, including 490
+      thousand hectares of forest in peatland. (http://fwi.or.id/?p=335)</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 133dee20-ce2f-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:12:03.970Z'
+      name:
+        value:
+          string: 'Expanded Unilever- District-Smallholder Partnership '
+      description:
+        value:
+          html: >-
+            <p>In 2015 Unliver announced it would take a jurisdictional approach
+            to sourcing commodities from regions with strong climate and forest
+            policies.As part of the initiative Unilever signed a three-year
+            Memorandum of Understanding (MoU) with the provincial government of
+            Central Kalimantan, the district government of Kotawaringin Barat
+            and Yayasan Penelitian Inovasi Bumi (INOBU) to support a
+            jurisdictional approach for sourcing sustainable palm oil at village
+            level.The partnership aims to map palm oil smallholders and boost
+            smallholder certifications and conduct a baseline assessment of
+            existing smallholder organizations.The partners are now discussing
+            an investment of USD 1 million to support these efforts.&nbsp;</p>
+      partners:
+        value:
+          string: 'Unilever, INOBU'
+      fundingSource:
+        value:
+          string: Unliver
+      fundingAmount:
+        value:
+          string: '$1 million to support farmers '
+      initiativeType:
+        value:
+          string: 'Private  investment and  Jurisdictional Sourcing '
+      initiativeStatus:
+        value:
+          string: In Discussion
+    - id: 403ffe90-ce2f-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:13:19.481Z'
+      name:
+        value:
+          string: 'Plantation Conflict Monitoring System '
+      description:
+        value:
+          html: >-
+            <p>Online Based monitoring system that can track tenurial conflicts
+            in the plantation area in Central Kalimantan.</p><p>Yayasan
+            Penelitian Inovasi Bumi (INOBU) has conducted a preliminary study to
+            identify the typology of social conflict occurring within the
+            industry, particularly in West Kotawaringin and Seruyan District,
+            Central Kalimantan Province, as well as mechanisms for completion,
+            monitoring and prevention of conflicts implemented by District and
+            Provincial Governments.The results of the study will be used to
+            design a tracking system of conflict resolution developments that
+            occur at every level of government integrated with plantation
+            databases.The system hopes to help the district and provincial
+            governments to monitor and encourage the process of conflict
+            resolution at the local level and improve the handling of conflict
+            ahead.&nbsp;</p>
+      partners:
+        value:
+          string: INOBU
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In discussion
+    - id: a412f4e0-ce2f-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:16:06.958Z'
+      name:
+        value:
+          string: ' Development of Standard Operating Procedures (SOP) on the Handling and Resolution of Tenurial Conflicts in Plantations '
+      description:
+        value:
+          html: >-
+            <p>Land based SOP conflicts passed into Regional Regulations or
+            Governor Regulations.&nbsp;</p><p>The Partnership is involved in
+            furtherance of a policy in the form of Standard Operating Procedures
+            (SOP) regarding the handling and resolution of conflicts tenure at
+            the plantation in response to the Sustainable Plantation Regional
+            Regulation and Governor Regulation No.42 year 2014 on the Handling
+            and Settlement of Plantation Conflict in Central Kalimantan
+            Province.Based on the SOP, a flowchart of conflict handling and
+            conflict resolution and the flowchart of tenurial conflict handling
+            and resolution mechanisms in oil palm plantations in Central
+            Kalimantan was established.The flow chart has been clearly defined
+            in the process of handling and resolving conflicts, starting with
+            the occurrence of conflicts by individuals, communities or agencies,
+            followed by data collection and social mapping and conflict analysis
+            to identify the feasibility of the complaint.If the results of the
+            data screening and conflict analysis indicate that the complaint is
+            not feasible to be followed up, then the file will be returned to
+            the complainant for correction or completion.However, if the
+            complaint is declared feasible to be followed up, a problem solving
+            recommendation may be made, which may be law enforcement, mediation,
+            negotiation and policy recommendations.This policy recommendation
+            can be a partnership, compensation, enclave and revision of boundary
+            or spatial planning.&nbsp;</p>
+      partners:
+        value:
+          string: Kemitraan
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Discussion
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 66.54
+        src: '66.54'
+    - id: 1
+      value:
+        value: 33.46
+        src: '33.46'
+  citation:
+    html: 'BPS,Kalteng dalam angka 2012'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 24
+        src: '24'
+    - id: a6
+      value:
+        value: 22
+        src: '22'
+    - id: a2
+      value:
+        value: 18
+        src: '18'
+    - id: a3
+      value:
+        value: 18
+        src: '18'
+    - id: a4
+      value:
+        value: 10
+        src: '10'
+    - id: a5
+      value:
+        value: 8
+        src: '8'
+  citation:
+    html: ''
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 28.5
+        src: '28.5'
+    - id: a5
+      value:
+        value: 20.8
+        src: '20.8'
+    - id: a7
+      value:
+        value: 13.4
+        src: '13.4'
+    - id: a2
+      value:
+        value: 9.6
+        src: '9.6'
+    - id: a6
+      value:
+        value: 8.2
+        src: '8.2'
+    - id: a3
+      value:
+        value: 7.4
+        src: '7.4'
+    - id: a4
+      value:
+        value: 5.5
+        src: '5.5'
+  citation:
+    html: 'BPS,Kalteng dalam angka 2012'
+current_forest_area_typologies:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+    - id: 5
+      value:
+        value: null
+        src: null
+    - id: 6
+      value:
+        value: null
+        src: null
+    - id: 7
+      value:
+        value: null
+        src: null
+    - id: 8
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-01T19:15:04.570Z'
+  values:
+    - id: conserved_forest_area_breakdown
+      value:
+        value: 13718000000
+        src: null
+    - id: unprotected_forest_area
+      value:
+        value: null
+        src: null
+    - id: fully_protected_forest_area_breakdown
+      value:
+        value: null
+        src: null
+    - id: sustainably_managed_forest_area_breakdown
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 99
+        src: '99'
+    - id: 2
+      value:
+        value: 1
+        src: '1'
+    - id: 3
+      value:
+        value: null
+        src: '0'
+  citation:
+    html: Draft Dokumen REL-Kalteng tahun 2009
+governor:
+  timestamp: '2017-12-01T17:18:28.932Z'
+  value:
+    firstName: Sugianto
+    lastName: Sabran
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T17:20:48.508Z'
+  value:
+    firstName: Rawing Rambang
+    lastName: Donald Arthemas
+    email: rawing_rambang@yahoo.com
+    companyTitle: ''
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-12-01T17:29:48.696Z'
+  value:
+    firstName: Syahrin
+    lastName: Daulay
+    email: syahrindaulay@yahoo.com
+    companyTitle: ''
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-01T19:14:45.198Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: 642
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: 858
+        src: null
+    - id: '2006'
+      value:
+        value: 858
+        src: null
+    - id: '2007'
+      value:
+        value: 1401
+        src: null
+    - id: '2008'
+      value:
+        value: 1401
+        src: null
+    - id: '2009'
+      value:
+        value: 1401
+        src: null
+    - id: '2010'
+      value:
+        value: 1157
+        src: null
+    - id: '2011'
+      value:
+        value: 1157
+        src: null
+    - id: '2012'
+      value:
+        value: 568
+        src: null
+    - id: '2013'
+      value:
+        value: 875
+        src: null
+    - id: '2014'
+      value:
+        value: 1235
+        src: null
+    - id: '2015'
+      value:
+        value: 1235
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Ministry of Forestry, Indonesia'
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: ''
+  citation:
+    html: Draf Dokumen REL-Kalteng

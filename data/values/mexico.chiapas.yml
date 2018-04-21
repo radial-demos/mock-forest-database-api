@@ -1,0 +1,908 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 32817.235
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 232.04
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 4796580
+    string: ''
+  citation:
+    html: >-
+      INEGI, 2013. Volumen y crecimiento. Población total por entidad
+      federativa, 1895 a 2010 <a
+      href="http://www.inegi.org.mx/sistemas/sisept/Default.aspx?t=mdemo148&amp;s=est&amp;c=29192">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 281612
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      NEGI; 2012 y 2013, estimación de la Secretaria de Hacienda del estado de
+      Chiapas con base a cifras proyectadas al nacional. Millones de Pesos. <a
+      href="http://haciendachiapas.gob.mx/INdicadores/Ficha_IndicadorNac.aspx?xidindicador=51">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 32900
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      Calculated using values derived from: Anuario estadístico. Chiapas,
+      Edición: 2012, Cobertura temporal: 2011, Desglose geográfico: Municipal,
+      ISSN: 0188-8587 Formato: Electrónico
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.6468
+    string: ''
+  citation:
+    html: >-
+      Programa de las Naciones Unidas para el Desarrollo (PNUD, 2010): El Indice
+      de Desarrollo Humano en México: cambios metodológicos e información para
+      las entidades federativas <a
+      href="http://www.cinu.mx/minisitio/indice_de_desarrollo/El_IDH_en_Mexico.pdf">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 47046.97
+    string: ''
+  citation:
+    html: >-
+      Mexico FREL <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Nov/Final__ENGLISH_20november_2016.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 73288.834
+    string: ''
+  citation:
+    html: >-
+      Mexico FREL <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Nov/Final__ENGLISH_20november_2016.pdf">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'real estate, agriculture, forestry, industry, mining, construction'
+  citation:
+    html: ''
+txt_state_description:
+  timestamp: '2018-02-05T16:41:55.053Z'
+  value:
+    html: >-
+      <p>Chiapas is the eighth largest state in Mexico, with an area of 73,282
+      km², which represents 3.8% of Mexico's total area. It has a rich
+      biodiversity with cloud forests, temperate, natural and induced
+      grasslands, humid tropical and sub-humid areas and tropical rainforest
+      (INEGI, 2010). These different types of forests cover 42% of the total
+      area of the state (PACCCH, 2011). As a result, 30% of Mexico's surface
+      water is found in Chiapas. It also has 47 Natural Protected Areas covering
+      19.8% of the total surface area of the state (SEMAHN, 2010). </p><p>In
+      2009, the state government launched the Climate Change Action Program for
+      the State of Chiapas (PACCCH), with the participation of many local and
+      national actors. PACCCH generated an analysis of deforestation and forest
+      degradation in the state and created projections for the future, as well
+      as a state inventory of greenhouse gases. The institutional and legal
+      framework for mitigation and adaptation to climate change was created
+      through the publication of the Law on Adaptation to Climate Change and
+      Mitigation that established the State Commission on Climate Change, a
+      group of 15 state government agencies with responsibility for
+      implementation. In a sense, the development and implementation of
+      adaptation and mitigation policies is a result of the participation of
+      many organized civil society actors. </p><p>The REDD + Technical Advisory
+      Council (CTC REDD + CH), officially established in 2011, is currently
+      working with the Ministry of the Environment on regulations for climate
+      change and the development of the state REDD+ strategy, with input from
+      civil society organizations, Federal agencies, and academic institutions
+      in Chiapas. The objective is to issue a state REDD+ strategy in 2013, and
+      a regional REDD+ strategy by 2015. The state is working to align its
+      efforts with the National Vision for REDD+ and the National REDD+
+      Strategy, in that regard, attend meetings with the Technical Council REDD+
+      National Consultative and align efforts on issues of: safeguards, goals
+      and processes, Monitoring, Reporting and Verification, and institutional
+      and legal frameworks.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=1437,states">GCF Impact
+      Platform.</a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-13T17:21:18.983Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_climate_change_action_program_paccch.pdf"
+      target="_blank"><strong>Climate Change Action Program
+      (PACCCH)</strong></a><em> - </em>Chiapas has completed the first phase and
+      entered the second phase of its PACCCH, which began in 2009.  The Program
+      includes goals of engaging researchers to increase scientific knowledge on
+      climate change, complete state-level greenhouse gas inventories, analyze
+      deforestation and forest degradation in the state, and analyze future
+      climate scenarios.  The program is supported by Chiapas' Climate Change
+      Mitigation and Adaptation Law <a
+      href="http://faolex.fao.org/docs/pdf/mex142791.pdf">(Decree
+      190/2013)</a>.</p><p><strong>State REDD+ strategy (EEREDD+) -
+      </strong>Chiapas has developed a draft EEREDD+ which will be used as a
+      basis for consultation in priority regions (Selva Lacandona, Frailescana,
+      Costa-Istmo and Mezcalapa). Additionally, Chiapas is considered an early
+      REDD+ action (ATREDD+) and is part of the federal government
+      <strong>Emission Reduction Initiative (IRE)</strong> with the
+      FCPF</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_fcpf_carbon_fund_investment_program.pdf"
+      target="_blank"><strong>FCPF Carbon Fund Investment Program</strong></a> –
+      Chiapas has developed an investment program to reduce deforestation
+      through Mexico’s Emissions Reduction Initiative implemented under the
+      framework of the Forest Carbon Partnership Facility.The Emissions
+      Reduction Initiative is based on four pillars: enhancing cross-sectoral
+      coordination, improving land governance, actions to address site-specific
+      drivers of deforestation, and the development of policies and
+      programs.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_the_state_development_plan_ped.pdf"
+      target="_blank"><strong>The State Development Plan (<em>Plan Estatal de
+      Desarrollo - PED</em>) </strong></a><strong>-  </strong>proposes a basic
+      vision for the development of the Strategy in three axes and seven public
+      policies. </p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_decree_190.pdf"
+      target="_blank"><strong>Decree 190 </strong></a><strong>24/5/2013 Climate
+      Change Mitigation and Adaption - </strong>Originally published in 2010,
+      but was replaced by Decree 190/2013. It provides a basis for actions to
+      reduce deforestation in the state and promotes the Climate Change Action
+      Program, which lays out the steps that the state government should take in
+      order to construct a REDD+ mechanism in more detail, and states that the
+      Inter-secretarial Climate Change Commission will be established. 
+      </p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_decree_189.pdf"
+      target="_blank"><strong>Decree 189</strong></a><strong> 4/18/2009 - State
+      Environmental Law - </strong>Establishes the regulatory framework for
+      environmental matters for the State of Chiapas. It aims at the
+      conservation of biodiversity, restoration of ecological balance,
+      environmental protection and rational use of natural resources to promote
+      sustainable development of the state, establishing the basis for issues
+      such as indigenous rights and environmental protection.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_decree_145.pdf"
+      target="_blank"><strong>Decree 145</strong></a><strong> 20/10/2008
+      Sustainable Forestry in the State of Chiapas - </strong>Promotes the
+      payment of ecosystem services (PES), including carbon capture, and states
+      under the 7th Chapter that all federal, state and municipal funds for PES
+      should be directed through the Forestry Trust (Fideicomiso
+      Forestal).</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_decree_207.pdf"
+      target="_blank"><strong>Decree 207</strong><strong>
+      </strong></a><strong>29/7/1999 </strong>- Law of Indigenous Rights and
+      Culture of the State of Chiapas - regulated by Article 7 of the State
+      Political Constitution and its observance is of public order and social
+      interest where the following indigenous peoples of the State of Chiapas
+      are recognized and protected: Tzeltal, Tzotzil , Chol, Zoque, Tojolabal,
+      Mame, Cakchiquel, Lacandón, Mocho, Jacalteco, Chuj and Kanjobal.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-12-07T16:28:00.336Z'
+  value:
+    html: >-
+      <p><strong>Interministerial Coordination Commission for Climate Change
+      (</strong><strong>CCICCCH)</strong>  -  chaired by the Governor and, in
+      his absence, by the head of the SEMAHN. The CCICCCH is made up of the
+      heads of state public administration bodies as presented in chapter IV of
+      the LAMCCCH.The CCICCCH is responsible for government coordination in the
+      area of Climate Change in the State of Chiapas and its resolutions and
+      opinions are mandatory for the bodies that make up the state public
+      administration (Article 15). The CCICCCH has several Working Groups (WG),
+      two of which are related to the REDD+.</p><p><strong>Advisory Council on
+      Climate Change of the State of Chiapas (CCCCCH)</strong> - has the
+      function of advising the CCICCCH and among its faculties is to follow up
+      on the policies, actions and goals foreseen in the REDD+ Strategy.<br
+      /><br />The CCCCCH was created on February 25, 2014 and is integrated by
+      the government sector through the Secretary of the SEMAHN (President) and
+      the Under Secretary of Climate Change of the SEMAHN (Technical Secretary).
+      It is comprised  of 13 ministries of the public state administration,
+      responsible for designing and implementing climate change policy in the
+      state according to the Climate Change Adaptation and Mitigation Law.
+      </p><p><strong>State Ministry of the Countryside (SECAM) </strong>-
+      Directs, coordinates and drives conformity with the National and state
+      plans, programs of agricultural, livestock, and forestry development, as
+      well as actions and policies of development for the state. SECAM also
+      applies strategies and technological innovations to increase the
+      efficiency of the agriculture and livestock sectors in
+      Chiapas.</p><p><strong>Institute of Civil Protection and Integrated
+      Management of Risks of Disasters in Chiapas (IPC)</strong> - Directs
+      actions implemented for the organisms of the institute orientated to the
+      integrated management of risk of disaster.</p><p><strong>State Ministry
+      for Indigenous Villages and Cultures (SEPCI)</strong> - Promotes the
+      acknowledgement, respect, and the full exercise of the collective rights
+      of the 12 indigenous groups in Chiapas, people that represent the cultural
+      richness of our state and are acknowledged by the local
+      constitution.</p><p><strong>General Justice Attorney of the State
+      (PRO)</strong> - Represents the society in the investigation and
+      persecution of environmental crimes, with the principles of legality,
+      honor, efficiency, security and juridical certainty, which permits a
+      functional structure of the procuration of justice, guaranteeing the
+      integral development of the state of law.</p><p><strong>Technical REDD+
+      Advisory Committee</strong> - Made up of local NGOs, academics, and
+      federal government agents in social, technical, political, cultural, and
+      environmental aspects of REDD+, including Pronatura Sur, Cooperativa
+      AMBIO, the National Forestry Commission, the National Commission for
+      Natural Protected Areas, ECOSUR, COLPOS, the Cultural Association Na
+      Bolom, The Nature Conservancy, Mesoamerican Biological Corridor,
+      Conservation International, and the Environmental Defense
+      Fund.</p><p><strong>Monitoring Reporting and Verification Working Group
+      (GT MRV)</strong> - and a technical <strong>GT MRV</strong> working group
+      made up of a variety of governmental, university, and civil society
+      stakeholders, which advances monitoring and measurement of emissions from
+      deforestation in the state.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-13T17:23:37.383Z'
+  value:
+    html: >-
+      <p><strong>Territorial and Ecological Zoning Programs<br
+      /></strong></p><p>The Ministry of Environment and Natural History has
+      developed Territorial and Ecological Zoning Programs in several regions of
+      the state. The basis for zoning is described in <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Chiapas%20Zoning%20Decree.pdf">Publication
+      1574/2010</a> and an overview of progress can be found <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Chiapas%20Zoning%20Resumen.pdf">here.</a></p><p>Territorial
+      and Ecological Zoning Programs are in various stages of development, as
+      listed below:</p><p>The Ministry of Environment and Natural History has
+      planned, published, implemented, or modified Territorial and Ecological
+      Zoning Programs in the following places at various stages of
+      development:</p><p><strong>Currently in planning stage:</strong> Oil Zone
+      North Region V (Sub 2: Amato, Ixtacomitan, Ixtapangajoya and
+      Solosuchiapa).- Areas affected by Hurricane Stan in Regions Isthmus Costa,
+      Sierra and Soconusco (for Ecological Research).- Tapachula.- Coast of
+      Chiapas (and Cintalapa Badoancho Basins).- Metropolitan Area of Tuxtla
+      Gutierrez.- Zoning l Program for the Rio Grande Basin and Lagunas de
+      Montebello National Park (Comitan, The Trinity, The Independence and Las
+      Margaritas).</p><p><strong>Published:</strong></p><p>- <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_state_of_chiapas_poetch_large_scale.pdf"
+      target="_blank">State of Chiapas (POETCH) at a larger scale</a>
+      -2012</p><p>- Oil Zone North Region V (Subregion 1: Reform, Juarez,
+      Sunuapa, Ostuacan and Pichucalco).</p><p><strong>Under
+      implementation:</strong></p><p>- <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_sabinal_river_subwatershed.pdf">Sabinal
+      River Subwatershed</a> (POETSAB) -2010</p><p>- <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_lagartero_river_subwatershed.pdf"
+      target="_blank">Lagartero River Subwatershed</a>(POETLAG) - 2010</p><p>-
+      <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_coapa_river_subwatershed.pdf"
+      target="_blank">Coapa River Subwatershed</a>, Pijijiapa -
+      2012</p><p><strong>Under evaluation:</strong></p><p>- Playas de
+      Catazaja</p><p><strong>Under modification:</strong> <br />- <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/chiapas/chiapas_zanatenco_river_subwatershed.pdf"
+      target="_blank">Zanatenco River Subwatershed</a>, Tonala - 2004</p>
+  citation:
+    html: ''
+frameworksSafeguards:
+  timestamp: '2017-11-06T23:57:17.189Z'
+  value:
+    html: >-
+      <p><strong>Rights and Tenure</strong></p><p><strong>Legal support and
+      protection of forest tenure.</strong> <br />In Mexico, communal ownership
+      of land is secured by the Constitution, Article 27. The state of Chiapas
+      recognizes and respects property rights in accordance to the law. However,
+      there are conflicts over land tenure and property limits among neighboring
+      ejidos and comunidades throughout the state. The SRA (Ministry of the
+      Agrarian Reform) is in charge of dealing with these controversies. The
+      government of Chiapas has, in some cases, participated to mediate and
+      settle land tenure controversies. At the &quot;Zona Lacandona,&quot; most
+      agrarian conflicts have already been solved. Plus, they have their own
+      legal advisors about land tenure. </p><p><strong>Conflict resolution
+      measures.</strong> <br />At the local level, communities have their own
+      institutions for conflict resolution. In agrarian ejidos and communities,
+      decisions that affect them as a whole are voted on in assemblies.
+      Conflicts over land and resources are solved by the ejido's, the
+      community's Consejo de Vigilancia, the Comisariado de Bienes Comunales, at
+      the general assembly, or eventually at the Agrarian Tribunal. The Ministry
+      for Agrarian Reform has the responsibility to resolve property conflicts
+      between the government and private land-owners.</p><p><strong>Needs
+      identified.</strong></p><ul><li>Defining legal aspects related to property
+      and rights to forest carbon in REDD project areas</li><li>Strategies to
+      deal with disputed lands</li><li>Further measures to guarantee respect for
+      indigenous rights to forest tenure</li></ul><p><strong>Transparency and
+      Participation<br /></strong></p><p><strong>What actions have been taken to
+      guarantee free, prior and informed consent?</strong> </p><ul><li>In 2010,
+      we carried consultation workshops in nine strategic cities for the climate
+      change action program, where a total of195 people participated from 39
+      municipalities, with public, social, academic and private sector
+      participation.</li><li> In 2012, we carried out training of trainers
+      workshops about climate change and the role of forests in 11 strategic
+      sites in Chiapas, covering 45 municipalities, with a total of 297
+      participants,including community leaders, social organizations, rural
+      landowners, academicresearchers, municipal and state public
+      officials.</li><li>Manuals for communities and trainers, copies of the
+      climate change action program,didactic materials, were given out in every
+      workshop.</li><li>These workshops aim to strengthen capacities and
+      understanding in the regions of Chiapas about climate change, the state of
+      the forests, Payment for Ecosystemservices, REDD+ mechanism and the status
+      of international, national, state andmunicipal climate change
+      policy.</li><li>The public policy proposals and comments were also
+      recorded from every workshop, in order to consider the main concerns in
+      every region and incorporate this into in policymaking.  
+      </li></ul><p><strong>Briefly describe mechanisms for consultation and
+      continuous participation addressed or planned by REDD Program in the
+      development and implementation phases, include target groups assessed or
+      planned to be, methods used (particularities to deal with capacity, timing
+      and understanding of indigenous peoples and local
+      communities.</strong></p><ul><li>Currently, social participation in the
+      construction of the state REDD+ Vision and strategy has been organized
+      throughthe official “technical REDD+ advisory group.</li><li>In October
+      last year, we carried out workshops to collectively develop the REDD+
+      Vision through the identification of direct and indirect deforestation
+      drivers in different regions in Chiapas,and the strategies needed to
+      tackle the causes, in the 5 areas specified in the national REDD+ Vision:
+      Public policy and institutional framework, capacity building, legal
+      framework, public participation, identification of safeguards and MRV.
+      </li><li> We invited and financially supported the participation of
+      indigenous representativesfrom the Lacandona forest, coffee cooperatives
+      and regional forestry association representatives. </li><li>Other
+      indigenous and productive sectors were identified for future meetings, and
+      we learnt that many indigenous representatives, especially from the
+      Lacandona forest expressed an interest in participating in future
+      meetings; finally it is important to invest in developingand implementing
+      communication and consultation strategies.  </li><li>We hope to finalize
+      the integration of the final REDD+ Vision document in the next few months,
+      and start on the elaboration of the state REDD+ strategy this year, to
+      finish by 2014, which will include workshops to integrate a safeguard
+      system and indicators. </li></ul><p><strong>Information on transparency of
+      REDD program:</strong> </p><ul><li>Available information: Climate Change
+      Action Program and &quot;forests and Climate Change&quot; leaflet in
+      English and Spanish.<br /> <a
+      href="http://www.cambioclimaticochiapas.org">www.cambioclimaticochiapas.org</a></li><li>Climate
+      Change Action Program full document, executive summary in English
+      Available on the website.<br />Public access: newspaper articles,
+      government bulletins. </li></ul><p><strong>Needs identified for
+      improvement in participation and transparency.</strong>
+      </p><ul><li>Greater involvement and participation of other community
+      members that have no land ownership rights.</li><li>More workshops needed
+      in target areas to involved more communities in the design of the REDD+
+      program.</li><li>Greater diffusion of the actions of the REDD+ group (an
+      internet site, more workshops, etc.).</li><li>More correct and coherent
+      information needed to be broadcasted on the television and in
+      newspapers.</li></ul><p><strong>Benefit Sharing<br
+      /></strong></p><p><strong>Describe the PES or benefit sharing mechanisms
+      currently in place or planned (concrete elements).</strong> </p><ul><li>El
+      Ocote project: payments are made annually for 5 years, in anticipation and
+      during the implementation of their Plan Vivo.
+      </li></ul><p><strong>Describe evidences for participation of stakeholders
+      in the development of the mechanisms.</strong></p><ul><li>Workshops were
+      successfully carried out.</li></ul><p><strong>Needs identified?</strong>
+      </p><ul><li>Benefits sharing mechanisms should be better defined and
+      agreed upon within the REDD+ group.</li></ul>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>Changes in land use is caused by conversion to grazing pastures and to
+      agriculture,. Other factors contributing to deforestation (from the
+      regression analysis in PACCCH, 2011) include: population density, distance
+      to roads, distance to cities / towns, distances from agricultural or
+      livestock areas, and gradients of slope.</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 7e0d0fd0-9e35-11e7-936d-a3cde4287d33
+      timestamp: '2017-11-07T21:49:53.762Z'
+      name:
+        value:
+          string: Monitoring of Tropical Forests "FOREST 2020"
+      description:
+        value:
+          html: >-
+            <p>The UK Space Agency through the International Collaboration
+            Program initiated a project to improve global forest management and
+            protection on 300 million hectares of tropical forest "Forest 2020"
+            to assist countries with high biological diversity improve the
+            management and conservation of their forest ecosystems, through the
+            monitoring of tropical forests. Ecometrica is the international
+            consortium that brings together international experts for the
+            monitoring of forests in the world, including: University of
+            Edinburgh, University of Leicester and Edinburgh Carbomap. For
+            Mexico, window areas were selected in two states, Jalisco
+            (345,531.82 ha.) and Chiapas (500,015.61 ha.), by signing
+            collaboration agreements with local partners such as FIPRODEFO in
+            Jalisco, PRONATURA-SUR, AMBIO and ECOSUR in Chiapas.</p>
+      partners:
+        value:
+          string: Ecometrica and FIPRODEFO
+      fundingSource:
+        value:
+          string: UK Space Agency
+      fundingAmount:
+        value:
+          string: >-
+            $9’000,000.00 pesos to be invested through 2020; $1’630,000 pesos
+            were invested from 2016-2017
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: >-
+            $9’000,000.00 pesos to be invested through 2020, $1’630,000 pesos
+            were invested from 2016-2017
+    - id: 98d49f70-c3f3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T19:41:06.663Z'
+      name:
+        value:
+          string: Sustainable Development Goals
+      description:
+        value:
+          html: >-
+            <p>Efforts to advance the SDGs include several forest related
+            initiatives including:&nbsp;</p><ul><li>strengthening the network of
+            forest nurseries and seed banks;&nbsp;</li><li>harnessing forest
+            resources under the criteria of legality and
+            sustainability;&nbsp;</li><li>implementing restoration actions in
+            degraded forest areas;&nbsp;</li><li>promoting a culture of
+            awareness and integration of community forest
+            management;&nbsp;</li><li>incorporating forest areas into the
+            payment environmental services program;&nbsp;</li><li>regulating
+            land use change and promoting conservation and sustainable land
+            uses;&nbsp;</li><li>reducing the area of ecosystem effected by
+            forest fires, pests and diseases;&nbsp;</li><li>increasing the area
+            of forests under sustainable forest management to ensure the
+            permanence of forested areas and generate benefits to
+            owners;&nbsp;</li><li>promoting the establishment, maintenance of
+            commercial forest plantations and productive
+            diversification.</li></ul>
+      partners:
+        value:
+          string: Public and private leaders of the government of Mexico and Chiapas
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership; Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Initiative launched in May 2017
+    - id: b7d04b40-c3f3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T19:41:58.644Z'
+      name:
+        value:
+          string: Bonn Challenge
+      description:
+        value:
+          html: >-
+            <p>The Ministry of Environment and Natural History (SEMAHN) of the
+            Government of the State of Chiapas and the International Union for
+            the Conservation of Nature (IUCN) are carrying out the design of a
+            functional landscape restoration strategy with an approach that
+            encourages productivity and supports the objectives set out in the
+            Chiapas State Development Plan 2013-2018 and facilitates the
+            fulfillment of the commitments made in different international
+            agreements at the country level (the 15 goals of Aichi of the CBD,
+            the UNFCCC REDD + goal , the zero net land degradation goal of Rio +
+            20) and at the state level (Rio Branco Declaration on rural
+            low-emission development under the GCF Task Force).<br>The design of
+            the strategy is the first step for the State Government to join the
+            global Bonn Challenge initiative (http://www.bonnchallenge.org/),
+            which aims at restoring 150 million hectares of land deforested and
+            degraded by 2020 and 350 million by 2030.</p>
+      partners:
+        value:
+          string: 'State of Chiapas, IUCN, NGOs'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Development of the Action Plan 2017-2018
+    - id: de89c6d0-c3f3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T19:43:03.613Z'
+      name:
+        value:
+          string: >-
+            Chiapas Environmental Trust and El Triunfo Conservation Fund
+            (FONCET) 
+      description:
+        value:
+          html: >-
+            <p>The parties to the agreement commit to implement efforts which
+            promote conservation and encourage sustainable rural development in
+            the State of Chiapas within the framework of the Emission Reduction
+            Initiative (IRE).</p>
+      partners:
+        value:
+          string: 'State of Chiapas, IUCN, NGOs'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Agreement Signed
+    - id: 9dbdaee0-c3f4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T19:48:24.398Z'
+      name:
+        value:
+          string: Chiapas Emission Reduction Initiative
+      description:
+        value:
+          html: >-
+            <p>On April 22, 2016, the Government of the State of Chiapas,
+            through the head of the Executive Branch, signed an agreement with
+            the National Forestry Commission (CONAFOR) a Coordination Agreement
+            for the development and implementation of the Emissions Reduction
+            Initiative through the investment programs with scope in the
+            territorial district of the state of Chiapas.<br>The specific
+            activities that will be developed under the Emissions Reduction
+            Initiative have been defined according to local realities to ensure
+            that the causes of deforestation and forest degradation in each
+            region of the State are addressed.<br>To implement the economic
+            activities in a sustainable and long-term manner, it is necessary to
+            have a state financing scheme that allows to attract financial
+            resources from different national and international sources, public
+            and private, that can function as an impact investment for the
+            development of sustainable rural activities and capacity building in
+            the producers, associations of producers, ejidos and communities of
+            the state.</p>
+      partners:
+        value:
+          string: 'Government of Chiapas, CONAFOR, World Bank, FCPF'
+      fundingSource:
+        value:
+          string: National and International sources from public and private sectors
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Pay for performance, Private Investment'
+      initiativeStatus:
+        value:
+          string: Agreement in process
+    - id: ef8e0cb0-c3f4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T19:50:41.659Z'
+      name:
+        value:
+          string: State Plan for REDD+ Safeguards (PES)
+      description:
+        value:
+          html: >-
+            <p>The PES is the operational instrument for environmental and
+            social risk management through which Chiapas, as one of the 5
+            Mexican states within the Emission Reduction Initiative (IRE), will
+            promote the guidelines, mechanisms and procedures established in the
+            World Bank Safeguards Framework to reduce and manage risks, and
+            enhance the benefits associated with REDD + activities that will be
+            developed within its territory associated with the intervention area
+            established in the Investment Program registered in the IRE. The PES
+            will have a validity of 5 years, period in which the IRE will be
+            executed. Chiapas drafted its Plan, which Mexico proposed to the
+            World Bank in June 2017. After the validation, the final version of
+            the PES will be integrated in each of the 5 Mexican states.</p>
+      partners:
+        value:
+          string: National Forestry Commission (CONAFOR)
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Indigenous Peoples Initiative
+      initiativeStatus:
+        value:
+          string: In progress (draft plan)
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 52
+        src: '52'
+    - id: 1
+      value:
+        value: 48
+        src: '48'
+  citation:
+    html: >-
+      INEGI, 2011. Pespectiva estadistica Chiapas <a
+      href="http://www.inegi.org.mx/est/contenidos/espanol/sistemas/perspectivas/perspectiva-chs.pdf">link</a>
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 77.41
+        src: '77.41'
+    - id: a2
+      value:
+        value: 9
+        src: '9'
+    - id: a3
+      value:
+        value: 8.2
+        src: '8.2'
+    - id: a4
+      value:
+        value: 3.8
+        src: '3.8'
+    - id: a5
+      value:
+        value: 1.1
+        src: '1.1'
+    - id: a6
+      value:
+        value: 1.06
+        src: '1.06'
+    - id: a7
+      value:
+        value: 0.5
+        src: '0.5'
+  citation:
+    html: >-
+      INEGI, 2011, Perspectiva estadistica Chiapas <a
+      href="http://www.inegi.org.mx/est/contenidos/espanol/sistemas/perspectivas/perspectiva-chs.pdf">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a3
+      value:
+        value: 78
+        src: '78'
+    - id: a2
+      value:
+        value: 13
+        src: '13'
+    - id: a1
+      value:
+        value: 9
+        src: '9'
+  citation:
+    html: >-
+      Anuario estadístico. Chiapas, Edición: 2012, Cobertura temporal: 2011,
+      Desglose geográfico: Municipal, ISSN: 0188-8587 Formato: Electrónico
+current_forest_area_typologies:
+  timestamp: '2017-12-07T16:38:15.235Z'
+  values:
+    - id: u2017e
+      value:
+        value: 12303.16
+        src: null
+    - id: u2017a
+      value:
+        value: 4379
+        src: null
+    - id: u2017c
+      value:
+        value: 4309
+        src: null
+    - id: u2017k
+      value:
+        value: 3409.36
+        src: null
+    - id: u2017j
+      value:
+        value: 2238.13
+        src: null
+    - id: u2017i
+      value:
+        value: 1822.66
+        src: null
+    - id: u2017b
+      value:
+        value: 1328
+        src: null
+    - id: u2017h
+      value:
+        value: 998.63
+        src: null
+    - id: u2017d
+      value:
+        value: 869.28
+        src: null
+    - id: u2017g
+      value:
+        value: 354.94
+        src: null
+    - id: u2017f
+      value:
+        value: 160.29
+        src: null
+    - id: u2017l
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-07T21:20:14.414Z'
+  values:
+    - id: u2017a
+      value:
+        value: 27677
+        src: null
+    - id: u2017b
+      value:
+        value: 10521
+        src: null
+    - id: u2017c
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Oct/Anexo%202.%20Informaci%C3%B3n%20de%20las%20condiciones%20ambientales.pdf;&nbsp;Comisin
+      Nacional de reas<br>Naturales Protegidas
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 48
+        src: '48'
+    - id: 2
+      value:
+        value: 45
+        src: '45'
+    - id: 3
+      value:
+        value: 7
+        src: '7'
+  citation:
+    html: >-
+      Secretaría de Medio Ambiente e Historia Natural Chiapas, 2011. Programa de
+      Acción Ante el Cambio Climático del Estado de Chiapas (PACCCH)
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Manuel
+    lastName: Velasco Coello
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2018-03-06T16:28:24.735Z'
+  value:
+    firstName: ''
+    lastName: ''
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2018-03-06T16:28:12.868Z'
+  value:
+    firstName: Ricardo
+    lastName: Hernandez
+    email: Secretary of Environment and Natural History
+    companyTitle: Secretary of Environment and Natural History
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 652.84
+        src: '652.84 '
+    - id: '1997'
+      value:
+        value: 652.84
+        src: '652.84'
+    - id: '1998'
+      value:
+        value: 652.84
+        src: '652.84'
+    - id: '1999'
+      value:
+        value: 652.84
+        src: '652.84'
+    - id: '2000'
+      value:
+        value: 652.84
+        src: '652.84'
+    - id: '2001'
+      value:
+        value: 652.84
+        src: '652.84'
+    - id: '2002'
+      value:
+        value: 659.4
+        src: '659.4'
+    - id: '2003'
+      value:
+        value: 659.4
+        src: '659.4'
+    - id: '2004'
+      value:
+        value: 659.4
+        src: '659.4'
+    - id: '2005'
+      value:
+        value: 659.4
+        src: '659.4'
+    - id: '2006'
+      value:
+        value: 659.4
+        src: '659.4'
+    - id: '2007'
+      value:
+        value: 659.4
+        src: '659.4'
+    - id: '2008'
+      value:
+        value: 186.3
+        src: '186.3'
+    - id: '2009'
+      value:
+        value: 186.3
+        src: '186.3'
+    - id: '2010'
+      value:
+        value: 186.3
+        src: '186.3'
+    - id: '2011'
+      value:
+        value: 186.3
+        src: '186.3'
+    - id: '2012'
+      value:
+        value: null
+        src: null
+    - id: '2013'
+      value:
+        value: null
+        src: null
+    - id: '2014'
+      value:
+        value: null
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: INEGI/FCPF FREL
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: ''

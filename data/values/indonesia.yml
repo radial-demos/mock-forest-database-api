@@ -1,0 +1,252 @@
+national_population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 237641300
+    string: ''
+  citation:
+    html: >-
+      Perkembangan Beberapa Indikator Utama Sosial-Ekonomi Indonesia 2012, BPS
+      Nasional h.11 <a
+      href="http://www.bps.go.id/booklet/Booklet_Agustus_2012.pdf">link</a>
+national_gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 7427100000000
+    currency: IDR
+    string: ''
+  citation:
+    html: <a href="www.bps.go.id/getfile.php?news=908">link</a>
+national_per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 30800000
+    currency: IDR
+    string: ''
+  citation:
+    html: <a href="www.bps.go.id/getfile.php?news=908">link</a>
+national_human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.617
+    string: ''
+  citation:
+    html: ''
+national_land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1922570
+    string: ''
+  citation:
+    html: >-
+      Buku &quot;40 Tahun Bakosurtanal, 2009&quot; h.157 <a
+      href="http://www.bakosurtanal.go.id/assets/download/BUKU%2040%20TAHUN%20BAKOSURTANAL.pdf">link</a>
+national_percent_forested:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 71.1
+    string: ''
+  citation:
+    html: >-
+      <a
+      href="http://www.dephut.go.id/INFORMASI/BUKU2/Rekalkulasi05/Rekalkulasi_2005.htm">link</a>
+national_main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: >-
+      Textiles and related products, forest products, electronics, rubber and
+      rubber products, oil palm and derivatives, automotive, footwear,
+      fisheries, coffee and cocoa
+  citation:
+    html: ''
+national_urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 57.8
+        src: '57.8'
+    - id: 1
+      value:
+        value: 42.2
+        src: '42.2'
+  citation:
+    html: >-
+      Rustian, Kamaluddin. Urban Poverty in Indonesia: Development,
+      Characteristics and Mitigation Efforts, 2004. <a
+      href="http://www.bappenas.go.id/get-file-server/node/8505/">Urban Poverty
+      in Indonesia: Development, Characteristics and Mitigation Efforts</a>
+national_gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a3
+      value:
+        value: 24
+        src: '24'
+    - id: a7
+      value:
+        value: 18
+        src: '18'
+    - id: a1
+      value:
+        value: 15
+        src: '15'
+    - id: a5
+      value:
+        value: 14
+        src: '14'
+    - id: a2
+      value:
+        value: 12
+        src: '12'
+    - id: a4
+      value:
+        value: 10
+        src: '10'
+    - id: a6
+      value:
+        value: 7
+        src: '7'
+  citation:
+    html: >-
+      <a
+      href="http://www.bps.go.id/tab_sub/view.php?tabel=1&amp;daftar=1&amp;id_subyek=11&amp;notab=1">link</a>
+national_deforestation_rate:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '2000'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2001'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2002'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2003'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2004'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2005'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2006'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2007'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2008'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2009'
+      value:
+        value: 15159
+        src: '15,159'
+    - id: '2010'
+      value:
+        value: null
+        src: null
+    - id: '2011'
+      value:
+        value: null
+        src: null
+    - id: '2012'
+      value:
+        value: null
+        src: null
+    - id: '2013'
+      value:
+        value: null
+        src: null
+    - id: '2014'
+      value:
+        value: null
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+txt_laws:
+  timestamp: '2017-12-01T16:25:36.293Z'
+  value:
+    html: >-
+      <p>Indonesia's management of forest resources is based on the<strong>
+      Forestry Law No. 41/1999</strong> that regulates the utilization,
+      protection, and conservation of the forest resources. The law highlights
+      the sustainable management of the forest ecosystem and functions for the
+      welfare of the people of Indonesia.</p><p><a
+      href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://peraturan.go.id/inc/view/11e6c5b9a98095f0ba3e313430363238.html&amp;usg=ALkJrhgC9T1MvAv8dJuP8IG-c0c0Fi_3lQ"><strong>Law
+      number 26/2014 </strong>-</a> On trasnboundary cooperation to combat haze
+      pollution<br /><strong><a
+      href="http://peraturan.go.id/search/download/11e44c4eb454bdd0946a313231363034.html">Law
+      Number 18/2013</a> </strong>- on the prevention and eradication of forest
+      destruction<br /><strong>Law No. 26/2012</strong> – Spatial Plan.  <a
+      href="http://appgis.dephut.go.id/appgis/petamoratorium3.html">Indicative
+      Moratorium Map</a> - Decree of the Minister of Forestry Indonesia Number:
+      SK. 2771/Menhut-VII/IPSDH/2012.<br /><strong>Government Regulation No. 28
+      of 2011</strong> on the Management of Natural Reserve Area and Nature
+      Conservation<br /><strong>Government Regulation No. 24/2010 </strong>-
+      Forest Area Utilization<br /><strong>Law No. 32/2009</strong> – Protection
+      and Management of the Environment<br /><strong>Government Regulation No.
+      26/2008</strong> - National Spatial Plan<br /><strong>Law No. 5/1990
+      </strong>– Conservation of Natural Resources and Ecosystems</p><p><br
+      /></p><p><br /></p>
+  citation:
+    html: ''
+txt_policies_and_plans:
+  timestamp: '2017-11-28T17:52:31.109Z'
+  value:
+    html: >-
+      <p>Indonesia launched the REDD+ National Strategy in 2012 as the main
+      reference for REDD+ development direction. The focus of the REDD+ national
+      strategies cover: institutional formation and process; legal frameworks;
+      strategic programs; paradigm shift and work culture; and, stakeholders
+      involvement.  In 2015, National FREL was submitted to the UNFCCC. Recently
+      the ministry launched the national determined contribution in November
+      2016. The country is now preparing the third national communication (TNC)
+      to be submitted to the UNFCCC as part of its commitment in contributing to
+      the world's climate change issues solving.  Indonesi'as INDC submitted to
+      the UNFCC pledges 26% unconditional and 41% conditional reduction.  There
+      are no targets for mitigation from forests.</p>
+  citation:
+    html: ''
+txt_institutions:
+  timestamp: '2017-12-01T00:51:46.412Z'
+  value:
+    html: >-
+      <p>Indonesia had a REDD+ Agency that was formed in 2013 as the results to
+      fill the needs for a firmed and focused agency in the formulation of REDD+
+      related policies and its preparation for implementation. The new
+      government that was elected in October 2014 merged the agency into one
+      ministry along with ministry environment, ministry of forestry and
+      national council on climate change. The ministry, named Ministry of
+      Environment and Forestry has one dedicated directorate general on climate
+      change that house the REDD+ under the mitigation directorate.<br />The
+      Government of Indonesia has the Ministry of Agriculture that manages and
+      regulates the non-forest land for agriculture purpose and food security,
+      including large scale plantations.<br />Indonesia has Geospatial
+      Information Agency (Badan Informasi Spatial or BIG) that manages the
+      information on spatial use and support its planning, and the recent one is
+      leading on the formulation of 'one map' for all land use related
+      activities.<br />In the recent years, the Government formed the Peat
+      Restoration Agency as the answer and one of the solutions to the fires
+      issue on the peatland that caused severe haze and hence GHG emissions.</p>
+  citation:
+    html: ''

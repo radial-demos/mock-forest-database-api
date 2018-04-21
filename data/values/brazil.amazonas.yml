@@ -1,0 +1,629 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1450100
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 18476.2
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 3483985
+    string: ''
+  citation:
+    html: >-
+      Instituto Brasileiro de Geografia e Estatística - IBGE. <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=am&amp;tema=resultgeramostra_censo2010.">IBGE</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 65039000000
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      GOVERNO (SEPLAN) Anuário Estatístico do Amazonas (2009-2010). Manaus,
+      volume 23, 2011.
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 14014
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      GOVERNO (SEPLAN) Anuário Estatístico do Amazonas (2009-2010). Manaus,
+      volume 23, 2011
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.713
+    string: ''
+  citation:
+    html: >-
+      PNUD 2003, Atlas de Desenvolvimento Humano 2003 <a
+      href="http://www.pnud.org.br/IDH/Atlas2003.aspx?indiceAccordion=1&amp;li=li_Atlas2003">link</a>
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 60
+    year: '2020'
+    string: ''
+  citation:
+    html: >-
+      Decreto n.º 2.055, de 19 de dezembro de 2013. <a
+      href="http://www.oads.org.br/leis/2924.pdf">link</a>
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 158
+    year: '2012'
+    string: ''
+  citation:
+    html: ''
+deforestation_rate_target_value:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 350
+    string: ''
+  citation:
+    html: >-
+      MMA, 2012. REDD+ nos estados da Amazônia: Mapeamento de iniciativas e
+      desafios para integração com a estratégia brasileira, Brasilia, <a
+      href="http://www.biofilica.com.br/web/downloads/redd_estados_amazonia.pdf">REDD+
+      nos estados da Amazônia: Mapeamento de iniciativas e desafios para
+      integração com a estratégia brasileira, Brasilia,</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1601940.62
+    string: ''
+  citation:
+    html: >-
+      MMA, 2004. Uso e Cobertura da Terra na Floresta Amazônica, São José dos
+      Campos <a
+      href="http://mapas.mma.gov.br/geodados/brasil/vegetacao/vegetacao2002/amazonia/documentos/relatorio_final.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1559161
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=am">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Industrial (electronics, motorcycles)'
+  citation:
+    html: ''
+txt_state_description:
+  timestamp: '2017-12-27T20:22:41.164Z'
+  value:
+    html: >-
+      <p>The State of Amazonas is Brazil’s largest state with an area of more
+      than 1.5 million km², of which more than half is in protected areas. The
+      state retains nearly 97% of its original forest cover and has the largest
+      tropical forest carbon stock of any sub-national jurisdiction on the
+      planet. Half of the state’s population of 3.3 million resides in the
+      capital, Manaus, while the other half is distributed among 61 counties.
+      Amazonas is home to 66 indigenous peoples. Furthermore, thousands of
+      plants, animals, and insects—most of which are still unknown to
+      science—are found in Amazonas’ forests.</p><p>Amazonas is a pioneer in
+      establishing state-wide public policies related to climate change and
+      designing positive incentives for forest conservation. In 2007, Amazonas
+      established its State Policy on Climate Change (PEMC) (law 3.135/2007) and
+      a complementary law (53/2007), which establishes the State System for
+      Protected Areas (SEUC). These were followed by the development of the
+      State’s Deforestation Prevention and Control Plan (PPCDAM), involving a
+      broad range of state secretariats in an integrated effort to develop ways
+      of reducing deforestation while creating new economic alternatives.
+      Combined, these policies have helped to reduce deforestation from
+      activities such as land grabbing, illegal logging, soy farming and cattle
+      ranching from a 10-year average (1996-2005) of 868 km² to 474 km² in
+      2010.</p><p>Another strategy adopted by the Amazonas State Government was
+      the creation of a public-private foundation, the Sustainable Amazonas
+      Foundation (FAS), to manage the Bolsa Floresta Program (PBF). PBF is a
+      pioneer pilot program for payments for ecosystem services that supports 15
+      State Protected Areas.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=3213,states"><strong>GCF Impact
+      Platform.</strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-09T22:03:05.260Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies</strong></p><p><em><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Amazonas%20PPCD.pdf">Plan
+      for Deforestation Prevention and Control (PPCD)</a>- </em><strong><em>
+      </em></strong>Amazonas has completed phase two of its PPCD, covering the
+      period of 2012-2015. The strategies outlines in the PPCD focus on spatial
+      planning, monitoring and enforcement, and property regularization through
+      the Rural Environmental Registry (CAR)</p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amazonas/amazonas_law_4406_2016.pdf"><em>Law
+      No. 4406 of 12/28/2016</em></a>- Establishes the State Policy for
+      Environmental Regularization, provides for the Rural Environmental
+      Registry - CAR, the Rural Environmental Cadastre System - SISCAR-AM, the
+      Environmental Regulation Program - PRA, in the State of Amazonas and makes
+      other provisions.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Amazonas%20Environmental%20Services%20Law.pdf"><em>State
+      Law 4.266 12/2015</em></a> - Establishes the State Policy on Environmental
+      Services (including REDD+)  and creates the State Fund for Climate Change,
+      Environmental Conservation and Environmental Services.  The law which
+      clarifies institutional arrangements and support for REDD+ management and
+      implementation. <strong> </strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amazonas/amazonas_law_3635_2011.pdf"><em>State
+      Law  3.635 7/6/2011</em></a>- Creates the legal basis for the the Rural
+      Environmental Registry (CAR), which regulates the environmental
+      liabilities of rural properties in the State of Amazonas. the Rural
+      Environmental Land Registry  is a federally-mandated, satellite-based land
+      registry system for rural properties which is required for environmental
+      licensing, monitoring and enforcement.<a
+      href="http://conservacao.mpambiental.org/wp-content/uploads/2015/05/Lei_3527_2010_concessoes_florestais_UCs_uso_sustentavel.pdf"></a><a
+      href="http://conservacao.mpambiental.org/wp-content/uploads/2015/05/Lei_3527_2010_concessoes_florestais_UCs_uso_sustentavel.pdf"></a><br
+      /><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amazonas/amazonas_law_3527_2010.pdf"><br
+      /><em>Law 3527, 07/28/2010</em></a>- Regulates forest concessions in
+      designated sustainable use areas, with the aim of promoting multiple use
+      of forest resources and environmental services provision - Being
+      implemented</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amazonas/amazonas_law_3244_2008.pdf"><em>Law
+      3244, 04/04/2008</em></a><strong> </strong>- Creates the Unit Manager for
+      the State Climate Change Center and the State Center for Protected Areas
+      (UGMUC) - Fully functional</p><p><a
+      href="http://www.ciflorestas.com.br/arquivos/lei_lei_3.2442008_14547.pdf"><em>Law
+      3.244 4/2008</em></a><strong> -</strong> Created the State Center for
+      Climate Change (Ceclima) - fully functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amazonas/amazonas_delegated_law_66_2007.pdf"><em>Delegated
+      Law 66, 05/06/2007</em></a> - Defines regulations for the State
+      Secretariat for Environment and Sustainable Development - Fully
+      functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amazonas/amazonas_law_3135_2007.pdf"><em>State
+      Law of Climate Change 3135, 06/05/2007</em></a> - Institutes the State
+      Policy for Climate Change, Environmental Conservation, and Sustainable
+      Development - Fully functional</p><p><em>CEMAAM Law 2985, 10/18/2005
+      </em>- Institutes the Amazonas State Council for the Environment (CEMAAM)
+      - Fully functional</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-10-31T14:50:43.626Z'
+  value:
+    html: >-
+      <p><strong>Secretary of Environment (SEMA)</strong> - Responsible for:<br
+      />I - formulation, coordination and implementation of state policy on the
+      environment, water resources, fishing resources, solid waste, wildlife
+      protection, forestry, combating illegal logging and fires.<br />II -
+      coordination of state environmental protection and conservation policies
+      for the management of protected areas.<br />III - formulation,
+      coordination and implementation of state policies for territorial and
+      environmental planning.</p><p><strong>Institute for Agriculture and
+      Sustainable Forest Development (IDAM)</strong> – Technical assistance and
+      rural training activities related to forest management and agriculture in
+      municipalities.</p><p><strong>Sustainable Development Agency (ADS)
+      </strong>–   Helps with commercialization of products from sustainable
+      income-generating activities.</p><p><strong>State Secretariat for Forests
+      and Extractivism SEAFE</strong> – Creates policies that promote the
+      sustainable use of forest resources.</p><p><strong>State Secretariat for
+      Rural Production (SEPRO) -</strong> Technical assistance and product
+      commercialization.</p><p><strong>Amazon State Institute for Environmental
+      Protection (IPAAM)</strong> – carries out daily analysis of satellite
+      imagery focused on detection of fires and/or deforestation, and
+      enforcement activities to control illegal on the ground illegal
+      logging.</p><p><strong>The Amazon Forum on Climate Change, Biodiversity,
+      Environmental Services and Energy (FAMC)</strong> - coordinates input on
+      climate change, energy, biodiversity, forests and environmental
+      services</p><p><strong>State Center for Protected Areas (CEUC)</strong> -
+      Manages development, creation, and implementation of state protected
+      areas.</p><p><strong>State Center for Climate Change -  (CECLIMA)</strong>
+      - responsible for implementing policies and programs related to climate
+      change in the State of Amazonas, in Brazil. It focuses mainly, in three
+      areas: forest, energy and education for climate change.
+      </p><p><strong>Secretariat of the Environment and Sustainable Development
+      (SDS)</strong>  - responsible for coordinating the Amazonas Forum on
+      Climate Change, Biodiversity, Environmental Services and
+      Energy</p><p><strong>I</strong><strong>nstituto de Terras do Amazonas
+      (ITEAM)</strong><strong> </strong>- Formalization of land rights</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-10-31T16:44:26.894Z'
+  value:
+    html: >-
+      <p>Ecological and Economic Zoning (<em>Zoneamento Ecológico-Econômico –
+      </em><em>ZEE)</em> is required by the Federal Government to designate
+      areas for economic and conservation activities within each state’s
+      territory. Amazonas completed a statewide master ZEE in 2009 and has since
+      begun developing region specific ZEEs for Madeira and <a
+      href="http://www.amazonia.cnptia.embrapa.br/publicacoes_estados/Amazonas/Purus/ZEE%20do%20Purus%20-%20volume%202.pdf">Purus.</a> 
+      The macro plan was normalized through <a
+      href="http://www.ipaam.br/legislacao/ESTADUAL/lei%203.417,%20de%2031.07.2009%20(institui%20o%20macrozoneamento%20ecol%C3%B3gico-econ%C3%B4mico%20do%20estado%20do%20amazonas%20-%20mzee).doc">state
+      law  nº 3.417 (2009)</a>, while the Purus plan was normalized through<a
+      href="http://www.mma.gov.br/port/conama/processos/A29EB9BD/LeiEstadual_3645.pdf">
+      state law 3.645 (2011)</a> and both have been approved federally.  The
+      Madeira plan is still in process. State decree nº 24.048 instituted a
+      state commission on ZEE.<br />In 2016 Amazonas received <a
+      href="http://www.acritica.com/channels/governo/news/amazonas-firma-parceira-com-governo-alemao-para-execucao-dos-zees">funding
+      from KfW</a> to implement the Madeira zoning plan. </p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>Expansion of ranching, agriculture and illegal land occupation has
+      increased pressure on forests, particularly in southern Amazonas. In the
+      southreastern counties of Apuí, Manicoré, and Novo Aripuanã, small family
+      agriculture is increasingly being replaced by cattle ranching in large
+      INCRA settlement projects. At the border with Acre and Rondônia, in the
+      counties of Canutama, Lábrea and Boca do Acre, immigration from the
+      neighboring states via the BR-364 and BR-317 highways is accompanied by
+      the expansion of cattle ranching and logging. Forests in other counties,
+      such as Manicoré, Humaitá, Canutama, and Lábrea, are under pressure from
+      expanding industrial crop production, driven by increased access to
+      financial resources and improved technology.</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 1ee3cf80-ce19-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T17:34:54.584Z'
+      name:
+        value:
+          string: >-
+            Juma REDD+ Project to Reduce Deforestation and Payment for
+            Environmental Services "Bolsa Floresta"
+      description:
+        value:
+          html: >-
+            <p>In April 2008, the Government of Amazonas, the Marriott
+            International hotel chain and the Amazonas Sustainable Foundation
+            signed a partnership for environmental conservation and support to
+            improve the quality of life in the riverside communities of the Juma
+            Sustainable Development Reserve (RDS). The Bolsa Floresta Program is
+            one of eight programs instituted by the State Policy on Climate
+            Change which benefits more than 40,000 people in 576 communities in
+            16 state conservation units. The Juma partnership has brought
+            impressive results: there are currently more than 2,000 people
+            directly benefited in 39 communities, with investments of more than
+            R $8 million, deforestation fell by 15 more times in comparison to
+            modeling and data from Prodes, representing more than 3 million
+            tonnes of CO2eq.</p>
+      partners:
+        value:
+          string: >-
+            Government of the State of Amazonas, Amazonas Sustainable Foundation
+            - FAS and Marriott International
+      fundingSource:
+        value:
+          string: >-
+            Government of the State of Amazonas, Amazonas Sustainable Foundation
+            - FAS and Marriott International
+      fundingAmount:
+        value:
+          string: '$2 million '
+      initiativeType:
+        value:
+          string: REDD+ Project
+      initiativeStatus:
+        value:
+          string: Finalized
+    - id: a9e634b0-ce19-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T17:38:47.803Z'
+      name:
+        value:
+          string: Bolsa Floresta Program
+      description:
+        value:
+          html: >-
+            <p>FAS and the State of Amazonas have established a technical
+            cooperation agreement No. 003/2015, which aims to support the
+            implementation of the State Program and Projects on Climate Change,
+            Environmental Conservation and Sustainable Development, as well as
+            to contribute to the management of environmental services and
+            products within the Sustainable Use Conservation Units of the State
+            of Amazonas. FAS, with the express consent of the State of Amazonas,
+            will be responsible for the implementation of the Bolsa Floresta
+            Familiar Program and Bolsa Floresta Social Program, with the
+            financial support of PricewaterhouseCooper Auditores Independentes
+            (PWC) in the amount of R $ 56,000.00.Funding is to be used
+            exclusively for the implementation of the Bolsa Floresta Program, in
+            Family and Social modalities through the Support Project for access
+            to potable water (Bolsa Floresta Social) in the Juma RDS.</p>
+      partners:
+        value:
+          string: >-
+            Government of the State of Amazonas, Amazonas Sustainable Foundation
+            - FAS, and PriceWaterhouseCoopers
+      fundingSource:
+        value:
+          string: >-
+            Government of the State of Amazonas, Amazonas Sustainable Foundation
+            - FAS, and PriceWaterhouseCoopers
+      fundingAmount:
+        value:
+          string: '$2 million '
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: ef7b7800-ce19-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T17:44:17.358Z'
+      name:
+        value:
+          string: Apui Coffee Project
+      description:
+        value:
+          html: >-
+            <p>The Apuí Café initiative began in 2012 in a partnership between
+            Idesam, 28 local producers, the state government of Amazonas, Apuí
+            prefecture and local private entrepreneurs. The project received
+            support from the Vale and Natura Fund, and focuses on the
+            agroforestry production of coffee which combines commercial
+            production and native forest. Since 2012, coffee productivity in
+            Apuí has increased from nine to twenty-two coffee sacks per hectare.
+            In 2015 Agroforstry Apuí Coffee was launched as the first
+            environmentally sustainable coffee produced in the Brazilian Amazon.
+            In its first year alone, 4.5 tons of coffee, or 18,000 packages,
+            were sold at more than 20 retailers and 50 events and fairs. Today,
+            local producers are seeking to obtain organic certification of their
+            properties.</p>
+      partners:
+        value:
+          string: >-
+            Government of the State of Amazonas, Prefecture of of Apuí, Idesam,
+            producers and local entrepreneurs
+      fundingSource:
+        value:
+          string: >-
+            Government of the State of Amazonas, Prefecture of of Apuí, Idesam,
+            producers and local entrepreneurs
+      fundingAmount:
+        value:
+          string: $2 million
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under implementation
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 79
+        src: '79'
+    - id: 2
+      value:
+        value: 21
+        src: '21'
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=am">link</a>
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 69
+        src: '69'
+    - id: a2
+      value:
+        value: 21
+        src: '21'
+    - id: a4
+      value:
+        value: 5
+        src: '5'
+    - id: a3
+      value:
+        value: 4
+        src: '4'
+    - id: a6
+      value:
+        value: 1
+        src: '1'
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=am">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 42.6
+        src: '42.6'
+    - id: a4
+      value:
+        value: 36.3
+        src: '36.3'
+    - id: a2
+      value:
+        value: 4.2
+        src: '4.2'
+    - id: a5
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      GOVERNO (SEPLAN) Anuário Estatístico do Amazonas (2009-2010). Manaus,
+      volume 23, 2011
+current_forest_area_typologies:
+  timestamp: '2017-12-06T22:57:17.125Z'
+  values:
+    - id: u2017b
+      value:
+        value: 1423798.55
+        src: null
+    - id: u2017e
+      value:
+        value: 110119.65
+        src: null
+    - id: u2017d
+      value:
+        value: 15797.49
+        src: null
+    - id: u2017c
+      value:
+        value: 9126.54
+        src: null
+    - id: u2017a
+      value:
+        value: 125.2
+        src: null
+  citation:
+    html: Terraclass 2014
+forest_management:
+  timestamp: '2017-12-06T22:05:25.836Z'
+  values:
+    - id: u2017b
+      value:
+        value: 1037332
+        src: null
+    - id: u2017a
+      value:
+        value: 412668
+        src: null
+  citation:
+    html: ''
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: José
+    lastName: Melo de Oliveira
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      Site do Amazonas, acessado em 28/11/2016 <a
+      href="http://www.amazonas.am.gov.br/nosso-governo/">link</a>
+representative_1:
+  timestamp: '2017-12-01T15:08:17.739Z'
+  value:
+    firstName: Antônio Luiz
+    lastName: Menezes de Andrade
+    email: ecoluiz@sema.am.gov.br
+    companyTitle: >-
+      Secretário Executivo Adjunto da Secretaria de Estado do Meio Ambiente –
+      SEMA
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 1023
+        src: '1,023'
+    - id: '1997'
+      value:
+        value: 589
+        src: '589'
+    - id: '1998'
+      value:
+        value: 670
+        src: '670'
+    - id: '1999'
+      value:
+        value: 720
+        src: '720'
+    - id: '2000'
+      value:
+        value: 612
+        src: '612'
+    - id: '2001'
+      value:
+        value: 634
+        src: '634'
+    - id: '2002'
+      value:
+        value: 885
+        src: '885'
+    - id: '2003'
+      value:
+        value: 1558
+        src: '1,558'
+    - id: '2004'
+      value:
+        value: 1232
+        src: '1,232'
+    - id: '2005'
+      value:
+        value: 775
+        src: '775'
+    - id: '2006'
+      value:
+        value: 788
+        src: '788'
+    - id: '2007'
+      value:
+        value: 610
+        src: '610'
+    - id: '2008'
+      value:
+        value: 604
+        src: '604'
+    - id: '2009'
+      value:
+        value: 405
+        src: '405'
+    - id: '2010'
+      value:
+        value: 595
+        src: '595'
+    - id: '2011'
+      value:
+        value: 502
+        src: '502'
+    - id: '2012'
+      value:
+        value: 523
+        src: '523'
+    - id: '2013'
+      value:
+        value: 583
+        src: '583'
+    - id: '2014'
+      value:
+        value: 500
+        src: '500'
+    - id: '2015'
+      value:
+        value: 712
+        src: '712'
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Prodes <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2015n.htm">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: ''

@@ -1,0 +1,1107 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 148500
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1851.7
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 733559
+    string: ''
+  citation:
+    html: >-
+      IBGE. 2012. Censo Demográfico 2010. <a
+      href="http://www.ibge.gov.br">IBGE</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 7390000000
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      IBGE, 2012. <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ac&amp;tema=contasregionais2010">IBGE</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 10687.45
+    currency: BRL
+    string: ''
+  citation:
+    html: 'IBGE, 2012. <a href="http://www.ibge.gov.br">IBGE</a>'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.751
+    string: ''
+  citation:
+    html: >-
+      ACRE, 2011. Acre em Número 2011. <a
+      href="http://www.ac.gov.br/wps/portal/acre/Acre/home">link</a>
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 82
+    year: '2020'
+    string: ''
+  citation:
+    html: >-
+      ACRE, 2009. Plano de Prevenção e Controle do Desmatamento e Queimadas do
+      Estado do Acre - PPCD/AC.
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 164
+    year: '2020'
+    string: ''
+  citation:
+    html: >-
+      ACRE, 2009. Plano de Prevenção e Controle do Desmatamento e Queimadas do
+      Estado do Acre - PPCD/AC.
+deforestation_rate_target_value:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 108
+    string: ''
+  citation:
+    html: >-
+      ACRE, 2009. Plano de Prevenção e Controle do Desmatamento e Queimadas do
+      Estado do Acre - PPCD/AC.
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 164221
+    string: ''
+  citation:
+    html: >-
+      ACRE, 2010. Zoneamento Ecológico Econômico do Estado do Acre Fase II
+      (Escala 1:250.000) <a
+      href="http://www.agencia.ac.gov.br/images/stories/downloads/zee/doc_sintese.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 164221
+    string: ''
+  citation:
+    html: >-
+      ACRE, 2010. Zoneamento Ecológico Econômico do Estado do Acre Fase II
+      (Escala 1:250.000). <a
+      href="/assets/downloads/GCFF/database/Acre%20-%20ZEE.pdf">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Agriculture, Forestry, Meat, Fishing'
+  citation:
+    html: >-
+      ACRE, 2011. Acre em Números 2011 <a
+      href="http://www.ac.gov.br/wps/portal/acre/Acre/home">link</a>
+txt_state_description:
+  timestamp: '2017-12-27T20:21:27.774Z'
+  value:
+    html: >-
+      <p>Acre is one of Brazil´s Federal Units with an area of 164.123.040 km2
+      and is divided into 22 municipalities. The population estimate for the
+      year 2014 was 790,101 with a population density of 4.47 inhabitants/km²,
+      and the projection for the year 2030 is 972,464 inhabitants. Despite its
+      small area, Acre has an immense biological wealth resulting from its
+      geological and climatic conditions. With altitudes ranging from 250 to 580
+      meters, the landscape contains hills and plateaus inherited from its
+      paleogeographical evolution, and wetlands and flood areas with typical
+      vegetation types. The climate is characterized by two distinct periods: a
+      “summer” with temperatures between 24,5 and 32o C, 1.600 to 2.750 mm of
+      rainfall per year and high humidity, and a dry “winter” that may extend
+      for up to 3 months. Acre has over 87% of its original forest intact, of
+      which 47% are protected areas, 14% indigenous lands and 33% conservation
+      units, demonstrating the conservation strategy adopted in its development
+      policy and maintaining a rich biodiversity under canopy of different
+      forest formations.</p><p>The state of Acre is one of the most advanced
+      REDD jurisdictions in the world. In 2010, Acre enacted its landmark Law
+      2.308/2010, creating a State System of Incentives for Environmental
+      Services (SISA), with REDD as the centerpiece. It provides an innovative,
+      jurisdiction-wide approach to low-carbon rural development. The SISA
+      establishes a set of principles, policies, institutions, and instruments
+      for building an effective program for achieving environmental
+      sustainability through ecosystem services incentives. It is designed to
+      promote public-private initiatives to achieve the state’s goals with
+      respect to ecosystem services. Notably, Acre established its SISA law
+      through in-depth consultation with local stakeholders and civil society,
+      in compliance with national level REDD+ safeguards principles and
+      criteria.</p><p>Acre´s state government has chosen a different development
+      model, exploring the natural resources wisely, aware of the need to
+      preserve this valuable natural capital. Over the last fifteen years, the
+      state government has been innovating with a green economy model, reducing
+      deforestation, increasing its GDP and revolutionizing with
+      socio-productive inclusion. Starting from Acre´s Ecological-Economic
+      Zoning (ZEE), the Valuation of Forest and Environmental Assets Policy was
+      passed into state law (Law 2.2204/2008), with the main objective of
+      ensuring the sustainable use and proper management of the territory with
+      social and economic inclusion. This policy has contributed to the
+      mitigation and adaptation to climate change, and the consequent reduction
+      of greenhouse gas emissions.</p><p>Acre State Government has the
+      implementation of its Prevention and Control of Deforestation, Burning and
+      Forest Fires Plan (PPCDQ) as one of its main policy instruments aimed at
+      reducing the impacts of climate change. This plan establishes guidelines,
+      goals and actions until 2030, for territorial and land planning,
+      productive chains and sustainable practices, and monitoring, control and
+      surveillance. In the period 2004-2014, the state showed a 57% reduction in
+      deforestation compared to the average for the decade 1995-2004, with
+      average annual increment of 300 km² (PRODES, 2014)</p><p>Additional
+      information can be found on the <a
+      href="http://gcfimpact.org/states?region=3212,states"><strong>GCF Impact
+      Platform.</strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-09T19:11:53.495Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies</strong></p><p><a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Acre.pdf"><em>Plan
+      for Prevention and Control of Deforestation (PPCD)</em></a><a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Acre.pdf"><em>
+      </em>-</a> Acre's PPCD was completed in 2010 and focuses on three areas 
+      i) monitoring, control and surveillance, ii) territorial and land planning
+      and iii) agroforestry production chains and sustainable practices.
+      </p><p><em>State System for Environmental Services (SISA) -</em> The state
+      of Acre pioneered SISA which created the first jurisdictional, state level
+      REDD+ program.   SISA was created by<a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Acre%20-%20SISA.pdf">
+      State Law 2.308/2010</a>and covers carbon sequestration, maintenance of
+      water and hydrological services, conservation of soils, conservation of
+      biodiversity, and valuation of traditional knowledge.  The SISA law
+      created a number of institutions to administer the system and procure
+      funding for it. Among these are the Institute of Climate Change and
+      Regulation of Environmental Services (IMC), which regulates SISA and
+      registers and monitors private REDD+ projects; the Commission for
+      Validation and Accompaniment (CEVA), which monitors SISA and approves
+      regulations, norms and implementation approaches.</p><p>Within SISA Acre
+      has developed Program of Incentives for Environmental Services-Carbon
+      (ISA-Carbono). The program is designed to include the entire state
+      territory, incorporating regional and thematic sub-programs as well as
+      special REDD projects. Regional sub-programs are related to REDD actions.
+      One sub-program identifies priority areas in those areas most at risk for
+      deforestation, to date encompassing 5.4 million ha over 8 areas. Thematic
+      sub-programs to address or develop REDD actions in indigenous territories
+      and protected areas will be designed, depending on the priorities
+      identified by the government. Special REDD projects are associated with
+      REDD actions carried out in areas such as private properties or individual
+      protected areas or similar land categories.</p><p>The ISA-Carbono Program
+      is comprised of 2 sets of main interventions, including (1) direct
+      assistance and regulatory actions such as technical extension, community
+      organization, fire control, and improvement of monitoring and control
+      mechanisms, and (2) incentives for environmental services directed to
+      improving the productivity of deforested areas as well as to promote
+      sustainable use of forests and protection of forests for stakeholders such
+      as indigenous peoples, extractivist families and small households in
+      settlement projects. Program governance is carried out by 3 entities: (1)
+      a multi-stakeholder commission to supervise the program, (2) a government
+      institute for regulation, monitoring and carbon registry, and (3) an
+      agency (CDSA) for environmental services development—a private-public
+      business to fundraise for and implement the
+      ISA-Carbono.</p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Acre%20-%20Nesting%20Protocol.pdf"><em>IMC
+      Regulation 01 (October 26, 2015)</em></a> - regulates law 2308 and creates
+      a protocol for nesting projects into the state program</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_decree_1_471_2011.pdf"><em>Decree
+      1.471</em><em> 2011</em></a> - Establishes the basic organizational
+      structure of the Institute on Climate Change and Regulation of
+      Environmental Services.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Acre%20-%20SISA.pdf"><em>Law
+      2308 (October 22 2010</em>)</a> - Created jurisdictional REDD+ program
+      through the State System of Environmental Services (SISA), the Incentive
+      Program for Environmental Services - Carbon (ISA Carbono)  and other
+      Ecosystem Services </p><p><a
+      href="http://www.ac.gov.br/wps/wcm/connect/6007d48043b6885b80148c58119a6522/CartilhaFinal-Com-index.pdf?MOD=AJPERES"><em>Decree
+      3416</em></a><em> (Sept 12, 2008)</em> – Environment Liability of Private
+      Properties - defines the mechanisms for environmental liability of private
+      properties in Acre - fully functional</p><p><a
+      href="http://www.ac.gov.br/wps/wcm/connect/6007d48043b6885b80148c58119a6522/CartilhaFinal-Com-index.pdf?MOD=AJPERES"><em>Decree
+      3414</em></a><em> (Sept 12, 2008</em>) – Forest Recovery Decree -
+      regulates reforestation or forest recovery activities related to timber
+      exploration - fully functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_law_2025_2008.pdf"><em>Law
+      2025</em></a><em> (Oct 20, 2008)</em> – Small Household Properties
+      Certification program - regulates environmental services incentives for
+      sustainably managed small household properties, creating a bonus for
+      families that phase-out the use of fires and deforestation - fully
+      functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_law_1904_2007.pdf"><em>Law
+      1904</em></a><em> (Jun 5, 2007)</em> - EEZ - created the Ecological
+      Economical Zoning plan as a guideline for development - fully
+      functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_law_1426_2001.pdf"><em>Law
+      1426</em></a><em> (Dec 27, 2001)</em> – Forest Law - regulates
+      conservation and management of forests, creating the State Protected Areas
+      System, the Forest Council and Forest Fund; addresses forest concessions
+      as well - fully functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_law_1277_1999.pdf"><em>Law
+      1277</em></a><em> (Jan 3, 1999)</em> – Chico Mendes Law - establishes
+      environmental services payments to extractive families through subsidy
+      payments on rubber and other extractive products- fully functiona</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_law_1235_1997.pdf"><em>Law
+      1235</em></a><em> (Jul 9, 1997)</em> – Biodiversity Law - regulates access
+      to biodiversity and establishes instruments for the control of access to
+      genetic resources - dependent on Federal Regulation</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_law_1117_1994.pdf"><em>Law
+      1117</em></a><em> (Jan 26, 1994) </em>– State Environmental Policy -
+      creates the foundation of the State’s environmental policy - fully
+      functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/acre/acre_law_1022_1992.pdf"><em>Law
+      1022</em></a><em> (Jan 21, 1992)</em> - State Environment, Technology and
+      Science System - creates the System composed by IMAC, SEMA and FUNTAC and
+      the Environment, Science and Technology Council - fully functional</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-10-31T16:51:13.455Z'
+  value:
+    html: >-
+      <p><strong>State Secretariat for Forests (SEF) </strong>– - Oversees the
+      Agency for Development of Environmental Services; potential beneficiary of
+      REDD benefits in State Forests.</p><p><strong>State Secretariat for
+      Agriculture and Ranching (SEAP)</strong> – Responsible for engaging owners
+      of mid-size to large properties in the program</p><p><strong>State
+      Environmental Secretariat (SEMA)</strong> – coordinates the IES-Carbon
+      Program; contributes to monitoring to avoid severe degradation of forests
+      under the REDD Program</p><p><strong>Geoprocessing Unit (UCEGEO)</strong>
+      – responsible for deforestation monitoring in REDD
+      areas</p><p><strong>State Institute for the Environment (IMAC)</strong>  –
+      responsible for enforcement in REDD areas</p><p><strong>Institute of
+      Climate Change (IMC) </strong>- Established in 2010, responsible for
+      oversight of SISA.  </p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-10-31T16:43:51.863Z'
+  value:
+    html: >-
+      <p>Ecological and Economic Zoning (<em>Zoneamento Ecológico-Econômico –
+      </em><em>ZEE)</em> is required by the Federal Government to designate
+      areas for economic and conservation activities within each state’s
+      territory.  The first phase of the ZEE for Acre was completed in 2007, and
+      the <a
+      href="http://www.amazonia.cnptia.embrapa.br/publicacoes_estados/Acre/Fase%202/Documento_Sintese.pdf">second
+      phase was completed in 2010</a> and normalized via<a
+      href="https://www.legisweb.com.br/legislacao/?id=116435"> state law  nº
+      1.904</a>.  It includes 4 zones - productive systems (agriculture,
+      silviculture), sustainable use of natural resources and environmental
+      protection (protected areas), priority territorial planning areas
+      (indigenous territories) and urban areas. The ZEE has been <a
+      href="http://www.mma.gov.br/images/arquivo/80032/Estados/Informacoes%20do%20ZEE.pdf">approved
+      by the Federal Government</a>.</p>
+  citation:
+    html: ''
+frameworksSafeguards:
+  timestamp: '2017-10-18T15:37:58.097Z'
+  value:
+    html: >-
+      <p><strong>Land/forest tenure administration and relation with
+      REDD</strong></p><p>1. Legal support and protection of forest
+      tenure</p><p>In federal areas such as Extractive Reserves (Resex), the
+      Interministerial Decree No. 13(published on September 19, 2002) aimed to
+      recognize the traditional populations in Resex, as recipients of the
+      National Plan for Agrarian Reform - PNRA, following the operational
+      procedures adopted by INCRA and IBAMA. Based on Norm #40 of March 30,
+      2004, residents of Resex were declared as beneficiaries of agrarian
+      reform, with full rights to credits designated to any household family in
+      a Settlement Project.</p><p>The Land Institute of Acre - ITERACRE, created
+      by Law #1373 of 04 March 2001, is the agency responsible for agrarian
+      policy in the State, land tenure regulation and zoning, development of the
+      State’s Land Registry, and mediation of conflicts over land ownership in
+      areas under the State's jurisdiction.</p><p>Forest management in Acre is
+      regulated by Law #1426 (December 27, 2001) known as the Forest Law.
+      Currently, the Federal Law #11284 of March 2, 2006 (Forest Management Act)
+      and the State Forest Law authorize Forest Concessions, with the obligation
+      to draw up an Annual Forest Concession Plan - PAOF. The main objective of
+      the Acre PAOF in 2009 was to make two state forests available for
+      concessions. The communities living in state forests had their land rights
+      recognized and a title for usufruct was granted to these
+      communities.</p><p>Regarding Indigenous People’s rights to land, the
+      Brazilian Constitution defines the rights of indigenous peoples to their
+      lands as a right acquired prior to the existence of the Brazilian State
+      and also ensures respect for their social organization, customs,
+      languages, beliefs and traditions.</p><p>2. Clear responsibilities,
+      capacity and authority for forest tenure administration</p><p>Considering
+      that most of Acre’s territory is located in range of the Peruvian and
+      Bolivian borders, and is thus under federal authority, only 14.6% of the
+      land is under Acre State’s jurisdiction (ITERACRE). In the nearly 85% of
+      the territory jurisdiction, INCRA (National Agrarian Reform Institute) is
+      responsible for land tenure regulation.</p><p>FUNAI is a federal
+      institution under the Ministry of Justice, responsible for public policies
+      involving indigenous peoples, with the prerogative to promote the
+      protection and demarcation of indigenous territories as well the
+      protection of the inheritance of these peoples.</p><p>3. Actions planned
+      or developed by governments to solve issues related to land tenure
+      uncertainties within REDD priority areas</p><p>Following the agreement
+      between the State Government and INCRA in 2008, the relationship of state
+      environmental and territorial agencies has been evolving with the regional
+      INCRA office in Acre into a more effective collaboration for regulation of
+      settlement projects. The cooperation has strengthened the development of
+      management plans for these areas and enabled easier access to credit for
+      members of the settlement communities.</p><p>The federal Ministry for
+      Agrarian Development and the government of Acre announced an agreement of
+      $13.5 million from the Legal Land Program for activities related to
+      regulation of land tenure on rural properties in the state of Acre and
+      public areas located along the BR-364 highway between Sena Madureira and
+      Cruzeiro do Sul.</p><p>The Environmental Licensing of Rural Properties
+      System (MLAPR) within the Environment Institute of Acre (IMAC) is a rural
+      environmental registry that can be used as a tool for land tenure
+      regulation. The Sustainable Rural Property Certification Project, which
+      provides incentives (bonuses and inputs) to adopt more sustainable
+      production practices (including eliminating the use of fire and
+      deforestation), is also intended to assist farmers in achieving compliance
+      with environmental regulations. Through this project, small household
+      farmers make a multi-year land use plans for their properties on a
+      voluntary basis, receiving technical assistance and an annual incentive
+      called a bonus.</p><p>4. Relationship between forest tenure resolution and
+      REDD objectives/actions</p><p>5. Recognition of communities and indigenous
+      peoples’ rights</p><p>The State of Acre has advanced with respect to land
+      tenure regulation within Extractive Reserves as well as granting real
+      right of use to residents in state lands.</p><p>By 2009, 28 Indigenous
+      Territories (TI) for 14 indigenous peoples with an estimated population of
+      12,720 individuals have been recognized in the state of Acre. Another 6
+      areas are in the process of being identified. Together, these areas
+      comprise a total of 2,320,232 ha (14.1% of the state's
+      territory).</p><p>6. Participation of communities and indigenous peoples
+      in forest tenure definition</p><p>In order to create protected areas
+      (conservation units and indigenous territories), public consultation to
+      define the concession of use of public land to the local population is
+      carried out since the land title belongs to the State but right of use is
+      ceded to inhabitants.</p><p>INCRA is responsible for Agrarian Land Reform
+      Settlement Projects, which involve consultation processes and
+      establishment of a landless families’ registry. INCRA defines a process
+      where the concession of use is given to a household for a transitional
+      period of time before the legal land title is authorized, depending on the
+      performance of the settled family.</p><p>7. Definition of legal aspects
+      related to property and rights to forest carbon in REDD project
+      areas.</p><p>- In progress.</p><p>8. Conflict resolution measures in
+      place.</p><p>The principle instruments to address conflict related to land
+      tenure are the State Zoning (EEZ) plan and its land use guidelines as well
+      as the land uses defined by the State Policy Councils (Environment,
+      Science and Technology Council, State Council for Forests, and Sustainable
+      Forest and Rural Development Council).</p><p><strong>Transparency and
+      participation mechanisms</strong></p><p>1. Actions taken to guarantee
+      free, prior and informed consent</p><p>The draft Environmental Services
+      Incentives System (SISA) law creates an institutional arrangement that
+      includes a Hearing Body to receive claims and mediate conflicts. Another
+      level of participation and social control is represented by the Follow-up
+      Commission formed by government and non-government representatives chosen
+      among members of the 3 State Councils (Environment, Forest, and Rural
+      Development).</p><p>2. Mechanisms for consultation and continuous
+      participation addressed</p><p>- Meetings with key NGOs in design
+      phase</p><p>Consultation process:</p><p>- Invitation letters for the
+      consultation process sent to 120 individuals from more than 72 local,
+      national, and international organizations</p><p>- Meetings: 5 meetings
+      with 40 individuals from local organizations</p><p>- Workshops: 3 3-day
+      workshops attended by 80 potential beneficiaries</p><p>- Seminar: 32
+      people from 10 national and international civil society organizations and
+      7 Government Secretaries</p><p>- Written feedback: 3 written comments sent
+      by email</p><p>Implementation phase (in development):</p><p>- IES Program
+      Follow-up Commission: program supervision</p><p>- IES Program Hearing
+      Body: claims and complaints regarding program execution</p><p>The
+      consultation process will be a continuous, iterative process. Therefore,
+      the sub-programs and projects of the IES Program will be designed in a
+      participatory manner with the beneficiaries and will be supervised by a
+      Local Follow-up Committee composed of representatives of the
+      beneficiaries.</p><p>3. Information on transparency of REDD
+      program</p><p>- Available information: Document describing the first
+      version of the program (printed and digital)</p><p>- Media used: Email
+      (invitation for participating in consultation process) and Government
+      website</p><p>- Public access: Government website (removed after the third
+      month and not put up again)</p><p><strong>Benefit sharing
+      mechanisms</strong></p><p>1. Describe the broad picture of how REDD
+      program addresses social and economic well-being of forest dependent
+      communities</p><p>The IES-Carbon Program is founded on the concept of
+      incentives for environmental services (IES), which are defined as the
+      costs of actions and interventions that result in the maintenance and/or
+      increase in the provision of environmental services. The program is
+      founded on the belief that this approach is essentially dealing with
+      poverty reduction. Incentives are designed to increase the income and
+      productivity of agricultural and forestry production systems, which, in
+      conjunction with increased command-and-control measures, will lead to
+      reduced pressure on forests, thereby assuring the continued provision of
+      environmental services.</p><p>The IES differs from the payments for
+      environmental services (PES) concept because the service provider is not
+      being remunerated for the environmental service. The service provider is
+      receiving resources that allow him/her to redirect his/her land use toward
+      a more sustainable model.</p><p>2. Description of the PES or benefit
+      sharing mechanisms currently in place or planned (concrete
+      elements)</p><p>The Program has established guidelines for the development
+      of REDD actions within the state that differ for distinct social and/or
+      cultural groups. The IES are proposed to offset either entirely or
+      partially the costs of actions including:</p><p>- Increasing productivity
+      of degraded areas as a way of reducing pressure on forestlands and
+      generating income;</p><p>- Sustainable use of forests as a form of
+      conserving forestlands and generating income;</p><p>- Forest protection as
+      a strategy to diminish the risks associated with forest
+      degradation;</p><p>- Restoration of degraded areas through reforestation
+      and establishment of agroforestry systems, restoring environmental
+      services and producing economically valuable forest assets.</p><p>The
+      value of the incentives will be determined in the context of each
+      sub-program or project through a process of consultation and participatory
+      design with the stakeholders.</p><p>3. Describe evidence of participation
+      of stakeholders in the development of the mechanisms</p><p>The
+      multi-stakeholder consultation process included discussions on the
+      possible activities that could be supported within each incentive as well
+      as the range of values these incentives should span. It is hoped that the
+      Institute responsible for developing the ToR for the development of the
+      subprograms and projects consider these references.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>The majority of deforestation in Acre occurs along primary and
+      secondary roads as well as rivers. The main driver of deforestation in
+      Acre is cattle ranching (occupying 70% of the total area deforested in
+      1989 and increasing to 81% in 2004). Factors such as land speculation,
+      lack of zoning and formal designation of public lands, profitability of
+      cattle ranching, and subsidized loans for ranching have created incentives
+      for deforestation throughout the Amazon, including Acre. Historically, the
+      main agents of deforestation agents were owners of mid-size and large
+      farms and ranches, but in recent years smallholder farmers have
+      contributed significantly to deforestation in Acre. The pavement of the
+      BR-317 (completed in 2007) and BR-364 (scheduled completion in 2011)
+      highways now connect the southwestern Amazon (including Acre) to Peruvian
+      Pacific coast harbors and is likely to lead to increased deforestation.
+      The risk of deforestation is likely to be most intense along the BR-364
+      from Sena Madureira to Cruzeiro do Sul.</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: b8eed930-b361-11e7-81f0-8fea1a2d7900
+      timestamp: '2017-10-31T17:03:20.873Z'
+      name:
+        value:
+          string: Peixes da Amazônia (Fish of the Amazon)
+      description:
+        value:
+          html: >-
+            <p>The Fish of the Amazon is an industrial complex that brings
+            together the private sector, states, and local communities to
+            support low emission development.</p>
+      partners:
+        value:
+          string: 'Amazon Fund, BNDES'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: In operation
+    - id: d3b762a0-b361-11e7-81f0-8fea1a2d7900
+      timestamp: '2017-10-27T16:48:38.972Z'
+      name:
+        value:
+          string: Under2MoU
+      description:
+        value:
+          html: >-
+            <p>The Under2 MOU is a climate agreement that brings together
+            subnational governments willing to make a number of key commitments,
+            including reducing greenhouse gas emissions equivalent to 80 to 95
+            percent below 1990 levels or less than 2 tonnes metric per capita by
+            2050. The signatories also committed to setting initial targets
+            necessary to support long-term reduction targets, sharing
+            technology, scientific research and best practices to promote energy
+            efficiency and renewable energy and transport. The Under2MoU will
+            support consistent monitoring, reporting and verification of
+            signatories emissions and assess the projected impacts of climate
+            change on communities.</p>
+      partners:
+        value:
+          string: '187 jurisdictions '
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Climate Commitment
+      initiativeStatus:
+        value:
+          string: Signed
+    - id: 18e817c0-b362-11e7-81f0-8fea1a2d7900
+      timestamp: '2017-10-17T17:39:16.412Z'
+      name:
+        value:
+          string: Acre Rubber Purchase Agreement - Folha Desfumada Liquida
+      description:
+        value:
+          html: >-
+            <p>The company VERT / VEJA has agreed to 10 year purchase agreement
+            native rubber (Liquid smoke sheet-FDL) from extractavists in Acre. 
+            In total a 90 tonne purchase agreement from sustainable rubber
+            extractivists through 2020</p>
+      partners:
+        value:
+          string: Empresa VERT/VEJA (France)
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Private investment, Preferential sourcing'
+      initiativeStatus:
+        value:
+          string: 30 tonnes purchased
+    - id: 27f51250-bb36-11e7-81f0-8fea1a2d7900
+      timestamp: '2017-10-27T16:47:14.523Z'
+      name:
+        value:
+          string: Acre Progestão
+      description:
+        value:
+          html: <p>Funding to strengthen state water resources management.</p>
+      partners:
+        value:
+          string: ANA
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: '3,750,000'
+      initiativeType:
+        value:
+          string: 'Public Investment, Technical Assistance Partnership'
+      initiativeStatus:
+        value:
+          string: UUnder implementation (2014-2018)
+    - id: 4d50f9b0-bb36-11e7-81f0-8fea1a2d7900
+      timestamp: '2017-10-27T16:48:19.650Z'
+      name:
+        value:
+          string: Constituição 3
+      description:
+        value:
+          html: >-
+            <p>$80 million reais investment in Public Private Partnership to
+            develop low carbon animal protein value chain.  Will support the
+            design of 3 low carbon animal protein enterprises (aquaculture, pork
+            and poultry) through a public-private public partnership.</p>
+      partners:
+        value:
+          string: Kaeté Investments (FIP)
+      fundingSource:
+        value:
+          string: Kaeté Investments (FIP)
+      fundingAmount:
+        value:
+          string: '80,000,000'
+      initiativeType:
+        value:
+          string: 'Public Private Partnership, Private Investment'
+      initiativeStatus:
+        value:
+          string: Consolidating portfolio
+    - id: 496baea0-ce0d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T16:10:11.978Z'
+      name:
+        value:
+          string: Valuation Of Forest Environmental Assets
+      description:
+        value:
+          html: >-
+            <p>1. Modernization of the central geoprocessing and remote sensing
+            unit - UCEGEO<br>2. Strengthening of the Acre Environmental
+            Institute - IMAC<br>3. Strengthening the forest state secretariat
+            for forest management<br>4. Elaboration of plans for the prevention
+            and control of deforestation and municipal burnings<br>5. Landing
+            network services to promote productive chains and reduce
+            deforestation<br>6. Promotion of implementation of agroforestry
+            systems and management plan for multiple use of certified production
+            forests<br>7. Incentives to reduce emissions from deforestation
+            (endangered forests)<br>8. Incentives for the conservation and
+            sustainable use of the forest<br>9. Incentives for carbon
+            sequestration via reforestation</p>
+      partners:
+        value:
+          string: Amazon Fund / BNDES
+      fundingSource:
+        value:
+          string: Public Investment
+      fundingAmount:
+        value:
+          string: '$ 57 million reais investment '
+      initiativeType:
+        value:
+          string: 'Public Investment, Technical Assistance Partnership'
+      initiativeStatus:
+        value:
+          string: In implementation (2010-2017)
+    - id: b36b4d60-ce0d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T16:13:09.814Z'
+      name:
+        value:
+          string: >-
+            Program To Support The Implementation Of The Rural Environmental
+            Registration And The Adherence To The Program Of Environmental
+            Regularization
+      description:
+        value:
+          html: >-
+            <p>1. Support to developing state legal framework<br>2. Improvement
+            of infrastructure and training of state environmental agencies and
+            technical assistance for the implementation and management of CAR
+            and PRA<br>3. Promotion and Support for CAR Registration<br>4.
+            Promotion and Support for the Accession of Rural Properties to
+            PRA</p>
+      partners:
+        value:
+          string: Amazon Fund / BNDES
+      fundingSource:
+        value:
+          string: Public investment
+      fundingAmount:
+        value:
+          string: '$ 16.8 million reais investment '
+      initiativeType:
+        value:
+          string: 'Public Investment, Technical Assistance Partnership'
+      initiativeStatus:
+        value:
+          string: In implementation (2013-2018)
+    - id: e44eddc0-ce0d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T16:14:31.836Z'
+      name:
+        value:
+          string: PDSA II
+      description:
+        value:
+          html: >-
+            <p>1.Expansion and consolidation of protected areas and community
+            forests for sustainable use<br>2. Promotion of Competitive and
+            Sustainable Forest and Agroforestry Value Chains<br>3. Support
+            mechanisms to promote the development of value chains<br>4.
+            Strengthening Public Forest and Agroforestry Management</p>
+      partners:
+        value:
+          string: 'Inter-American Bank (IDB) '
+      fundingSource:
+        value:
+          string: Public Investment
+      fundingAmount:
+        value:
+          string: $ 238 million Reais loan
+      initiativeType:
+        value:
+          string: Public Investment
+      initiativeStatus:
+        value:
+          string: In implementation (2013-2018)
+    - id: 1f3991a0-ce0e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T16:16:10.682Z'
+      name:
+        value:
+          string: Rio Branco Declaration
+      description:
+        value:
+          html: >-
+            <p>The declaration formalizes our commitment to continue to reduce
+            deforestation, to develop partnerships with private sector
+            initiatives that leverage the opportunities available through
+            jurisdictional programs, and to channel, in a timely and effective
+            manner, performance-based funds to forest-based economic development
+            that respects forests for producers, foresters, farmers, ranchers,
+            indigenous peoples, local communities and other forest stakeholders.
+            To achieve this goal, it is imperative that we have greater access
+            to financial and technical support and, more importantly, domestic
+            and international market and non-market opportunities for emissions
+            reductions achieved by our programs.</p>
+      partners:
+        value:
+          string: Governors' Climate and Forest Task Force
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Climate Commitment
+      initiativeStatus:
+        value:
+          string: 'Signed statement '
+    - id: 5caf8440-ce0e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T16:17:53.796Z'
+      name:
+        value:
+          string: Unlocking Forest Finance Portfolio
+      description:
+        value:
+          html: >-
+            <p>Participating stakeholders include NGOs, institutes working with
+            environmental and social safeguards, financial sector experts and
+            strategic advisers.Financial and private sector participants include
+            Credit Suisse, European Investment Bank and Althelia Ecosphere. The
+            UFF project is managed by the Global Canopy Program, a UK non-profit
+            organization with a strong track record of implementing
+            international projects to reduce tropical deforestation.
+            http://globalcanopy.org/sites/default/files/documents/resources/ACRE%20Exec%20Summary_WEB.pdf</p>
+      partners:
+        value:
+          string: Global Canopy Programme
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Finance Initiative
+      initiativeStatus:
+        value:
+          string: Published
+    - id: c532aa40-ce10-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-28T15:59:59.961Z'
+      name:
+        value:
+          string: REDD Early Movers Phase 1 and 2
+      description:
+        value:
+          html: >-
+            <p>REDD Early Movers is a global program of the German government,
+            which seeks to reward early entrepreneurs through results-based
+            payments. As a REDD pioneer, Acre has established the first
+            agreement through the REM program, receiving payments for reductions
+            made from 2012-2015. Through this program, Acre voluntarily withdrew
+            additional tCO2 for each tC02 compensated by the REM
+            program.&nbsp;</p><p>Acre signed the second phase of the REM program
+            with the governments of Germany and the UK in November of 2017 at
+            COP 23. The REDD Early Movers is a global program of the German
+            government, which seeks to reward early entrepreneurs through
+            payments based in results. As a REDD pioneer, Acre has established
+            the first agreement through the REM program, receiving payments for
+            reductions made from 2012-2015. Through this program, Acre
+            voluntarily withdrew additional tCO2 for each tC02 compensated by
+            the REM program.</p>
+      partners:
+        value:
+          string: 'KfW (Germany), DECC (UK)'
+      fundingSource:
+        value:
+          string: 'KfW (Germany), DECC (UK)'
+      fundingAmount:
+        value:
+          string: >-
+            Phase 1 - 25 million euros in performance based payments; Phase 2 -
+            up to 30 million euros in performance based payments
+      initiativeType:
+        value:
+          string: Payment for Performance Finance
+      initiativeStatus:
+        value:
+          string: 23.5 million euros received; Phase 2 contract signed at COP23
+    - id: 7cff4700-ce11-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T16:40:16.496Z'
+      name:
+        value:
+          string: GEF- Acre Project for Sustainable Landscape Investments
+      description:
+        value:
+          html: >-
+            <p>Funding for activities to protect biodiversity of global
+            importance and implement policies and actions that encourage
+            sustainable landscape management and forest restoration.</p>
+      partners:
+        value:
+          string: GEF
+      fundingSource:
+        value:
+          string: Public Finance
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Public Finance Initiative'
+      initiativeStatus:
+        value:
+          string: >-
+            Contract expected to be signed October 2017, project will last 6
+            years
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 72.6
+        src: '72.6'
+    - id: 2
+      value:
+        value: 27.4
+        src: '27.4'
+  citation:
+    html: >-
+      IBGE. 2012. Censo Demográfico 2010. <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=ac">IBGE</a>
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 66.3
+        src: '66.3'
+    - id: a2
+      value:
+        value: 23.9
+        src: '23.9'
+    - id: a3
+      value:
+        value: 5.8
+        src: '5.8'
+    - id: a4
+      value:
+        value: 2.2
+        src: '2.2'
+    - id: a6
+      value:
+        value: 1.9
+        src: '1.9'
+  citation:
+    html: >-
+      IBGE.2012. Censo Demográfico 2010. <a
+      href="http://www.ibge.gov.br">IBGE</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 69
+        src: '69'
+    - id: a2
+      value:
+        value: 18.6
+        src: '18.6'
+    - id: a4
+      value:
+        value: 12.4
+        src: '12.4'
+    - id: a5
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      ACRE, 2011. Acre em Números 2011 <a
+      href="http://www.ac.gov.br/wps/portal/acre/Acre/home">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-06T22:27:23.472Z'
+  values:
+    - id: u2017b
+      value:
+        value: 143004
+        src: null
+    - id: u2017c
+      value:
+        value: 14030
+        src: null
+    - id: u2017d
+      value:
+        value: 3710
+        src: null
+    - id: u2017e
+      value:
+        value: 3290
+        src: null
+    - id: u2017a
+      value:
+        value: 68
+        src: null
+  citation:
+    html: TerraClass 2014
+forest_management:
+  timestamp: '2017-12-06T22:02:31.379Z'
+  values:
+    - id: u2017b
+      value:
+        value: 95822
+        src: null
+    - id: u2017a
+      value:
+        value: 52678
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 87.4
+        src: '87.4'
+    - id: 2
+      value:
+        value: 12.6
+        src: '12.6'
+    - id: 3
+      value:
+        value: 0.7
+        src: '0.7'
+  citation:
+    html: >-
+      INPE, 2013. PRODES <a
+      href="http://www.dpi.inpe.br/prodesdigital/prodesmunicipal.php">link</a>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Sebastião Afonso
+    lastName: Viana Macedo Neves
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      Portal do Governo do Acre, acessado em 28/11/2016 <a
+      href="http://www.ac.gov.br/wps/portal/acre/Acre/governo-estado/governador">link</a>
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Magaly
+    lastName: Medeiros
+    email: magalymedeiros@gmail.com
+    companyTitle: |
+      Chief Executive Officer, Institute of Climate Change (IMC)
+  citation:
+    html: '-'
+representative_2:
+  timestamp: '2017-12-01T15:07:18.920Z'
+  value:
+    firstName: Alberto
+    lastName: Tavares
+    email: dandetavares01@gmail.com
+    companyTitle: 'Director, CDSA'
+  citation:
+    html: '-'
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 433
+        src: '433'
+    - id: '1997'
+      value:
+        value: 358
+        src: '358'
+    - id: '1998'
+      value:
+        value: 536
+        src: '536'
+    - id: '1999'
+      value:
+        value: 441
+        src: '441'
+    - id: '2000'
+      value:
+        value: 547
+        src: '547'
+    - id: '2001'
+      value:
+        value: 419
+        src: '419'
+    - id: '2002'
+      value:
+        value: 883
+        src: '883'
+    - id: '2003'
+      value:
+        value: 1078
+        src: '1,078'
+    - id: '2004'
+      value:
+        value: 728
+        src: '728'
+    - id: '2005'
+      value:
+        value: 592
+        src: '592'
+    - id: '2006'
+      value:
+        value: 398
+        src: '398'
+    - id: '2007'
+      value:
+        value: 184
+        src: '184'
+    - id: '2008'
+      value:
+        value: 254
+        src: '254'
+    - id: '2009'
+      value:
+        value: 167
+        src: '167'
+    - id: '2010'
+      value:
+        value: 259
+        src: '259'
+    - id: '2011'
+      value:
+        value: 271
+        src: '271'
+    - id: '2012'
+      value:
+        value: 305
+        src: '305'
+    - id: '2013'
+      value:
+        value: 221
+        src: '221'
+    - id: '2014'
+      value:
+        value: 309
+        src: '309'
+    - id: '2015'
+      value:
+        value: 264
+        src: '264'
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Prodes <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2015n.htm">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      INPE, 2013. PRODES <a
+      href="http://www.obt.inpe.br/prodes/index.php">link</a>
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: >-
+      INPE, 2013. Monitoramento da Degradação Florestal na Amazônia Brasileira -
+      DEGRAD <a href="http://www.obt.inpe.br/degrad/">link</a>

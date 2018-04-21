@@ -1,0 +1,426 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 25400
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 238.5
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 6954036
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?lang=&amp;sigla=ma">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 67593000000
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      Instituto Maranhense de Estudos Socioeconômicos e Cartográficos <a
+      href="http://imesc.ma.gov.br/src/upload/publicacoes/PIB_EstadualVersaoDefinitiva_2013.pdf">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 509
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ma&amp;tema=renda_domic_percapita_2015">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.639
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ma&amp;tema=idhm">link</a>
+deforestation_rate_target_value:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 185
+    string: ''
+  citation:
+    html: PPCD-MA <a href="PPCD-MA">link</a>
+original_forest_area:
+  timestamp: '2017-12-06T23:02:50.777Z'
+  value:
+    value: 142597
+    string: ''
+  citation:
+    html: ''
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 331936.955
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?lang=&amp;sigla=ma">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Minério de ferro, alumínio, alumina, soja, ferrogusa'
+  citation:
+    html: >-
+      Plano Estadual do Maranhão <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Maranhxo.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-27T20:23:15.248Z'
+  value:
+    html: >-
+      <p>The State of Maranhão has surface areas of the order of 331 thousand
+      km², being the eighth largest state in Brazil and the second in the
+      Northeast in territorial extension. The State has 217 municipalities and
+      two Metropolitan Regions: Greater São Luis and Southwest Maranhense. The
+      Maranhão portion of Amazonia Legal covers an area equivalent to 80% of the
+      territorial area of the State, about 264,000 km². In this area are located
+      188 municipalities of Maranhão.</p><p>The State has five Geographical
+      Meso-regions, subdivided into 21 Geographic Microregions, where its 217
+      municipalities are insertedThe municipal boundaries were established based
+      on IBGE Resolution No. 05 of October 10, 2002. </p><p>Deforestation is
+      concentrated in an area called the 'Deforestation Arc' , passing through
+      Tocantins, part of Pará and Mato Grosso, the entire state of Rondônia, the
+      south of the Amazonas arriving at Acre. According to the Forest Code, the
+      region delimited by the Legal Amazon rules on the use of rural property,
+      as properties within the Legal Amazon are obliged to maintain 80% of the
+      area as<br />legal reserve in the Amazon Biome and 35% in the Cerrado
+      biome. Those located properties outside the limits of the Legal Amazon
+      need to conserve 20% of the property as reservation.<br />The territory of
+      Maranhão consists of the biomes Amazônia, Cerrado and Caatinga, which
+      gives it great morphological and environmental diversity.
+      </p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=3221,states"><strong>GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T16:32:09.980Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/maranhao/maranhao_plan_for_prevention_and_control_of_deforestation.pdf"><em>Plan
+      for Prevention and Control of Deforestation (PPCD)</em></a><a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Acre.pdf"><em>
+      </em>-</a> Maranhao's PPCD was formalized in 2011 through Decree 27.317.
+      For each planning and execution period, the Plan indicate areas of<br
+      />intervention priorities, centered on four thematic areas:Regularization
+      and Land Planning, Monitoring and Control, Promoting Sustainable
+      Activities, and Governance, Information Management and
+      Transparency.</p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/maranhao/maranhao_law_10_595.pdf"><em>Law
+      No. 10.595 of 24/5/2017</em></a> -  Creates the &quot;Maranhão Verde&quot;
+      Programme, aimed at promoting and developing projects to support
+      conservation and environmental recovery. </p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/maranhao/maranhao_law_10444.pdf"><em>Law
+      10.444 of 05/05/2016</em></a> - Establishes the State Policy for Technical
+      Assistance and Rural Extension for Agriculture Family and Agrarian Reform
+      - PEATER / MA and the State Assistance Technical Program and Rural
+      Extension for Family Agriculture and Agrarian Reform - PROATER / MA in the
+      State of Maranhão</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/maranhao/maranhao_law_10316_2015.pdf"><em>Law
+      10316 17/09/2015</em></a><em> </em>- Establishes the Ecological-Economic
+      Macrozoneamento of the State of Maranhão and makes other
+      provisions.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/maranhao/maranhao_law_9_412.pdf"><em>Law
+      9,412 of 13/07/2011</em></a><em> </em>- Regulates Environmental
+      Compensation within the State of Maranhão.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/maranhao/maranhao_law_9_413.pdf">Law
+      No. 9,413 of 13/07/2011</a> - establishes the System State of Nature
+      Conservation Units of Maranhão and makes other provisions</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/maranhao/maranhao_law_5_405.pdf"><em>Law
+      5.405 of 1992</em></a> - establishes the Code of Protection of the
+      Environment and State System of Environment and the appropriate use of
+      resources in the State of Maranhão.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-01T18:47:20.872Z'
+  value:
+    html: >-
+      <p><a href="http://www.sema.ma.gov.br/home"><strong>Secretary of
+      Environment (SEMA)</strong></a><strong> </strong>- Plans and coordinated
+      the implementation of policies related to the promotion, organization,
+      regulation, control and control of actions related to the exploration and
+      preservation of the environment and natural resources.<br />SEMA has three
+      Secretariats  (Sustainable Development, Licensing, Environmental
+      Resources) and nine Superintendents (Water Resources, Environmental
+      Licenses, Biodiversity and Protected Areas, Forest Resources, Waste
+      Management, Green Economy, Environmental Education, Surveillance, Planning
+      and Monitoring)</p><p><a
+      href="http://www.sagrima.ma.gov.br/"><strong>Secretary of Agriculture,
+      Livestock and Fisheries- SAGRIMA</strong></a><strong> - </strong>promotes
+      the sustainable development of agribusiness productive chains, through
+      programmed actions aimed at increasing the production and productivity of
+      grains, vegetable and animal protein and fiber, productive infrastructure,
+      agricultural protection and defense, fishing and aquaculture, and
+      establishing mechanisms to guide the decisions of economic agents,
+      producers, traders, importers and others, in the alternative allocation of
+      resources, and to develop and correct market failures.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-11-01T19:05:05.871Z'
+  value:
+    html: >-
+      <p>Ecological and Economic Zoning (<em>Zoneamento Ecológico-Econômico –
+      </em><em>ZEE)</em> is required by the Federal Government to designate
+      areas for economic and conservation activities within each state’s
+      territory. In Maranhao the ZEE is coordinated by the State Secretariat for
+      Planning and Budget (Seplan) and is used as a planning tool to be
+      institutionalized to guide the State's Sustainable Strategic Planning.
+      SEPLAN and Emprapa coordinated to develop a Macro ZEE in 2014 at a scale
+      of 1: 1,000,000.  Following public consultation the plan was approved by
+      the state assembly state through law No. 10,316 of September 17, 2015. 
+      The plan has been validated by the federal government.</p><p>The executive
+      summary of the<a
+      href="http://www.seplan.ma.gov.br/files/2013/02/SumarioExecutivoMacroZEE.pdf">
+      2014 plan is available here.</a>  Additional information can be found on
+      the <a href="http://www.seplan.ma.gov.br/macro-zee/">SEPLAN website</a>.
+      </p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-06T23:17:04.518Z'
+  value:
+    html: >-
+      <p>Large-scale cattle , Large-scale agriculture , Smallholder
+      Agriculture</p>
+  citation:
+    html: ''
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 63
+        src: '63'
+    - id: 2
+      value:
+        value: 36
+        src: '36'
+  citation:
+    html: >-
+      Plano Estadual do Maranhão <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Maranhxo.pdf">link</a>
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 66.52
+        src: '66.52'
+    - id: a2
+      value:
+        value: 22.13
+        src: '22.13'
+    - id: a3
+      value:
+        value: 9.69
+        src: '9.69'
+    - id: a6
+      value:
+        value: 1.13
+        src: '1.13'
+    - id: a4
+      value:
+        value: 0.54
+        src: '0.54'
+  citation:
+    html: >-
+      Plano Estadual do Maranhão <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Maranhxo.pdf">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 69.6
+        src: '69.6'
+    - id: a4
+      value:
+        value: 19
+        src: '19'
+    - id: a2
+      value:
+        value: 11.4
+        src: '11.4'
+    - id: a5
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Instituto Maranhense de Estudos Socioeconômicos e Cartográficos <a
+      href="http://imesc.ma.gov.br/src/upload//publicacoes/PIB_EstadualVersaoDefinitiva_2013.pdf">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-06T23:02:00.124Z'
+  values:
+    - id: u2017e
+      value:
+        value: 141510.26
+        src: null
+    - id: u2017c
+      value:
+        value: 56201.61
+        src: null
+    - id: u2017b
+      value:
+        value: 33945.7
+        src: null
+    - id: u2017d
+      value:
+        value: 30014.17
+        src: null
+    - id: u2017a
+      value:
+        value: 530.12
+        src: null
+  citation:
+    html: TerraClass 2014<br><br>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Flávio
+    lastName: Dino de Castro e Costa
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      Site do Maranhão, acessado em 29/11/2016 <a
+      href="http://www.ma.gov.br/governo/">link</a>
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Marcelo
+    lastName: de Áraújo Costa Coelho
+    email: marcelocoelhosema@gmail.com
+    companyTitle: Secretário de Estado de Meio Ambiente e Recursos Naturais
+  citation:
+    html: '-'
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Carlos
+    lastName: Orleans Brandão Junior
+    email: carlosbrandao@vice.ma.gov.br
+    companyTitle: Vice-Governador
+  citation:
+    html: '-'
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 1061
+        src: '1061'
+    - id: '1997'
+      value:
+        value: 409
+        src: '409'
+    - id: '1998'
+      value:
+        value: 1012
+        src: '1012'
+    - id: '1999'
+      value:
+        value: 1230
+        src: '1230'
+    - id: '2000'
+      value:
+        value: 1065
+        src: '1065'
+    - id: '2001'
+      value:
+        value: 958
+        src: '958'
+    - id: '2002'
+      value:
+        value: 1085
+        src: '1085'
+    - id: '2003'
+      value:
+        value: 993
+        src: '993'
+    - id: '2004'
+      value:
+        value: 755
+        src: '755'
+    - id: '2005'
+      value:
+        value: 922
+        src: '922'
+    - id: '2006'
+      value:
+        value: 674
+        src: '674'
+    - id: '2007'
+      value:
+        value: 631
+        src: '631'
+    - id: '2008'
+      value:
+        value: 1271
+        src: '1271'
+    - id: '2009'
+      value:
+        value: 828
+        src: '828'
+    - id: '2010'
+      value:
+        value: 712
+        src: '712'
+    - id: '2011'
+      value:
+        value: 396
+        src: '396'
+    - id: '2012'
+      value:
+        value: 269
+        src: '269'
+    - id: '2013'
+      value:
+        value: 403
+        src: '403'
+    - id: '2014'
+      value:
+        value: 257
+        src: '257'
+    - id: '2015'
+      value:
+        value: 209
+        src: '209'
+    - id: '2016'
+      value:
+        value: 261
+        src: '261'
+  citation:
+    html: 'Prodes <a href="http://www.obt.inpe.br/prodes/index.php">link</a>'
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: PCCD_MA <a href="prodes">link</a>
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: ''
+  citation:
+    html: Prodes <a href="prodes">link</a>

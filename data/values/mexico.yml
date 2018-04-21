@@ -1,0 +1,240 @@
+national_population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 112336538
+    string: ''
+  citation:
+    html: >-
+      Censo de Población y Vivienda INEGI, 2010 <a
+      href="http://www3.inegi.org.mx/sistemas/mexicocifras/">link</a>
+national_gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 9848063.7
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      Sistema de Cuentas Nacionales de México: Instituto Nacional de Estadística
+      y Geografía; INEGI. en Banco de México <a
+      href="http://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?accion=consultarCuadro&amp;idCuadro=CR111&amp;sector=2&amp;locale=es">link</a>
+national_per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 15.1
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      Secretaria de Economía, 2011. Análisis de la Competitividad de México
+      Cierre 2011. PIB per cápita (Miles de dólares) p. 38 <a
+      href="http://www.economia.gob.mx/files/diagnostico_economia_mexicana.pdf">link</a>
+national_human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.775
+    string: ''
+  citation:
+    html: >-
+      UNDP (2013). Indicadores Internacionales sobre Desarrollo Humano <a
+      href="http://hdrstats.undp.org/es/paises/perfiles/MEX.html">link</a>
+national_land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1964375
+    string: ''
+  citation:
+    html: >-
+      Superficie Territorial. Instituto Nacional de Estadística y Geografía,
+      2013. <a
+      href="http://mapserver.inegi.org.mx/geografia/espanol/datosgeogra/extterri/frontera.cfm?s">link</a>
+national_main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'petroleum, agriculture,  extractives and manufactures'
+  citation:
+    html: >-
+      INEGI, 2012. Estadísticas del Comercio Exterior de México, Información
+      Preliminar Enero-Agosto 2012 <a
+      href="http://www.inegi.org.mx/prod_serv/contenidos/espanol/bvinegi/productos/continuas/economicas/exterior/mensual/ece/ecem.pdf">link</a>
+national_social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 94
+        src: '94'
+    - id: a8
+      value:
+        value: 6.8
+        src: '6.8 '
+    - id: a9
+      value:
+        value: 0.4
+        src: '0.4'
+  citation:
+    html: 'INEGI, 2010'
+national_urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 77.8
+        src: '77.8'
+    - id: 2
+      value:
+        value: 22.2
+        src: '22.2'
+  citation:
+    html: >-
+      INEGI, 2010. Principales Resultados del Censo de Población y Vivienda
+      2010. <a
+      href="http://www.inegi.gob.mx/prod_serv/contenidos/espanol/bvinegi/productos/censos/poblacion/2010/princi_result/cpv2010_principales_resultadosI.pdf">link</a>
+national_gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a3
+      value:
+        value: 65.7
+        src: '65.7'
+    - id: a2
+      value:
+        value: 30.6
+        src: '30.6'
+    - id: a1
+      value:
+        value: 3.7
+        src: '3.7'
+  citation:
+    html: 'INEGI, 2010'
+national_deforestation_rate:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '2000'
+      value:
+        value: 3740
+        src: '3,740'
+    - id: '2001'
+      value:
+        value: 2470
+        src: '2,470'
+    - id: '2002'
+      value:
+        value: 2470
+        src: '2,470'
+    - id: '2003'
+      value:
+        value: 2470
+        src: '2,470'
+    - id: '2004'
+      value:
+        value: 2470
+        src: '2,470'
+    - id: '2005'
+      value:
+        value: 2470
+        src: '2,470'
+    - id: '2006'
+      value:
+        value: 2490
+        src: '2,490'
+    - id: '2007'
+      value:
+        value: 2490
+        src: '2,490'
+    - id: '2008'
+      value:
+        value: 2490
+        src: '2,490'
+    - id: '2009'
+      value:
+        value: 2490
+        src: '2,490'
+    - id: '2010'
+      value:
+        value: 2490
+        src: '2,490'
+    - id: '2011'
+      value:
+        value: null
+        src: null
+    - id: '2012'
+      value:
+        value: null
+        src: null
+    - id: '2013'
+      value:
+        value: null
+        src: null
+    - id: '2014'
+      value:
+        value: null
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      FAO, 2010. Global Forest Resource Assessment / Evaluación de los Recursos
+      Forestales Mundiales 2010. Global Tables
+txt_laws:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <ul><li>Federal <a
+      href="/assets/downloads/MX_Ley_Gerneral_de_Cambio_Climatico_2012-4.pdf">climate
+      change adaptation and mitigation law</a>. (Ley general de cambio
+      climático) (2012)</li><li>General Law for Environmental Equilibrium and
+      Protection (Ley General del Equilibrio Ecologico y la Proteccion al
+      Ambiente, LGEEPA), (1988)</li><li>General Law for Sustainable Forest
+      Development (Ley General de Desarrollo Forestal Sustentable, LGDFS.
+      </li><li>The Law for Sustainable Rural Development (Ley de Desarrollo
+      Rural Sustentable, LDRS).</li><li>Agrarian Law (Ley Agraria) - regulates
+      land ownership and user rights.</li></ul>
+  citation:
+    html: >-
+      Diario Oficial de la Federación <a
+      href="http://www.diputados.gob.mx/LeyesBiblio/">link</a>
+txt_policies_and_plans:
+  timestamp: '2017-09-20T19:50:53.224Z'
+  value:
+    html: >-
+      <ul><li>Mexico´s vision on REDD+: towards a National
+      Strategy,</li><li>R-PP reddiness proposal,</li><li>National development
+      plan 2007-2012,</li><li>National REDD strategy: Version 1.0 in
+      construction; (ENAREDD)</li><li>Special Climate Change program
+      (2009-2012),</li><li>National Climate Change Strategy,</li><li>Climate
+      Change Strategy for Protected Areas.</li></ul>
+  citation:
+    html: >-
+      Comisión Nacional Forestal, 2012 Secretaria de Medio Ambiente y Recursos
+      Naturales 2012 <a
+      href="http://www.conafor.gob.mx/portal/index.php/marco-institucional/a-estrategia-nacional-de-cc">link</a>
+txt_institutions:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p></p><p><strong>National Forestry Commission</strong> (CONAFOR)
+      (forestry and REDD)</p><p><strong>Ministry for Environment and Natural
+      Resources</strong> (SEMARNAT) (Climate Change)</p><p><strong>Ministry for
+      Livestock, Agriculture and Fisheries</strong> (SAGARPA) (REDD, agreement
+      with SEMARNAT to combat climate change)</p><p><strong>National Ecology
+      Institute</strong> (INE) (Climate Change and REDD research
+      institute)</p><p><strong>National Natural Protected Areas
+      Commission</strong> (CONANP)</p><p><strong>National Commission for the
+      Development of Indigenous Populations</strong>
+      (CDI)</p><p><strong>National Inter-institutional Climate Change
+      Commission</strong> (CICC) and its REDD working group (GT
+      REDD+)</p><p><strong>National REDD+ Technical Advisory Committee</strong>
+      (CTC REDD+)</p><p><strong>National Treasury</strong> (Secretaría de
+      Hacienda)</p><p></p>
+  citation:
+    html: >-
+      Comisión Intersecretarial de Cambio Climático. Secretaria de Gobernación.
+      Presidencia de la República. <a
+      href="http://www.ordenjuridico.gob.mx/Federal/PE/APF/CI/CICC/25042005(1).pdf">link</a>

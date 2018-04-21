@@ -1,0 +1,260 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1337.29
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 5.69
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2017-12-07T21:21:45.626Z'
+  value:
+    value: 2252641
+    string: ''
+  citation:
+    html: >-
+      cuentame Inegi <a
+      href="http://cuentame.inegi.org.mx/monografias/informacion/tab/default.aspx?tema=me&e=27">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 3.1
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      INEGI <a href="INEGI. Sistema de Cuentas Nacionales de México 2008.
+      Actividad económica total, 2014.aspx?tema=me&amp;e=27">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2668.2757
+    string: ''
+  citation:
+    html: Linea Base - tabasco
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 24661
+    string: ''
+  citation:
+    html: >-
+      INEGI <a
+      href="http://www.inegi.org.mx/inegi/SPC/doc/internet/1-GeografiaDeMexico/MAN_REFGEOG_EXTTERR_VS_ENERO_30_2088.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-28T17:42:12.602Z'
+  value:
+    html: >-
+      <p>Tabasco us located in the southeast region of the country, bounded on
+      the north by the Gulf of Mexico (Atlantic Ocean), on the east by Campeche 
+      on the southeast by Guatemala, on the south by Chiapas and on the west by
+      Veracruz.  According to the Political Constitution of Tabasco, the state
+      is integrated by 17 municipalities, divided into two major regions and
+      five subregions according to their geographical characteristics. In terms
+      of area, Huimanguillo is the largest municipality and Paradise , the
+      smallest; whereas according to the number of inhabitants, the most
+      populated municipality is Centro and the least populated is Emiliano
+      Zapata.<br />The state of Tabasco represents 1.26% of the country's area.
+      By 2015, the state of Tabasco is divided into 17 municipalities. The 95.5%
+      of the surface of the state presents warm humid climate, the remaining
+      4.5% is subhumid climate toward the eastern part of the state. The average
+      state rainfall is 2 550 mm annually, rainfall occurs throughout the year,
+      being more abundant in the months of June to October.</p><p>The hot humid
+      climate favors the cultivation of banana, papaya, orange, lemon, coconut,
+      cocoa, rice, maize and pepper, among others. The state of Tabasco has a
+      large area of natural pastures, which favors the exploitation of cattle
+      through the system of free grazing or extensive livestock. Due to its
+      hardiness and tolerance to high temperatures, Zebu cattle are best adapted
+      to the tropical climate of the state.  Raising cattle is mainly aimed at
+      obtaining meat, although there is also an important dairy production in
+      the state.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=14327,states"><strong>GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: >-
+      INEGI <a
+      href="http://cuentame.inegi.org.mx/monografias/informacion/tab/default.aspx?tema=me&e=27">link</a>
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T18:04:54.968Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/tabasco/tabasco_state_program_of_action_to_climate_change_peacc.pdf"
+      target="_blank"><strong>State Program of Action to Climate Change
+      (PEACC)</strong></a><strong> -</strong> Seeks to define, analyze and
+      propose the strategic measures needed to address climate change in
+      Tabasco. PEACC utilizes mitigation measures (reduction of greenhouse gas
+      emissions), and adaptation measures to ensure the integrity of communities
+      and develop capacities to deal with adverse impacts. As a result, PEACC is
+      an instrument to support public policies and actions related to climate
+      change within the state government's sphere of competence, as well as to
+      form an important element of the critical path for climate change policy
+      in Mexico and Identify actions and measures to reduce vulnerability to the
+      impacts of climate change and greenhouse gas (GHG)
+      emissions.</p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/tabasco/tabasco_law_of_environmental_protection_of_the_state.pdf"
+      target="_blank"><strong>Law of Environmental Protection of the State of
+      Tabasco</strong></a><strong> 22/12/2012</strong>– aims to regulate all
+      types of activities to protect the environment from the establishment and
+      application of environmental policy instruments, as well as those
+      necessary when it has been damaged. It also contains a chapter on climate
+      change, within which the policies of the REDD + strategy can be
+      harmonized. Article 28 states that state policy on climate change must
+      promote adaptation and mitigation actions to global warming, where the
+      principles of sustainable development are considered to contribute to
+      reducing the risk of the population, their heritage and the conservation
+      of resources Natural.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/tabasco/tabasco_decree_modifying_ecological_criteria_of_the_ecological_program_of_the_state.pdf"
+      target="_blank"><strong>Decree Modifying Ecological Criteria of the
+      Ecological Program of the State of Tabasco</strong></a><strong> 22/12/2012
+      – </strong>updates the State of Tabasco’s ecological zoning plan.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/tabasco/tabasco_forestry_law_of_the_state.pdf"
+      target="_blank"><strong>Forestry Law of the State of
+      Tabasco</strong></a><strong>1/4/2006</strong> – this law is intends
+      &quot;to regulate and promote the conservation, protection, restoration,
+      management and forestry exploitation, as well as the transfer of the
+      results of scientific and technical research, organization and training of
+      producers, marketing&quot;, among others, In order to contribute to
+      sustainable forest development (Article 1). This law serves as a
+      regulatory framework for the State Forestry Commission of Tabasco, whose
+      objective is to promote productive activities, protection, conservation
+      and restoration in forestry. Also within it seeks protection,
+      conservation, as well as the recovery of forest areas and are a priority
+      of the State Government.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-07T00:12:06.758Z'
+  value:
+    html: >-
+      <p><strong>The Secretariat of Energy, Natural Resources and Environmental
+      Protection (SERNAPAM)</strong> – has carried out projects aimed at
+      reducing greenhouse gases, strengthening local capacities and developing
+      research on climate change issues since 2002.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-16T18:05:11.448Z'
+  value:
+    html: >-
+      <p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/tabasco/tabasco_zoning_plan.pdf"
+      target="_blank"><strong>Tabasco’s State Program on Ecological Zoning
+      (POET)</strong></a><strong> </strong>an instrument of state environmental
+      policy used to regulate land uses of the territory (geographical location
+      of productive activities), based on the current assessment of natural
+      resources, the socio-productive condition of the area, and the suitability
+      or potential of use of the analyzed site. POET considers elements of
+      property and markets to determine the useful capacity of the territory
+      with the lowest risk of degradation. Tabasco’s statewide zoning was
+      originally completed in 2006, and has been updated two times since.The <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/tabasco/tabasco_zoning_plan.pdf"
+      target="_blank">current zoning plan</a> was completed in
+      2013.</p><p>Tabasco has also finalized a Plan for Adaptation of Management
+      and Integral Management of the Basins of the Grijalva and Usumacinta
+      Rivers.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>Direct causes include:</p><p>1. Increased
+      infrastructure</p><p>2.Expansion of the agricultural frontier</p><p>3
+      .Extraction of wood</p><p>Indirect causes include:</p><p>1. Colonization -
+      Land occupation projects in southern Mexico, by peasants from north and
+      central Mexico in the 1950s.</p><p>2. Demographic / migration</p><p>3.
+      Economic</p>
+  citation:
+    html: ''
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 57
+        src: '57'
+    - id: 2
+      value:
+        value: 43
+        src: '43'
+  citation:
+    html: >-
+      INEGI <a
+      href="http://cuentame.inegi.org.mx/monografias/informacion/tab/poblacion/distribucion.aspx?tema=me&amp;e=27">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a2
+      value:
+        value: 66.55
+        src: '66.55'
+    - id: a3
+      value:
+        value: 32.08
+        src: '32.08'
+    - id: a1
+      value:
+        value: 1.37
+        src: '1.37'
+  citation:
+    html: >-
+      INEGI <a href="INEGI. Sistema de Cuentas Nacionales de México 2008.
+      Participación por actividad económica, en valores corrientes,
+      2014*">link</a>
+forest_management:
+  timestamp: '2017-12-07T21:21:21.424Z'
+  values:
+    - id: u2017a
+      value:
+        value: 10905
+        src: null
+    - id: u2017b
+      value:
+        value: 3617
+        src: null
+    - id: u2017c
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      http://osse.org.mx/Recursos/Investigaciones/Estad%C3%ADsticas/Propiedad-Social/Ejidos;
+      Comisin Nacional de Areas Naturales Protegidas
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Arturo
+    lastName: Núñez Jiménez
+    email: ''
+    companyTitle: ''
+  citation:
+    html: 'Gobierno del Estado de Tabasco <a href="https://tabasco.gob.mx/">link</a>'
+representative_1:
+  timestamp: '2017-11-07T16:36:03.596Z'
+  value:
+    firstName: Ricardo
+    lastName: Fitz Mendoza
+    email: ricardofitz@tabasco.gob.mx
+    companyTitle: 'Secretario de Energía, Recursos Naturales y Portección Ambiental'
+  citation:
+    html: >-
+      Secretaría de Energía, Recursos Naturales y Protección Ambiental <a
+      href="http://sernapam.tabasco.gob.mx/#6">link</a>
+representative_2:
+  timestamp: '2017-11-07T16:36:14.780Z'
+  value:
+    firstName: Carlos Francisco
+    lastName: Reyes Abreu
+    email: carlos.reyes@energiatabasco.org
+    companyTitle: Subsecretario
+  citation:
+    html: >-
+      Secretaria de Energía, Recursos Naturales y Protección Ambiental <a
+      href="http://sernapam.tabasco.gob.mx/#6">link</a>

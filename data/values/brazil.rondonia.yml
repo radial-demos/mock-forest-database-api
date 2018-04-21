@@ -1,0 +1,450 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 124200
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1471.9
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1562409
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ro&amp;tema=sinopse_censodemog2010">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 29362000000
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      SEPLAN <a
+      href="http://www.seplan.ro.gov.br/Uploads/Arquivos/PDF/PIBRondonia/PRODUTO%20INTERNO%20BRUTO%202012-.pdf">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 822
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=ro">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.69
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ro&amp;tema=idhm">link</a>
+original_forest_area:
+  timestamp: '2017-12-06T22:50:10.606Z'
+  value:
+    value: 213783
+    string: ''
+  citation:
+    html: ''
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 237765.376
+    string: ''
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=ro">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'produtos bovinos, soja, estanho, milho, óleo diesel'
+  citation:
+    html: >-
+      SEPLAN <a
+      href="http://www.seplan.ro.gov.br/Uploads/Arquivos/PDF/GODR/ronumeros/Rond%C3%B4nia%20em%20N%C3%BAmeros%20-%202012_RO.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-27T21:30:06.849Z'
+  value:
+    html: >-
+      <p>The Government of Rondônia is increasingly committed to prevention and
+      control of deforestation, understanding that the current occupation of the
+      State has already reached the limits established in the Socio-Economic and
+      Ecologic Zoning, requiring urgent measures to promote actions that reduce
+      pressure on protected areas - indigenous lands and conservation - and
+      begin the process of restoring the altered areas of Legal Reserves and
+      Permanent Protection of rural properties. </p><p>Rondônia was occupied as
+      a result of the integration policy military government, which intensified
+      in the 1970s and 1980s, implementation of the Integrated Colonization
+      Projects (ICP) and the Directed Settlement Projects (PAD), under the
+      responsibility of the National Agrarian Reform - INCRA. This policy had
+      two objectives: first enable the &quot;modernization of agriculture&quot;
+      in the center-south of the country, mainly for the expansion of soybeans
+      in Paraná, and for beef cattle Minas Gerais and Espírito Santo, expelling
+      thousands of sharecroppers, squatters, lessees, rural workers and small
+      producers who migrated to the agricultural frontier in the Amazon, with
+      Rondônia being an option to life. The second objective was to reduce
+      tensions in the field and maintain social movement of rural workers under
+      state control, hiding misery in the Amazon or in the favelas that widened
+      in the outskirts of big cities. In almost forty years of occupation the
+      population of Rondônia increased from 130,000 inhabitants in 1970 to
+      almost 1,500,000 inhabitants currently.</p><p>Additional information can
+      be found on the <a
+      href="http://gcfimpact.org/states?region=3211,states"><strong>GCF Impact
+      Platform.</strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T17:08:26.896Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_plan_of_prevention_control_and_sustainable_alternatives_to_deforestation.pdf"
+      target="_blank">Plan of Prevention, Control, and Sustainable Alternatives
+      to deforestation in Rondonia (PPCD)</a> - Rondonia's PPCD was passed in
+      2010 and was built around four thematic areas: (i) Territorial Planning
+      and Land Regularization, (ii)Promotion for Sustainable Production, (iii)
+      Command and Control Actions for the prevention of Deforestation and (iv)
+      Training for the Decentralization of Environmental
+      management.</p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_complementary_law_827.pdf"
+      target="_blank">Complementary Law No. 827 of July 15, 2015</a> - Clarifies
+      institutional roles and responsibilities, including those of the the
+      Secretary of State for Environment and Development (SEDAM)</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_decree_17940_2013.pdf"
+      target="_blank">State Decree 17940/2013</a> - Provides for the institution
+      and implementation of the Environmental Regularization Program of the
+      State of Rondônia - PRA / RO of properties and rural properties and
+      provides other measures.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_decree_law_1144_2002.PDF"
+      target="_blank">Decree State Law 1,144, of December 12, 2012</a> -
+      Provides for the State System of Nature Conservation Units of Rondônia -
+      SEUC / RO and provides other measures</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_decree_12449_2006.pdf"
+      target="_blank">Decree 12.449 / 2006 / RONDONIA</a> Introduces article in
+      Decree n ° 7.903 of July 1, 1997, which regulated Law n ° 547 of December
+      30, 1993.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_decree_12448_2006.pdf"
+      target="_blank">Decree 12.448 / 2006 / RONDONIA</a> Institutes the
+      Register of Explorers and Consumers of Forest Products of the State of
+      Rondônia - CEPROF-RO, the System of Marketing and Transport of Forest
+      Products of the State of Rondônia SISFLORA-RO, its operational documents,
+      and other measures.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_decree_12447_2006.pdf"
+      target="_blank">Decree 12.447 / 2006 / RONDONIA</a> Institutes the Forest
+      Management of the State of Rondônia, and provides other measures</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_decree_7903_1997.pdf"
+      target="_blank">Decree 7903/1997</a> Regulates Law No. 547 of December 30,
+      1993, which provides for protection, recovery, control, inspection and
+      improvement of the quality of the environment in the State of
+      Rondônia.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/rondonia/rondonia_law_547_1993.pdf"
+      target="_blank">State Law 547 1993</a> Provides for the creation of the
+      State System of Environmental Development of Rondônia-SEDAR and its
+      instruments, establishes measures to protect and improve the quality of
+      the environment, defines the State Environmental Development Police,
+      creates the Special Fund for Environmental Development-FEDARO and the Fund
+      Special Reforestation Forest-FEREF.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-10-31T15:46:14.359Z'
+  value:
+    html: >-
+      <p><a href="http://www.sedam.ro.gov.br/"><strong>The Secretary of State
+      for Environmental Development (SEDAM) </strong></a>- was established on
+      March 19, 1991 by Complementary Law No. 42 and reformed by Complementary
+      Law No. 827 of July 15, 2015, with the primary function of formulating and
+      implementing policies aimed at development environmental, rural and urban,
+      monitoring and regulating activities related to the quality of life, the
+      environment and natural resources, as well as promoting the management of
+      the conservation units of the State of Rondônia.</p><p>SEDAM is also
+      responsible for planning and carrying out activities related to the policy
+      of rural environmental regularization, development, promotion, protection
+      and environmental education, in partnership with IBAMA, the Environmental
+      Police Battalion and the Secretariat of State for Public Security - SESDEC
+      , which may cause harm to the environment, both for present and future
+      generations.</p><p><strong>SEDAM Cooridnator of Conservation Units (CUC) -
+      </strong>responsible for coordinating the preparation and execution of
+      studies, plans, programs, contracts, agreements and projects of
+      Conservation Units - UCs and to promote the interactions between the
+      units' management. It is also responsible for proposing actions for the
+      application of resources arising from environmental compensation in PAs;
+      Establish procedures for the processing, application and management of
+      resources derived from environmental compensation processes, destined to
+      the Units; Establish operational and logistical mechanisms to maintain the
+      integrity of PAs.</p><p><strong>SEDAM Coordinator of 
+      </strong><strong>Environmental Licensing (COLMAM) - </strong>Participate
+      in the formulation of policies and guidelines for environmental
+      sustainability, formulating plans, programs and projects for environmental
+      licensing and monitoring, coordinating and supervising the development of
+      polluting and potentially polluting activities, territorial planning
+      activities and environmental monitoring.</p><p><strong>SEDAM Coordinator
+      of </strong><strong>Environmental Protection  (COPAM) - </strong>It is the
+      responsibility of the Environmental Protection Coordination (COPAM) to
+      participate in the formulation of policies and guidelines for
+      environmental development, systematically evaluating complaints received
+      about entrepreneurial activities harmful to the
+      environment</p><p><strong>SEDAM Coordinating Office of Rural Environmental
+      Monitoring and Regulation (COMRAR)  - </strong>Responsibility to
+      coordinate and prepare plans, programs and projects concerning the
+      monitoring and regularization of rural properties or possessions.
+      Promoting the environmental regularization of rural properties and
+      possessions in the State of Rondônia, strengthening their activities for
+      those who fit the profile of small rural producers and jointly possess up
+      to 04 (four) fiscal modules.</p><p><strong>The Secretariat of State for
+      Agriculture, Livestock and Land Settlement (SEAGRI) -</strong> 
+      responsible for participating in the formulation and implementation of
+      policies and guidelines for the development of agriculture, fishing,
+      forestry, agroindustrial and regularization and territorial planning of
+      the State. Coordinates and monitors the implementation of projects to
+      support agricultural, fishery, forestry, agroindustrial development and
+      regularization and territorial planning of the State.</p><p><br /></p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-11-03T18:41:35.247Z'
+  value:
+    html: >-
+      <p>Rondonia first passed it ecological and economic zoning (ZEE) in 1991
+      through Supplementary Law No. 52 of December 20, 1991.  Since 1996 the ZEE
+      in Rondoni has been guided by a State Commission for Socioeconomic and
+      Ecological Zoning through decree nº 7.409, of March 28 1996.</p><p>In 2017
+      Rondonia is<a
+      href="http://www.rondonia.ro.gov.br/atualizacao-de-zoneamento-socioeconomico-ecologico-coloca-rondonia-em-destaque-nacional-na-gestao-do-desenvolvimento-sustentavel/">
+      in the process of updating</a> its  Socio-Economic and Ecological Zoning
+      plan which seeks to promote a balance between ecological, economic and
+      social potentials and limitations for controlling current and future human
+      activities by suggesting preventive and corrective measures that can be
+      implemented and that ensure environmental quality.  Revising its zoning
+      plan will make Rondonia the first state in Brazil to create a revision
+      legislation within the framework that governs zoning in the country
+      (Decree 4,297 / 2002), according to the new Forest Code (Law 12.651 /
+      2012).</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-07T21:19:06.153Z'
+  value:
+    html: '<p>Large-scale cattle , Large-scale agriculture, Colonization Projects</p>'
+  citation:
+    html: ''
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 73.5
+        src: '73.5'
+    - id: 2
+      value:
+        value: 26
+        src: '26'
+  citation:
+    html: >-
+      IBGE <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ro&amp;tema=sinopse_censodemog2010">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 61.2
+        src: '61.2'
+    - id: a2
+      value:
+        value: 20.5
+        src: '20.5'
+    - id: a4
+      value:
+        value: 18.3
+        src: '18.3'
+    - id: a5
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      SEPLAN <a
+      href="http://www.seplan.ro.gov.br/Uploads/Arquivos/PDF/PIBRondonia/PRODUTO%20INTERNO%20BRUTO%202012-.pdf">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-06T22:49:18.874Z'
+  values:
+    - id: u2017b
+      value:
+        value: 123718.1
+        src: null
+    - id: u2017c
+      value:
+        value: 62242.47
+        src: null
+    - id: u2017e
+      value:
+        value: 41642
+        src: null
+    - id: u2017a
+      value:
+        value: 36066.05
+        src: null
+    - id: u2017d
+      value:
+        value: 15471.51
+        src: null
+  citation:
+    html: TerraClass 2014
+forest_management:
+  timestamp: '2017-12-06T22:54:51.550Z'
+  values:
+    - id: u2017b
+      value:
+        value: 166868
+        src: null
+    - id: u2017a
+      value:
+        value: 46915
+        src: null
+  citation:
+    html: ''
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Confúcio
+    lastName: Aires Moura
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      Site do Estado de Rondônia, acessado em 29/11/2016 <a
+      href="http://www.rondonia.ro.gov.br/portal/o-governador/">link</a>
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Vilson
+    lastName: Machado
+    email: vilsonsalles@hotmail.com
+    companyTitle: Secretário de Estado do Desenvolvimento Ambiental
+  citation:
+    html: '-'
+representative_2:
+  timestamp: '2017-12-01T15:10:28.026Z'
+  value:
+    firstName: Eliezer
+    lastName: Oliveira
+    email: elyezer.12.oliveira@gmail.com
+    companyTitle: Special Advisor for Environmental Analysis - SEDAM
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 2432
+        src: '2432'
+    - id: '1997'
+      value:
+        value: 1986
+        src: '1986'
+    - id: '1998'
+      value:
+        value: 2041
+        src: '2041'
+    - id: '1999'
+      value:
+        value: 2358
+        src: '2358'
+    - id: '2000'
+      value:
+        value: 2465
+        src: '2465'
+    - id: '2001'
+      value:
+        value: 2673
+        src: '2673'
+    - id: '2002'
+      value:
+        value: 3099
+        src: '3099'
+    - id: '2003'
+      value:
+        value: 3597
+        src: '3597'
+    - id: '2004'
+      value:
+        value: 3858
+        src: '3858'
+    - id: '2005'
+      value:
+        value: 3244
+        src: '3244'
+    - id: '2006'
+      value:
+        value: 2049
+        src: '2049'
+    - id: '2007'
+      value:
+        value: 1611
+        src: '1611'
+    - id: '2008'
+      value:
+        value: 1136
+        src: '1136'
+    - id: '2009'
+      value:
+        value: 482
+        src: '482'
+    - id: '2010'
+      value:
+        value: 435
+        src: '435'
+    - id: '2011'
+      value:
+        value: 865
+        src: '865'
+    - id: '2012'
+      value:
+        value: 773
+        src: '773'
+    - id: '2013'
+      value:
+        value: 932
+        src: '932'
+    - id: '2014'
+      value:
+        value: 684
+        src: '684'
+    - id: '2015'
+      value:
+        value: 1030
+        src: '1030'
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Prodes <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2015n.htm">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: ''
+  citation:
+    html: ainda não foram realizados os estudos necessários.
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: ''
+  citation:
+    html: Embrapa

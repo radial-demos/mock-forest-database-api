@@ -1,0 +1,1029 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 34200
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 262.7
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 829520
+    string: ''
+  citation:
+    html: '(NEI, 2014) <a href="http://www.inei.gob.pe/">link</a>'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2756097
+    currency: PEN
+    string: ''
+  citation:
+    html: >-
+      (BCRP, 2014) <a
+      href="http://www.bcrp.gob.pe/docs/Sucursales/Iquitos/san-martin-caracterizacion.pdf">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 645.1
+    currency: PEN
+    string: ''
+  citation:
+    html: >-
+      (INEI, 2011) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmM2pUc1JERmpYU2c/view?usp=sharing">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.4408
+    string: ''
+  citation:
+    html: >-
+      (PNUD, 2013) <a
+      href="http://www.pe.undp.org/content/peru/es/home/library/poverty/Informesobredesarrollohumano2013/IDHPeru2013/">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 51253.3
+    string: ''
+  citation:
+    html: '(INEI, 2012) <a href="http://www.inei.gob.pe/">link</a>'
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: Café (75.9%); Cacao orgánico y otros principales (22.4%).
+  citation:
+    html: >-
+      (PROMPERÚ, 2014) <a
+      href="http://www.mincetur.gob.pe/pecex/avance_regiones/SanMartin/Ficha_SanMartin.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-28T17:53:13.515Z'
+  value:
+    html: >-
+      <p>San Martín is located in the eastern part of Peru. It has an area of 51
+      253 km ², of which about 62.3% are covered with forest.</p><p>Over the
+      past few years, San Martin has been working to develop an institutional
+      framework for forest conservation and the generation of opportunities with
+      a low green development focus on emissions. Thus, in 2010 it created the
+      Regional Environmental Authority (ARA), the first in the Peruvian Amazon,
+      which has made it possible to centralize oversight of natural resources,
+      environment and territory policies, and forest management under a single
+      entity.</p><p>One of the most important policies is the development of the
+      Regional Conservation System which has three conservation corridors
+      (North, Central and South corridors).  The conservation system integrates
+      the territories under different conservation modalities in the
+      territory.</p><p>In the future, the challenge is to formulate and
+      implement a low-emission development strategy. The strategy must use a
+      landscape approach to environmental/forest management that account for
+      both human and ecosystem needs,  allowing the region to address
+      socio-economic need while stopping the advance of
+      deforestation.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=17822,states">GCF Impact
+      Platform. </a></p>
+  citation:
+    html: >-
+      (CIAM, 2014) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmVTFybG1LUnE5X3pabWtGVXNmOE8yelZFNDBn/view?usp=sharing">link</a>
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T19:01:06.842Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_plan_of_regional_development_2021.pdf"
+      target="_blank">Plan of Regional Development San Martín – 2021</a> - The
+      Agreed Regional Development Plan is a management tool for the development
+      of San Martin. The plan outlines the aspiration of San Martin to achieve
+      INTEGRATED AND BALANCED DEVELOPMENT, with reduction of inequalities. The
+      plan highlights and environmental priority of promoting the conservation
+      and recovery of forest resources, and a vision of a region where natural
+      resources are used sustainably, having controlled deforestation, and
+      promoting the conservation and reforestation of forests; society as a
+      whole contributes to an efficient management of environment, allowing
+      preventive action and mitigating the effects of the climate
+      change.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_environmental_action_plan_2013_2021.pdf"
+      target="_blank">Regional Environmental Action Plan 2013-2021</a> –
+      governance and planning tool across seven environmental sectors, including
+      biodiversity, forests, and climate change. </p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_environmental_action_plan_2013_2021.pdf"
+      target="_blank">Regional Ordinance 21/2017</a> - Updates the Regulation of
+      Organization and Functions (ROF) the regulation formalizes the creation of
+      the regional environmental authority (ARA) and promulgates the regulation
+      of the organization and functions.</p><p>For example, the structure and
+      responsibility of the ARA is defined and highlights the authority of the
+      ARA in the implementation of policies, strategies, programs and plans in
+      the field of territorial planning, sustainable management of natural
+      resources, conservation of biodiversity and the protection of the public
+      environment.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_17_2015.pdf"
+      target="_blank">Ordinance 17/2015</a> - Formalizing the regional
+      development plan for 2020.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_34_2014.pdf"
+      target="_blank">Decree 34/2014</a> - Declares of regional priority the
+      implementation of the technological and institutional platform for the
+      management of geospatial and cartographic information called Spatial Data
+      Infrastructure and instructs the General Management of the Regional
+      Government to authorize the Planning and Budget Management the
+      prioritization and allocation of a budget line item to the Regional
+      Environmental Authority,</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_30_2014.pdf"
+      target="_blank">Ordinance 30/2014</a> – Creates and Implements the
+      Regional System of Compensation for Ecosystem Services (SIRRSE-SM), as a
+      strategic component in the implementation of the Regional Territorial
+      Policy of San Martín.Place authority of implementation and administration
+      with the Regional Environmental Authority through the Executive Management
+      of Territorial Management and the Executive Direction of Administration
+      and Conservation of Natural Resources.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_23_2014.pdf"
+      target="_blank">Ordinance 23/2014</a> - Declares of regional interest the
+      measures related to the reduction of emissions from deforestation and
+      degradation of forests and the environmental and social safeguards and
+      creates the Regional Committee of Safeguards of San Martín, to guarantee
+      the balanced participation of the actors in the identification,
+      establishment and reporting of environmental and social safeguards for the
+      reduction of emissions derived from</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_decree_1_2014.pdf"
+      target="_blank">Decree 1/2014</a> - Approves the &quot;Regulation of the
+      Regional System of Environmental Information of San Martín - SIAR SAN
+      MARTÍN&quot;.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_decree_2_2014.pdf"
+      target="_blank">Decree 2/2014</a> – Establishes the process to obtain
+      environmental certification of public investment projects prepared by the
+      Regional Government of San Martin</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_22_2014.pdf"
+      target="_blank">Ordinance 22/2014</a> – Ordinance creating the Technical
+      Group of the Regional Climate Change Strategy.The Climate Change Strategy
+      for San Martin has not yet been approved.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_16_2014.pdf"
+      target="_blank">Ordinance 16/2014</a> - Creates the Regional Environmental
+      Information System of San Martin - SIAR - San Martin, as an environmental
+      management instrument established in the Regional Environmental Management
+      System,</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_11_2014.pdf"
+      target="_blank">Ordinance 11/2014</a> - Approve the update of the <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_environmental_action_plan_2013_2021.pdf"
+      target="_blank">Regional Environmental Action Plan 2013-2021</a> in
+      seventy two (72) pages, which contains the situational diagnosis, the
+      vision of the region in environmental matters, the objectives, the
+      priority goals to 2021, the strategic actions by goals prioritized and
+      compliance with the Regional Territorial Policy and Concerted Development
+      Plan of the department of San Martín.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_37_2010.pdf"
+      target="_blank">Ordinance 37/2010</a> - Establishes the Regional
+      Environmental Authority of the State of San Martín.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_ministerial_resolution_519_2009.pdf"
+      target="_blank">Ministerial Resolution 519 / 2009</a> - Transfers forest
+      management functions for the regional government of San Martín.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_decree_2_2009.pdf"
+      target="_blank">Regional Decree 2/2009 </a>- Regional Decree approving the
+      regulation for the application of the Ecological Economic Zoning - ZEE of
+      the Department of San Martín</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-06T16:06:02.736Z'
+  value:
+    html: >-
+      <p><strong>Regional Environmental Authority of San Martin (ARA)
+      </strong>is responsible for public policy in the area of natural
+      resources, the environment and land use. Your account with 24 functions
+      that are delegated by means assigned by Regional Ordinance No. 037-2010 -
+      GRSM / CR.<br />In order to achieve its objectives, the ARA has developed
+      an environmental management structure through specialized bodies:
+      Executive Directorate of Strategic Environmental Management, General
+      Management of Natural Resources Management and Conservation and the
+      Executive Management of Territorial Management.<br /><br
+      /><strong>Regional Directorate of Production </strong> - institution
+      within the Regional Management of Economic Development responsible for
+      formulating, adapting, implementing, monitoring and evaluating compliance
+      with the public policies of the sector in the field of Industry, Fisheries
+      and Aquaculture in the regional scope. For this purpose, it is responsible
+      for directing, executing, supervising, coordinating, managing and
+      controlling the technical processes related to these matters in the
+      department, in accordance with the provisions established by the Economic
+      Development Management.</p><p>San Martin has also created the Regional
+      Department of Economic Development and Regional Directorates of
+      Agriculture and Production that are involved in the supervision of
+      activities related to the change of land use.</p><p><strong>Regional
+      Directorate of Agriculture (DRASAM)- </strong> institution within the
+      Regional Management of Economic Development responsible for formulating,
+      adapting, implementing, controlling and evaluating the public policies of
+      the sector in matters of agricultural development in the regional
+      sphere.<br />For this purpose, it is responsible for directing, executing,
+      supervising, coordinating, managing and controlling the technical
+      processes related to agriculture, in accordance with the corresponding
+      competencies of the Regional Government and the provisions established by
+      the Regional Management of Economic Development.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-16T19:01:51.243Z'
+  value:
+    html: >-
+      <p>San Martin approved its regional economic and ecological zoning (ZEE)
+      plan in in 20016, through Regional Ordinance <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_12_2006_grsm_cr.pdf"
+      target="_blank">Nº 012-2006-GRSM-CR</a>.  The zoning plan was completed at
+      a scale of 1/250 000 and both the <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_zoning_study.pdf"
+      target="_blank">zoning study</a> and <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_zoning_map.pdf"
+      target="_blank">map</a> are available for download. </p>
+  citation:
+    html: ''
+frameworksSafeguards:
+  timestamp: '2018-03-16T19:02:05.907Z'
+  value:
+    html: >-
+      <p>San martin Developed a Regional Committee of Safeguards of San Martín
+      through <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/san_martin/san_martin_regional_ordinance_23_2014.pdf"
+      target="_blank">Ordinance 23/2014</a></p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-04T16:37:05.066Z'
+  value:
+    html: >-
+      <ul><li>Smallholder Cattle</li><li>Large-scale
+      Agriculture</li><li>Smallholder Agriculture</li></ul>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 4c787730-cec2-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T13:45:56.003Z'
+      name:
+        value:
+          string: >-
+            Production-Protection Approach in the Value Chains of the Peruvian
+            Amazon
+      description:
+        value:
+          html: >-
+            <p><em>The aim is to increase the productivity and the conservation
+            of the forests in small producers of value chains of cocoa and
+            coffee.</em>&nbsp;</p><p>Activities that are likely to be
+            implemented include:</p><ul><li>Evaluation of the current value
+            chain</li><li>Interventions to add value to supply chain (production
+            and postproduction centered on coffee and cocoa)</li><li>Development
+            of multi-stakeholder platforms to improve supply chain
+            sustainability</li><li>Improving production capacity at the farm
+            level, and</li><li>Development of business models and enabling
+            policies</li></ul>
+      partners:
+        value:
+          string: >-
+            Norway Institute for Bioeconomy Research, Instituto de Cultivos
+            Tropicales, Mecanismos de Desarrollo Alternos
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: 'US$ 3.2 M four-year project '
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Design
+    - id: 2e465590-cec5-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:06:33.833Z'
+      name:
+        value:
+          string: 'Phase 3 of the Forests, Farms and Finance Initiative'
+      description:
+        value:
+          html: >-
+            <p><em>Phase 3 of the Forests, Farms and Finance Initiative
+            "Building bridges between local policies, REDD + and initiatives for
+            sustainable supply chains" will support the construction of
+            jurisdictional low emissions rural development plans.</em></p><p>In
+            Peru, the 3FI initiative is led by the Earth Innovation Institute
+            and the Amazon Regional Council (CIAM, in Spanish) and is developing
+            incentives for low-emission rural development under a production and
+            protection approach. The activities of 3FI in the Peruvian Amazon
+            are led by the regional governments and are open to the
+            participation of any public or private institution that wishes to
+            contribute. 3FI considers with special attention the participation
+            of indigenous peoples and women in the activities to be carried out.
+            The initiative is based on empowering the progress of each region to
+            make the necessary incentives proposals by building tailored
+            instruments for each jurisdiction. Output from the project include:
+            (a) developing regional plans or roadmaps to promote a transition to
+            low-emission rural development; (b) promoting a transparent dialogue
+            process at the regional level which includes the perspectives of
+            indigenous peoples and women; and (c) developing a business plan to
+            attract private investment and promote low-emission rural
+            development in the Peruvian Amazon.</p>
+      partners:
+        value:
+          string: 'Earth Innovation Institute, CIAM'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 528d0a20-ceca-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:43:22.178Z'
+      name:
+        value:
+          string: >-
+            Implementing Strategies for transition at regional level towards a
+            low-emission rural development in Indonesia, Peru, Mexico, Colombia
+            and Kenya
+      description:
+        value:
+          html: >-
+            <p><em>Development of policies and monitoring instruments for rural
+            development plan for the Amazon.</em></p><p>This project seeks
+            reduce emissions of greenhouse gases (GHG) emissions associated with
+            deforestation and promote sustainable use of natural resources in
+            the field of six regional governments in the Peruvian Amazon as
+            contribution to mitigation and adaptation to climate change,
+            biodiversity conservation, improved livelihoods of the local
+            population and the development of practices regional, national and
+            international policies and market mechanisms for rural development
+            under emissions.The project will be implemented in two scales. At
+            the interregional scalepolicies and monitoring instruments will be
+            developed for rural development plans for the Amazon under a
+            competitive, inclusive and low emission approach. The second scale
+            is local and focuses on the basin of the Pachitea to develop a
+            platform for low-emission rural development and strengthen
+            capacities of local authorities and indigenous organizations. Work
+            on the Pachitea is led by Instituto del Bien Comun - IBC. The
+            project is expected achieve as first product the development of an
+            Interregional Plan for promotion of a low emission development
+            involving all participating regions. The project will also develop a
+            platform for performance monitoring territorial performance as well
+            as models of competitive and inclusive governance and incentives to
+            reduce deforestation.</p>
+      partners:
+        value:
+          string: 'Regional Governments, Forest Trends, IBC'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 09f76d30-cecc-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:55:39.395Z'
+      name:
+        value:
+          string: Support the implementation of the DCI-UNDP
+      description:
+        value:
+          html: >-
+            <p>In the case of Ucayali and San Martin this project seeks to
+            implement forest zoning by providing technical personnel, equipment
+            and funding processes for zoning and titling in coordination with
+            the Regional Environmental Authority and the Regional Agrarian
+            Authority. To date, it has been advancing on Module I of the Forest
+            Zoning. The project also supports the titling of areas of native
+            communities (seeking recognition, titling and expansion of 53 native
+            communities). The project will conclude in November 2017.</p>
+      partners:
+        value:
+          string: >-
+            United Nations Development Program; MINAGRI - Dirección General de
+            Asuntos Ambientales Agrarios Gobierno; Reional Governments of San
+            Martin and Ucayali
+      fundingSource:
+        value:
+          string: UNDP
+      fundingAmount:
+        value:
+          string: $6M
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Indigenous Peoples Initiative'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 3d805400-cecc-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:57:05.856Z'
+      name:
+        value:
+          string: >-
+            Sustainable Forestry Development Program, inclusive and competitive
+            - SERFOR - CAF
+      description:
+        value:
+          html: >-
+            <p>This project supports regions in strengthening their management
+            capacity and monitoring in forestry, with their equipment offices
+            and checkpoints. The project also has specific activities with
+            regional governments and the management of protected areas, forest
+            land, advancing the national forest inventory, implementation of
+            spatial data infrastructures, implementation of anticorruption plan
+            in the forestry sector, improved control and forest monitoring and
+            promotion of forestry value chains. The project also has a grant
+            fund for submitting public investment projects at regional
+            level.&nbsp;</p>
+      partners:
+        value:
+          string: >-
+            National forest and Wildlife Service, Andean Development
+            Corporation, regional governments
+      fundingSource:
+        value:
+          string: >-
+            National forest and Wildlife Service, Andean Development
+            Corporation, regional governments
+      fundingAmount:
+        value:
+          string: $76M
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Public Investment'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 49dce3c0-cecd-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:04:36.092Z'
+      name:
+        value:
+          string: Forest Investment Program (FIP)
+      description:
+        value:
+          html: >-
+            <p>The overall objective of FIP is:&nbsp;</p><ol><li>support the
+            efforts of developing countries in reducing emissions from
+            deforestation and forest degradation;&nbsp;</li><li>promoting
+            sustainable forest management that lead to reduced emissions of
+            greenhouse gases and preservation of carbon
+            stocks.&nbsp;</li></ol><p>In Ucayali the investment plan is under
+            development for the province of Atalaya, and in San Martin for the
+            Tarapoto - Turimaguas area. Both plans are expected to be finalized
+            in 2017. Public investments will be used to support integrated
+            forest landscape management, governance, legalization of lands,
+            property titling and registration, environmental assets
+            valuation.</p>
+      partners:
+        value:
+          string: Peruvian State Funds Investment Climate
+      fundingSource:
+        value:
+          string: Peruvian State Funds Investment Climate
+      fundingAmount:
+        value:
+          string: $50M
+      initiativeType:
+        value:
+          string: 'Public investment, Technical Assistance Partnership'
+      initiativeStatus:
+        value:
+          string: In Design
+    - id: 05b51db0-cece-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:09:51.243Z'
+      name:
+        value:
+          string: Public-Private Coalition of the Declaration of San Martin
+      description:
+        value:
+          html: >-
+            <p>This Coalition of 52 member organizations from government,
+            private sector and civil society seeks to promote sustainable rural
+            development and create synergies between regional governments, the
+            private business sector, producer organizations, NGOs and
+            organizations representing indigenous peoples. The coalition has
+            established an agenda to promote development amazon focused on: i)
+            ensuring land rights and forest native communities and agricultural
+            and forestry producers; ii) optimizing the sustainable use of forest
+            landscapes in the Amazon; iii) building the set of enabling
+            conditions and generate the necessary changes for rural development
+            low emission. Goals of the coalition include reducing deforestation
+            associated with agriculture, creating roadmaps for public - private
+            coordination by Amazon region, designing an architecture of
+            financing, increasing the productivity of agricultural crops and
+            increasing the value of forests and promote forest plantations. It
+            is expected that these measures will open a pathway to build
+            sustainable jurisdictions, especially in the value chains of the
+            Amazon through a Production - Protection approach. A group of
+            companies from the Pro Ucayali network, comprising the largest
+            companies in the region, have joined the coalition.</p>
+      partners:
+        value:
+          string: >-
+            GORE San Martin, GORE Ucayali, GORE Amazonas, GORE Madre de Dios,
+            GORE Huanuco
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Agreement Signed
+    - id: f0b889a0-cece-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:16:25.530Z'
+      name:
+        value:
+          string: Marca San Martin
+      description:
+        value:
+          html: >-
+            <p>La Marca San Martin promotes competitive differentiation for
+            products and services of San Martin that meet the attributes defined
+            by a Public - Private Committee to manage the brand (among private
+            members are the Chamber of Commerce of Tocache, Palm Oil industry
+            Loreto and San Martin SA and Rice Producers Association of San
+            Martin). This initiative aims capitalize on sustainable supply chain
+            initiatives and advances San Martin efforts to promote
+            sustainability through a Production-Protection Approach.The Marca
+            Currently has a committee comprised of both public and private
+            sector representatives which is driving the initiatives and define
+            the criteria and rules of use for using the trademark and logo.</p>
+      partners:
+        value:
+          string: >-
+            NORAD, Mecanismos de Desarrollo Alternos, Earth Innovation
+            Institute.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 45f1dc00-cecf-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:18:48.512Z'
+      name:
+        value:
+          string: Cedisa- Agrobanco (Global Canopy)
+      description:
+        value:
+          html: >-
+            <p><em>Implement sustainable production patterns.</em></p><p>The
+            intervention has the following objectives:&nbsp;</p><ul><li>develop
+            innovative financing models to reduce or lessen the
+            deforestation;&nbsp;</li><li>guiding efforts towards sustainable
+            production systems of regional impact;&nbsp;</li><li>determine the
+            costs of the transition from a traditional production scheme towards
+            a model of sustainable production, and&nbsp;</li><li>cash flow and
+            the value of environmental services involved.</li></ul>
+      partners:
+        value:
+          string: Global Canopy Program
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Finance Initiative
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 902b5300-cecf-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:20:53.040Z'
+      name:
+        value:
+          string: Biocorredor Martin Sagrado - REDD +
+      description:
+        value:
+          html: >-
+            <p>The project enhances connectivity between Rio National Park
+            Abiseo and the Alto Mayo Protected Forest, and is part of
+            Conservation Corridor Abiseo Condor - Kukutú. The project involves
+            legal registration, control and surveillance, non-timber economic
+            activities, education and awareness, community empowerment and
+            organizational strengthening, promotion and communication,
+            international liaison and international certification. The project
+            is in execution. It has been verified under the VCS.&nbsp;</p>
+      partners:
+        value:
+          string: 'Fundación Amazonia Viva, Acopagro, Pur Project '
+      fundingSource:
+        value:
+          string: 'Fundación Amazonia Viva, Acopagro, Pur Project '
+      fundingAmount:
+        value:
+          string: '$80M to implement 295,654 hectares'
+      initiativeType:
+        value:
+          string: REDD+ project
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: e8d89670-cecf-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:23:21.815Z'
+      name:
+        value:
+          string: Conservation Concession High Huayabamba - REDD +
+      description:
+        value:
+          html: >-
+            <p>The project is located within the Conservation Concession Alto
+            Huayabamba. The activities to prevent deforestation are: sustainable
+            productive activities, education, and enhanced governance.The
+            beneficiary families belong to the districts of Amazonas, La
+            Libertad and San Martin. The project is seeking VCS and CCB
+            validation.</p>
+      partners:
+        value:
+          string: AMPA Amazónicos por la Amazonia
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: REDD+ project
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 2b0114a0-ced0-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:25:12.810Z'
+      name:
+        value:
+          string: REDD + ANP Cordillera Azul
+      description:
+        value:
+          html: >-
+            <p><em>REDD + activities by 1.3 million hectares of the Cordillera
+            Azul National. </em></p><p>The project includes infrastructure
+            management, establishment of viable protected areas, stabilization
+            of land use and tenure in the buffer zone, working with communities
+            and local officials and coordination with the regional and national
+            governments to design development strategies that are compatible
+            with the biodiversity of the Natural Protected Area. The project has
+            received funding from various sources including the Field Museum,
+            United States Agency for International Development (USAID), the
+            Gordon and Betty Moore Foundation, the MacArthur Foundation, the
+            Foundation Exelon Frankel Family Foundation and the Spanish Agency
+            for International Cooperation (AECID).VCS and CCB standards were
+            used.</p>
+      partners:
+        value:
+          string: CIMA Park
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: REDD+ project
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 6379fdd0-ced3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:48:16.045Z'
+      name:
+        value:
+          string: 'Holistic Model Project with Long Term Vision - Secure Retirement '
+      description:
+        value:
+          html: >-
+            <p><em>REDD + activities 5,500 hectares // 33 million
+            trees.</em><br>This program comprises 03 reforestation projects with
+            Acopagro, Oro Verde Fundacion Amazonia Viva (Corredor Martin
+            Sagrado). These are projects that seek install agroforestry systems
+            and forests mass. The first stage of the project has concluded.</p>
+      partners:
+        value:
+          string: FUNDAVI / Pur Project
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: REDD+ project
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 920f5870-ced3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:49:34.199Z'
+      name:
+        value:
+          string: Conservation Initiative Altomayo BPAM - REDD +
+      description:
+        value:
+          html: >-
+            <p>The project is investing in activities to improve the governance
+            capacity of the Alto Mayo Natural Protected Area-NPA and buffer zone
+            to address illegal activities and improve coordination between local
+            communities and the administration of the protected area. Peruvian
+            Society for Environmental Law (SPDA) acts as legal advisor of the
+            project and the Association for Integrated Research and Development
+            (AIDER) acts as technical advisor the project. Standards VCS and CBB
+            were used. The project has been implemented and has already issued
+            and sold carbon credits the international market.One of its main
+            instruments of REDD+ project here is Conservation Agreements. It is
+            an intervention model that creates an alliance between the local
+            populations within the ANP with the Head of BPAM. Establishes
+            concrete conservation actions who combine human activity and tend to
+            ensure the functionality of the ecosystems of NPA. In return,
+            volunteers subscribers of these agreements benefit from technical
+            assistance and working capital, based on inputs and materials that
+            generate sustainable business ventures, directly contributing to
+            socioeconomic development of the Alto Mayo basin.</p>
+      partners:
+        value:
+          string: Conservation International
+      fundingSource:
+        value:
+          string: Conservation International
+      fundingAmount:
+        value:
+          string: $3.5M
+      initiativeType:
+        value:
+          string: REDD+ Project
+      initiativeStatus:
+        value:
+          string: In Progress
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 64.5
+        src: '64.5'
+    - id: 2
+      value:
+        value: 35.5
+        src: '35.5'
+  citation:
+    html: >-
+      (INEI, 2014) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmVTFybG1LUnE5X3pabWtGVXNmOE8yelZFNDBn/view?usp=sharing">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 27.3
+        src: '27.3'
+    - id: 5
+      value:
+        value: 0.1
+        src: '0.1'
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      (BCRP, 2014) <a
+      href="http://www.bcrp.gob.pe/docs/Sucursales/Iquitos/san-martin-caracterizacion.pdf">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-04T21:44:55.164Z'
+  values:
+    - id: u2017c
+      value:
+        value: 26968.9412
+        src: null
+    - id: u2017g
+      value:
+        value: 17030.16005
+        src: null
+    - id: u2017b
+      value:
+        value: 2685
+        src: null
+    - id: u2017d
+      value:
+        value: 1489.308159
+        src: null
+    - id: u2017f
+      value:
+        value: 478
+        src: null
+    - id: u2017a
+      value:
+        value: 319.8024222
+        src: null
+    - id: u2017e
+      value:
+        value: 319.8024222
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-04T21:45:55.334Z'
+  values:
+    - id: u2017h
+      value:
+        value: 22212
+        src: null
+    - id: u2017c
+      value:
+        value: 9494
+        src: null
+    - id: u2017d
+      value:
+        value: 5812
+        src: null
+    - id: u2017e
+      value:
+        value: 4947
+        src: null
+    - id: u2017f
+      value:
+        value: 4776
+        src: null
+    - id: u2017g
+      value:
+        value: 2165
+        src: null
+    - id: u2017b
+      value:
+        value: 1475
+        src: null
+    - id: u2017a
+      value:
+        value: 466
+        src: null
+  citation:
+    html: >-
+      Fuente: Elaboracion propia basada en informacion proporcionada por el
+      Gobierno Regional de San Martin* Incluye ACP Los Chilchos que según fuente
+      nacional pertenece a Amazonas, pero ha sido incluido aquí por solicitud
+      expresa del Gobierno de San Martín **Solo considera las areas
+      pertenecientes a San Martin.<br><br>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Victor
+    lastName: Noriega
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T15:22:53.524Z'
+  value:
+    firstName: Neisser
+    lastName: Bartra Ramirez
+    email: 'neisserbartra@yahoo.es '
+    companyTitle: Manager of the Regional Environmental Authority
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Jose Enrique
+    lastName: Delgado Mesia
+    email: jedelgadomesia@gmail.com
+    companyTitle: Manager of the Regional Economic Development
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: 173.11
+        src: |
+          173.11
+    - id: '2002'
+      value:
+        value: 214.8
+        src: |
+          214.8
+    - id: '2003'
+      value:
+        value: 152.9
+        src: |
+          152.9
+    - id: '2004'
+      value:
+        value: 239.96
+        src: |
+          239.96
+    - id: '2005'
+      value:
+        value: 341.09
+        src: |
+          341.09
+    - id: '2006'
+      value:
+        value: 148.11
+        src: |
+          148.11
+    - id: '2007'
+      value:
+        value: 365.52
+        src: |
+          365.52
+    - id: '2008'
+      value:
+        value: 170.08
+        src: |
+          170.08
+    - id: '2009'
+      value:
+        value: 388.12
+        src: |
+          388.12
+    - id: '2010'
+      value:
+        value: 338.73
+        src: |
+          338.73
+    - id: '2011'
+      value:
+        value: 248.73
+        src: |
+          248.73
+    - id: '2012'
+      value:
+        value: 290.07
+        src: |
+          290.07
+    - id: '2013'
+      value:
+        value: 222.81
+        src: |
+          222.81
+    - id: '2014'
+      value:
+        value: 261.46
+        src: |
+          261.46
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: Peru FREL
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: '(PNCB, 2014)'

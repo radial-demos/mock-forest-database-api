@@ -1,0 +1,1034 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 31600
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 449.3265
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 4494410
+    string: ''
+  citation:
+    html: 'Aceh Dalam Angka 2014, Hal. 42'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 84540000000000
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Aceh dalam angka 2012, BPS'
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 17466000
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Aceh dalam angka 2012 hal 484 , BPS'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.717
+    string: ''
+  citation:
+    html: >-
+      Aceh Central Statistics Agency (BPS), Aceh dalam angka 2012 hal 493 <a
+      href="http://aceh.bps.go.id/index.php?option=com_content&amp;view=article&amp;id=433:indeks-pembangunan-manusia-dan-reduksi-shortfall-menurut-kabupatenkota-2009-2010&amp;catid=59:indeks-pembangunan-manusia&amp;Itemid=110">link</a>
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 41
+    year: '2020'
+    string: ''
+  citation:
+    html: ''
+original_forest_area:
+  timestamp: '2017-12-01T19:10:46.615Z'
+  value:
+    value: 33485
+    string: ''
+  citation:
+    html: ''
+land_area:
+  timestamp: '2017-12-01T19:11:04.513Z'
+  value:
+    value: 56776
+    string: ''
+  citation:
+    html: ''
+main_exports:
+  timestamp: '2018-04-11T14:53:51.410Z'
+  value:
+    string: I am a string.
+  citation:
+    html: <p>I am a citation.</p>
+txt_state_description:
+  timestamp: '2017-12-28T17:08:38.590Z'
+  value:
+    html: >-
+      <p>Aceh lies between 20 and 60 degrees north of the equator at the extreme
+      north of the Island of Sumatra and across the Strait of Malacca from
+      Peninsular Malaysia. It is the most western province in Indonesia and has
+      a unique history strongly embedded in a social structure reflecting the
+      importance of Islam to the peoples’ day to day lives. Within a formal
+      administrative structure common to Indonesia there is a system of informal
+      leadership (mukim) which identifies local communities strongly held within
+      religious bonds. These communities, with their religious base, are a
+      strong part of Acehnese society. The Province was granted Special Autonomy
+      in 2001. They are key agents mobilized by the Governor as part of the
+      Province’s REDD initiatives for climate change mitigation and
+      adaptation.</p><p>The Province occupies an area of almost 57 000 km² and
+      supports a population of 4.3 million of whom most live in rural
+      environments. The population is of mixed ethnic origin with original
+      Acehnese complemented by communities from Java, elsewhere in Sumatra and
+      ethnic Chinese. GDP in 2008 was USD 3.8 million of which the agricultural
+      sector, including forestry and estate crops, contributed about USD 900
+      million. Aceh has been a major source of oil and natural gas production
+      and this sector is still the main contributor to GDP. Mean per capita
+      income is USD 881.3 with levels of poverty and the HDI similar to the
+      national average.</p><p>As LNG production declines the government is
+      focusing on a green development strategy. Green Aceh seeks to optimize the
+      use of its hydro generating potential; implement sustainable forest
+      management, retain and protect its lowlands for food production, to be
+      mindful of the importance of waste management and land use to reducing
+      disaster risk, and to carefully regulate the use of its non-renewable
+      resources. This approach to an economic future with a low carbon footprint
+      is consistent with national policy and underlies the Province’s commitment
+      to sustainable use of its forests, reflected in a significant
+      reclassification of forest use zones to Protection Forest and Conservation
+      Reserves and a moratorium on commercial logging.</p><p>Prior to the
+      introduction of commercial logging the estimated area of forest was just
+      over 36 000 km². The remaining forest area of 33 400 km. Like Papua, Aceh
+      has historically low rates of deforestation which attest to the difficulty
+      of large scale logging in steep uplands and the impact of a long, armed
+      struggle for independence. These low rates will influence the approach
+      taken to establishing baselines for future carbon trade. Over 80% of the
+      remaining forest area is designated for nature conservation and protection
+      purposes, emphasizing the importance of developing non-destructive uses
+      for the forests such as tourism and payments for environmental services,
+      including REDD. Current estimates of the carbon sequestered in the forests
+      of Aceh total 602 million tonnes CO₂e. The forests of Aceh contain the
+      biggest remaining populations of Sumatran Rhino, tiger and orangutan. The
+      Leuser Ecosystem Reserve and Ulu Masen Forest Reserve are globally
+      significant forests and are seeking support from REDD investment in their
+      future management.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=10611,states"><strong>GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T17:42:25.813Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies</strong></p><p><em><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/aceh/aceh_provincial_redd_action_plan_srap.pdf"
+      target="_blank">Provincial REDD+ Action Plan (SRAP)</a> </em>- formalized
+      on 21 January 2014 through <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/aceh/aceh_governor_regulation_3_2014.pdf"
+      target="_blank">Governor Regulation 3</a></p><p><em>Provincial Action Plan
+      for the Reduction of GHG emissions (RAD-GRK)</em> - Completed in 2011, the
+      RAD-GRK provides a medium term action plan for reducing greenhouse gas
+      emissions across sectors in Aceh through 2020.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/aceh/aceh_provincial_redd_action_plan_srap.pdf"
+      target="_blank"><em>Provincial long-term development plan (Rencana
+      Pembangunan Jangka Panjang Daerah - RPJPD)</em></a> - The RPJPD is a
+      long-term development planning document for 20 years, from 2005 to 2025. 
+      It contains the vision, mission and direction of development in the
+      province.</p><p><em>Aceh Moratorium on Logging</em><strong>-</strong> A
+      fundamental policy enabling forest protection, the moratorium is founded
+      on the principles of ‘redesign’, ‘reforestation’ and ‘reduction of forest
+      degradation’.<br /><br /><em>Aceh Forestry Policy Redesign /
+      TIPERESKA</em><em> </em>- Under this policy the TIPERESKA team is focusing
+      on three main elements, these being: spatial planning, responsibilities /
+      rights of the provincial government and institutional development. This
+      team is responsible for providing recommendations for spatial planning,
+      evaluation of concession permits and establishment of required task forces
+      for the redesign of Aceh forestry policy.  </p><p><em>Policy and Strategy
+      on Reforestation in Aceh Province</em> - First priority on revitalizing
+      community plantation forestry. Secondary focus is on reforestation of
+      degraded and marginal land.  </p><p><em>Policy and Strategy on Law
+      Enforcement Aceh </em>- Continuous strategy involving relevant
+      stakeholders undertaken on areas with a high risk of degradation and
+      deforestation.<br /><br /><em>Policy on Evaluation on Forest Permits &amp;
+      Licenses Aceh</em> - Focusing on the integration of all active licensed
+      activities (including oil palm and mining) and evaluation of competency
+      and cooperation. Results of this evaluation will become a reference for
+      minimum investment and responsibilities for future concession holders.<br
+      /><br /><em>Policy on Forest Protection and Conflict Resolution Systems
+      Aceh -</em> Forest protection system is being developed across three
+      levels of Government, namely: Forestry Police in the Department of
+      Forestry working with forest-crime units for training and operations,
+      Forest Guard / Rangers whose function it is to patrol forest borders and
+      Community Rangers, whose responsibility lies to protect that forest in the
+      immediate vicinity of their villages. </p><p><strong>Laws and
+      Regulations</strong></p><p><em>Governor Regulation 20/2013 </em>on
+      formation of technical implementation unit in the forestry agency that
+      implements the activities in the forestry sector related to climate
+      change.<br /><br /><em>Governor Regulation 85/20</em><em>12</em> on the
+      GHG emission reduction action plans as part of the national GHG emission
+      reduction plans.<br /><br /><em>Governor Decree 050/717/2012 </em>on
+      formation of Aceh REDD+ task force which coordinates the REDD+ related
+      activities.</p><p><em>Governor Decree 522/372/2009 - </em>on decision to
+      set aside Ulu Masen area as emission reduction strategic area from
+      deforestation and forest degradation.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-28T18:18:07.426Z'
+  value:
+    html: >-
+      <p><strong>Council on Climate Change</strong> - is a coodination body
+      chaired by the Governor and composed of representatives of different
+      agencies that related to land uses and climate change. The council also
+      works with different stakeholders that engage in the accomplishment of the
+      action plans to reduce GHG emissions.<br /><br /><strong>Provincial
+      Forestry Agency</strong> - manages and oversees the forestry sector
+      related issues, including policy formulation.<br /><br
+      /><strong>Plantation Agency - </strong>controls the non-forest areas land
+      use, plan, and issuance of the permits.<br /><br /><strong>Environmental
+      Agency</strong> - has authority related to the protection and management
+      of environment, including climate change related issues.<br /><br
+      /><strong>BAPPEDA -</strong> the Provincial Development Planning Agency
+      that coordinates on the policy formulation of the regional development
+      planning with sustainable development and low carbon as the basis.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-12T17:41:06.285Z'
+  value:
+    html: >-
+      <p>Aceh Spatial Plan (RTRWA): In the governmental context, sustainable
+      development vision should be referred to in the planning and
+      implementation of Aceh future development. Provincial laws (local term:
+      qanun) on spatial plan and on long-term development plan currently being
+      discussed by the provincial legislature are designed based on the
+      principles of sustainable and just natural resource management to generate
+      benefits for Aceh communities. The Aceh Province Spatial Plan is based on
+      the <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/aceh/aceh_provincial_bylaw_19_2013.pdf"
+      target="_blank">provincial bylaw 19/2013</a> that covers 2013 to 2033. 
+      The spatial plan has not been approved by the national government.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-11-29T17:31:56.386Z'
+  value:
+    html: ''
+  citation:
+    html: >-
+      1. Illegal logging<br>2. Mining<br>3. Fire<br>4. Land clearing for
+      plantations
+initiatives:
+  rows:
+    - id: 517a1b20-ce28-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:23:41.906Z'
+      name:
+        value:
+          string: >-
+            Support to Indonesia's Climate Change Response - Technical
+            Assistance Component (SICCR-TAC) 
+      description:
+        value:
+          html: >-
+            <p>The project is financed by the EU of 6.5 million USD, with GIZ as
+            the Executing Agency.The objectives of this project are the
+            coordination of FMU capacity, the development of climate change
+            campaigns in the regions as well as the need for the management of
+            forest protection for FMU areas 1,2,4 and Tahura forests in Aceh
+            Province.This project will run until 2019.&nbsp;</p>
+      partners:
+        value:
+          string: GIZ
+      fundingSource:
+        value:
+          string: GIZ
+      fundingAmount:
+        value:
+          string: $6.5 million USD
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Ongoing
+    - id: a51a7e00-ce28-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:26:02.208Z'
+      name:
+        value:
+          string: KfW (Kreditanstalt für Wiederaufbau) Development Bank
+      description:
+        value:
+          html: >-
+            <p>This project is funded by the German government to the Government
+            of Aceh for Biodiversity conservation and climate protection
+            activities in Gunung Leuseur ecosystem.Based on the Letter of the
+            Ministry of Finance no.S-103 / MK.7 / 2015 dated July 14, 2015 of
+            EUR 4,194,714 Or Rp.67.115.424.000<br>With details:<br>2016 - EUR
+            300,000<br>2017 - EUR 1,429,714<br>2018 - EUR 1,621,000<br>2019 -
+            EUR 844,000<br>The project focuses on South Aceh district, Kota
+            Sebulussalam and Aceh Singkil regency, or in the district directly
+            adjacent to Gunung Leuser Aceh National Park.&nbsp;</p>
+      partners:
+        value:
+          string: KfW
+      fundingSource:
+        value:
+          string: KfW
+      fundingAmount:
+        value:
+          string: 'EUR 4,194,714 '
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Ongoing
+    - id: 14529d20-3cf6-11e8-80e0-5b72c29ba364
+      timestamp: '2018-04-10T19:33:43.538Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 72e26160-3d8a-11e8-ae48-558d4dc2ba93
+      timestamp: '2018-04-11T13:15:47.702Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 4a640ee0-3d8b-11e8-868a-a5568e1697ad
+      timestamp: '2018-04-11T13:21:49.261Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: a0126a30-3d8b-11e8-bf0f-5b2f32e9e779
+      timestamp: '2018-04-11T13:24:13.010Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 408d1bc0-3d8e-11e8-bb90-29dfbb78a4b9
+      timestamp: '2018-04-11T13:43:01.243Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 9d300360-3d8e-11e8-a35b-0ba68a1903de
+      timestamp: '2018-04-11T13:45:36.662Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: ee0cd970-3d8e-11e8-b788-4b0d0f715eb2
+      timestamp: '2018-04-11T13:47:52.327Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 0cb81b50-3d8f-11e8-8204-dd43f4f94fcf
+      timestamp: '2018-04-11T13:48:43.781Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 6de80520-3d8f-11e8-ba1f-834e8ac64bdf
+      timestamp: '2018-04-11T13:51:26.834Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: c1b3ef60-3d90-11e8-915d-03a858859927
+      timestamp: '2018-04-11T14:00:56.918Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: e1c15950-3d90-11e8-9720-475a7c59a813
+      timestamp: '2018-04-11T14:01:50.693Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 139cb730-3d91-11e8-82b0-8fd8523f5dd2
+      timestamp: '2018-04-11T14:03:14.339Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 279e2cf0-3d91-11e8-a646-7119034feb93
+      timestamp: '2018-04-11T14:03:47.902Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 3dbcdd60-3d91-11e8-b547-37ab1c83a88e
+      timestamp: '2018-04-11T14:04:25.014Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 55415f60-3d91-11e8-b8dd-91f291e5dc8b
+      timestamp: '2018-04-11T14:05:04.469Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: ce308a40-3d91-11e8-be53-bf1319577299
+      timestamp: '2018-04-11T14:08:27.364Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 470faf90-3d92-11e8-b63e-43fc14fda057
+      timestamp: '2018-04-11T14:11:50.152Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 79950910-3d92-11e8-a5f4-7faf3e3a2c21
+      timestamp: '2018-04-11T14:13:14.913Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 9d3d4d00-3d92-11e8-be20-110567c7e340
+      timestamp: '2018-04-11T14:14:14.735Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+    - id: 25a928d0-3d93-11e8-9d3e-bbebe58486e9
+      timestamp: '2018-04-11T14:18:03.613Z'
+      name:
+        value:
+          string: Cool Initiative
+      description:
+        value:
+          html: ''
+      partners:
+        value:
+          string: ''
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: ''
+      initiativeStatus:
+        value:
+          string: ''
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 80.67
+        src: '80.67'
+    - id: 1
+      value:
+        value: 19.32
+        src: '19.32'
+  citation:
+    html: 'BPS-SP 2012 Aceh, hal 113'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 79
+        src: '79'
+    - id: a2
+      value:
+        value: 7
+        src: '7'
+    - id: a3
+      value:
+        value: 5
+        src: '5'
+    - id: a4
+      value:
+        value: 4
+        src: '4'
+    - id: a5
+      value:
+        value: 3
+        src: '3'
+    - id: a6
+      value:
+        value: 2
+        src: '2'
+    - id: a7
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 23.86
+        src: '23.86'
+    - id: a5
+      value:
+        value: 13.71
+        src: '13.71'
+    - id: a2
+      value:
+        value: 9.96
+        src: '9.96'
+    - id: a7
+      value:
+        value: 9.85
+        src: '9.85'
+    - id: a6
+      value:
+        value: 9.37
+        src: '9.37'
+    - id: a4
+      value:
+        value: 8.61
+        src: '8.61'
+    - id: a3
+      value:
+        value: 7.54
+        src: '7.54'
+  citation:
+    html: 'Aceh dalam angka 2012, BPS'
+current_forest_area_typologies:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+    - id: 5
+      value:
+        value: null
+        src: null
+    - id: 6
+      value:
+        value: null
+        src: null
+    - id: 7
+      value:
+        value: null
+        src: null
+    - id: 8
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-01T19:09:59.152Z'
+  values:
+    - id: conserved_forest_area_breakdown
+      value:
+        value: 14277
+        src: null
+    - id: unprotected_forest_area
+      value:
+        value: null
+        src: null
+    - id: fully_protected_forest_area_breakdown
+      value:
+        value: null
+        src: null
+    - id: sustainably_managed_forest_area_breakdown
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 99
+        src: '99'
+    - id: 2
+      value:
+        value: 1
+        src: '1'
+    - id: 3
+      value:
+        value: null
+        src: '0'
+  citation:
+    html: Pengolahan SRAP REDD+ Aceh 2013
+governor:
+  timestamp: '2017-12-01T16:46:40.612Z'
+  value:
+    firstName: Irwandi
+    lastName: Yusuf
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T17:30:21.389Z'
+  value:
+    firstName: Ir. Saminuddin
+    lastName: B Tou
+    email: tou_dishut@yahoo.com
+    companyTitle: Head of Forestry Agency
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-01T19:09:43.072Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: 109
+        src: null
+    - id: '2006'
+      value:
+        value: 109
+        src: null
+    - id: '2007'
+      value:
+        value: 362
+        src: null
+    - id: '2008'
+      value:
+        value: 362
+        src: null
+    - id: '2009'
+      value:
+        value: 362
+        src: null
+    - id: '2010'
+      value:
+        value: 324
+        src: null
+    - id: '2011'
+      value:
+        value: 324
+        src: null
+    - id: '2012'
+      value:
+        value: 222
+        src: null
+    - id: '2013'
+      value:
+        value: 327
+        src: null
+    - id: '2014'
+      value:
+        value: 64
+        src: null
+    - id: '2015'
+      value:
+        value: 64
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Ministry of Forestry, Indonesia'
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: SRAP REDD+ Aceh 2013
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '1'
+  citation:
+    html: SRAP REDD+ Aceh 2013
+overviewForestMonitoringAndMeasurementSystems:
+  timestamp: '2018-04-11T14:53:51.356Z'
+  value:
+    html: <p>I am some text.</p>
+  citation:
+    html: <p>I am a citation.</p>

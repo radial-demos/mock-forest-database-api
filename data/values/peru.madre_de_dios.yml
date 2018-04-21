@@ -1,0 +1,808 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 80000
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 796.2
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 128000
+    string: ''
+  citation:
+    html: >-
+      INEI, 2012. Población Proyectada por Departamento <a
+      href="http://www.inei.gob.pe/perucifrasHTM/inf-dem/cuadro.asp?cod=9222&amp;name=d17_02&amp;ext=jpg">Población
+      Proyectada por Departamento</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1676958385
+    currency: PEN
+    string: ''
+  citation:
+    html: INEI - Informe Técnico Agosto 2010
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 15307
+    currency: PEN
+    string: ''
+  citation:
+    html: INEI - Informe Técnico Agosto 2010
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.5997
+    string: ''
+  citation:
+    html: >-
+      UNDP, 2013. Human Development Report. The Rise of the South: Human
+      Progress in a Diverse World, New York
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 81278.88
+    string: ''
+  citation:
+    html: >-
+      PNCB <a
+      href="http://geobosques.minam.gob.pe/geobosque/view/perdida.php">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 85182.63
+    string: ''
+  citation:
+    html: >-
+      INEI 1996, PERU: SUPERFICIE, POBLACION Y DENSIDAD POBLACIONAL DE LAS
+      PROVINCIAS POR REGION, SEGUN DEPARTAMENTO <a
+      href="www.inei.gob.pe/biblioineipub/bancopub/Est/LIB0170/N02/iecaa020.htm">link</a>
+main_exports:
+  timestamp: '2017-12-01T20:57:47.346Z'
+  value:
+    string: 'Gold, timber, Brazil nuts '
+  citation:
+    html: >-
+      Principales Partidas Exportadas Según UBIGEO, Madre de Dios <a
+      href="http://www.siicex.gob.pe/siicex/forms/Estadisticas/Nacional/Predefinido/Exportacion/pc_upartida.aspx?rbn=2&tab=1&var1=17&var2=MADRE%20DE%20DIOS&var3=0&var4=MMM">link</a>
+txt_state_description:
+  timestamp: '2017-12-28T17:51:44.894Z'
+  value:
+    html: >-
+      <p>The Madre de Dios Region is located in the south-eastern part of the
+      Peruvian territory, between parallels 9º 55'33 &quot;and 13º 20' 04&quot;,
+      south latitude, and meridians 68º 39'27 &quot;and 77º 22 '27&quot;, west
+      longitude . Its location is considered strategic because it constitutes a
+      frontier region with the countries of Brazil and Bolivia.</p><p>It has a
+      surface area of 85,182 square kilometers equivalent to 8,518,200 hectares,
+      representing 6.6% of the national territory and 15.3% of the forest.
+      Provinces in Madre de Dios include Tambopata (42.58% of the departmental
+      area), Manu (32.54%) and Tahuamanu (24.88%).</p><p>It is mainly covered by
+      subtropical forests where various productive activities are carried out,
+      including the extraction of gold, wood and chestnuts. Recently the region
+      has invested in ecotourism.</p><p>Throughout its history it has faced the
+      restrictive problem of a lack of  communication and transportation
+      infrastructure, which has isolated it from the rest of the country and
+      limited economic development.</p><p>The region is endowed with a great
+      potential in natural resources, and is considered the &quot;Peruvian
+      capital of the biodiversity&quot;. There are three important protected
+      areas: the Manu National Park, the Bahuaja-Sonene National Park and the
+      Tambopata National Reserve.</p><p>Additional information can be found on
+      the <a href="http://gcfimpact.org/states?region=17817,states"><strong>GCF
+      Impact Platform. </strong></a></p>
+  citation:
+    html: >-
+      IIAP. La Región Madre de Dios <a
+      href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDcQFjAC&url=http%3A%2F%2Fwww.iiap.org.pe%2Fpromamazonia%2FSBiocomercio%2FUpload%2FLineas%2FDocumentos%2F157.doc&ei=7jzLUY6iI4mFtAaRyoGACw&usg=AFQjCNHMcxZ4q1qlNvdQ0_uzIeSPgkbAXA&bvm=bv.48340889,d.Yms&cad=rja">link</a>
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T18:51:56.692Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_regional_development_plan_2014_2021.pdf"
+      target="_blank">Regional Development Plan 2014-2021</a>- This plan is an
+      instrument of strategic planning management adjusted to the Strategic Plan
+      of National Concerted Development. It contains the vision of the future, a
+      situational analysis of the province, the provincial policy guidelines,
+      objectives, goals and  strategic programs, as well as the indicators for
+      the measurement of the progress and fulfillment of the objectives, within
+      the framework of an open economy with a market vision, in order to raise
+      the standard of living of its citizens, improve the income of local
+      producers and generate conditions to attract investment that generates
+      quality jobs.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_regional_strategy_on_biological_diversity_and_its_action_plan_2014_2021.pdf"
+      target="_blank">Regional Strategy on Biological Diversity and its Action
+      Plan 2014-2021</a> - The plan seek to improve management of biodiversity
+      and benefit all inhabitants through its proper use. This document aims to
+      strengthen the environmental governance of the Regional Government of
+      Madre de Dios in the conservation of biodiversity, knowing that this term
+      is synonymous with &quot;sustainable use&quot; and that it will benefit
+      the population in general. Likewise, it serves as a guiding tool to face
+      the various threats that are seriously affecting the
+      region.</p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_regional_ordinance_3_2017.pdf"
+      target="_blank">Regional Ordinance 3/2017</a> - Declares of necessity and
+      regional interest, the formalization of small-scale mining and artisanal
+      mining in Madre de Dios, which enables mining operations to be carried out
+      in compliance with environmental protection norms, using clean
+      technologies and environmental remediation mechanisms, as well as recovery
+      of deforested areas, contributing to the integrated development of the
+      region, in accordance with Legislative Decree No. 1293 and other
+      provisions issued at the national and regional levels that contribute to
+      the implementation of this regional standard.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_regional_ordinance_2_2014.pdf"
+      target="_blank">Regional Ordinance 2/2014</a> - Creates the Regional
+      Environmental and Forest Authority (ARA MDD), as a decentralized body
+      dependent on the Regional General Management.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_regional_executive_ordinance_150_2014.pdf"
+      target="_blank">Regional Executive Resolution 150/2014</a> – Approves the
+      <a
+      href="http://transparencia.regionmadrededios.gob.pe/descarga.php?archivo=archivos/2014/MOF/MOF_2014.pdf">Organization
+      and Functions Manual</a> (MOF) is a normative, guiding and operational
+      management instrument that aims to describe the specific functions,
+      requirements, location and relationships at the level of position or
+      position of work, developing them from the organizational structure ,
+      established in the Regulation of Organization and Functions, as well as on
+      the basis of the requirements of positions considered in the Table for
+      Personnel Allocation; in the Dependencies that make up the Regional
+      Government of Madre de Dios. It defines the democratic, decentralized and
+      deconcentrated organization of the Regional Government according to the
+      Constitution and the Basic Law of Decentralization.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_regional_ordinance_17_2013.pdf"
+      target="_blank">Regional Ordinance 17/2013</a> - Creates the Regional
+      Environmental Information System Of Madre De Dios (SIAR-MDD), with the
+      purpose of establishing and guaranteeing a fluid exchange of information
+      among the public institutions of the Region and which is fully available
+      in a useful and timely manner to the various users and agents with
+      decision-making power.</p><p><strong>Ministerial Resolution
+      301/2010</strong>- transfers functions of forest management for the
+      regional government of Madre de Dios.</p><p><a
+      href="http://transparencia.regionmadrededios.gob.pe/descarga.php?archivo=archivos/2009/ORDENANZAS/OCRCON00322009.pdf">Regional
+      Ordinance 23/2009</a> - approves the Economic Ecological Zoning Study of
+      the Department of Madre de Dios, at a macro level at a scale of 1:
+      250,000, as a basic instrument of territorial planning; for the
+      implementation of development policies, programs, public and private
+      investment projects, which aim to promote the sustainable development of
+      the department.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-07T17:26:31.225Z'
+  value:
+    html: >-
+      <p><strong>Regional Directorate of Agriculture of the Regional Government
+      of Madre de Dios (DRA)</strong> - is a third-level organizational line
+      organ, hierarchically and administratively dependent on the Regional
+      Management of Economic Development, is responsible for the organization,
+      planning, management, coordination, evaluation, supervision , control and
+      compliance with the functions in agrarian matters established in Article
+      51 of Law No. 27867 Organic Law of Regional Governments, as amended by Law
+      No. 27902.</p><p><strong>The Regional Directorate of Production of the
+      Regional Government of Madre de Dios</strong> - is a third-level
+      organizational line organ, hierarchically and administratively dependent
+      on the Regional Management of Economic Development, is responsible for the
+      organization, planning, conduction, coordination, evaluation, supervision,
+      control and fulfillment of the functions in matters of fishery and
+      industry established in Articles 52 and 54 of Law No. 27867 of the
+      Regional Government, modified by Law No. 27902.</p><p><strong>The Regional
+      Directorate of Forestry and Wildlife (DRFFS) -</strong> is a body of line
+      of third organizational level, hierarchically and administratively
+      dependent on the Regional Management of Natural Resources and
+      Environmental Management, is responsible for managing the rational and
+      sustainable management and use of forest and wildlife heritage with the
+      participation of the actors involved, control the application of the norms
+      and strategies in accordance with the national policy and the conservation
+      of the ecosystems to improve the quality of life of the population within
+      the framework of the Law N ° 29763 Forestry and Wildlife
+      Law.</p><p><strong>The Regional Management of Natural Resources and
+      Environmental Management - </strong>is a second level organizational organ
+      of the Regional Government of Madre de Dios, is an executive body,
+      hierarchically and administratively dependent of the Regional General
+      Management, is responsible for planning, driving , coordination,
+      evaluation, supervision and oversight of specific sectorial functions in
+      the area of protected areas, the environment, and the administration of
+      forest resources at the regional level.</p><p><strong>The Regional
+      Management of Planning, Budget and Territorial Conditioning</strong> -
+      depends hierarchically and administratively on the Regional General
+      Management, responsible for the management of the technical processes of
+      the Administrative Systems of Strategic Planning, Public Investment
+      Projects, Budget and Taxation, Territorial Conditioning, Institutional
+      Development, Rationalization and Administrative
+      Modernization.</p><p><strong>The Regional Management of Natural Resources
+      and Environmental Management</strong> is a second level organizational
+      organ of the Regional Government of Madre de Dios, is an executive body,
+      hierarchically and administratively dependent of the Regional General
+      Management, is responsible for planning, driving , coordination,
+      evaluation, supervision and oversight of specific sectorial functions in
+      the area of protected areas, the environment, and the administration of
+      forest resources at the regional level.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-16T18:52:34.075Z'
+  value:
+    html: >-
+      <p>Madre de Dios finalized its economic and ecological zoning in 2009 at a
+      scale of 1: 250,000.  The plan guides implementation of development
+      policies, programs, public and private investment projects and was
+      formalized through <a
+      href="http://transparencia.regionmadrededios.gob.pe/descarga.php?archivo=archivos/2009/ORDENANZAS/OCRCON00322009.pdf">Regional
+      Ordinance 23/2009</a>.  The ZEE is other territorial management
+      instruments such as the Concerted Development Plan 2017-2021, Regional
+      Environmental Policy and Regional Environmental Management System,
+      Regional Strategy of Biological Diversity of Madre de Dios to 2021, Urban
+      Development Plan Puerto Maldonado 2021 (Provincial Municipality of
+      Tambopata).</p><p>Both the <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_zee_study.pdf"
+      target="_blank">study</a> and <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/madre_de_dios/madre_de_dios_zee_map.pdf"
+      target="_blank">map</a> are available for download. </p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: ba33de10-cec5-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:24:32.157Z'
+      name:
+        value:
+          string: 'Phase 3 of the Forests, Farms and Finance Initiative'
+      description:
+        value:
+          html: >-
+            <p><em>Phase 3 of the Forests, Farms and Finance Initiative
+            "Building bridges between local policies, REDD + and initiatives for
+            sustainable supply chains" will support the construction of
+            jurisdictional low emissions rural development plans.</em></p><p>In
+            Peru, the 3FI initiative is led by the Earth Innovation Institute
+            and the Amazon Regional Council (CIAM, in Spanish) and is developing
+            incentives for low-emission rural development under a production and
+            protection approach. The activities of 3FI in the Peruvian Amazon
+            are led by the regional governments and are open to the
+            participation of any public or private institution that wishes to
+            contribute. 3FI considers with special attention the participation
+            of indigenous peoples and women in the activities to be carried out.
+            The initiative is based on empowering the progress of each region to
+            make the necessary incentives proposals by building tailored
+            instruments for each jurisdiction. Output from the project include:
+            (a) developing regional plans or roadmaps to promote a transition to
+            low-emission rural development; (b) promoting a transparent dialogue
+            process at the regional level which includes the perspectives of
+            indigenous peoples and women; and (c) developing a business plan to
+            attract private investment and promote low-emission rural
+            development in the Peruvian Amazon.</p>
+      partners:
+        value:
+          string: 'Earth Innovation Institute, CIAM'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 287f8190-ceca-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:42:11.625Z'
+      name:
+        value:
+          string: >-
+            Implementing Strategies for transition at regional level towards a
+            low-emission rural development in Indonesia, Peru, Mexico, Colombia
+            and Kenya
+      description:
+        value:
+          html: >-
+            <p><em>Development of policies and monitoring instruments for rural
+            development plan for the Amazon.</em></p><p>This project seeks
+            reduce emissions of greenhouse gases (GHG) emissions associated with
+            deforestation and promote sustainable use of natural resources in
+            the field of six regional governments in the Peruvian Amazon as
+            contribution to mitigation and adaptation to climate change,
+            biodiversity conservation, improved livelihoods of the local
+            population and the development of practices regional, national and
+            international policies and market mechanisms for rural development
+            under emissions.The project will be implemented in two scales. At
+            the interregional scalepolicies and monitoring instruments will be
+            developed for rural development plans for the Amazon under a
+            competitive, inclusive and low emission approach. The second scale
+            is local and focuses on the basin of the Pachitea to develop a
+            platform for low-emission rural development and strengthen
+            capacities of local authorities and indigenous organizations. Work
+            on the Pachitea is led by Instituto del Bien Comun -
+            IBC.&nbsp;</p><p>The project is expected achieve as first product
+            the development of an Interregional Plan for promotion of a low
+            emission development involving all participating regions. The
+            project will also develop a platform for performance monitoring
+            territorial performance as well as models of competitive and
+            inclusive governance and incentives to reduce deforestation.</p>
+      partners:
+        value:
+          string: 'Regional Governments, Forest Trends, IBC'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 7b3c0230-cecc-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:58:49.427Z'
+      name:
+        value:
+          string: >-
+            Sustainable Forestry Development Program, inclusive and competitive
+            - SERFOR - CAF
+      description:
+        value:
+          html: >-
+            <p>This project supports regions in strengthening their management
+            capacity and monitoring in forestry, with their equipment offices
+            and checkpoints. The project also has specific activities with
+            regional governments and the management of protected areas, forest
+            land, advancing the national forest inventory, implementation of
+            spatial data infrastructures, implementation of anticorruption plan
+            in the forestry sector, improved control and forest monitoring and
+            promotion of forestry value chains. The project also has a grant
+            fund for submitting public investment projects at regional
+            level.&nbsp;</p>
+      partners:
+        value:
+          string: >-
+            National forest and Wildlife Service, Andean Development
+            Corporation, regional governments
+      fundingSource:
+        value:
+          string: >-
+            National forest and Wildlife Service, Andean Development
+            Corporation, regional governments
+      fundingAmount:
+        value:
+          string: $76M
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Public Investment'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 1f87fc80-cece-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:10:34.568Z'
+      name:
+        value:
+          string: Public-Private Coalition of the Declaration of San Martin
+      description:
+        value:
+          html: >-
+            <p>This Coalition of 52 member organizations from government,
+            private sector and civil society seeks to promote sustainable rural
+            development and create synergies between regional governments, the
+            private business sector, producer organizations, NGOs and
+            organizations representing indigenous peoples. The coalition has
+            established an agenda to promote development amazon focused on: i)
+            ensuring land rights and forest native communities and agricultural
+            and forestry producers; ii) optimizing the sustainable use of forest
+            landscapes in the Amazon; iii) building the set of enabling
+            conditions and generate the necessary changes for rural development
+            low emission. Goals of the coalition include reducing deforestation
+            associated with agriculture, creating roadmaps for public - private
+            coordination by Amazon region, designing an architecture of
+            financing, increasing the productivity of agricultural crops and
+            increasing the value of forests and promote forest plantations. It
+            is expected that these measures will open a pathway to build
+            sustainable jurisdictions, especially in the value chains of the
+            Amazon through a Production - Protection approach. A group of
+            companies from the Pro Ucayali network, comprising the largest
+            companies in the region, have joined the coalition.</p>
+      partners:
+        value:
+          string: >-
+            GORE San Martin, GORE Ucayali, GORE Amazonas, GORE Madre de Dios,
+            GORE Huanuco.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Agreement Signed
+    - id: bcb59e90-ced3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:50:45.753Z'
+      name:
+        value:
+          string: >-
+            Carbon, social and biodiversity baseline for the "Los Amigos"
+            Conservation Concession
+      description:
+        value:
+          html: >-
+            <p>The concession in the river basin Los Amigos was created in July
+            2001. The project began in 2008 and currently continues operate
+            actively. The goal is to design a Biological Station in Madre de
+            Dios to train professionals and promote research on biological
+            resources and their environment.</p>
+      partners:
+        value:
+          string: Partnership Conservation of the Amazon basin (ACCA)
+      fundingSource:
+        value:
+          string: Partnership Conservation of the Amazon basin (ACCA)
+      fundingAmount:
+        value:
+          string: $50M
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: d6f214a0-ced3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:51:29.770Z'
+      name:
+        value:
+          string: >-
+            Execution of contract partial operations of management in the
+            Tambopata National Reserve and Bahuaja-Sonene National Park
+      description:
+        value:
+          html: >-
+            <p>The management contract was issued by the &nbsp; Peruvian
+            Government in 2007. AIDER assumes responsibility for operations
+            since 2008 with a duration of 20 years. The project has already
+            completed sale carbon credits to various national and international
+            buyers.</p>
+      partners:
+        value:
+          string: AIDER
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: REDD+ Project
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: fb717eb0-ced3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:52:31.003Z'
+      name:
+        value:
+          string: >-
+            Avoided deforestation for sustainable forest management in forest
+            concessions for timber production with FSC certification (Maderacre
+            and Maderyja)
+      description:
+        value:
+          html: >-
+            <p>The main objective is emission reductions validated by the
+            Verified Carbon Standard (VCS) and certified by the Climate and
+            Biodiversity Alliance Cammunity. The project has a concession until
+            2035 and is still under implementation.&nbsp;</p>
+      partners:
+        value:
+          string: AIDER
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: REDD+ Project
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 1b7524a0-ced4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:53:24.714Z'
+      name:
+        value:
+          string: REDD project in Brazil nut concessions in Madre de Dios
+      description:
+        value:
+          html: >-
+            <p>Reducing deforestation of 500,000 hectares in concessions on
+            Brazil nuts</p><p>According the IBD the project is reevaluated and
+            has an amount of USD 1,031,170 undisbursed. BAM works with producers
+            CEPROCAM. It had sales with institutional buyers LAN, La Positiva.
+            Total cost is US $ 4.5M.</p>
+      partners:
+        value:
+          string: Bosques Amazónicos
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: REDD+ Project
+      initiativeStatus:
+        value:
+          string: In Progress
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 75.7
+        src: '75.7'
+    - id: 2
+      value:
+        value: 24.3
+        src: '24.3'
+  citation:
+    html: 'INEI, 2012. Distribución de la Población Rural y Urbana Proyectada'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a6
+      value:
+        value: 97.1
+        src: '97.1'
+    - id: a1
+      value:
+        value: 1
+        src: '1'
+    - id: a2
+      value:
+        value: 0.6
+        src: '0.6'
+    - id: a3
+      value:
+        value: 0.5
+        src: '0.5'
+    - id: a4
+      value:
+        value: 0.5
+        src: '0.5'
+    - id: a5
+      value:
+        value: 0.3
+        src: '0.3'
+  citation:
+    html: ''
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 45.2
+        src: '45.2'
+    - id: 5
+      value:
+        value: 43.2
+        src: '43.2'
+    - id: 2
+      value:
+        value: 7.8
+        src: '7.8'
+    - id: 4
+      value:
+        value: 4.2
+        src: '4.2'
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Banco Central de Reserva del Perú, 2013. Caracterización del Departamento
+      Madre de Dios, Cuzco. <a
+      href="http://www.bcrp.gob.pe/docs/Sucursales/Cusco/madre-de-dios-caracterizacion.pdf">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-04T17:28:04.820Z'
+  values:
+    - id: u2017g
+      value:
+        value: 56420
+        src: null
+    - id: u2017b
+      value:
+        value: 40076
+        src: null
+    - id: u2017d
+      value:
+        value: 26743
+        src: null
+    - id: u2017c
+      value:
+        value: 6508
+        src: null
+    - id: u2017a
+      value:
+        value: 3341
+        src: null
+    - id: u2017f
+      value:
+        value: 987
+        src: null
+    - id: u2017e
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Fuente: Inforeme Forestal 2008. IDE Gobierno Regional Madre de Dios'
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 66.5
+        src: '66.5'
+    - id: 2
+      value:
+        value: 28.5
+        src: '28.5'
+    - id: 3
+      value:
+        value: 5
+        src: '5.0'
+  citation:
+    html: 'IIAP, 2011'
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Luis
+    lastName: Otsuka Salazar
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Jimmy Fernando
+    lastName: Layche Bardales
+    email: jimmylayche@gmail.com
+    companyTitle: Regional Manager of Production
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2018-02-05T18:44:51.316Z'
+  value:
+    firstName: Francisco Milan
+    lastName: Balarezo Yabar
+    email: fmbalarezo@hotmail.com
+    companyTitle: Regional Manager of Natural Resources and Environmental Management
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: 56.03
+        src: |
+          56.03
+    - id: '2002'
+      value:
+        value: 52.23
+        src: |
+          52.23
+    - id: '2003'
+      value:
+        value: 56.03
+        src: |
+          56.03
+    - id: '2004'
+      value:
+        value: 77.66
+        src: |
+          77.66
+    - id: '2005'
+      value:
+        value: 82.88
+        src: |
+          82.88
+    - id: '2006'
+      value:
+        value: 57.56
+        src: |
+          57.56
+    - id: '2007'
+      value:
+        value: 73.38
+        src: |
+          73.38
+    - id: '2008'
+      value:
+        value: 105.03
+        src: '105.03'
+    - id: '2009'
+      value:
+        value: 56.91
+        src: |
+          56.91
+    - id: '2010'
+      value:
+        value: 142.86
+        src: |
+          142.86
+    - id: '2011'
+      value:
+        value: 117.68
+        src: |
+          117.68
+    - id: '2012'
+      value:
+        value: 117.02
+        src: |
+          117.02
+    - id: '2013'
+      value:
+        value: 124.01
+        src: |
+          124.01
+    - id: '2014'
+      value:
+        value: 157.67
+        src: |
+          157.67
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: Peru FREL
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '1'
+  citation:
+    html: ''

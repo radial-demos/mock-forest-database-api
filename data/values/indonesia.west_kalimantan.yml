@@ -1,0 +1,735 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 61500
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 872.9896
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 4477348
+    string: ''
+  citation:
+    html: 'Kalbar dalam Angka, hal.82 (BPS, 2012)'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 66780221810000
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Kalbar dalam Angka, hal.397 (BPS, 2012)'
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 14915079.19
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Kalbar dalam Angka, hal.397 (BPS, 2012)'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 69.53
+    string: ''
+  citation:
+    html: 'Kalbar dalam Angka, hal.429 (BPS, 2012)'
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 41
+    year: '2020'
+    string: ''
+  citation:
+    html: ''
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 70983.08
+    string: ''
+  citation:
+    html: Pengolahan data citra landsat 7 tahun 2003 (diolah BPKH 2013)
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 146807
+    string: ''
+  citation:
+    html: ''
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Rubber and rubber goods, coal and ore, timber and timber products'
+  citation:
+    html: >-
+      Berita Resmi Statistik Provinsi Kalbar 07/02/61/Th. XV, 1 Februari 2012,
+      hal.1 (BPS, 2012) - 02 BRS Feb 2012.pdf
+txt_state_description:
+  timestamp: '2017-12-28T17:16:25.532Z'
+  value:
+    html: >-
+      <p>The Province of West Kalimantan covers an area of 147, 000 km and is
+      home to 4.25 million people, including an estimated 3.5 million people
+      living in its rural hinterland. The Province has a number of large rivers,
+      the largest being the Kapuas which drains from the spectacular inland
+      wetland of Lake Santarum within the biodiversity region know as the Heart
+      of Borneo. Because of its strategic location within SE Asia the old
+      capital of Pontianak grew as a port city and it and the other settlements
+      along the Kapuas River contain trading communities from a wide range of
+      ethnic backgrounds within a cultural matrix dominated by the indigenous
+      Dayak who make up 35% of the population. Poverty is a significant issue
+      with the HDI below the national average and average income across the
+      Province at only USD 627 per year.</p><p>In 2008, the GDP for the Province
+      was USD 2.9 million derived mainly from primary industries. The forest
+      sector contributed about half of the GDP with a further USD1.35 million
+      from the agricultural sector, reflecting a strong investment in estate
+      crops particularly oil palm. Lowland tropical peats cover an area of 1.7
+      million ha and Conversion of forest lands on peats to estate crops and the
+      proliferation of fire through the dry seasons has been a significant
+      historical factor in the high levels of GHG emissions from the
+      Province.</p><p>The national forest estate consists of an area of about 90
+      000 km2 over half of which is zoned as permanent production forest. Only
+      5000 km2 of the production forest designated for conversion remains
+      attesting to the rapid expansion of estate crops in the Province. 23 000
+      km2 are zoned for protection and a further 14,500 km2 for conservation
+      purposes within a network of national parks, nature reserves and wildlife
+      reserves.   The estimated carbon stock remaining in these forests is 1,600
+      Giga Tons CO2e, over half of which is sequestered in the Production
+      Forest. Future carbon dioxide emissions will likely be as a result of
+      burning of converted peat soils and forest degradation.</p><p>West
+      Kalimantan has been a member of the GCF since its foundation and has
+      convened a REDD Working Group under the authority of the Governor. At this
+      stage the Province has not enacted any specific legislation to facilitate
+      REDD and other climate change programs but is proceeding in line with
+      national legislation and policy related to reducing carbon emissions. The
+      Province hosts several REDD projects including village level carbon pool
+      assessments in the Districts of Ketapang and Kapuas Hulu, Ecosystem
+      restoration over 90 000 ha in the Putri River and Lake Siawan Belidak in
+      collaboration with FFI. There is also an FFI/Macquarie Bank REDD project
+      and a demonstration activity supported by the German Government
+      (Kfw-FORCLIM). USAID has also recently begun activities through their IFAD
+      program in Ketapang. As elsewhere in the member provinces there is still
+      to be developed a close working and learning collaboration between the
+      provincial government and these REDD projects.</p><p>More information can
+      be found on the<a href="http://gcfimpact.org/states?region=10661,states">
+      GCF Impact Platform</a>.</p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-13T15:23:10.038Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><em><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/west_kalimantan/west_kalimantan_provincial_redd_action_plan_srap.pdf"
+      target="_blank">Provincial REDD+  Action Plan (Strategi dan Rencana Aksi
+      Provinsi - SRAP) -</a> </em>passed in 2012, West Kalimantan's SRAP
+      outlines provincial strategies and arrangements for addressing tropical
+      deforestation.<br /><br /><em>Provincial Action Plan for the Reduction of
+      GHG emissions (RAD-GRK) - establishes the strategy </em>of the province 
+      to address GHG emission issues, linkages between national and provincial
+      emissions reductions, strategies and action plans, monitoring, reporting,
+      verification, institutional development, policies synergies, and efforts
+      to establish multistakeholder management with the communities.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/west_kalimantan/west_kalimantant_rpjpd_2005_2025.pdf"
+      target="_blank">Provincial long-term development plan (<em>Rencana
+      Pembangunan Jangka Panjang Daerah - RPJPD</em>)</a> - The RPJPD is a
+      long-term development planning document for a period of time 20 years
+      starting from 2005 to 2025.  It contains the vision, mission and<br
+      />direction of development in the province, and was updated in 2016
+      through Provincial Regulation 3/2016.</p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="http://sipd.bangda.kemendagri.go.id/dokumen/uploads/rpjpd_334_2005.zip"><em>Provincial
+      Regulation 3/2016 </em></a><strong>- </strong>Formally updates the long
+      term development plan for West Kalimantan Province through 2025</p><p><a
+      href="http://sipd.bangda.kemendagri.go.id/dokumen/uploads/rtrw_334_2016.zip"><em>Provincial
+      Bylaw 10/2014 </em></a>- formally approving the Provincial spatial plan
+      (<em>Rencana Tata Ruang Wilayah - RTRW</em>) for West Kalimantan
+      province.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/west_kalimantan/west_kalimantan_governor_decree_5_2013.pdf"
+      target="_blank"><em>Governor Decree 5/BAPPEDA/2013</em></a><strong>
+      </strong>- on the formation of coordination team to implement provincial
+      action plan on GHG reduction to coordinate, socialization, facilitate, and
+      monitoring of the related activities.</p><p><em>Governor Decree No. 115 /
+      2012 -</em> on the formation of the Working Group on Reducing Emissions
+      from Deforestation and Forest Degradation (Pokja REDD +) in West
+      Kalimantan Province.</p><p><em>Governor's Decree No. 35/2010
+      </em><strong>-</strong> on Guidelines for Verification of Applications for
+      Village Forest Management Rights in West Kalimantan
+      Province.</p><p><em>Governor Regulation No. 103/2009 </em>- on Procedure
+      for Mobilization of Controls for Land and Forest Fires in West Kalimantan
+      Province.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/west_kalimantan/west_kalimantan_provincial_regulation_7_2008.pdf"
+      target="_blank"><em>Provincial Regulation No. 7/2008</em></a><em> </em>-
+      formalizes Long-Term Development Plan of the Region (RPJPD) Year
+      2007-2027.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/west_kalimantan/west_kalimantan_provincial_regulation_8_2006.pdf"
+      target="_blank"><em>Provincial Regulation No. 8/2006</em></a><em> </em>-
+      on the Utilization and Distribution of Belian Wood in the Region of West
+      Kalimantan Province.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/west_kalimantan/west_kalimantan_provincial_regulation_6_1998.pdf"
+      target="_blank"><em>Provincial Regulation No. 6/1998</em></a><strong>
+      -</strong> on Prevention and Control of Forest and Land Fires.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-29T20:34:05.857Z'
+  value:
+    html: >-
+      <p><em>REDD+ Management Agency</em><strong> -</strong>  a coordination
+      body chaired by the Governor and composed of representatives of different
+      agencies that related to land uses and climate change. The council also
+      works with different stakeholders that engage in action plans to reduce
+      GHG emissions.  <br />    <br /><em>Provincial Forestry Agency</em> -
+      manages and oversees the forestry sector related issues, including policy
+      formulation.<br /><br /><em>Plantation Agency</em> - controls the
+      non-forest areas land use, plan, and issuance of the permits.<br /><br
+      /><em>Environmental Agency </em><strong>- </strong>oversees the protection
+      and management of environment, including climate change related issues.<br
+      /><br /><em>BAPPEDA </em><strong>-</strong> the Provincial Development
+      Planning Agency that coordinates on the policy formulation of the regional
+      development planning with sustainable development and low carbon as the
+      basis.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-12-05T18:49:17.486Z'
+  value:
+    html: >-
+      <p>West Kalimantan Province approved its Spatial Plan through provincial
+      bylaw 10/2014.  The plan covers the period 2014-2034, and can be <a
+      href="http://sipd.bangda.kemendagri.go.id/dokumen/uploads/rtrw_334_2016.zip">downloaded
+      here</a>.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-11-29T18:04:59.075Z'
+  value:
+    html: >-
+      <p>1- Fires <br />2- Illegal logging and forest land conversion<br />3-
+      Clearing for oil palm plantations</p>
+  citation:
+    html: '1) SKI 2011 (Kemenhut, 2012); 2) Outline SRAP REDD+ Kalbar (tanpa tahun)'
+initiatives:
+  rows:
+    - id: df5a5cd0-ce31-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:32:05.405Z'
+      name:
+        value:
+          string: 'PPI Compact''s '
+      description:
+        value:
+          html: >-
+            <p>IDH is convening stakeholders in “PPI Compacts”: An agreement
+            between public, private, community, and civil society stakeholders
+            to enhance the sustainability and productivity of land and increase
+            and diversify community livelihoods in exchange for forest/natural
+            resources protection. The PPI Compacts provide an improved
+            governance environment at the landscape level, which enables
+            investment in PPI land use. Based on this, we create conditional
+            financial incentives for sustainable palm oil production, forest
+            protection and activities to intensify land use by (in)dependent
+            smallholders.</p>
+      partners:
+        value:
+          string: The Sustainable Trade Initiative (IDH)
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Jurisdictional Sourcing; Private partnership
+      initiativeStatus:
+        value:
+          string: On-going
+    - id: 0917c990-ce32-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-12-04T17:51:40.464Z'
+      name:
+        value:
+          string: >-
+            Constructing Green Growth Plan in Kayong Utara  Ketapang and Kubu
+            Raya District
+      description:
+        value:
+          html: >-
+            <p>National Government, West Kalimantan Province and district/city
+            Government to develop and implement green growth strategies,
+            allowing for forests to be set aside for conservation while enabling
+            a legal framework and law enforcement. The project are currently at
+            the last stage of finalizing the provincial green growth plan.</p>
+      partners:
+        value:
+          string: The Sustainable Trade Initiative (IDH)
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: On-going
+    - id: 289ffdf0-ce32-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:37:05.751Z'
+      name:
+        value:
+          string: >-
+            SAMPAN Kaliantan - Protect the Remaining Mangrove as Coastal
+            Frontiers in West Kalimantan Province
+      description:
+        value:
+          html: >-
+            SAMPAN Kalimantan intends to protect the remaining coastlines
+            (particularly mangroves) in western Kalimantan. The idea is to
+            promote fair and sustainable coastal governance by supporting the
+            protection and use of coastal communities through the use of
+            community-based forest management models(eg HD, HKm), legislation
+            permits on the protection of mangroves. It provides the community
+            with access to and control of their forests. The project works with
+            village communities but also affects local government.
+      partners:
+        value:
+          string: Siemenpuu Foundation
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Jurisdictional Partnership
+      initiativeStatus:
+        value:
+          string: On-going
+    - id: c5044ed0-ce32-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:38:30.717Z'
+      name:
+        value:
+          string: >-
+            Forest Management Units (FMU) Establishment, and Enhancing FMU
+            Capacity in West Kalimantan
+      description:
+        value:
+          html: >-
+            <p>This project was initiated by FORCLIME to supports the
+            establishment and development of FMUs in Indonesia at the national
+            and local levels. While support at the national level mainly focuses
+            on the development of policies relevant for FMU development and
+            capacity building, at the local level FORCLIME supports the
+            implementation of FMU design, planning and management.&nbsp;</p>
+      partners:
+        value:
+          string: ' GIZ; FORCLIME'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Jurisdictional Partnership '
+      initiativeStatus:
+        value:
+          string: On-going
+    - id: eb8e55f0-ce32-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:39:35.375Z'
+      name:
+        value:
+          string: Safeguard Information System (SIS) Training
+      description:
+        value:
+          html: >-
+            <p>The West Kalimantan Province government together with FORCLIME
+            Technical Cooperation (TC) conducted a training on Safeguards
+            Information System (SIS) – REDD+ on 30 March 2017 in Pontianak, West
+            Kalimantan. This activity is as part of REDD readiness for the
+            province in the transition phase towards full implementation of
+            REDD+ performance based payment in 2020. The training is also
+            important for West Kalimantan since the province is keen to promote
+            green development initiative, additionally, it is a member of the
+            Governor Climate Forum (GCF).</p>
+      partners:
+        value:
+          string: GIZ; FORCLIME
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Jurisdictional Partnership
+      initiativeStatus:
+        value:
+          string: On-going
+    - id: 13225300-ce33-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:40:41.776Z'
+      name:
+        value:
+          string: >-
+            Improving Forest Dependent Community Prosperity Through Conservation
+            3 and Local Wisdom of Tembawang Optimization
+      description:
+        value:
+          html: >-
+            <p>TFCA and Government of West Kalimantan Cooperation for Regional
+            Conservation Project through Agroforestry and Non-Timber Forest
+            Product Management as Local People's Income Alternative in
+            Labian-Leboyan Corridor. The program start by 2016 – 2018.</p>
+      partners:
+        value:
+          string: Tropical Forest Conservation Act
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Indigenous Peoples Initiative
+      initiativeStatus:
+        value:
+          string: On-going
+    - id: 3f9801f0-ce33-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:41:56.367Z'
+      name:
+        value:
+          string: >-
+            1st Amending of Grant - Improve Local Policies in Mining Sector,
+            Access to Justice of Indigenous Rights and Sustainable Community
+            Based Forest Management in West Kalimantan
+      description:
+        value:
+          html: >-
+            <p>Government of West Kalimantan is working with The Asia Foundation
+            to implement SETAPAK 2 Program which supported by the British
+            Government on Climate Change Unit ( UKCCU ) is working with . The
+            program aims to improve forest and land governance in Indonesia,
+            with a focus on increasing transparency and accountability and
+            strengthening rule of law in all decisions around forest and land
+            use, by supporting Indonesia’s vibrant civil society movements and
+            media to play a stronger role in forest and land governance.
+            Approaches include supporting external oversight of government
+            performance and law enforcement; field monitoring of land use
+            infractions and forestry crimes, and reporting of illegalities. In
+            addition, gender mainstreaming, raising public awareness, and
+            assisting citizens to form constituencies and express their needs
+            and preferences with regard to environmental policies.&nbsp;</p>
+      partners:
+        value:
+          string: The Asia Foundation
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Indigenous Peoples Initiative, Public Private Partnership'
+      initiativeStatus:
+        value:
+          string: On-going
+    - id: 7225bfe0-ce33-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:43:21.181Z'
+      name:
+        value:
+          string: 'Forest Management Community Based (PHBM Project) '
+      description:
+        value:
+          html: >-
+            <p>In collaboration with the district forestry office, and West
+            Kalimantan Provincial Forestry Office, FORCLIME comprehensively
+            supports the PHBM development process in two villages, Setulang in
+            Malinau District (5,300 ha) and Manua Sadap (1,600 ha) in Kapuas
+            Hulu District together with other partners. As a first step and
+            based on information on different PHBM options, communities choose
+            the PHBM scheme that seems most appropriate to them, that resemble
+            their Village Forest. Facilitation activities in two villages
+            included the preparation of village forest development proposals,
+            training and assistance to strengthen village forest management
+            organizations, and legal drafting drafting training. FORCLIME and
+            West Kalimantan Government assists in the creation of participatory
+            village boundaries, verification of village forest areas and a
+            participatory inventory of potential non-timber forest products.
+            Capacity development includes skills on how to assess and list the
+            quantity and quality of available forest resources and how to
+            prepare sustainable forest management plans.</p>
+      partners:
+        value:
+          string: GIZ; FORCLIME
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Indigenous Peoples Initiative
+      initiativeStatus:
+        value:
+          string: On-going
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 83.1
+        src: '83.10'
+    - id: 1
+      value:
+        value: 16.9
+        src: '16.90'
+  citation:
+    html: 'Kalbar dalam Angka, hal.82 (BPS, 2012)'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 33.75
+        src: '33.75'
+    - id: a2
+      value:
+        value: 33.75
+        src: '33.75'
+    - id: a3
+      value:
+        value: 10.01
+        src: '10.01'
+    - id: a4
+      value:
+        value: 9.41
+        src: '9.41'
+    - id: a9
+      value:
+        value: 8.58
+        src: '8.58'
+    - id: a5
+      value:
+        value: 3.29
+        src: '3.29'
+    - id: a6
+      value:
+        value: 1.21
+        src: '1.21'
+  citation:
+    html: ''
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 25.05
+        src: '25.05'
+    - id: a5
+      value:
+        value: 22.57
+        src: '22.57'
+    - id: a3
+      value:
+        value: 17.97
+        src: '17.97'
+    - id: a4
+      value:
+        value: 9.97
+        src: '9.97'
+    - id: a7
+      value:
+        value: 9.7
+        src: '9.7'
+    - id: a6
+      value:
+        value: 7.4
+        src: '7.40'
+    - id: a2
+      value:
+        value: 2.04
+        src: '2.04'
+  citation:
+    html: 'Kalbar dalam Angka, hal.397 (BPS, 2012)'
+current_forest_area_typologies:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 6
+      value:
+        value: 9522
+        src: '9,522'
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+    - id: 5
+      value:
+        value: null
+        src: null
+    - id: 7
+      value:
+        value: null
+        src: null
+    - id: 8
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Drs. Cornelis
+    lastName: MH
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T17:48:48.484Z'
+  value:
+    firstName: Gusti
+    lastName: Hardiansyah Machmud
+    email: gusti.hardiansyah@gmail.com
+    companyTitle: ''
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-12-01T17:49:03.052Z'
+  value:
+    firstName: Adi
+    lastName: Yani
+    email: adiyani2001@gmail.com
+    companyTitle: ''
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-01T18:58:08.471Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: 791
+        src: null
+    - id: '2006'
+      value:
+        value: 791
+        src: null
+    - id: '2007'
+      value:
+        value: 1024
+        src: null
+    - id: '2008'
+      value:
+        value: 1024
+        src: null
+    - id: '2009'
+      value:
+        value: 1024
+        src: null
+    - id: '2010'
+      value:
+        value: 604
+        src: null
+    - id: '2011'
+      value:
+        value: 604
+        src: null
+    - id: '2012'
+      value:
+        value: 984
+        src: null
+    - id: '2013'
+      value:
+        value: 2871
+        src: null
+    - id: '2014'
+      value:
+        value: 404
+        src: null
+    - id: '2015'
+      value:
+        value: 404
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: Ministry of Forestry Indonesia<br><br>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: >-
+      Penghitungan Deforestasi Indonesia Tahun 2008 (Pusat Inventarisasi dan
+      Perpetaan Hutan - Badan Planologi Kehutanan - Departemen Kehutanan 2008)
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '1'
+  citation:
+    html: ''

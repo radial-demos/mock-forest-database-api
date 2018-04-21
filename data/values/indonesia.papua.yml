@@ -1,0 +1,593 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 260200
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 3757.7765
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2928750
+    string: ''
+  citation:
+    html: 'Data tahun 2011, Papua dalam Angka 2012, BPS, h.81'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 55365777.53
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Data tahun 2011, Papua dalam Angka 2012, BPS, h.585'
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 26079385.4
+    currency: IDR
+    string: ''
+  citation:
+    html: 'Data tahun 2011, Papua dalam Angka 2012, BPS, h.585'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 64.94
+    string: ''
+  citation:
+    html: 'Data tahun 2011, Papua dalam Angka 2012, BPS, h.616'
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 27.08
+    year: ''
+    string: ''
+  citation:
+    html: SRAP Papua 2013
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 11.955
+    year: ''
+    string: ''
+  citation:
+    html: SRAP Papua 2013
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 270324.56
+    string: ''
+  citation:
+    html: 'Tutupan hutan tahun 2003, Buku Statistik Kehutanan 2012, Tabel 2.2, h.23'
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 309934.4
+    string: ''
+  citation:
+    html: ''
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Raw materials, food & livestock, machinery and equipment'
+  citation:
+    html: '1. RTRWP/SRAP 2. Papua dalam Angka 2012, BPS, h.379'
+txt_state_description:
+  timestamp: '2017-12-28T17:17:20.681Z'
+  value:
+    html: >-
+      <p>Papua province, with a total forest area of 31,687,680 ha (Provincial
+      Spatial Planning 2012) is rich in endemic species and ecosystem diversity.
+      The 2012 data from the Provincial Forest and Conservation Office of Papua
+      statistics showed that during the period of 2003-2006 the annual
+      deforestation rate was at 68,695 ha (17,174 ha/year) and the annual forest
+      degradation rate was at 594,661 ha (148,665 ha/year). During the period of
+      2006-2009 the deforestation rate soared to 728,416 ha (182,104 ha/year)
+      with the degradation rate increased to 645,684 ha(161,421 ha/year).
+      Although deforestation and forest degradation rate keeps growing each
+      year, the main factor of deforestation cannot be eliminated whether it has
+      been caused by land conversion or illegal forest encroachment.
+      Deforestation and forest degradation have indirectly contributed to the
+      increasing greenhouse gases (GHG) emissions that have caused climate
+      change (global warming).</p><p>Papua, as one of the forested provinces in
+      Indonesia, has been explicitlyincluded in the national plan to address the
+      emission reduction issue duringthe last few years through the Low Carbon
+      Economic Development Task Force. The ideaof the establishment of the Task
+      Force for the Low Carbon Economic Developmenttowards the future is
+      expected to be able to provide intelligent and thoughtfulconsiderations to
+      decision makers in Papua to assist them to oversee and implementthe
+      acceleration of low carbon economic development. Policy and institutional
+      instrumentsat subnational level should be prepared from the early stage to
+      create and to materializeideas of sustainable low carbon economic
+      development.</p><p>More information can be found on the <a
+      href="http://gcfimpact.org/states?region=10691,states"><strong>GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: Strategic Action Plan for REDD (SRAP) 2014
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T19:51:47.821Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/papua/papua_provincial_redd_action_plan_srap.pdf"
+      target="_blank"><em>Provincial REDD+ Action Plan (SRAP) </em></a>-
+      completed in 2013, providing an overview the condition of the provinces
+      forests, vision, mission, primary forest management issues, implementation
+      strategies and measures,  monitoring, reference emission level, and
+      mitigation actions.</p><p><a
+      href="https://lingkunganhidup.papua.go.id/page/135/rad-grk-provinsi-papua-tahun-2013-2020.htm"><em>Provincial
+      Action Plan for the Reduction of GHG emissions (RAD-GRK)</em></a> -
+      Papua's RAD-GRK outlines actions that will be implemented in Papua
+      Province through 2020. The formulation of RAD-GRK of Papua Province was
+      conducted through cooperation between Provincial Natural Resources and
+      Environmental Management Agency Papua with the Faculty of Forestry State
+      University of Papua.  The strategy was updated in 2015.</p><p><strong>Laws
+      and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/papua/papua_provincial_reguation_33_2014.pdf"
+      target="_blank"><em>Provincial Regulation No. </em><em>33/2014</em></a><a
+      href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;ie=UTF8&amp;prev=_t&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://hukum.dispendapapua.com/perundangandetail.php%3Fid%3D73%26width%3D600&amp;usg=ALkJrhjqQqaVOPIpyvC26vdcwzNRfnngXA"
+      name="  No. 33 Tahun 2014&lt;br &gt;&lt;/a&gt;"></a><strong><a
+      href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;ie=UTF8&amp;prev=_t&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://hukum.dispendapapua.com/perundangandetail.php%3Fid%3D73%26width%3D600&amp;usg=ALkJrhjqQqaVOPIpyvC26vdcwzNRfnngXA"
+      name="  No. 33 Tahun 2014&lt;br &gt;&lt;/a&gt;"> </a></strong><a
+      href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;ie=UTF8&amp;prev=_t&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://hukum.dispendapapua.com/perundangandetail.php%3Fid%3D73%26width%3D600&amp;usg=ALkJrhjqQqaVOPIpyvC26vdcwzNRfnngXA"
+      name="  No. 33 Tahun 2014&lt;br &gt;&lt;/a&gt;"></a><a
+      href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;ie=UTF8&amp;prev=_t&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://hukum.dispendapapua.com/perundangandetail.php%3Fid%3D73%26width%3D600&amp;usg=ALkJrhjqQqaVOPIpyvC26vdcwzNRfnngXA"
+      name="  No. 33 Tahun 2014&lt;br &gt;&lt;/a&gt;">-</a> Establishes tax
+      rates and types for carrying out activities in different forest
+      zones</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/papua/papua_provincial_regulation_12_2014.pdf"
+      target="_blank"><em>Provincial Regulation No. 12</em><em>/2014</em></a><a
+      href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;ie=UTF8&amp;prev=_t&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://hukum.dispendapapua.com/perundangandetail.php%3Fid%3D73%26width%3D600&amp;usg=ALkJrhjqQqaVOPIpyvC26vdcwzNRfnngXA"
+      name="  No. 33 Tahun 2014&lt;br &gt;&lt;/a&gt;"></a><strong><a
+      href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;ie=UTF8&amp;prev=_t&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://hukum.dispendapapua.com/perundangandetail.php%3Fid%3D73%26width%3D600&amp;usg=ALkJrhjqQqaVOPIpyvC26vdcwzNRfnngXA"
+      name="  No. 33 Tahun 2014&lt;br &gt;&lt;/a&gt;"> </a>- </strong>make
+      changes to the types and tariffs on specific Non-tax State Revenues which
+      applies to the Ministry of Forestry</p><p><a
+      href="https://www.scribd.com/document/358768802/RTRW-Papua-pdf">Provincial
+      Bylaw No. 23/2013</a> - Formally adopts Papua's spatial plan for the
+      period 2013-2033. The coverage of the bylaw includes: objectives,
+      policies, strategies, structure, pattern, strategic areas, spatial plan
+      direction, control,  institution, and communities participation.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/indonesia/papua/papua_governor_regulation_11_2010.pdf"
+      target="_blank"><em>Governor Regulation No. 11/2010</em></a><em> </em>- on
+      the Implementation of Community Forest Plantations of Indigenous
+      People.<br /><br /><em>Governor Regulation No. 12/2010</em> - concerning
+      the Distribution and Processing of Timber Forest Products.<br /><br
+      /><em>Governor Regulation No. 13/2010 - </em>concerning Business License
+      for Timber Forest Product Utilization (IUPHHK-MHA).<br /><br
+      /><em>Governor Regulation No. 14/2010 - </em>concerning Guidelines for the
+      Utilization of Wood Logging Waste.<br /><br /><em>Governor Regulation No.
+      15/2010 -</em> on Procedure of Primary Industry Timber Forest Product
+      Industry.<br /><br /><em>Governor Regulation No. 16/2010 -</em> on
+      Procedures for Mapping of Indigenous People's Forest Forest.<br /><br
+      /><em>Governor Regulation No. 17/2010 - </em>concerning Procedures for
+      Licensing of Non Timber Forest Product Utilization.<br /><br
+      /><em>Governor Regulation No. 18/2010</em> - on Guidelines for Timber
+      Forest Product Harvesting Permit (IPHHK) in Papua Province.<br /><br
+      /><em>Governor Regulation No. 19/</em>2010 concerning Procedure and
+      Procedure of Giving Import and Equipment Permit.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-29T22:20:18.692Z'
+  value:
+    html: >-
+      <p><em>Provincial Forestry Office of Papua (Dinas Kehutanan Provinsi
+      Papua) - </em>manages and oversees the forestry sector related issues,
+      including policy formulation.</p><p><em>Plantation Agency</em> - controls
+      the non-forest areas land use, plan, and issuance of
+      permits.</p><p><em>Provincial Development Agency of Papua (Bappeda
+      Provinsi Papua) - </em>coordinates on the policy formulation of the
+      regional development planning with sustainable development and low carbon
+      as the basis.</p><p><em>Provincial Forestry Office for Forestry and
+      Inventory (BPKH) </em></p><p><em>Provincial Natural Resource Management
+      Agency (BKSDA) </em></p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-11-29T21:03:46.787Z'
+  value:
+    html: >-
+      <p>Papua's Provincial Spatial Plan was formalized through <a
+      href="https://www.scribd.com/document/358768802/RTRW-Papua-pdf">provincial
+      bylaw 23/2013</a>.  It covers the period 2013-2033.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>Annual deforestation rates in descending order as follows: 77,051.14
+      ha/year in Production Forests, 29,853.24 ha/year in Limited Production
+      Forests,27,864 ha/year in  Converted Production Forests, 13,502.08 ha/year
+      in Protected Forests, and 10,661.40 ha/year in Reserves/Conservation
+      Areas. While it is normal that forest degradation occurs in production
+      forests as they are designated to produce timber, the data also show
+      massive forest encroachment in protected forests and conservation areas.
+      The overlay with the map of conservation areas in the province shows
+      conservation areas with the highest rate of degradation is Mamberamo Foja
+      Reserve and Lorentz National Park that see average annual deforestation
+      rates of 7,218.05 ha/year and 1,525.93 ha/year respectively. This proves
+      that designating a given area as a conservation area does not limit
+      accessibility to performing illegal logging in the area.  Increasing
+      demand for wood to support the development of public facilities and
+      settlements due to establishment of new districts/villages is one of the
+      drivers for the massive deforestation. In addition, easier access to areas
+      that used to be isolated also contributes to the massive deforestation.
+      </p><p>In Papua, deforestation only contributes 12.6% to net emission,
+      while forest degradation contributes 64.1%. This shows that actions to
+      prevent forest degradation must be given priority.</p>
+  citation:
+    html: SRAP REDD+ Papua 2014
+initiatives:
+  rows:
+    - id: 1e5c6a80-ce2e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-12-01T00:24:06.470Z'
+      name:
+        value:
+          string: >-
+            PARCIMON (Particaptory Monitoring by civil society of Lands-Use
+            Planning for Low Emission Development Strategies  
+      description:
+        value:
+          html: >-
+            <p>Realizing green development program by supporting community
+            ownership. Environmental programs to involve local communities’
+            capacity to engage in green development in their areas.</p>
+      partners:
+        value:
+          string: >-
+            ICRAF, Universitas Brawijaya, and Yayasan Task Force on
+            Low-Environment Development (YALI) 
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In progress
+    - id: 3c881c20-ce2e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:08:26.840Z'
+      name:
+        value:
+          string: >-
+            Promotion of Ecotourism Development Bird Watching and Cenderawasih
+            Conservation
+      description:
+        value:
+          html: >-
+            <p>Kampung Rhepang Muaif was chosen as the location of ceremonial
+            activities because this village was inaugurated as one of five
+            villages promoted as spot of cenderawasih ecotourism in Papua
+            Province.The other location is Kampong Amai in Jayapura District and
+            Kampung Berawai, Poom and Sawendui in Yapen Islands District.</p>
+      partners:
+        value:
+          string: 'WWF Indonesia,   Environmental Management Agency (BPLH) '
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: acda3ad0-ce2e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T20:10:20.031Z'
+      name:
+        value:
+          string: Development of Government Capacity
+      description:
+        value:
+          html: >-
+            <p>Technical training on the monitoring Forest to FMU (Forest
+            Management Unit)</p><p>Samdhana runs a leadership program aimed at
+            helping NGOs, certain agencies and civil society leaders to reflect
+            on their experiences and strengthen leadership skills.Samdhana
+            assists in leadership training and is often a long-term mentor to
+            local leaders poured into specific activities:<br>• Training on
+            GIS-based maps (Geography Information System)<br>• Information
+            management training (Web Making KPHL),<br>• Orientation training on
+            participatory mapping of indigenous territoriesworkshop on REDD +
+            environmental issues&nbsp;</p>
+      partners:
+        value:
+          string: 'Samdhana Insitute, Biak Noemfor, Conservation FMU'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: On-going
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 90.99
+        src: '90.99'
+    - id: 1
+      value:
+        value: 9.01
+        src: '9.01'
+  citation:
+    html: 'Data tahun 2011, Papua dalam Angka 2012, BPS, h.91'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a12
+      value:
+        value: null
+        src: null
+    - id: a1
+      value:
+        value: null
+        src: null
+    - id: a3
+      value:
+        value: null
+        src: null
+    - id: a4
+      value:
+        value: null
+        src: null
+    - id: a5
+      value:
+        value: null
+        src: null
+    - id: a6
+      value:
+        value: null
+        src: null
+    - id: a2
+      value:
+        value: null
+        src: null
+    - id: a8
+      value:
+        value: null
+        src: null
+    - id: a9
+      value:
+        value: null
+        src: null
+    - id: a10
+      value:
+        value: null
+        src: null
+    - id: a11
+      value:
+        value: null
+        src: null
+    - id: a7
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Sensus Penduduk BPS Papua 2010 <a
+      href="http://papua.bps.go.id/sp2010/graph/index.php?area=Provinsi">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a2
+      value:
+        value: 52.72
+        src: '52.72'
+    - id: a1
+      value:
+        value: 11.72
+        src: '11.72'
+    - id: a4
+      value:
+        value: 10.66
+        src: '10.66'
+    - id: a7
+      value:
+        value: 8.42
+        src: '8.42'
+    - id: a5
+      value:
+        value: 5.94
+        src: '5.94'
+    - id: a6
+      value:
+        value: 5.76
+        src: '5.76'
+    - id: a3
+      value:
+        value: 1.86
+        src: '1.86'
+  citation:
+    html: 'Data tahun 2011, Papua dalam Angka 2012, BPS, h.595'
+current_forest_area_typologies:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 6
+      value:
+        value: null
+        src: null
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+    - id: 5
+      value:
+        value: null
+        src: null
+    - id: 7
+      value:
+        value: null
+        src: null
+    - id: 8
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 95.88
+        src: '95.88'
+    - id: 3
+      value:
+        value: 3.61
+        src: '3.61'
+    - id: 2
+      value:
+        value: 0.51
+        src: '0.51'
+  citation:
+    html: >-
+      SRAP REDD+ Papua 2013, Tabel 6.4, h.VI-7 dan Tabel 2.6, h.II-11 (Kondisi
+      dan Umum dan Permasalahan Kehutanan di Provinsi Papua)
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Lukas
+    lastName: 'Enembe S.IP, MH'
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-01T18:59:39.084Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: 838
+        src: null
+    - id: '2006'
+      value:
+        value: 838
+        src: null
+    - id: '2007'
+      value:
+        value: 352
+        src: null
+    - id: '2008'
+      value:
+        value: 352
+        src: null
+    - id: '2009'
+      value:
+        value: 352
+        src: null
+    - id: '2010'
+      value:
+        value: 149
+        src: null
+    - id: '2011'
+      value:
+        value: 149
+        src: null
+    - id: '2012'
+      value:
+        value: 232
+        src: null
+    - id: '2013'
+      value:
+        value: 132
+        src: null
+    - id: '2014'
+      value:
+        value: 436
+        src: null
+    - id: '2015'
+      value:
+        value: 436
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Ministry of Forestry, Indonesia'
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      2006-2011 : SRAP REDD+ Papua 2013, Tabel 6.4, h.VI-7 dan Tabel 2.6,
+      h.II-11 (Kondisi dan Umum dan Permasalahan Kehutanan di Provinsi Papua)
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      2006-2011 : SRAP REDD+ Papua 2013, Tabel 6.4, h.VI-7 dan Tabel 2.6,
+      h.II-11 (Kondisi dan Umum dan Permasalahan Kehutanan di Provinsi Papua)

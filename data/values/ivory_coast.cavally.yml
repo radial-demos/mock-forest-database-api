@@ -1,0 +1,43 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 820
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 6.91
+    string: ''
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2017-12-05T16:47:36.127Z'
+  value:
+    html: >-
+      <p>As a relatively new level of government (2011), regional governments in
+      Ivory Coast have not significantly advanced policy frameworks related to
+      deforestation.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-12-05T16:47:52.115Z'
+  value:
+    html: >-
+      <p>The legislative body of the region is the Regional Council, which is
+      elected and headed by a President</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-12-05T16:48:11.364Z'
+  value:
+    html: >-
+      <p>Nationally the forest Code (1978) creates two types of forest land in
+      Ivory coast: Permanent Forest Domain of the State and the Rural Forest
+      Domain of the State. While there is no central spatial or land use plan
+      for the entire country,  19% of the country is designated as permanent
+      forest domain (including gazetted forests and protected ).  Rural forest
+      domain is estimated to cover 2-3 million hectares.</p>
+  citation:
+    html: ''

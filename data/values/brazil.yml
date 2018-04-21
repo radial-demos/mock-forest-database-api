@@ -1,0 +1,350 @@
+national_population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 206786767
+    string: ''
+  citation:
+    html: >-
+      Projeção do IBGE <a
+      href="http://www.ibge.gov.br/home/default.php">IBGE</a>
+national_gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 5904000000000
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      <a
+      href="http://brasilemsintese.ibge.gov.br/contas-nacionais/pib-valores-correntes.html">IBGE</a>
+national_per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 28876
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      <a
+      href="http://brasilemsintese.ibge.gov.br/contas-nacionais/pib-per-capita.html">IBGE</a>
+national_human_development_index:
+  timestamp: '2017-09-21T14:45:35.153Z'
+  value:
+    value: 0.755
+    string: ''
+  citation:
+    html: '<a href="http://www.undp.org/content/brazil/pt/home/idh0.html">PNUD</a>'
+national_land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 8514876.6
+    string: ''
+  citation:
+    html: >-
+      IBGE 2012 <a
+      href="http://www.ibge.gov.br/home/geociencias/cartografia/default_territ_area.shtm">IBGE</a>
+national_percent_forested:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 59.28
+    string: ''
+  citation:
+    html: >-
+      FAO <a href="http://www.fao.org/faostat/en/#country/21">Forests of Brazil
+      at a Glance</a>
+national_main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: >-
+      Mining, petroleum, transportation equipment, soy, sugar, ethanol, meat &
+      coffee.
+  citation:
+    html: >-
+      Ministério da Indústria, Comércio Exterior e Serviços <a
+      href="http://www.mdic.gov.br/comercio-exterior/estatisticas-de-comercio-exterior/comex-vis/frame-brasil">link</a>
+national_social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a2
+      value:
+        value: 54
+        src: '54.0'
+    - id: a1
+      value:
+        value: 39.9
+        src: '39.9'
+    - id: a3
+      value:
+        value: 5.4
+        src: '5.4'
+    - id: a6
+      value:
+        value: 0.5
+        src: '0.5'
+    - id: a4
+      value:
+        value: 0.2
+        src: '0.2'
+  citation:
+    html: >-
+      IBGE 2013. Censo Demográfico 2010. <a
+      href="http://ibge.gov.br/home/estatistica/populacao/condicaodevida/indicadoresminimos/tabela1.shtm">link</a>
+national_urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 84.35
+        src: '84.35'
+    - id: 2
+      value:
+        value: 15.65
+        src: '15.65'
+  citation:
+    html: >-
+      IBGE 2012. Censo Demográfico 2010. <a
+      href="http://www.ibge.gov.br/brasil_em_sintese/tabelas/populacao_tabela01.htm">IBGE</a>
+national_gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 3
+      value:
+        value: 70.8
+        src: '70.8'
+    - id: 2
+      value:
+        value: 20.2
+        src: '20.2'
+    - id: 1
+      value:
+        value: 5.2
+        src: '5.2'
+    - id: 5
+      value:
+        value: 3.8
+        src: '3.8'
+    - id: 4
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      <a
+      href="ftp://ftp.ibge.gov.br/Contas_Nacionais/Contas_Nacionais_Trimestrais/Comentarios/pib-vol-val_201503comentarios.pdf">IBGE</a>
+national_deforestation_rate:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '2000'
+      value:
+        value: 18222
+        src: '18,222'
+    - id: '2001'
+      value:
+        value: 18165
+        src: '18,165'
+    - id: '2002'
+      value:
+        value: 21651
+        src: '21,651'
+    - id: '2003'
+      value:
+        value: 25396
+        src: '25,396'
+    - id: '2004'
+      value:
+        value: 27772
+        src: '27,772'
+    - id: '2005'
+      value:
+        value: 19014
+        src: '19,014'
+    - id: '2006'
+      value:
+        value: 14286
+        src: '14,286'
+    - id: '2007'
+      value:
+        value: 11651
+        src: '11,651'
+    - id: '2008'
+      value:
+        value: 12911
+        src: '12,911'
+    - id: '2009'
+      value:
+        value: 7464
+        src: '7,464'
+    - id: '2010'
+      value:
+        value: 7000
+        src: '7,000'
+    - id: '2011'
+      value:
+        value: 6238
+        src: '6,238'
+    - id: '2012'
+      value:
+        value: 4656
+        src: '4,656'
+    - id: '2013'
+      value:
+        value: 5891
+        src: '5891'
+    - id: '2014'
+      value:
+        value: 5012
+        src: '5012'
+    - id: '2015'
+      value:
+        value: 6207
+        src: '6207'
+    - id: '2016'
+      value:
+        value: 7989
+        src: '7989'
+  citation:
+    html: 'PRODES <a href="http://www.obt.inpe.br/prodes/index.php">link</a>'
+txt_laws:
+  timestamp: '2017-11-03T18:44:43.458Z'
+  value:
+    html: >-
+      <p><a
+      href="http://www.sema.ma.gov.br/arquivos/1449678319094.pdf">Complementary
+      Law 140 of 8/12/2011</a>- provides for the protection of outstanding
+      natural landscapes, protection of the environment, pollution control in
+      any form and the preservation of forests, fauna and flora.</p><p><a
+      href="http://www.planalto.gov.br/ccivil_03/_ato2004.../l11284.htm">Law nr.
+      11.284/2006</a> – Establishes the Federal law for the management of public
+      forests</p><p><a
+      href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12727.htm">Law
+      nr. 12.727/</a>2012 – Creates the New Brazilian Forest Code</p><p><a
+      href="http://www.planalto.gov.br/ccivil_03/_.../Decreto/D7390.htm">Law
+      Decree nr 7.390/2010</a> – Regulates the National Policy on Climate Change
+      <a
+      href="https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm">(created
+      by law nr 12.187/2009)</a></p><p><a
+      href="https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7343.htm">Law
+      Decree nr 7.343/2010</a> - Regulates the Climate Change National Fund <a
+      href="https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12114.htm">(created
+      by law nr 12.114/2009)</a></p><p><a
+      href="/assets/downloads/GCFF/database/Brazil%20Forest%20Code.pdf">Law nr
+      12.651/2012</a>- Revised national Forest Code which guides the management
+      over forest resources in Brazil and delegates the mapping and registering
+      of all rural properties to the states.</p><p><a
+      href="/assets/downloads/GCFF/database/National%20Zoning%20Decree%20Brazil.pdf">Decree
+      7.378/2010</a> - approves the macro ecological and economic zoning for the
+      amazon</p><p><a
+      href="http://www.mma.gov.br/port/conama/res/res97/res23797.html">Conama
+      Resolution 237/97</a> Establishes definitions on Environmental Licensing,
+      and activities that require Environmental Licensing</p>
+  citation:
+    html: >-
+      Brazilian Legislation Database <a
+      href="https://legislacao.planalto.gov.br">link</a>
+txt_policies_and_plans:
+  timestamp: '2017-09-18T14:40:47.001Z'
+  value:
+    html: >-
+      <p>Brazil has developed some important plans and policies to address
+      deforestation and climate change, the most significant being the National
+      Policy on Climate Change and the Action Plan for Prevention and Control of
+      the Legal Amazon Deforestation. The National Policy on Climate Change,
+      established in 2009, has objectives of reducing deforestation in all
+      biomes and increasing the use of renewable energy and biofuels, among
+      other things.  The Policy created guidelines for meeting it's objectives
+      including an emission reduction target for Brazil (36.1% - 38.9% by 2020),
+      sectoral plans for mitigation and adaptation and identifies instruments
+      and financial mechanisms to help achieve the goals. </p><p>The National
+      Policy also establishes a deforestation reduction target for the Amazon
+      biome of 80% by 2020 from the average deforestation rate between 1996-2005
+      and a 40% reduction from the average deforestation rate between 1999-2008
+      for the Cerrado biome.</p><p>The National Policy is regulated by Law
+      Decree 7,390/2010 which outlines five sector-specific mitigation action
+      plans, among other things:</p><ul><li>Action Plan for Prevention and
+      Control of Deforestation in the Legal Amazon (PPCDAm)</li><li>Action Plan
+      for Prevention and Control of Deforestation and Forest Fires in the
+      Cerrado (PPCerrado)</li><li>Decennial Plan for Energy Expansion
+      (PDE)</li><li>Plan for consolidation of Low Carbon Agriculture (ABC
+      Plan)</li><li>Plan for Reducing Emissions from the Steel
+      Sector</li></ul><p>The PPCDAm and PPCerrado are the primary strategies
+      that will help Brazil reach the objectives of its National Policy. Both
+      Plans are composed of a set of integrated actions, that include
+      territorial and tenure planning, monitoring and environmental control and
+      fostering sustainable activities. </p><p>At the subnational level, all
+      Brazilian Amazon states have completed their plans for control and
+      prevention of deforestation in alignment with the guidelines established
+      by the National Policy.  These plans can be found on the state pages. The
+      completion of a state plan to address deforestation is one of the
+      requirements for a seat on the board of the Amazon Fund. </p><p>Brazil
+      launched a National Strategy for REDD + (ENREDD +) in 2015 (Ordinance
+      370). It formalizes the strategy to reduce deforestation by 2020 under the
+      UNFCCC, focusing on coordinated actions to prevent and control
+      deforestation and forest degradation, promote forest restoration and the
+      promotion of sustainable development. In 2015 the federal government
+      launched a REDD+ commision (CONAREDD, created by Decree No. 8,576 / 2015)
+      which has representatives from the national government, indigenous
+      peoples, civil society, and two representatives from GCF member states. 
+      To date CONAREDD has convened for two meetings.</p><p>any of the states
+      have also been developing state policies on climate change and
+      REDD+.</p><p>Brazil has also submitted their iNDC under the UNFCCC (2015)
+      with a commitment to reduce greenhouse gas emissions by 37% below 2005
+      levels by 2025 and 43% below 2005 levels by 2030. The forest component of
+      this ambitious commitment includes: a) strengthening and enforcing the
+      implementation of the Forest Code, at federal, state and municipal levels;
+      b) strengthening policies and measures with a view to achieve, in the
+      Brazilian Amazon, zero illegal deforestation by 2030 and compensate for
+      greenhouse gas emissions from legal suppression of vegetation by 2030; c)
+      restoring and reforesting 12 million hectares of forests by 2030, for
+      multiple purposes; d) enhancing sustainable native forest management
+      systems, through georeferencing and tracking systems applicable to native
+      forest management, with a view to curb illegal and unsustainable
+      practices.</p><p>It has also submitted a Forest Reference Emission Level
+      (FREL) to the convention as well as a Summary of information on how the
+      Cancun safeguards were addressed and respected by Brazil throughout the
+      implementation of actions to reduceemissions from deforestation in the
+      Amazon biomebetween 2006 and 2010. </p><p><a
+      href="http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm">National
+      Policy on Climate Change</a></p><p><a
+      href="http://www.theredddesk.org/countries/brazil/info/plan/low_carbon_agriculture_plan_of_brazil">Low
+      Carbon Agriculture Plan of Brazil</a><a
+      href="http://www.mma.gov.br/estruturas/169/_arquivos/169_29092008073244.pdf"></a></p><p><a
+      href="http://www.mma.gov.br/estruturas/169/_arquivos/169_29092008073244.pdf">National
+      Plan on Climate Change (Decree 6.263)</a><a
+      href="http://www.mma.gov.br/estruturas/182/_arquivos/ppcerrado_15set_impressao_sem_crditos_182.pdf"></a></p><p><a
+      href="http://www.mma.gov.br/estruturas/182/_arquivos/ppcerrado_15set_impressao_sem_crditos_182.pdf">Plan
+      for Prevention and Control of Deforestation and Forest Fires in the
+      Cerrado</a><a
+      href="http://www.planalto.gov.br/casacivil/desmat.pdf"></a></p><p><a
+      href="/assets/downloads/GCFF/database/National%20PPCDAm.PDF">Plan for
+      Prevention and Control of Deforestation in the Amazon</a></p><p><a
+      href="http://www.mma.gov.br/estruturas/.../pas_versao_consulta_com_os_mapas.pdf">Sustainable
+      Amazon Plan</a></p><p><a
+      href="http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Decreto/D7390.htm">Law
+      Decree 7390/2010</a></p><p><a
+      href="/assets/downloads/GCFF/database/Brazil%20REDD+%20Strategy%201.pdf">National
+      REDD+ Strategy</a> (and <a
+      href="/assets/downloads/GCFF/database/Brazil%20REDD+%20Strategy%202.pdf">Executive
+      Summary</a>)</p><p><a
+      href="/assets/downloads/GCFF/database/BRAZIL%20iNDC%20english.pdf">Brazil
+      iNDC</a>(English)</p><p><a
+      href="/assets/downloads/GCFF/database/Brazil%20FREL%201.pdf">Brazil Forest
+      Reference Emission Level</a></p><p><a
+      href="/assets/downloads/GCFF/database/Brazil%20Safeguards.pdf">Brazil
+      Safeguard Monitoring</a></p>
+  citation:
+    html: ''
+txt_institutions:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p><a href="http://www.amazonfund.gov.br/">Amazon Fund</a></p><p><a
+      href="http://www.inpe.br/">National Space Research Institute
+      (INPE)</a></p><p><a href="http://www.mma.gov.br/">Ministry of
+      environment</a></p><p><a href="http://www.mct.gov.br/">Ministry of Science
+      and Technology</a></p><p><a href="http://www.itamaraty.gov.br/">Ministry
+      of International Affairs</a></p><p><a
+      href="http://www.bndes.gov.br/">BNDES</a></p><p><a
+      href="http://redd.mma.gov.br/en/the-national-redd-committee">National
+      REDD+ Commission (CONAREDD+)</a></p>
+  citation:
+    html: ''

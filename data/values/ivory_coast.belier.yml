@@ -1,0 +1,70 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 640
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.89
+    string: ''
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2017-12-05T16:49:25.543Z'
+  value:
+    html: >-
+      <p>As a relatively new level of government (2011), regional governments in
+      Ivory Coast have not significantly advanced policy frameworks related to
+      deforestation.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-12-05T16:56:04.500Z'
+  value:
+    html: >-
+      <p>The legislative body of the region is the Regional Council, which is
+      elected and headed by a President.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-12-05T16:48:43.967Z'
+  value:
+    html: >-
+      <p>Nationally the forest Code (1978) creates two types of forest land in
+      Ivory coast: Permanent Forest Domain of the State and the Rural Forest
+      Domain of the State. While there is no central spatial or land use plan
+      for the entire country,  19% of the country is designated as permanent
+      forest domain (including gazetted forests and protected ).  Rural forest
+      domain is estimated to cover 2-3 million hectares.</p>
+  citation:
+    html: ''
+governor:
+  timestamp: '2017-12-01T17:50:04.684Z'
+  value:
+    firstName: Jeannot
+    lastName: Ahoussou-Kouadio
+    email: ''
+    companyTitle: ''
+  citation:
+    html: 'http://www.gcftaskforce.org/contacts'
+representative_1:
+  timestamp: '2017-12-01T17:50:25.987Z'
+  value:
+    firstName: Amon
+    lastName: August
+    email: amonauguste@yahoo.fr
+    companyTitle: ''
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-12-01T17:50:43.789Z'
+  value:
+    firstName: N’guessan
+    lastName: Djetau Kouassi
+    email: kdjetau@yahoo.fr
+    companyTitle: ''
+  citation:
+    html: ''

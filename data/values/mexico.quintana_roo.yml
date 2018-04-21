@@ -1,0 +1,602 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 36364.6
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 161.86
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1625464
+    string: ''
+  citation:
+    html: >-
+      Secretaría de Desarrollo Económico <a
+      href="http://sede.qroo.gob.mx/portal/General/cifrasQuintanaRoo.php">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 262825
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      Secretaría de Economía <a
+      href="http://mim.promexico.gob.mx/work/models/mim/Documentos/PDF/mim/FE_QUINTANA_ROO_vf.pdf">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 171795
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      México ¿Cómo vamos? <a
+      href="http://mexicocomovamos.mx/new/index.php?s=contenido&amp;id=573">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.754
+    string: ''
+  citation:
+    html: >-
+      PNUD 2015 <a
+      href="http://www.saludcolima.gob.mx/images/documentos/PNUD_boletinIDH.pdf">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 39852.84
+    string: ''
+  citation:
+    html: >-
+      Mexico FREL <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Nov/Final__ENGLISH_20november_2016.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 44597.84
+    string: ''
+  citation:
+    html: >-
+      Mexico FREL <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Nov/Final__ENGLISH_20november_2016.pdf">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: Manufacturas e industria alimentaria
+  citation:
+    html: >-
+      México, cómo vamos, Exportaciones Julio 2015 <a
+      href="http://www.mexicocomovamos.mx/wp-content/uploads/2015/08/Exportaciones-5agosto.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-28T17:41:39.685Z'
+  value:
+    html: >-
+      <p>The state of Quintana Roo is located in the eastern portion of the
+      Mexican Republic, with its boundary to the east with the Caribbean Sea and
+      to the north with the Gulf of Mexico and the state of Yucatan, to the west
+      it borders the state of Campeche and to the south with Belize and
+      Guatemala along a border of just over 180 km. The territorial extension is
+      of approximately 5 million hectares occupying the 19th place in
+      territorial extension in Mexico, although there is a territorial dispute
+      with Campeche for little more than 1/2 million hectares. The state has
+      approximately 1000 km of coastline and 10 municipalities. Of the little
+      more than 5 million hectares of state territory, about 4,160,000 ha are
+      currently covered by dense vegetation</p><p>The three states in Yucatán
+      Peninsula (Campeche, Quintana Roo and Yucatán) share certain similar
+      ecological and social characteristics, which enable certain dynamics to be
+      analyzed jointly. In Yucatán Peninsula, most of the natural forest is
+      tropical (mainly mid-height and lowland, with very few areas<br />of
+      mountain forest) and parts of this area are tall grassland (secondary or
+      replacement forest, which forms part of a long rotation of the milpa
+      crop-growing system).<br />There are currently different estimations of
+      the assessment of deforestation rates due to the different definitions of
+      forest, methods, time periods studied and scales of analysis (Rueda,
+      2010), and most studies focus on the loss and partial recovery of forest
+      cover, paying particular attention to the regions in the center and south
+      of the Peninsula (Turner et al., 2004; Bray and Klepeis, 2005; Vester et
+      al., 2007; Ellis and Porter-Bolland, 2008), probably related to the fact
+      that this part of the Peninsula is designated a biological corridor.<br
+      />For the period from 1993 to 2002, the predominant process in  Quintana
+      Roo was the degradation of evergreen tropical forests.  Quintana Roo
+      recorded a higher rate of degradation than deforestation; one important
+      difference in the state is that between 2002 and 2007 there was a major
+      trend of change to human settlements and infrastructure, which was an
+      important factor in deforestation. </p><p>More information can be found on
+      the <a href="http://gcfimpact.org/states?region=14323,states">GCF Impact
+      Platform.</a></p>
+  citation:
+    html: >-
+      Gobierno del Estado de Quintana Roo <a
+      href="http://www.qroo.gob.mx/inicio/sabias-que-quintana-roo-es-el-estado-mas-joven-de-mexico/">link</a>
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-13T19:55:24.964Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_state_climate_action_plan.pdf"
+      target="_blank"><em>State Climate Action Plan</em></a><em> </em>- Quintana
+      Roo's State Action Program on Climate Change of Quintana Roo (PEACCQROO)
+      contains provisions to mitigate emissions and promote adaptation to the
+      potential impacts of climate change. It establishes the framework for
+      planning and implementing adaptation policies according to the existing
+      scientific knowledge. Included in the plan is a goal of achieving zero net
+      deforestation and develop statewide programs to reduce
+      deforestation.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_fcpf_carbon_fund_investment_program.pdf"
+      target="_blank"><em>FCPF Carbon Fund Investment Program</em></a> –Quintana
+      Roo has developed an investment program to reduce deforestation through
+      Mexico’s Emissions Reduction Initiative implemented under the framework of
+      the Forest Carbon Partnership Facility.</p><p><em>State REDD+ strategy
+      (EEREDD+)</em><strong> -</strong>Quintana Roo has developed a draft
+      EEREDD+ in conjunction with representatives of the federal and state
+      governments and other relevant actors of civil society, academia and land
+      holders. It is under consultation during 2017.</p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quitana_roo_decree_387.pdf"
+      target="_blank"><em>Decree 387</em></a><em> 30/10/2015 Law of Ecological
+      Balance and the Protection of the Environmen</em><em>t</em><strong> -
+      </strong>Promotes sustainable development, and regulate actions aimed at
+      preservation and restoration of ecological balance, as well as protection
+      of the environment of the State of Quintana Roo, according to the
+      following bases:</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_decree_19.PDF"
+      target="_blank"><em>Decree 19</em></a><em> 27/2/2014</em><strong> -
+      </strong>Decree by which the Local Ecological Ordinance Program of the
+      Municipality of Benito Juárez is modified.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_decree_116.pdf"
+      target="_blank"><em>Decree 116</em></a><em> 16/6/2014 Forest Fire Law</em>
+      - Regulates the use of fire for agriculture, livestock and other purposes
+      with an aim to reduce the impact of fire on forest resources.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_decree_269.pdf"
+      target="_blank"><em>Decree 269</em></a><em> 30/4/2013 Climate Change
+      Action Law </em><strong>- </strong>formalizes the state climate action
+      plan and contains provisions to mitigate emissions and promote adaptation
+      to the potential impacts of climate change. It establishes the framework
+      for planning and implementing adaptation policies according to the
+      existing scientific knowledge. Included in the plan is a goal of achieving
+      zero net deforestation and develop statewide programs to reduce
+      deforestation.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_decree_306.pdf"
+      target="_blank"><em>Decree 306</em></a><em> 19/8/2013 Forest Law </em>-
+      Establishes the regulatory framework for forest conservation, protection,
+      restoration, production, management, crop management, and sustainable
+      management of forest areas. Establishes innovative conservation measures
+      including 'strategic forest reserves'.  The revision in 2013 dissolved the
+      state forestry institute and charges the Secretariat of Ecology and
+      Environment of the state of Quintana Roo (SEMA) with forest policy
+      development and implementation.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_decree_42.pdf"
+      target="_blank"><em>Decree 42</em></a><em> 25/5/2009</em><strong> -
+      </strong>Decree by means of which the Program of Local Ecological Ordering
+      of the Municipality of Solidarity is established</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_decree_102.pdf"
+      target="_blank"><em>Decree 102</em></a><em> 21/10/2008 </em>- Decree of
+      the Local Ecological Management Program of the Municipality of Cozumel.
+      Subsequently modified in <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/quintana_roo/quintana_roo_decree_102_modification_2011.pdf"
+      target="_blank">December 2011.</a></p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-12-07T20:43:36.052Z'
+  value:
+    html: >-
+      <p><strong>Secretariat of Ecology and Environment of the State of Quintana
+      Roo (SEMA)</strong> – has a mission to Incorporate in all areas of society
+      the criteria and instruments that ensure an ecological culture that puts
+      care of the environment and environmental preservation first, in making
+      decisions to encourage and promote the sustainable use of natural
+      resources, consolidating a green Quintana Roo , promoting new forms of
+      participation that encourage the citizen individually and in organized
+      groups to intervene in the formulation and execution of public
+      environmental policies, as well as strengthen public environmental
+      management in the state, considering the climate change variable in a
+      transversal manner , with its aspects of mitigation and
+      adaptation..Carries responsibility for the development and implementation
+      of forestry policies.</p><p><strong>Agricultural, Rural and Indigenous
+      Development Secretariat, State Government of Quintana Roo -
+      </strong>Tasked with formulating, implementing, driving through and
+      assessing sector-specific policies and programs on economic development
+      and promotion on matters of agriculture, fruit growing, horticulture,
+      beekeeping, livestock, agro-industry, rural development, logging, and the
+      development of indigenous population and marginal groups<strong><br
+      /></strong><br /><strong>Finance and Planning Secretariat (SEFIPLAN) of
+      the State Government of Quintana Roo - </strong>Tasked with promoting the
+      formulation of bill proposals, regulations and other provisions on matters
+      of planning, programming, budgetary policy, information, assessment,
+      institutional co-ordination and regional development, social development
+      and attending to marginal groups</p><p><strong>Secretary of Agriculture
+      and Rural Development (SEDARU)</strong> - Responsible for the development
+      and implementation of policies and programs to enhance rural development,
+      including agriculture.</p><p><strong>REDD Working Group (GT REDD+)
+      </strong>- Comprised of state and national level stakeholders, as well as
+      a technical consultative REDD+ group (CTC TREDD+).</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-11-07T00:05:59.623Z'
+  value:
+    html: >-
+      <p><a
+      href="http://www.semarnat.gob.mx/temas/ordenamiento-ecologico/ordenamientos-ecologicos-expedidos">Ecological
+      Zoning </a>has been completed in 8 municipalities of Quintana Roo, with
+      seven of the eight plans incorporating climate change into the spatial
+      planning considerations.</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 64b2e920-c3f5-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T19:54:25.109Z'
+      name:
+        value:
+          string: >-
+            Yucatan Peninsula Framework Agreement on Sustainability for 2030
+            (ASPY 2030)
+      description:
+        value:
+          html: >-
+            <p>At COP 13 of the Conventions on Biodiversity held in Cancun in
+            2016, Quintana Roo, the Governments of the Yucatan Peninsula signed
+            a collaborative work plan for 2030 called "Agreement for
+            Sustainability of the Yucatan Peninsula" (ASPY 2030). This agreement
+            strengthens collaboration among subnational governments to
+            facilitate transition and compliance with the Paris Agreement, the
+            Bonn Challenge, Rio Branco Declaration and the Aichi Goals among
+            others. The implementation of the ASPY 2030 will occur through the
+            Regional Climate Change Commission, formed through the first
+            regional agreement on climate change signed at COP16 in 2010, and
+            supported by NGO initiatives such as the Mayan Forest Observatory
+            which generate inputs for forest policy. ASPY 2030 covers 8
+            components, each with specific lines of
+            action:&nbsp;</p><ul><li>sustainable agricultural
+            development,&nbsp;</li><li>effective forest
+            management,&nbsp;</li><li>ecosystem
+            conservation,&nbsp;</li><li>water and
+            ecosystems,&nbsp;</li><li>sustainable coastal
+            management,&nbsp;</li><li>sustainable fisheries,&nbsp;</li><li>green
+            and responsible market development, and&nbsp;</li><li>sustainable
+            tourism&nbsp;</li></ul><p>ASPY is also supported by a Declaration of
+            the Private and Financial Sector, in which 70 companies of great
+            impact in the region have expressed their interest in contributing
+            social and environmental responsibility towards corporate
+            sustainability, which will contribute strongly to achieving the
+            goals of the Agreement of Governors of the Yucatan Peninsula, ASPY
+            2030. The Governors of ASPY 2030 are: Mr. Rolando Zapata Bello,
+            Governor of Yucatan, Mexico; Lic. Carlos Joaquín González, Governor
+            of Quintana Roo, Mexico and Lic. Rafael Alejandro Moreno Cárdenas,
+            Governor of Campeche, Mexico.</p>
+      partners:
+        value:
+          string: >-
+            State governments in collaboration with private sector actors, civil
+            society and the federal government
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Development phase (implementation plan finalized in June 2017)
+    - id: f2dad140-c3f5-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T19:59:58.132Z'
+      name:
+        value:
+          string: 'Yucatan Peninsula Climate Fund '
+      description:
+        value:
+          html: >-
+            <p>The Yucatan Peninsula Climate Fund was established in 2016 in
+            partnership with the three Autonomous Universities of Campeche,
+            Quintana Roo and Yucatan. The state governments participate as
+            members of the Advisory Council of the fund which has the mission of
+            supporting regional initiative to mitigate and adapt to climate
+            change by funding regional climate priorities. It will also seek to
+            be a regional counterpart in the REDD+ payment scheme of the FCPF
+            Carbon Fund, in coordination with CONAFOR. This fund started
+            operations in December 2016, in phase 1, developing the executive
+            plan to implement the trust, coordinating the operational strategy
+            of the Advisory Council, designing the fundraising plan and the
+            procedures manual. This Fund is a trust that allows to capture and
+            distribute resources in a regional and state way, so that it can
+            receive private and international resources for the development of
+            climate policy actions.</p>
+      partners:
+        value:
+          string: >-
+            The Nature Conservancy, state governments of Quinatana Roo, Campeche
+            and Yucatan, Autonomous Universities of Campeche, Quintana Roo and
+            Yucatan
+      fundingSource:
+        value:
+          string: Private and International Funding including the FCPF Carbon Fund
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Financing Initiative
+      initiativeStatus:
+        value:
+          string: Development of Executive Plan (first phase of implementation)
+    - id: e45b0b00-c402-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T21:30:47.220Z'
+      name:
+        value:
+          string: Milpa Maya Program
+      description:
+        value:
+          html: >-
+            <p>The Special Concurrent Program of the Maya Milpa Regions and Area
+            of Influence of the State of Yucatan recognizes the historical,
+            environmental, social, economic, cultural and legal factors that
+            affect the milpa as a form of production and reproduction of the
+            Maya community in the State of Yucatan. It identifies and develops
+            proposals to improve living conditions and increase levels of
+            well-being for Mayan families. The Milpa Program of the Milpera
+            Region and area of influence has the purpose of guaranteeing and
+            promoting the responsible and efficient use of the ecosystem
+            services that ecosystems provide to society and whose benefits are
+            distributed as widely as possible for human well-being.</p>
+      partners:
+        value:
+          string: >-
+            State Government units that make up the Intersecretarial Commission
+            for Sustainable Rural Development; State Council for Sustainable
+            Rural Development.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Indigenous Peoples Initiative
+      initiativeStatus:
+        value:
+          string: >-
+            Integration of the Intersecretarial Commission for Sustainable Rural
+            Development and budget programming for 2018.
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 88
+        src: '88'
+    - id: 2
+      value:
+        value: 12
+        src: '12'
+  citation:
+    html: >-
+      INEGI <a
+      href="http://cuentame.inegi.org.mx/monografias/informacion/qroo/poblacion/distribucion.aspx?tema=me&amp;e=23">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a3
+      value:
+        value: 86
+        src: '86'
+    - id: a2
+      value:
+        value: 13
+        src: '13'
+    - id: a1
+      value:
+        value: 1
+        src: '1'
+  citation:
+    html: >-
+      Secretaría de Economía <a
+      href="http://mim.promexico.gob.mx/work/models/mim/Documentos/PDF/mim/FE_QUINTANA_ROO_vf.pdf">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-07T20:57:02.597Z'
+  values:
+    - id: u2017e
+      value:
+        value: 28838.56
+        src: null
+    - id: u2017k
+      value:
+        value: 3471.46
+        src: null
+    - id: u2017f
+      value:
+        value: 2587.07
+        src: null
+    - id: u2017l
+      value:
+        value: 230.11
+        src: null
+    - id: u2017d
+      value:
+        value: 42.87
+        src: null
+    - id: u2017a
+      value:
+        value: null
+        src: null
+    - id: u2017b
+      value:
+        value: null
+        src: null
+    - id: u2017h
+      value:
+        value: null
+        src: null
+    - id: u2017i
+      value:
+        value: null
+        src: null
+    - id: u2017j
+      value:
+        value: null
+        src: null
+    - id: u2017c
+      value:
+        value: null
+        src: null
+    - id: u2017g
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-07T20:36:13.580Z'
+  values:
+    - id: u2017a
+      value:
+        value: 27942
+        src: null
+    - id: u2017b
+      value:
+        value: 3129
+        src: null
+    - id: u2017c
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      <a
+      href="http://osse.org.mx/Recursos/Investigaciones/Estad%C3%ADsticas/Propiedad-Social/Ejidos">OSSE</a>;
+      <a
+      href="https://www.conacyt.gob.mx/cibiogem/index.php/anpl/quintana-roo">CONACYT</a>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Carlos
+    lastName: Joaquín Gonzáles
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      Gobierno del Estado de Quintana Roo <a
+      href="http://www.quintanaroo.gob.mx/inicio/">link</a>
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Alfredo
+    lastName: Arellano Guillermo
+    email: secretario_sema@qroo.gob.mx
+    companyTitle: Secretario de la SEMA en Quintana Roo
+  citation:
+    html: >-
+      Secretaría de Ecología y Medio Ambiente del Estado de Quintana Roo <a
+      href="http://transparencia.qroo.gob.mx/portal/detalleRubro.php?iddep=14&amp;idrubro=7">link</a>
+representative_2:
+  timestamp: '2017-11-07T16:34:28.223Z'
+  value:
+    firstName: Rafael
+    lastName: Robles
+    email: roblesdeb1@hotmail.com
+    companyTitle: Head of the Department of Ecology and Environment
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 112.52
+        src: '112.52'
+    - id: '1997'
+      value:
+        value: 112.52
+        src: '112.52'
+    - id: '1998'
+      value:
+        value: 112.52
+        src: '112.52'
+    - id: '1999'
+      value:
+        value: 112.52
+        src: '112.52'
+    - id: '2000'
+      value:
+        value: 112.52
+        src: '112.52'
+    - id: '2001'
+      value:
+        value: 112.52
+        src: '112.52'
+    - id: '2002'
+      value:
+        value: 192.19
+        src: '192.19'
+    - id: '2003'
+      value:
+        value: 192.2
+        src: '192.2'
+    - id: '2004'
+      value:
+        value: 192.2
+        src: '192.2'
+    - id: '2005'
+      value:
+        value: 192.2
+        src: '192.2'
+    - id: '2006'
+      value:
+        value: 192.2
+        src: '192.2'
+    - id: '2007'
+      value:
+        value: 192.2
+        src: '192.2'
+    - id: '2008'
+      value:
+        value: 191.1
+        src: '191.1'
+    - id: '2009'
+      value:
+        value: 191.1
+        src: '191.1'
+    - id: '2010'
+      value:
+        value: 191.1
+        src: '191.1'
+    - id: '2011'
+      value:
+        value: 191.1
+        src: '191.1'
+    - id: '2012'
+      value:
+        value: null
+        src: null
+    - id: '2013'
+      value:
+        value: null
+        src: null
+    - id: '2014'
+      value:
+        value: null
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: INEGI/FCPF FREL

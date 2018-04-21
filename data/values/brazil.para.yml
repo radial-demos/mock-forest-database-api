@@ -1,0 +1,1227 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 866200
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 10466.9
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 7581051
+    string: ''
+  citation:
+    html: >-
+      IBGE, 2010 <a
+      href="http://ibge.gov.br/estadosat/perfil.php?sigla=pa">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 56.6
+    currency: BRL
+    string: ''
+  citation:
+    html: 'IBGE, 2008'
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 7992.71
+    currency: BRL
+    string: ''
+  citation:
+    html: 'IBGE, 2008'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.755
+    string: ''
+  citation:
+    html: >-
+      PNUD, 2008 <a
+      href="http://www.pnud.org.br/pobreza_desigualdade/reportagens/index.php?id01=3039&amp;lay=pde">PNUD</a>
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 66
+    year: '2020'
+    string: ''
+  citation:
+    html: >-
+      State Decree 1697/2009 (PPCAD/PA) <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Para.pdf">link</a>
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: null
+    year: '2020'
+    string: ''
+  citation:
+    html: ''
+deforestation_rate_target_value:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1250.92
+    string: ''
+  citation:
+    html: >-
+      State Decree 1,697/2009 (PPCAD/PA) <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Para.pdf">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1253164.5
+    string: ''
+  citation:
+    html: >-
+      Machado, R.B., M.B. Ramos Neto, P.G.P. Pereira, E.F. Caldas, D.A.
+      Gonçalves, N.S. Santos, K. Tabor e M. Steininger. 2004. Estimativas de
+      perda da área do Cerrado brasileiro. Relatório técnico não publicado.
+      Conservação Internacional, Brasília, DF. <a
+      href="http://www.conservation.org.br/arquivos/RelatDesmatamCerrado.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1247954666
+    string: ''
+  citation:
+    html: >-
+      IBGE, 2010 <a
+      href="http://ibge.gov.br/estadosat/perfil.php?sigla=pa">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: >-
+      Iron ore, aluminum, copper ore, manganese ore, beef, wood, black pepper,
+      palm
+  citation:
+    html: 'SEDECT, 2010'
+txt_state_description:
+  timestamp: '2017-12-27T21:29:26.537Z'
+  value:
+    html: >-
+      <p>The state of Pará is the second largest Brazilian state in territorial
+      extension, behind only the Amazon. It has approximately the same
+      territorial extension as Portugal, Spain, Italy, United Kingdom, Belgium,
+      Holland and Denmark together. It is also the second largest state of the
+      Legal Amazon in remaining forest area, with almost 900,000 km² of forests
+      and an enormous biodiversity. </p><p>Pará is the state that perhaps best
+      synthesizes the Amazon in the complex mosaic of activities that exist
+      throughout the Region: vegetal extractivism, logging, large-scale
+      monoculture, livestock, mining, highway opening, hydroelectric plants.
+      Despite the history of strong economic and infrastructural activities over
+      the forest areas, Pará has been progressively reducing its deforestation
+      rates since 2009. </p><p>Part of the success in this reduction is due to
+      public policies launched in the State. Pará has developed its Ecological
+      and Economic Zoning (EEZ) plan, an essential environmental management tool
+      for land use planning. In addition, the State also has the Plan for
+      Prevention, Control and Alternatives to Deforestation (PPCAD), whose basic
+      premise is that only Command and Control actions are not enough for the
+      State, only the creation of sustainable economic alternatives is capable
+      of perpetuating reduction of deforestation rates and contribute to the
+      maintenance of forest blocks. </p><p>Believing that it is possible to grow
+      economically without having to reproduce the historical model of
+      environmental degradation, the State develops the Green Municipalities
+      Program, which reinforces the existing public policies by being a great
+      pact in the search for an economy model that combines conservation and
+      production and guarantee Pará a low carbon economy. From a pact between
+      Public Power, Productive Sector and Civil Society, production increases,
+      adapts to legality, becomes sustainable and brings improvements to the
+      quality of life of the people of Pará. </p><p>The Government of the State
+      of Pará understands that there is still a long way to go and continues to
+      move towards regulatory frameworks and public policies for Climate Change
+      and Environmental Services. An example of this is the reopening of the
+      Para Forum of Climate Change, in process. </p><p>Although the State does
+      not have a specific regulatory framework for Climate Change, Environmental
+      Services and REDD +, several REDD + projects in the state are in the
+      design and development phase, some of which are in partnership with NGOs
+      such as Imazon, Conservation International and TNC. </p><p>Additional
+      information can be found on the <a
+      href="http://gcfimpact.org/states?region=3215,states"><strong>GCF Impact
+      Platform.</strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T16:57:35.825Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Para%20PPCAD.pdf">The
+      federally-mandated plan for prevention and control of deforestation
+      (PPCAD)</a> was completed in 2009. It focuses on 3 groups of actions: Land
+      Use and Environmental Planning; Sustainable Economic Activities; and
+      Monitoring and Control. The PPCAD is executed by 23 organizations and
+      governance is carried out by the Forum for Climate Change (representing
+      more than 40 organizations). The strategy is considered to be the primary
+      state environmental policy, focusing on regulating land tenure and
+      creating and maintaining a rural land registry .  The PPCAD was formalized
+      through <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/para/para_decree_1_697.pdf"
+      target="_blank">PPCAD / Decree 1697 / June 2009</a> and has set a goal to
+      reduce the deforestation rate by 80% by 2020.</p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="/assets/downloads/GCFF/database/Para%20-%20Decreto%20Environmental%20Regularization%20Program.pdf">Decree
+      1379 of 03/09/2015</a> - creates the Environmental Regularization
+      Programme for Rural Properties of the State of Pará - PRA/PA</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/para/para_law_8_096.pdf"
+      target="_blank">Law 8.096/2015</a>- Arranges on the reorganization and
+      creates positions in the State Department of Environment and
+      Sustainability - SEMAS, establishes the State Secretariat for Agricultural
+      Development and Fisheries - SEDAP, and clarifies overall institutional
+      arrangements for natural resource management</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/para/para_decree_54_2011.pdf"
+      target="_blank">Decree 54/2011</a> - launched the Green Municipalities
+      Program with the objective of fighting deforestation and strengthening
+      sustainable rural production through strategic actions for environmental
+      planning and environmental management with a focus on local pacts,
+      deforestation monitoring, implimentation of the Rural Environmental
+      Registry (CAR) and structuring municipal management</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/para/para_decree_2099_2010.pdf"
+      target="_blank">Decree 2099 /January 2010-</a> This decree regulates the
+      maintenance and restoration of natural forest regeneration as well as the
+      reforestation and tradeable deforestation rights of Legal Reserve areas in
+      private forests - fully functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/para/para_decree_1_697.pdf"
+      target="_blank">Decree 1697 / June 2009 –</a> This decree creates the
+      PPCAD and defines goals, targets, actions and responsibilities within the
+      State governance structure - in process of implementation</p><p><a
+      href="/assets/downloads/GCFF/database/Para%20Decreto%201148%20Regulation%20of%20CAR.pdf">Decree
+      1148 / July 2008</a>- This decree declares mandatory registration of every
+      rural property in the State Environmental Registry (CAR) as a first step
+      for any property licensing- fully functional</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/para/para_law_6745_2005.pdf"
+      target="_blank">Law 6745/2005</a>-  Establishes the Ecological-Economic
+      Macrozoning of the State of Pará and gives other measures.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/para/para_law_5887_1995_2005.pdf"
+      target="_blank">Law 5887/2005-</a> Revision of Law 5887/1995 which
+      established the State Environmental Policy and provided other measures. 
+      The revision creates the State Protected Areas System (SEUC)-  this system
+      is responsible for the management of protected areas within Pará State -
+      fully functional</p><p><br /></p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-10-30T15:07:22.274Z'
+  value:
+    html: >-
+      <p><a href="http://www.sedap.pa.gov.br/"><strong>State Secretariat for
+      Agricultural Development and Fisheries - SEDAP</strong></a> -created on
+      January 1, 2015, through Law 8.096, signed by Governor Simão Jatene. The
+      new body is the result of the merger of the State Secretariats of
+      Agriculture and Fisheries, with the purpose of promoting the sustainable
+      development and strengthening of agricultural, livestock, fishing and
+      aquaculture activities in the State of Pará,<br /><br /><a
+      href="http://ideflorbio.pa.gov.br/"><strong>Ideflor Institute</strong></a>
+      - responsible for management and concessions of State Forests<br /><br
+      /><a href="https://www.semas.pa.gov.br/"><strong>Secretary of environment
+      and sustainability (SEMAS)</strong></a>- created on May 11, 1988, by Law
+      No. 5457, SEMAS has a mission to promote integrated, shared and efficient
+      environmental management compatible with sustainable development, ensuring
+      the preservation, conservation of the environment and improvement of the
+      quality of life.<br /><br /><strong>Pará State Climate Change
+      Forum</strong> - Created in June 2009 by decree 1900, the Forum is
+      composed of more than 40 organizations. The Forum was created to promote
+      and support cooperation and dialogue among social sectors related to
+      climate change and its social-environmental consequences. The Forum is
+      organized into 2 Chambers: (1) a temporary chamber responsible for
+      developing the draft Climate Change Law, and (2) a permanent chamber
+      responsible for PPCAD governance</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-10-31T16:44:55.728Z'
+  value:
+    html: >-
+      <p>Ecological and Economic Zoning (<em>Zoneamento Ecológico-Econômico –
+      </em><em>ZEE)</em> is required by the Federal Government to designate
+      areas for economic and conservation activities within each state’s
+      territory. Para concluded its macro zoning ZEE in 2005, and has since
+      completed two additional region-specific plans in west and <a
+      href="http://www.sema.pa.gov.br/download/zee_2012.pdf">northeast</a>
+      Para.  They were all formalized through state laws <a
+      href="https://www.semas.pa.gov.br/2005/05/06/9768/">no 6.745</a> (2005),
+      nº 7.243 (2009) and  no <a
+      href="http://faolex.fao.org/docs/texts/bra116308.doc">7.604</a><a
+      href="/assets/downloads/GCFF/database/Para%20-%20Decreto%20ZEE%20Zona%20Norte.pdf">
+      </a>(2012). State decree No. 1,026 created a supervisory committee,
+      technical scientific committee, and working group on ZEE in Para.  All
+      ZEEs have been validated by the federal government.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>The major drivers of deforestation are cattle ranching, large-scale
+      agriculture, and logging; relatively more minor drivers include mining,
+      urban areas, and infrastructure (e.g., dams). Large cattle ranches account
+      for 60% of all deforestation, whereas smallholder lands account for
+      another 30%. Four percent of deforested area is associated with logging
+      and 3% only is directly associated with professional and high productivity
+      agriculture.</p><p>Pará and Mato Grosso have the highest deforestation
+      rates in the Brazilian Amazon, accounting for 68% of total deforestation
+      (Mato Grosso, 35%; Pará, 33%). Both states have drastically reduced
+      deforestation in the last 6 years. In Pará, deforestation has consistently
+      decreased since its highest point in 2005 (8870 km²), declining by more
+      than 50% to 4281 km² in 2009. The reduction is attributed to an increase
+      in the enforcement and control measures.</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 28d5d5a0-ce1f-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:18:08.250Z'
+      name:
+        value:
+          string: 'Green Grains Protocol '
+      description:
+        value:
+          html: >-
+            <p><em>More than 20 companies and grain trading entities
+            participating in sustainable commodity production.</em></p><p>The
+            Green Grain Protocol establishes criteria and guidelines for
+            commercial grain transactions in the State of Pará in order to
+            prevent production from areas illegally deforested or that have
+            identified cases of slave labor. The Protocol is the product of an
+            agreement signed between the Federal Public Ministry of Pará (MPF /
+            PA), Government of the State of Pará through the Green
+            Municipalities Program (PMV), Secretariat of Environment and
+            Sustainability (SEMAS), Secretariat of Economic Development, Mining
+            (SEDEME) and the Secretariat of Agricultural Development and
+            Fisheries (SEDAP), Municipal Governments of Paragominas and Dom
+            Eliseu and entities and companies of the grain production sector in
+            Pará.The initiative aims to reduce deforestation in Pará while
+            strengthening economic and social development throughout the grain
+            production chain in Pará.</p>
+      partners:
+        value:
+          string: >-
+            Federal Public Ministry - MPF; Government of Pará; Municipalities of
+            Paragominas and Dom Eliseu; select companies and supply chain actors
+            in the grain sector.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public-Private Partnership
+      initiativeStatus:
+        value:
+          string: >-
+            The initiative has been running for 3 years; the commitments will be
+            audited in 2017
+    - id: 6ff08070-ce1f-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:20:07.543Z'
+      name:
+        value:
+          string: 'Produce, Conserve Include (PCI) - Paragominas and São Felix do Xingú'
+      description:
+        value:
+          html: >-
+            <p>The Paragominas and Sao Felix Produce, Conserve and Include
+            Project will be developed through the partnership with the Dutch
+            institution IDH - Sustainable Trade Initiative with the main
+            objective of enhancing commodity production, reducing of social
+            inequalities, and implementing the Forest Code with a focus on
+            restoring degraded areas (through adherence to the Environmental
+            Regularization Program (Programa de Regulariação Ambiental - PRA)
+            and preservation of existing forests. To this end an innovative
+            derisking finance mechanism will be developed where the producer
+            will have access to preferential credit in return for restoring
+            degraded areas, preserving existing forests and/or intensifying
+            livestock productivity. The Government of the State of Pará and the
+            partners involved will be responsible for defining the
+            methodologies, analysis of the rural environmental registry
+            (Cadastro Ambiental Rural - CAR) and governance of the
+            project.Initially the program will focus on Paragominas and Sao
+            Felix do Xingu, and will eventually scale to other
+            municipalities.</p>
+      partners:
+        value:
+          string: >-
+            IDH - Sustainable Trade Initiative; Secretariat of Environment and
+            Sustainability; Green Municipalities Program; SEDEME; Prefecture of
+            Paragominas and Sao Felix de Xingu; IMAZON; The Nature onservancy
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public-Private Partnership
+      initiativeStatus:
+        value:
+          string: >-
+            In phase of approval (Paragominas) and pre-implantation (São Felix
+            do Xingú)
+    - id: ae3004a0-ce1f-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:22:30.015Z'
+      name:
+        value:
+          string: >-
+            Plan for Prevention, Control and Alternatives to Deforestation in
+            the State of Pará (PPCAD)
+      description:
+        value:
+          html: >-
+            <p><em>The strategy aims to reduce 80% of the annual rate of
+            deforestation by the year 202 and promote Territorial Planning and
+            sustainable productive activities.</em></p><p>In 2009 through Decree
+            No. 1,697 the state adopted its State Plan for the Prevention,
+            Control and Alternatives to the Deforestation of the State of Pará
+            (PPCAD), which established a goal of reducing deforestation by 80%
+            by 2020. The strategy adopted a baseline average deforestation rate
+            from 1996-2005 of 6,255 km2, and aims to reduce that rate to 1251
+            km2 in the year 2020.</p>
+      partners:
+        value:
+          string: >-
+            Pará state government and state secretaries, municipalities of Pará,
+            federal government agencies and non-governmental organizations
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Governmental Planning Initiative
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: e93c7150-ce1f-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:23:31.045Z'
+      name:
+        value:
+          string: >-
+            Program for the Reduction of Emissions of Greenhouse Gases from
+            Deforestation and Forest Degradation - PREGEED
+      description:
+        value:
+          html: >-
+            <p>The initiative is a tool for environmental planning, management,
+            and coordination which is focused on reducing the emissions of
+            greenhouse gases from deforestation and forest degradation in the
+            State of Pará. It aims to promote joint and integrated action among
+            the participating agencies at all stages, from planning to
+            operations. It has two primary lines of action: Monitoring, control
+            and inspection, which will be measured through deforestation rates;
+            and promoting to sustainable development through public
+            environmental policies which will be measured by the development of
+            public policies.</p>
+      partners:
+        value:
+          string: >-
+            Pará state government and state secretaries, municipalities of Pará,
+            federal government agencies and non-governmental organizations
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Governmental Planning Initiative
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 11406e40-ce20-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:24:38.180Z'
+      name:
+        value:
+          string: Livestock Sector Agreement
+      description:
+        value:
+          html: >-
+            <p>The agreement is signed between the State Government of Pará,
+            meat packing companies, and the federal public ministry aiming at
+            environmental and social control in the meat production supply chain
+            in the state. The signatory companies undertake to verify the
+            following criteria before buying cattle from farms in Pará:<br>1. Be
+            enrolled in the CAR<br>2. Do not have deforestation after July 22,
+            2008;<br>3. Do not produce and respect the limits of the areas
+            embargoed by IBAMA;<br>4. Do not produce and respect the limits of
+            the areas embargoed by SEMAS (LDI);<br>5. Do not have overlaps with
+            Indigenous Lands or with Conservation Units, except APAs;<br>6. Not
+            on the lists of degrading work or analogous to slavery<br>7.
+            Licensing for properties over 3,000 hectares;<br>To date, two
+            independent audits have been carried out and the third is ongoing.
+            This control is necessary to verify the degree of compliance of the
+            agreement between the parties and to improve it, thus guaranteeing
+            the effectiveness of the instrument, reducing deforestation related
+            to livestock activities and improving working conditions in the
+            field.</p>
+      partners:
+        value:
+          string: >-
+            Federal Public Ministry - MPF; Government of the State of Pará; Meat
+            Packing Companies
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Under implementation since 2009
+    - id: 37336580-ce20-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:54:13.443Z'
+      name:
+        value:
+          string: Green Livestock Project
+      description:
+        value:
+          html: >-
+            <table border="0" cellpadding="0" cellspacing="0"
+            class="MsoNormalTable" width="100%"><tbody><tr><td width="100%">The
+            project called "GreenLivestock" is being implemented in the
+            municipality of Paragominasthrough technical support of the
+            University of São Paulo (USP / ESALQ) toencourage the
+            intensification of livestock production in 9 pilot farmsproducing
+            cattle for slaughter. Investments in pasture fertilization,employee
+            training, and fencing have brought significant
+            economic,environmental and labor gains. Productivity in these farms
+            reached 4.2 cattleper hectare while the average in the state does
+            not exceed the mark of one animal per hectare. Currently the project
+            is in the expansion phase, and should be replicated in other
+            municipalities of Para.<br><br></td></tr></tbody></table>
+      partners:
+        value:
+          string: >-
+            Rural producers of Paragominas; Union of Rural Producers of
+            Paragominas; ESALQ / USP; IMAZON
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Private investment
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 7189c8a0-ce20-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:27:19.722Z'
+      name:
+        value:
+          string: Agreement in the Steel and Charcoal Sectors
+      description:
+        value:
+          html: >-
+            <p><em>Implementation of forest restoration and reforestation
+            projects on 45,000 hectares with native species.</em></p><p>In Pará,
+            an agreement was signed in 2012 between three steel industries and
+            the Federal Public Ministry, Ibama and Para Seceretary of
+            Enviornment (SEMAS). On of the primary objectives is the
+            implementation of mandatory replanting and reforestation projects to
+            guarantee the sustainable supply of charcoal for its activities,
+            thereby reducing deforestation caused by the demand for charcoal
+            extracted from native forests. It also provides for the recovery of
+            deforested areas without authorization by companies, which will
+            contribute to carbon sequestration and other environmental services.
+            In relation to environmental liabilities, it is foreseen than
+            45,000,000 hectares will be reforested with native species in eight
+            to twelve years. In addition, companies must pay compensation for
+            the environmental damage already caused and the resources can be
+            used for environmental and social projects, as the agreement also
+            involves improving working conditions in coal production.</p>
+      partners:
+        value:
+          string: 'State steelmakers, SEMAS, IBAMA and MPF'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: c58e6b90-ce20-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:29:40.681Z'
+      name:
+        value:
+          string: ICMS Verde
+      description:
+        value:
+          html: >-
+            <p>The Green ICMS of Pará is a Payment for Environmental Services
+            instrument that aims to compensate and encourage municipalities for
+            environmental conservation. The Green ICMS of Pará stands out in
+            Brazil for being the only one to incorporate information on the
+            Rural Environmental Registry and deforestation data of the
+            municipalities as one of the criteria for the receipt of resources.
+            Among others, the evaluated criteria involve the reduction of
+            deforestation, the presence of protected areas, forest inventory and
+            the capacity to exercise municipal environmental management.</p>
+      partners:
+        value:
+          string: 144 municipalities of Para
+      fundingSource:
+        value:
+          string: 'The Green ICMS of Pará '
+      fundingAmount:
+        value:
+          string: >-
+            More than R $ 312 million transferred to the municipalities of Para
+            between 2014 and 2017
+      initiativeType:
+        value:
+          string: 'Public investment, pay for performance mechanism'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 0c4a7ba0-ce21-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:53:26.300Z'
+      name:
+        value:
+          string: Green Municipalities Program - PMV
+      description:
+        value:
+          html: >-
+            <p><em>118 participating municipalities have reduced deforestation
+            by 66% compared to 2004, more than 72% of land has been registered
+            in the environmental registry (CAR).</em></p><p>The Green
+            Municipalities Program (PMV) is a Pará Government program developed
+            in partnership with municipalities, civil society, private sector,
+            Brazilian Institute for the Environment and Renewable Natural
+            Resources (Ibama) and Federal Public Ministry (MPF). Launched in
+            2011, the PMV aims to combat deforestation in the state, strengthen
+            sustainable rural production through strategic environmental and
+            land management planning and environmental management.The initiative
+            focuses on local pacts, deforestation monitoring, registering land
+            in the Rural Environmental Registry (CAR) and structuring the
+            environmental management of the participating
+            municipalities.</p><p>Since its inception, the PMV has contributed
+            to the growth of the CAR rate in Pàrá (190,000 registrations or 72%
+            of the state), reduced deforestation (down 66% since 2004) and 16
+            municipalities have already reached the PMV targets. According to
+            recent data from IMAZON, through its Deforestation Alert System
+            (SAD), Pará reduced deforestation by 31% in the period AUG 2016 -
+            JUL 2017, in comparison to the same period the prior year.</p>
+      partners:
+        value:
+          string: >-
+            Municipalities of Para, Para Secretary of Environment and
+            Sustainability (SEMAS),  Federal Public Ministry, Ibama, private
+            sector, and civil society
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 8344d400-ce24-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:56:27.456Z'
+      name:
+        value:
+          string: List of Illegal Deforestation - LDI
+      description:
+        value:
+          html: >-
+            <p>The Illegal Deforestation List of the State of Pará prohibits the
+            granting of permits, authorizations, services or any other type of
+            public benefit or incentive by the entities of the State Public
+            Administration to activities located in areas illegally deforested
+            in the State of Pará. The LDI is the official consultation tool of
+            the State of Pará.<br>It is the legal instrument for the
+            dissemination of illegally deforested areas in the State, managed by
+            SEMAS/PA for consultation by state public agencies and the general
+            public. The creation of the LDI aims to combat illegal deforestation
+            carried out in the state territory, favor rural producers who carry
+            out their activities in accordance with environmental legislation
+            and collaborate with the commitment made by Governor Simão Jatene
+            during Rio + 20 to achieve zero net deforestation by 2020.<br>With
+            the release of this new policy, it is expected that the private
+            sector (in particular food processing, banks, grain buyers and
+            agribusiness) will consult the embargo list to avoid the marketing
+            of products from embargoed areas, prohibited in the legislation.</p>
+      partners:
+        value:
+          string: >-
+            Para Secretariat of Environment and Sustainability - SEMAS; Para
+            green Municipalities Program PMV; Federal Public Ministry MPF; INPE;
+            IMAZON.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: ff3c5ce0-ce24-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:59:55.438Z'
+      name:
+        value:
+          string: ' FIP AMAZÔNIA'
+      description:
+        value:
+          html: >-
+            <p>The Amazon FIP was created in 2013 by the National Bank for
+            Economic and Social Development (BNDES), its largest investor. It is
+            the first Venture Capital fund focused exclusively on the Amazon
+            region. Other quota holders are the Bank of the State of Pará
+            (Banpará), the Acre Development Agency, the Jari Group and Kaeté
+            Investimentos. Companies from all the States of the Legal Amazon are
+            able to receive investments from the Fund. The initial R $ 100
+            million committed will be invested in five to ten companies. The
+            focus of the fund is to acquire shareholding between 20% and 50% in
+            companies with annual revenues between R $ 10 million and R $ 100
+            million. The Government of Pará, through the Green Municipalities
+            and Banpará Program, secured with the FIP Amazônia the guarantee of
+            minimum investments of R $ 20 million for companies in Pará, as well
+            as a permanent seat on the Investment Committee and the opening of a
+            Kaeté office in Belém for the capture, development and operation of
+            investment projects. The Fund aims to acquire equity interests in
+            companies in sustainable sectors as sustainable primary production
+            (regional fruits, palm oil, fiber, gums, resins); food industry,
+            fiber, cosmetics, oils and essences, textiles, gums, rubber and
+            biotechnology; aquaculture; timber and non-timber forest products;
+            ecotourism; services and technologies; recycling and waste
+            treatment; renewable energy; and logistics infrastructure.</p>
+      partners:
+        value:
+          string: >-
+            National Bank for Economic and Social Development (BNDES), Pará
+            State Bank (Banpará), Acre Development Agency, Jari Group and Kaeté
+            Investimentos
+      fundingSource:
+        value:
+          string: >-
+            National Bank for Economic and Social Development (BNDES), Pará
+            State Bank (Banpará), Acre Development Agency, Jari Group and Kaeté
+            Investimentos
+      fundingAmount:
+        value:
+          string: >-
+            R $ 100 million for equity investments in companies across a range
+            of sustainable productive activities
+      initiativeType:
+        value:
+          string: 'Public Investment, Public Private Partnership'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 2c2abe40-ce25-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:01:10.820Z'
+      name:
+        value:
+          string: Environmental Transparency Portal
+      description:
+        value:
+          html: >-
+            <p>Electronic portal for dissemination of procedures and
+            authorizations of SEMAS through geospatial tools, including the
+            Rural Environmental Registry (CAR). Through the tool, Environmental
+            Licenses, Granting of Right to Use Water Resources, as well as
+            Cadastre of Consumers of Forest Products (CEPROF) can be consulted
+            and tracked. The Portal also provides various services associated
+            with the brown (Environmental Licensing), Blue (Water Resources) and
+            Green (Forestry) agendas and a section dedicated to the consultation
+            on the legal regularity of enterprises whose main activity is the
+            exploitation of natural resources. Recently, the "Eye on the Forest"
+            Project was added to the page. Link to the portal:
+            www.semas.pa.gov.br/transparencia/.</p>
+      partners:
+        value:
+          string: >-
+            Para Secretary of State for Environment and Sustainability (SEMAS)
+            and Institutions linked to economic activities
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: beb22ff0-ce25-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:05:16.655Z'
+      name:
+        value:
+          string: Project 'From the Eye of the Forest' (Projeto De olho na Floresta)
+      description:
+        value:
+          html: >-
+            <p><em>Monitoring of forest cover from high spatial and temporal
+            resolution.</em></p><p>The Eye of the Forest Project uses a robust
+            and secure automated structure to ensure continuous monitoring of
+            the forest. It provides weekly alerts of deforestation evidence
+            throughout the state to obtain the current mapping of the forest and
+            its deforestation, subsidizing effective deforestation control and
+            enforcement actions. Using high-resolution images from Planet
+            satellites, images from the territory of Pará are made available
+            every 3 days. The platform allows for easy visualization and
+            analysis of the areas of deforestation, allowing for rapid analysis
+            overlayed with geospatial information such as Forest Management
+            Areas, Licensed Areas, CAR (Area of Property, Legal Reserve, APP),
+            Conservation Unit, or any area of interest. The platform allows the
+            generation of specific reports and the sending of both alerts and
+            legal notifications. Printed reports show mapped areas and the
+            amount of deforestation, including all the information generated by
+            the processed image processing. Through the project every citizen
+            can monitor the forest monitoring and alerts of evidence of
+            deforestation, participating in and contributing to the maintenance
+            and recovery of the forest. The Project is available on the SEMAS
+            home page and also through a smartphone application.</p>
+      partners:
+        value:
+          string: 'Para Secretary of State for Environment and Sustainability (SEMAS) '
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: dcabd510-ce25-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:06:06.945Z'
+      name:
+        value:
+          string: Integrated Center for Environmental Monitoring - CIMAM
+      description:
+        value:
+          html: >-
+            <p>The Integrated Environmental Monitoring Center (CIMAM) presents a
+            new approach to environmental monitoring in the state of Para,with
+            an aim of advancing environmental knowledge to improve command and
+            control measures. Located in its own dedicated building, CIMAM has
+            infrastructure and tools for forest, climate and water monitoring.
+            Among the main activities is the routine monitoring of deforestation
+            in real time for actions of inspection of SEMAS, with the support of
+            public security agencies. The Center will also have partnerships
+            with civil society sectors in the production of statistics in search
+            of a better representation of environmental management in Pará.</p>
+      partners:
+        value:
+          string: >-
+            Environmental and Public Security Institutions of the State of
+            Pará. 
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Building Inaugurated. Institutional partnerships in progress.
+    - id: 25cd2550-ce26-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:08:09.637Z'
+      name:
+        value:
+          string: 'Brazil Low Carbon Agriculture (ABC) Program of the State of Pará '
+      description:
+        value:
+          html: >-
+            <p><em>ABC Pará provides ten specific objectives to reduce<br>the
+            emissions associated with agricultural activities up to
+            2020.</em></p><p>Pará has developed its Low Carbon Agriculture
+            Program (ABC) in 2012, based on the structure created by the
+            National ABC Plan, launched in 2010. Among the specific objectives
+            of the Plan are: Reclamation of pastures (ha); System of
+            crop-livestock-forestry integration (iLFP) in anthropic areas (ha);
+            Agroforestry systems (SAF) in anthropogenic areas (ha); No-tillage
+            system10 (ha) and Area of planted forests (ha), among other
+            goals.</p>
+      partners:
+        value:
+          string: >-
+            Government of Pará, Federal Government and Representatives of the
+            Agriculture and Livestock sector
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Public investment, Public-private Partnership'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 72a56310-ce26-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:10:18.561Z'
+      name:
+        value:
+          string: Program Para 2030
+      description:
+        value:
+          html: >-
+            <p><em>Strategies for the Sustainable Development of Pará by the
+            year 2030.</em></p><p>Launched in 2016, the PARÁ 2030 Program
+            outlines strategic planning for the State of Pará in search of a
+            dynamic economy that leverages resources including minerals, soils,
+            forest and biodiversity through efficient production processes and
+            value-adding. Anchored in sustainable practices, pioneering the
+            implementation of public policies for sustainable production and
+            exporting innovative solutions to the world, the program also aims
+            to generate wealth for the population of Pará, providing equal
+            opportunities and accelerated economic growth spread throughout the
+            territory of Pará.</p><p>The program selects 13 priority productive
+            chains, such as Family Agriculture, Planted Forests, Biodiversity,
+            Logistics, Mineral Verticalization, Business Agriculture (soy and
+            corn), among others.</p><p>The main goals of the program
+            are:</p><p>i. To match GDP per capita to the Brazilian average in
+            2030.</p><p>ii. Creation of 3 million new jobs in the State, with an
+            increase of 85% of the salary mass.</p><p>iii. Up to 80% reduction
+            of emissions of effect gases studies per unit of GDP.</p><p>iv.
+            Priority projects carried out and quality of 100% of the road
+            network evaluated as good or regular.</p><p>v. Development of a
+            holistic model of sustainable exploitation of biodiversity
+            resources, including the promotion of community protocols,
+            generation and management of knowledge and attraction of
+            investments.</p>
+      partners:
+        value:
+          string: >-
+            Government of Pará and Representatives of the private sector, third
+            sector, municipalities and society in general
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 9a652b10-ce26-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:13:03.414Z'
+      name:
+        value:
+          string: Sustainable Municipalities Program
+      description:
+        value:
+          html: >-
+            <p>Launched in 2017, the SustainableMunicipalities Program is the
+            cornerstone of the government program"Pará Sustentável", which
+            establishes the strategic guidelines inthe social (Pará Social),
+            environmental (Pará Ambiental) and economic (Pará2030) goals of the
+            state. Several initiatives are included as part of ParaAmbiental
+            (Pregeed, PMV, PPCAD, CIMAM, etc) and Pará 2030
+            economicinitiatives.</p><p>The Sustainable Municipalities Program,
+            in turn, aims to coordinategovernment actions and articulate
+            partnerships with the private sector andcivil society, to promote
+            the development of Pará, including actions thatwill be carried out
+            jointly with municipalities. The initiative was born tocombat
+            poverty and inequality, with the premise of achieving the
+            sustainabledevelopment goals defined by the United Nations
+            (UN).</p><p>The program's innovative element is governance through
+            the Forum of Mayorsand Prefects of the Sustainable Municipalities
+            Program and the institutionaldesign of the program's implementation,
+            done in a modular way, in steps that allow the organization and the
+            gradual engagement of the municipality in the actions from the
+            program.</p><table border="0" cellpadding="0" cellspacing="0"
+            class="MsoNormalTable" width="100%"><tbody><tr><td
+            width="100%"><br></td></tr></tbody></table>
+      partners:
+        value:
+          string: >-
+            Government of Pará, Federal Government and Representatives of the
+            Agriculture and Livestock sector
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Planning Initiative
+      initiativeStatus:
+        value:
+          string: Under Implementation
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 68.48
+        src: '68.48'
+    - id: 2
+      value:
+        value: 31.52
+        src: '31.52'
+  citation:
+    html: 'IBGE, 2010'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 72.6
+        src: '72.60'
+    - id: a2
+      value:
+        value: 21.9
+        src: '21.90'
+    - id: a3
+      value:
+        value: 5
+        src: '5.00'
+    - id: a4
+      value:
+        value: 0.4
+        src: '0.40'
+    - id: a6
+      value:
+        value: 0.1
+        src: '0.10'
+  citation:
+    html: 'IBGE, 2010'
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 56.6
+        src: '56.6'
+    - id: a4
+      value:
+        value: 36.3
+        src: '36.3'
+    - id: a2
+      value:
+        value: null
+        src: null
+    - id: a5
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'IBGE, 2010'
+current_forest_area_typologies:
+  timestamp: '2017-12-06T23:13:24.412Z'
+  values:
+    - id: u2017b
+      value:
+        value: 871653.59
+        src: null
+    - id: u2017e
+      value:
+        value: 167750.81
+        src: null
+    - id: u2017c
+      value:
+        value: 141442.05
+        src: null
+    - id: u2017d
+      value:
+        value: 63601.17
+        src: null
+    - id: u2017a
+      value:
+        value: 3191.11
+        src: null
+  citation:
+    html: TerraClass 2014
+forest_management:
+  timestamp: '2017-12-06T22:12:06.988Z'
+  values:
+    - id: u2017b
+      value:
+        value: 472179
+        src: null
+    - id: u2017a
+      value:
+        value: 394051
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 883886
+        src: '883,886'
+    - id: 2
+      value:
+        value: 251083
+        src: '251,083'
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'PRODES/INPE, 2011'
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Simão Robson
+    lastName: Oliveira Jatene
+    email: ''
+    companyTitle: ''
+  citation:
+    html: '-'
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Ronaldo
+    lastName: Jorge Lima
+    email: ronaldo.lima@semas.pa.gov.br
+    companyTitle: Secretário Adjunto de Recursos Hídricos da SEMAS
+  citation:
+    html: '-'
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Antônio
+    lastName: Sousa
+    email: antoniosousa.sema@gmail.com
+    companyTitle: Diretor da SEMAS
+  citation:
+    html: '-'
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 6135
+        src: '6,135'
+    - id: '1997'
+      value:
+        value: 4139
+        src: '4,139'
+    - id: '1998'
+      value:
+        value: 5829
+        src: '5,829'
+    - id: '1999'
+      value:
+        value: 5111
+        src: '5,111'
+    - id: '2000'
+      value:
+        value: 6671
+        src: '6,671'
+    - id: '2001'
+      value:
+        value: 5237
+        src: '5,237'
+    - id: '2002'
+      value:
+        value: 7510
+        src: '7,510'
+    - id: '2003'
+      value:
+        value: 7145
+        src: '7,145'
+    - id: '2004'
+      value:
+        value: 8870
+        src: '8,870'
+    - id: '2005'
+      value:
+        value: 5899
+        src: '5,899'
+    - id: '2006'
+      value:
+        value: 5659
+        src: '5,659'
+    - id: '2007'
+      value:
+        value: 5526
+        src: '5,526'
+    - id: '2008'
+      value:
+        value: 5607
+        src: '5,607'
+    - id: '2009'
+      value:
+        value: 4281
+        src: '4,281'
+    - id: '2010'
+      value:
+        value: 3770
+        src: '3,770'
+    - id: '2011'
+      value:
+        value: 2870
+        src: '2,870'
+    - id: '2012'
+      value:
+        value: 1741
+        src: '1,741'
+    - id: '2013'
+      value:
+        value: 2346
+        src: '2346'
+    - id: '2014'
+      value:
+        value: 1887
+        src: '1887'
+    - id: '2015'
+      value:
+        value: 2153
+        src: '2153'
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Prodes <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2015n.htm">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: ''

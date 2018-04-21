@@ -1,0 +1,259 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 58900
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 872.9876
+    string: ''
+  citation:
+    html: ''
+original_forest_area:
+  timestamp: '2017-12-01T19:18:39.256Z'
+  value:
+    value: 65935
+    string: ''
+  citation:
+    html: '1973'
+land_area:
+  timestamp: '2017-12-01T19:19:59.029Z'
+  value:
+    value: 68996
+    string: ''
+  citation:
+    html: ''
+txt_state_description:
+  timestamp: '2017-12-28T17:15:09.118Z'
+  value:
+    html: >-
+      <p>North Kalimantan is located in the northern part of Borneo Island.
+      North Kalimantan is Indonesia’s youngest province, officially ratified as
+      a province in 2012. North Kalimantan is divided into four regencies
+      (kabupaten) and one city (kota).</p><p><br /></p><p>More information can
+      be found on the <a
+      href="http://gcfimpact.org/states?region=10664,states">GCF Impact
+      Platform. </a></p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 3f6edaa0-ce29-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:30:21.130Z'
+      name:
+        value:
+          string: >-
+            Development of hydropower between the provincial Government of North
+            Kalimantan and PT. Kayan Hydro Energi Kayan Hydro Energy 
+      description:
+        value:
+          html: >-
+            <p>Availability of Electricity of 6,080 MW for environmentally
+            friendly North Kalimantan c and East Kalimantan
+            communities.&nbsp;</p>
+      partners:
+        value:
+          string: 'PT. Kayan Hydro Energi asal China Kayan Hydro Energy from China '
+      fundingSource:
+        value:
+          string: 'PT. Kayan Hydro Energi asal China Kayan Hydro Energy from China '
+      fundingAmount:
+        value:
+          string: Rp. 15.6 trillion
+      initiativeType:
+        value:
+          string: Public Investment
+      initiativeStatus:
+        value:
+          string: Memorandum of Understanding
+    - id: f2660fa0-ce2b-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:49:40.378Z'
+      name:
+        value:
+          string: >-
+            Rural Development - villages around the forest in the Kayan
+            Mentarang National Park area becomes a Climate Village Program
+            (Proklim) 
+      description:
+        value:
+          html: >-
+            <p><em>Creation of Climate Camp Program (Proklim) in order to
+            support LHK Ministry Program. </em></p><p>The issue of Climate
+            Change has become a real environmental phenomenon and is recognized
+            as one of the greatest threats to human life.The Ministry of
+            Environment and Forestry has made a policy in the form of Kampung
+            Climate Program (Proklim).Proklim is a national scheme program to
+            encourage the active participation of communities and all parties in
+            implementing local actions to improve resilience to climate change
+            impacts and reductions in greenhouse gas emissions.North Kalimantan
+            plans to foster villages around Kayan Mentarang National Park as a
+            Kampung Kampan Climate Program with a target of 20 villages /
+            villages in collaboration with donors from abroad.</p>
+      partners:
+        value:
+          string: Ministry of Environment and Forestry
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Emissions Reduction Program (REDD +)
+      initiativeStatus:
+        value:
+          string: Planning Phase
+urban_vs_rural_population_percent:
+  timestamp: '2017-12-01T19:20:32.881Z'
+  values:
+    - id: 2
+      value:
+        value: 69.2
+        src: null
+    - id: 1
+      value:
+        value: 30.8
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-01T19:19:44.042Z'
+  values:
+    - id: conserved_forest_area_breakdown
+      value:
+        value: 12980
+        src: null
+    - id: unprotected_forest_area
+      value:
+        value: null
+        src: null
+    - id: fully_protected_forest_area_breakdown
+      value:
+        value: null
+        src: null
+    - id: sustainably_managed_forest_area_breakdown
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+governor:
+  timestamp: '2017-12-01T17:32:17.385Z'
+  value:
+    firstName: Dr. H. Irianto Lambrie
+    lastName: ''
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T17:31:43.081Z'
+  value:
+    firstName: Drs. H.
+    lastName: 'Badrun, MSi'
+    email: runsenan@gmail.com
+    companyTitle: Provincial Secretary of North Kalimantan
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-12-01T17:32:04.759Z'
+  value:
+    firstName: Edy Suharto
+    lastName: 'S. Sos, MT'
+    email: dy_shrt@yahoo.com
+    companyTitle: Head of Provincial Environment Agency
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-01T19:21:06.734Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: 743
+        src: null
+    - id: '2006'
+      value:
+        value: 743
+        src: null
+    - id: '2007'
+      value:
+        value: 390
+        src: null
+    - id: '2008'
+      value:
+        value: 390
+        src: null
+    - id: '2009'
+      value:
+        value: 390
+        src: null
+    - id: '2010'
+      value:
+        value: 181
+        src: null
+    - id: '2011'
+      value:
+        value: 181
+        src: null
+    - id: '2012'
+      value:
+        value: 299
+        src: null
+    - id: '2013'
+      value:
+        value: 299
+        src: null
+    - id: '2014'
+      value:
+        value: 256
+        src: null
+    - id: '2015'
+      value:
+        value: 256
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: '<strong>Ministry of Forestry, Indonesia</strong>'

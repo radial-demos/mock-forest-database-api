@@ -1,0 +1,684 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 33680.505
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 86.88
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 7350682
+    string: ''
+  citation:
+    html: >-
+      México en Cifras. INEGI <a
+      href="http://www3.inegi.org.mx/sistemas/mexicocifras/default.aspx?e=14">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 849795000000
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      INEGI. 2014. PIB Entidad Federativa Anual. <a
+      href="http://www.inegi.org.mx/est/contenidos/proyectos/cn/pibe/">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 104776
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      CESJAL. 2014. Informe Socioeconómico del Estado de Jalisco 2014. <a
+      href="https://www.google.com.mx/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;ved=0ahUKEwiIvpKgpb7MAhUHOSYKHYT5AHoQFggtMAM&amp;url=http%3A%2F%2Fcesjal.org%2Fdescargas%2Fczo3ODoiaW5mb3JtZXNfZXN0dWRpb3NfYXJjaGl2b3N8QXJjaGl2b0FkanVudG98RGVzY2FyZ2FzfElESW5mb3JtZUVzdHVkaW9BcmNoaXZvfDkwIjt7RjNyNGxsfQ%3D%3D&amp;usg=AFQjCNEUjH5Fkpj_mqTYMF0QaSky8Dd_Fg&amp;sig2=_hxzbvH0831e3cTNA5JCOg&amp;bvm=bv.121070826,d.eWE&amp;cad=rja">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.7434
+    string: ''
+  citation:
+    html: >-
+      UNDP. 2012. El Índice de Desarrollo Humano en México: cambios
+      metodológicos e información para las entidades federativas. <a
+      href="http://www.cinu.mx/minisitio/indice_de_desarrollo/El_IDH_en_Mexico.pdf">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 46779.79
+    string: ''
+  citation:
+    html: >-
+      Mexico FREL <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Nov/Final__ENGLISH_20november_2016.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 78011.84
+    string: ''
+  citation:
+    html: >-
+      Mexico FREL <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Nov/Final__ENGLISH_20november_2016.pdf">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: >-
+      Computer equipment, communication, measurement and other electronic
+      equipment, components and accessories.
+  citation:
+    html: >-
+      INEGI. 2015. Anuario Estadístico de Jalisco. <a
+      href="http://internet.contenidos.inegi.org.mx/contenidos/productos//prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/anuarios_2015/702825076153.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-28T17:37:44.807Z'
+  value:
+    html: >-
+      <p>Jalisco has a population of 7,979,530 inhabitants. The state's
+      population represents 6.5% of the country's total. It is one of the 6 most
+      biodiverse states of the country, counting on an enormous wealth in
+      natural capital. The trends of economic growth, urbanization and
+      demography of the last years have put pressure on the natural resources
+      stock.</p><p>With the purpose of establishing a model for territorial
+      planning at the regional level, a model of local governance has been
+      proposed in Jalisco which aims to contribute to sustainable rural
+      development through various procedures that should be observed at the
+      state level in order to reduce emissions through deforestation and
+      degradation, through the State REDD + Strategy. This model of governance
+      is the Intermunicipal Boards, which are based on the association of
+      municipalities that seek to generate a decentralization of environmental
+      policy and function as a technical agent, which takes the form of a
+      decentralized public body, which has an impact on the territory of the
+      municipalities that comprise it. There are 2,357,236 ha of forests and
+      forests, which represent 57% of the state's forest area.</p><p>Additional
+      information can be found on the <a
+      href="http://gcfimpact.org/states?region=14314,states">GCF Impact
+      Platform. </a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-13T19:30:15.255Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_state_program_for_action_on_climate_change.PDF"
+      target="_blank"><strong>State Program for Action on Climate
+      Change</strong></a><strong> - </strong>Jalisco’s State Program on Climate
+      Change was established in 2015 through <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Jalisco%20Climate%20Action%20Law.pdf">Decree
+      25419</a>.The program aims to confront the adverse effects of climate
+      change that are currently occurring and prepare for future impacts,
+      identify the studies needed to define mitigation goals and the needs of
+      the State to build and foster adaptation and mitigation capacities, move
+      towards a sustainable, competitive economy with low greenhouse gas
+      emissions, and be an instrument to safeguard the health and safety of the
+      population, the territory, productive activities and ecosystems.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_fcpf_carbon_fund_investment_program.pdf"
+      target="_blank"><strong>FCPF Carbon Fund Investment Program</strong></a> –
+      Through Mexico’s Emissions Reduction Initiative implemented under the
+      framework of the Forest Carbon Partnership Facility, Jalisco has developed
+      four investment programs to reduce deforestation.</p><p><strong>State
+      REDD+ Strategy (EEREDD+)</strong> – Jalisco is in the process of
+      finalizing its State REDD+ Strategy in 2017, which is coordinated by the
+      state Technical Advisory Committee for the Reduction of Emissions from
+      Deforestation and Forest degradation (CTC REDD+).Jalisco State REDD +
+      Strategy seeks to guarantee transparency and maximize environmental and
+      social benefits.</p><p><br /></p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_decree_21657.pdf"
+      target="_blank"><strong>Decree 21657</strong></a><strong>
+      21/12/2006</strong> <strong>Sustainable Rural Development Law</strong>-
+      Provides guidelines for planning, implementing and evaluating of
+      sustainable rural development project with a focus on agricultural and
+      economic support measures for agriculture and training for
+      farmers.</p><p><strong><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Jalisco%20Climate%20Action%20Law.pdf">Decree
+      25419</a> </strong><strong>27/9/2015 State Climate Action Law -
+      </strong>Defines the strategy of addressing climate change in Jalisco and
+      references actions to reduce deforestation and forest degradation in
+      collaboration with the national government, enhance capacity and data
+      systems related to deforestation, and identify priority areas for
+      restoration.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_decree_20553.pdf"
+      target="_blank"><strong>Decree 20553</strong></a><strong> 20/8/2004
+      Sustainable Forest Development Law - </strong>Promotes the conservation,
+      protection, restoration, production, cultivation, management and
+      utilization of forest ecosystems in the State of Jalisco.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-07T00:03:43.036Z'
+  value:
+    html: >-
+      <p><strong>Environment and Territorial Development Secretariat
+      (SEMADET)</strong> - Designs policies, strategies, measures and actions to
+      tackle climate change in the state</p><p><strong>Forestry Directorate of
+      SEMADET</strong> - Coordinates MRV, and REDD+ strategy through the REDD+,
+      Mitigation and Adaptation Working Groups, and the Interinstitutional
+      Commission for Action against Climate Change in the State of
+      Jalisco</p><p><strong>Rural Development Secretariat (SEDER)</strong>
+      -Designs programs and policies related to agricultural
+      development</p><p><strong>REDD+ Working Group of the CICC -
+      </strong>Inter-institutional platform developed to validate the Investment
+      Programs to reduce deforestation, consisting of more than a dozen state
+      secretaries.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-13T19:34:46.696Z'
+  value:
+    html: >-
+      <p>Jalisco has <a href="http://siga.jalisco.gob.mx/moet/">completed
+      statewide ecological zoning</a>, which was<a
+      href="http://www.semarnat.gob.mx/archivosanteriores/temas/ordenamientoecologico/Documents/documentos%20decretados/decreto_oe_jalisco.pdf">
+      formalized through decree in 2001</a> and <a
+      href="http://www.semarnat.gob.mx/archivosanteriores/temas/ordenamientoecologico/Documents/documentos%20decretados/modificacion_decreto_oe_jalisco.pdf">updated
+      in 2006.</a></p><p>The state has also completed site-specific plans for
+      the following municipalities:<br /><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_cabo_corrientes.pdf"
+      target="_blank">Cabo Corrientes<br /></a><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_cihuatlan.pdf"
+      target="_blank">Cihuatlán<br /></a><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_tlajomulco_de_zuniga.pdf"
+      target="_blank">Tlajomulco de Zúñiga</a><br /><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_tomatlan.pdf"
+      target="_blank">Tomatlán</a><br /><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_zapopan.pdf"
+      target="_blank">Zapopan</a><br /><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_zapotlan_el_grande.pdf"
+      target="_blank">Zapotlán El Grande</a><br /><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/jalisco/jalisco_costa_alegre.pdf"
+      target="_blank">Costa Alegre</a></p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: c68dda50-9e35-11e7-936d-a3cde4287d33
+      timestamp: '2017-09-26T01:27:33.877Z'
+      name:
+        value:
+          string: Alliance with the Agricultural Sector
+      description:
+        value:
+          html: >-
+            <p>In 2016, the Ministry of Rural Development modified its operating
+            rules to support the implementation of silvopastoral systems
+            (sustainable livestock), aimed at livestock producers who had a
+            current Agreement on Payment for Environmental Services (PSA) in the
+            forest adjacent to their livestock activity. This year, the concept
+            of support is extended to agroforestry systems and other forest
+            conservation and / or management requirements are included, in
+            addition to the PES; such as the Sustainable Forest Management Plan,
+            Environmental Management Unit and Voluntary Conservation Area. As
+            part of this effort, the Secretariat signed an agreement with each
+            of the Intermunicipal Councils for the Environment of coastal
+            basins, which are part of the Emission Reduction Initiative proposed
+            by Mexico before the FCPF Carbon Fund, whose purpose is to provide
+            technical assistance to the beneficiaries of the program. The
+            alliance aims to promote sustainable production, increase resilience
+            of rural producers and capture carbon, as well as conserve carbon
+            stocks.</p>
+      partners:
+        value:
+          string: >-
+            Ministry of Rural Development and Intermunicipal Boards of
+            Environment 
+      fundingSource:
+        value:
+          string: Public Financing
+      fundingAmount:
+        value:
+          string: >-
+            Phase 1 - $ 1.5 million Mexican pesos to support agricultural
+            producers in Jalisco. Phase 2 - Additional support in excess of $1.5
+            million pesos for agricultural producers
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Phase 1 investments completed. Phase 2 under evaluation.
+    - id: 91671f50-c403-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T21:35:26.149Z'
+      name:
+        value:
+          string: Partnership with the Social Sector
+      description:
+        value:
+          html: >-
+            <p>The Secretariats of Development and Social Integration,
+            Environment and Territorial Development and the Intermunicipal
+            Councils for the Environment of coastal basins of Jalisco signed
+            agreements in 2016 and 2017 with the objective of investing in 34
+            productive projects for the management and sustainable use of
+            resources by women and young people living in areas of high and very
+            high marginalization. The alliance with the social sector also seeks
+            for these supported projects to provide certain inputs for the
+            silvopastoral-agroforestry systems promoted by the agricultural
+            sector. In this sense, nurseries were supported by women who produce
+            plants of interest to the community, as well as forage and timber
+            species that can be sold to farmers; support was also given to young
+            people to produce compost. This does not exclude other productive
+            activities of women and young people who consider the management and
+            sustainable use of local natural resources. As part of this
+            initiative, the Ministry of Environment and Territorial Development
+            will provide technical assistance to the projects of women and young
+            people benefiting from these resources at each of the Intermunicipal
+            Councils for the Environment of coastal basins; which is the area of
+            intervention of the Emission Reduction Initiative proposed by Mexico
+            to the FCPF Carbon Fund.</p>
+      partners:
+        value:
+          string: >-
+            Secretariat for Development and Social Integration, Ministry of
+            Environment and Territorial Development and Intermunicipal Boards
+      fundingSource:
+        value:
+          string: Government Funding
+      fundingAmount:
+        value:
+          string: >-
+            Phase 1. $ 3.5 million Mexican pesos for productive projects of
+            rural women and young people complementary to silvopastoral systems.
+            Phase 2. $ 3 million Mexican pesos for productive projects of women
+            and rural youths complementary to silvopastoral systems. Phase 3. $
+            6 million Mexican pesos for productive projects of women
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: 'Phase 1 and 2 investments completed, Phase 3 in development'
+    - id: 71b43c00-c404-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-12-12T17:17:57.357Z'
+      name:
+        value:
+          string: >-
+            Agreement for the Creation and Implementation of the Biocultural
+            Corridor of the Occidente Center of Mexico
+      description:
+        value:
+          html: >-
+            <p>The agreement for the creation and implementation of the
+            Biocultural Corridor of the Center West of Mexico signed on June 22
+            with the intention of combining efforts, capacities and resources to
+            consolidate the conservation and management of protected natural
+            areas and conservation modalities, as well as the conservation and
+            sustainable use of its ecosystems and biodiversity present in the
+            States of Aguascalientes, Guanajuato, San Luis Potosí, Queretaro,
+            Zacatecas, Nayarit,Jalisco and Michoacán de Ocampo, with the support
+            of the Federal Government, through the Commission National Natural
+            Protected Areas and the National Commission for the Knowledge and
+            Use of Biodiversity.</p><p>The Biocultural Corridor of the Center
+            West of Mexico has a geographical unit characterized by its wide
+            variety of plants, animals and ecosystems, whose structure and
+            dynamics have been shaped to a greater or lesser extent by
+            thehistory of land use, a directly associated factor to the
+            diversity of cultural features of this region of the country; so
+            that among the objectives of this Corridor is to reconcile the
+            conservation of natural resources with sustainable use.</p>
+      partners:
+        value:
+          string: State Governments and Federal entities
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Intergovernmental Initiative
+      initiativeStatus:
+        value:
+          string: Agreement signed
+    - id: 3106f6b0-c405-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T21:47:03.450Z'
+      name:
+        value:
+          string: >-
+            Collaboration Agreement To Promote Local Payment Mechanisms For
+            Environmental Services
+      description:
+        value:
+          html: >-
+            <p>In April 2017, the National Forestry Commission and the Ministry
+            of Environment and Territorial Development of the State Government
+            agreed to provide financial resources under the scheme of concurrent
+            funds to be used to pay for environmental services of forest lands
+            belonging to 38 men and women, encompassing a total area of
+            21,118.57 hectares. In addition to ensuring the provision of
+            environmental services, support allocates about 7% of the total
+            amount to be invested in technical assistance for the proper
+            management of protected forest or forest.<br>The Biocultural
+            Corridor of the Center West of Mexico has a geographical unit
+            characterized by its wide variety of plants, animals and ecosystems,
+            whose structure and dynamics have been shaped to a greater or lesser
+            extent by the history of land use, a directly associated factor to
+            the diversity of cultural features of this region of the country; so
+            that among the objectives of this Corridor is to reconcile the
+            conservation of natural resources with sustainable use.</p>
+      partners:
+        value:
+          string: >-
+            National Forest Commission and Secretariat of Environment and
+            Territorial Development
+      fundingSource:
+        value:
+          string: >-
+            National Forest Commission and Secretariat of Environment and
+            Territorial Development
+      fundingAmount:
+        value:
+          string: 'Phase 1. $ 11,326,774 Mexican pesos to conserve carbon sinks'
+      initiativeType:
+        value:
+          string: Public Investment Initiative
+      initiativeStatus:
+        value:
+          string: '$ 11,326,774 pesos invested'
+    - id: 709f7b30-c405-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T21:50:18.058Z'
+      name:
+        value:
+          string: Monitoring of Tropical Forests "FOREST 2020"
+      description:
+        value:
+          html: >-
+            <p>The UK Space Agency through the International Collaboration
+            Program initiates a project to improve global forest management and
+            protection on 300 million hectares of tropical forest "Forest 2020"
+            to assist countries with high biological diversity improve the
+            management and conservation of their forest ecosystems, through the
+            monitoring of tropical forests. Ecometrica is the international
+            consortium that brings together international experts for the
+            monitoring of forests in the world, including: University of
+            Edinburgh, University of Leicester and Edinburgh Carbomap. For
+            Mexico, window areas were selected in two states, Jalisco
+            (345,531.82 ha.) and Chiapas (500,015.61 ha.), signing collaboration
+            agreements with local partners such as FIPRODEFO in Jalisco,
+            PRONATURA-SUR, AMBIO and ECOSUR in Chiapas.</p>
+      partners:
+        value:
+          string: Ecometrica and FIPRODEFO
+      fundingSource:
+        value:
+          string: UK Space Agency
+      fundingAmount:
+        value:
+          string: >-
+            $9’000,000.00 pesos to be invested through 2020, $1’630,000 pesos
+            were invested from 2016-2017
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: >-
+            $9’000,000.00 pesos to be invested through 2020, $1’630,000 pesos
+            were invested from 2016-2017
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 87
+        src: '87'
+    - id: 2
+      value:
+        value: 13
+        src: '13'
+  citation:
+    html: >-
+      México en Cifras. INEGI <a
+      href="http://www.cuentame.inegi.org.mx/monografias/informacion/jal/poblacion/distribucion.aspx?tema=me&amp;e=14">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a3
+      value:
+        value: 63.2
+        src: '63.2'
+    - id: a2
+      value:
+        value: 30.4
+        src: '30.4'
+    - id: a1
+      value:
+        value: 6.4
+        src: '6.4'
+  citation:
+    html: >-
+      INEGI. 2014. PIB Entidad Federativa Anual. <a
+      href="http://www.inegi.org.mx/est/contenidos/proyectos/cn/pibe/">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-07T19:55:20.767Z'
+  values:
+    - id: u2017j
+      value:
+        value: 9403.93
+        src: null
+    - id: u2017b
+      value:
+        value: 8206.07
+        src: null
+    - id: u2017a
+      value:
+        value: 7104.77
+        src: null
+    - id: u2017h
+      value:
+        value: 5925.15
+        src: null
+    - id: u2017d
+      value:
+        value: 5215.93
+        src: null
+    - id: u2017g
+      value:
+        value: 2204.38
+        src: null
+    - id: u2017l
+      value:
+        value: 1590.13
+        src: null
+    - id: u2017f
+      value:
+        value: 1283.42
+        src: null
+    - id: u2017c
+      value:
+        value: 346.3
+        src: null
+    - id: u2017i
+      value:
+        value: 76.01
+        src: null
+    - id: u2017e
+      value:
+        value: null
+        src: null
+    - id: u2017k
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Oct/Anexo%202.%20Informaci%C3%B3n%20de%20las%20condiciones%20ambientales.pdf
+forest_management:
+  timestamp: '2017-12-07T20:37:43.680Z'
+  values:
+    - id: u2017a
+      value:
+        value: 23028
+        src: null
+    - id: u2017b
+      value:
+        value: 5218
+        src: null
+    - id: u2017c
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      <a
+      href="http://osse.org.mx/Recursos/Investigaciones/Estad%C3%ADsticas/Propiedad-Social/Ejidos">OSSE</a>;
+      <a
+      href="https://www.conacyt.gob.mx/cibiogem/index.php/anpl/campeche">CONAYCT</a>
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 3
+      value:
+        value: 29
+        src: '29'
+    - id: 1
+      value:
+        value: 24
+        src: '24'
+    - id: 2
+      value:
+        value: 0.3
+        src: '0.3'
+  citation:
+    html: >-
+      INEGI. 2012. Cartografía Uso de Suelo y Vegetación Serie V <a
+      href="http://www.inegi.org.mx/geo/contenidos/recnat/usosuelo/">link</a>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Jorge Aristóteles
+    lastName: Sandoval Díaz
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Magdalena
+    lastName: Ruiz Mejía
+    email: magdalena.ruiz@jalisco.gob.mx
+    companyTitle: Secretario de Medio Ambiente y Desarrollo Territorial
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-11-07T16:33:02.285Z'
+  value:
+    firstName: Odette
+    lastName: Preciado Benitez
+    email: odette.preciado@jalisco.gob.mx
+    companyTitle: Director of Forest Production and Productivity
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 282.3
+        src: '282.3'
+    - id: '1997'
+      value:
+        value: 282.3
+        src: '282.3'
+    - id: '1998'
+      value:
+        value: 282.3
+        src: '282.3'
+    - id: '1999'
+      value:
+        value: 282.3
+        src: '282.3'
+    - id: '2000'
+      value:
+        value: 282.3
+        src: '282.3'
+    - id: '2001'
+      value:
+        value: 282.3
+        src: '282.3'
+    - id: '2002'
+      value:
+        value: 282.3
+        src: '282.3'
+    - id: '2003'
+      value:
+        value: 486.2
+        src: '486.2'
+    - id: '2004'
+      value:
+        value: 486.2
+        src: '486.2'
+    - id: '2005'
+      value:
+        value: 486.2
+        src: '486.2'
+    - id: '2006'
+      value:
+        value: 486.2
+        src: '486.2'
+    - id: '2007'
+      value:
+        value: 486.2
+        src: '486.2'
+    - id: '2008'
+      value:
+        value: 61.1
+        src: '61.1'
+    - id: '2009'
+      value:
+        value: 61.1
+        src: '61.1'
+    - id: '2010'
+      value:
+        value: 61.1
+        src: '61.1'
+    - id: '2011'
+      value:
+        value: 61.1
+        src: '61.1'
+    - id: '2012'
+      value:
+        value: 61.1
+        src: '61.1'
+    - id: '2013'
+      value:
+        value: null
+        src: null
+    - id: '2014'
+      value:
+        value: null
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: CONAFOR. 2016. Borrador de Iniciativa de Reducción de Emisiones.
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: CONAFOR. 2015. Borrador de Iniciativa de Reducción de Emisiones.
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '2'
+  citation:
+    html: CONAFOR. 2016. Borrador de Iniciativa de Reducción de Emisiones.

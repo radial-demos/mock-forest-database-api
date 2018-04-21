@@ -1,0 +1,899 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 314000
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 3258.9
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 3035122
+    string: ''
+  citation:
+    html: 'Censo Demográfico IBGE, 2010'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 57294000000
+    currency: BRL
+    string: ''
+  citation:
+    html: 'IBGE, 2009'
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 19087
+    currency: BRL
+    string: ''
+  citation:
+    html: 'IBGE, 2009'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.796
+    string: ''
+  citation:
+    html: 'Mato Grosso em Números, 2010'
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 25
+    year: '2020'
+    string: ''
+  citation:
+    html: >-
+      SEMA, 2009. Plano de Ação para Prevenção e Controle do Desmatamento e
+      Queimadas do Estado do Mato Grosso PPCDQ/MT 2009, Cuiabá <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Mato_Grosso.pdf">link</a>
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2400
+    year: '2011'
+    string: ''
+  citation:
+    html: 'SEMA, 2009'
+deforestation_rate_target_value:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1126
+    string: ''
+  citation:
+    html: 'PRODES/INPE, 2011'
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 906806.9
+    string: ''
+  citation:
+    html: >-
+      Machado, R.B., M.B. Ramos Neto, P.G.P. Pereira, E.F. Caldas, D.A.
+      Gonçalves, N.S. Santos, K.Tabor e M. Steininger. 2004. Estimativas de
+      perda da área do Cerrado brasileiro. Relatório técnico não publicado.
+      Conservação Internacional, Brasília, DF. <a
+      href="http://www.conservation.org.br/arquivos/RelatDesmatamCerrado.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 903329.7
+    string: ''
+  citation:
+    html: 'IBGE, 2010'
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Agricultural Products - soy, meat, corn and cotton'
+  citation:
+    html: 'Mato Grosso em Números, 2010'
+txt_state_description:
+  timestamp: '2018-03-14T17:06:04.945Z'
+  value:
+    html: >-
+      <p>The state of Mato Grosso is located in the Central-West region of
+      Brazil, bordering the states of Pará and Amazonas to the north, Mato
+      Grosso do Sul to the south, Goiás and Tocantins to the East and Rondônia
+      and Bolivia to the West. It is the third largest state in the country by
+      area, with an area of 903,000 square kilometers and a population of three
+      million, two hundred thousand inhabitants. The state territory is composed
+      of three biomes: Pantanal, Cerrado and Amazon. It contains a considerable
+      number of protected areas, divided into 70 indigenous lands, 23 federal
+      conservation units, 46 state conservation units and 35 municipal
+      conservation units. In the three biomes, it is possible to find different
+      types of vegetation, as the plant physiognomy varies from forest fragments
+      to meadows, with great variation in their carbon stocks.<br /><br />The
+      state of Mato Grosso is one of the main producers of agricultural products
+      in Brazil, including soybeans, corn, beef and cotton. Historically, it
+      recorded high levels of deforestation until 2004, when rates plummeted 93%
+      between that year (11,814 km²) and 2010 (828 km²).  Mato Grosso has
+      achieved drastic reductions in deforestation in its territory, which has
+      dropped from 11,814 km2 in 2004 to 1,048 km2 in 2014, a decrease of more
+      than 90% in deforestation in the Amazon biome.</p><p>In 2009, the state
+      prepared the Plan for the Prevention and Control of Deforestation and
+      Burning in Mato Grosso (PPCDQ-MT). The Plan establishes an articulated
+      system of action at the state level, with the objective of achieving the
+      goal of voluntary reduction of forest emissions from the state, which
+      coincides with the goal stipulated by the federal government. In addition
+      to reducing deforestation and forest fires, the Plan seeks to intensify
+      the state's sustainable development efforts. </p><p>For the 2006-2010
+      period, set by the State Government as the first period in its Action Plan
+      for Prevention and Control of Deforestation and Burning of the State of
+      Mato Grosso - PPCDQ / MT, the goal was to reduce 64% of deforestation in
+      the forest, and the State achieved a reduction of 68.28%. For the second
+      commitment period, from 2011 to 2015, the target reduction of
+      deforestation was of 75%, and a reduction of 80% was achieved. For the
+      third period, 2016-2020, the target is to reduce deforestation in
+      80%.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=3251,states">GCF Impact
+      Platform.</a></p>
+  citation:
+    html: ''
+overviewForestMonitoringAndMeasurementSystems:
+  timestamp: '2018-03-14T17:05:49.418Z'
+  value:
+    html: >-
+      <p>In addition to PRODES and DETER, Mato Grosso has worked with the civil
+      society organization IPAM to refine the Carbon Caulculator (CCal) tool
+      which imrpoves forest carbon estimates in the state.</p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T14:22:22.891Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://www.sema.mt.gov.br/attachments/article/106/PPCDQMT_%202_fase_2014_2016.pdf"><em>The
+      State Plan for Control and Prevention of Deforestation and Fires in Mato
+      Grosso</em></a><strong>-</strong> The State Plan for Control and
+      Prevention of Deforestation and Fires in Mato Grosso(PPCDQ / MT)
+      represents a set of strategic actions to prevent and controlling
+      deforestation and burning in the State of Mato Grosso. The Plan brings
+      together several actions, mostly linked to government bodies, as well as
+      projects a new series of activities, whose management and execution should
+      be shared through the involvement of public power, organized civil society
+      and productive and business segments. The PPCDQ / MT is structured in 4
+      lines of action with the respective objectives: Territorial Planning,
+      Monitoring and Control, Promotion of Sustainable Activities, and
+      Governance and Executive Management.</p><p>For the 2006-2010 period, set
+      by the State Government as the first period in its Action Plan for
+      Prevention and Control of Deforestation and Burning of the State of Mato
+      Grosso - PPCDQ / MT, the goal was to reduce 64% of deforestation in the
+      forest, and the State achieved a reduction of 68.28%. For the second
+      commitment period, from 2011 to 2015, the target reduction of
+      deforestation was of 75%, and a reduction of 80% was achieved. For the
+      third period, 2016-2020, the target is to reduce deforestation by
+      80%.</p><p>The first phase PPCDQ-MT can be <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Mato%20Grosso%20-%20PPCD.pdf">downloaded
+      here</a>.  The second phase can be <a
+      href="http://www.sema.mt.gov.br/attachments/article/106/PPCDQMT_%202_fase_2014_2016.pdf">downloaded
+      here</a>.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Mato%20Grosso%20-%20PCI%20Strategy.pdf"><em>Produce,
+      Conserve, Include Strategy (PCI)</em></a>- PCI is a multi-stakeholder
+      strategy which aims to restore 2.9 million hectares of vegetation, reduce
+      deforestation by 90% and increase agricultural productivity while
+      including smallholders and indigenous peoples.  It is driven by riven by a
+      multistakeholder committee which was established through <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Mato%20Grosso%20-%20PCI%20Decreto.pdf">Decreto
+      nº 468</a>.</p><p><strong>Laws and Regulations</strong></p><p><a
+      href>Ordinance 019 of 28/03/2017</a><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_ordinance_019_part_1.pdf"
+      target="_blank">(part 1)</a><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_ordinance_019_part_2.pdf"
+      target="_blank">(part 2)</a> - Appoints representatives of civil society
+      and municipalities to compose as Guest Members the State Commission for
+      the Socioeconomic Zoning of the State of Mato Grosso - CEZSEE /
+      MT.</p><p><a
+      href="https://www.iomat.mt.gov.br/portal/visualizacoes/html/14792/#e:14792/#m:901431">Decree
+      883 of 21/3/2017</a> <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_883_part_1.pdf"
+      target="_blank">(part 1)</a><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_883_part_2.pdf"
+      target="_blank">(part 2)</a> - Establishes the State Ecological
+      Socioeconomic Zoning Commission - CEZSEE / MT</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_351.pdf"
+      target="_blank">Decree 351 of 04/12/2015 -</a> delegates a number of
+      responsibilities to the Secretariat of State for the Environment (SEMA)
+      including - formulate and implement environmental policies; promote
+      conservation; formulate policies to contribute to climate change
+      mitigation; control exploitation activities for mineral, water, forestry
+      and wildlife resources; environmental licensing of activities using
+      environmental resources; and carry out technical studies that support the
+      planning activities adopting measures for conservation and preservation of
+      environmental resources and establishing operating criteria.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_306.pdf"
+      target="_blank">Decree 306 of 26/10/2015</a>-  Creates the State Committee
+      for Management of the Environmental Education Program in Family
+      Agriculture PEAAF and makes other provisions.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_239.pdf"
+      target="_blank">Decree 239 of 3/9/2015</a> -  Amends the development plan
+      for Mato Grosso and promotes the implementation of measures to ensure
+      economic viability for companies established in the State and contributes
+      to the simplification of administrative and legal procedures</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_230.pdf"
+      target="_blank">Decree 230 of 18/08/2015</a> - requires registration in
+      the Rural Environmental Registry (CAR) for agricultural and livestock
+      activities</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_2698.pdf"
+      target="_blank">Decree 2698 of 30/12/2014</a> -  establishes the priority
+      areas within the State for legal reserve compensation purposes. </p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_2_352.pdf"
+      target="_blank">Decree 2.352 of 12/5/2014</a> - Provides on the
+      composition of the State Environmental Council - CONSEMA, discipline the
+      election of its members and other measures.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_2152_2014.pdf"
+      target="_blank">Decree 2152 of 12/02/2014</a> - regulates Forestry
+      Sustainable Timber Management Plans in the State of Mato Grosso</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_2_055.pdf"
+      target="_blank">Decree  2,055, of 19/12/2013 -</a> Establishes the Plan of
+      Action for Prevention and Control of Deforestation and Burnings of the
+      State of Mato Grosso - PPCDQ / MT and makes other provisions.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_decree_2_052.pdf"
+      target="_blank">Decree 2,052, of 18/12/20130</a> - Establishes the State
+      Plan of Low Carbon Agriculture - ABC-MT Plan, within the scope of the
+      &quot;Sectoral Plan for Mitigation and Adaptation to Climate Change for
+      the Consolidation of a Low Carbon Economy in Agriculture&quot;, with the
+      objective of promoting mitigation of GHG emissions from agriculture in the
+      MT, and other measures.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Mato%20Grosso%20State%20REDD+%20Law.pdf">Law
+      9.878/2013</a> - establishes state REDD+ system including institutional
+      arrangements and regulations for forest carbon</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_law_343.pdf"
+      target="_blank">Law 343 12/24/2008</a> - creates the Mato Grosso Rural
+      Environmental Programme - MT LEGAL. In addition, it regulates licensing
+      procedures for the Environmental of Rural Properties, with the objective
+      to promote the regularization of rural properties, related ownerships and
+      their inclusion in the Rural Environmental Registration System and/or
+      Environmental Licensing of Rural Properties - SLAPR.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/mato_grosso/mato_grosso_complementary_law_233_2005.pdf"
+      target="_blank">Law 233 of 21/12/2005</a> - Establishes the State Policy
+      on Forestry of the State of Mato Grosso. This Policy aims at ensuring the
+      protection of wild flora in the territory of Mato Grosso and allowing
+      forestry sustainability, promoting practices that contribute to the
+      socio-economic development of the State, to improve environmental quality
+      and ecological balance, through the following principles: I - conservation
+      of natural resources; II - preservation of the biomes and their functions;
+      III - maintenance of biological diversity; IV - regional socioeconomic
+      development. </p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2018-03-14T17:03:15.014Z'
+  value:
+    html: >-
+      <p><strong>Coordination for Climate Change/SEMA </strong>- Design and
+      implementation of the State Policy for Climate Change and REDD;
+      Establishment of strategies and coordination of the implementation of the
+      State REDD Program.</p><p><strong>Superintendent for Forest Management at
+      SEMA/MT</strong> - Forest management licensing and control of forest
+      products through systems called SLAPR (Rural Properties Licensing System)
+      and SISFLORA (Trade and Transport of Forest Products
+      System).</p><p><strong>State Secretariat for Rural Development (EMPAER,
+      INTERMAT and INDEA)</strong> – Resolution and management of land tenure
+      for properties linked with REDD projects and support for good agricultural
+      practices aimed at reducing pressure on native
+      forests.</p><p><strong>Firefighters / Military Police</strong> -
+      Prevention and control of fires in state public areas and support in
+      federal public areas, capacity building and creation of municipal and
+      indigenous fire brigades.</p><p><strong>Civil Defense / Ministry of
+      Defense and SEMA Coordination of CIMAM</strong> – Civil Defense;
+      Coordination of the State Committee for Fire Management, authorization of
+      controlled burning, monitoring of hot spots and air quality,
+      quantification of burned areas.</p><p><strong>Coordination for Protected
+      Areas/SEMA</strong> - Creation and management of State Protected
+      Areas.</p><p><strong>Superintendence for Indigenous Affairs / Chief of
+      Staff </strong>(Executive Branch) - Improvement of the coherence of state
+      policies with indigenous peoples’ rights and communication with FUNAI
+      (National Indian Foundation).</p><p><strong>Coordination for
+      Geotechnology/SEMA</strong> - Monitoring of deforestation, forest
+      degradation and forest management.</p><p><strong>Superintendent for
+      Enforcement/SEMA17, Police Nature Protection Battalion, State
+      Environmental Policing Department (DEMA) and Mobile Environmental Court
+      (JUVAM) </strong>- Control of environmental
+      violations.</p><p><strong>State PCI Committee (CEEPCI)</strong> -
+      multistakeholder committee overseeing the advancement of the Produce,
+      Include, Conserve initiative</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-14T17:03:25.312Z'
+  value:
+    html: >-
+      <p>Ecological and Economic Zoning (<em>Zoneamento Ecológico-Econômico –
+      </em><em>ZEE)</em> is required by the Federal Government to designate
+      areas for economic and conservation activities within each state’s
+      territory. In 2008 Mato Grosso created a state commission on ecological
+      and economic zoning through <a
+      href="https://www.iomat.mt.gov.br/portal/visualizacoes/pdf/14441#/p:3/e:14441?find=zoneamento%20socioecon%C3%B4mico%20ecol%C3%B3gico">decree 
+      nº 1.139</a>. Mato Grosso's ZEE was updated in 2011 and formalized through
+      state law  nº 9.523, however it was suspended by court order in 2012.  <a
+      href="http://www.seplan.mt.gov.br/web/mt/-/4871841-comissao-debate-revisao-do-zoneamento-socioeconomico-ecologico-de-mt?inheritRedirect=true">Members
+      of the  State Ecological Socioeconomic Zoning Commission, which includes
+      SEMA and SEPLAN, are now coordinating to update and redraft the plan</a>,
+      which is expected to be completed by 2017.</p>
+  citation:
+    html: ''
+frameworksSafeguards:
+  timestamp: '2018-03-14T17:03:40.147Z'
+  value:
+    html: >-
+      <p>Under the Mato Grosso state system for REDD+, the following principles
+      are put forward:</p><p>- Assurance of fair and equitable sharing of
+      benefits</p><p>- Respect for the rights of indigenous peoples and
+      traditional and extractivist communities which inhabit areas influenced by
+      REDD+ actions</p><p>- Free, prior and informed consent from all
+      participants in REDD+ actions</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-06T22:09:02.296Z'
+  value:
+    html: >-
+      <p>The primary drivers of deforestation in Mato Grosso are cattle ranching
+      and intensive agriculture (in particular soy).  Land is often cleared for
+      cattle, with cleared areas later becoming soy farms when cattle ranchers
+      move to new areas for grazing.</p><p><br /></p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 3566ae10-ce1b-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T17:49:51.345Z'
+      name:
+        value:
+          string: Produce - Conserve - Include Strategy
+      description:
+        value:
+          html: >-
+            <p><em>Sustainable development goals for the State of Mato Grosso
+            agreed between the public sector, private sector and civil society.
+            </em></p><p>The State of Mato Grosso, through its governor, launched
+            the "Strategy: Produce, Conserve and Include" (PCI) at the Climate
+            Convention (COP 21) held in Paris in December 2015, with the
+            objective of raising funds for the State of Mato Grosso to expand
+            and increase the efficiency of agricultural and forestry production,
+            conserve native vegetation, restore deforested and degraded areas,
+            support the socioeconomic inclusion of family agriculture, and
+            generate emission reductions and carbon sequestration of 6 MTCO2eq
+            by controllingdeforestation and developing a low carbon economy. It
+            is the largest global effort to mitigate climate change ever devised
+            by a subnational state.<br>This strategy arose from a collective and
+            participatory process involving different state secretaries,
+            representatives of non-governmental organizations, private
+            companies, and representatives of different productive sectors.The
+            initiative is based on the premise that the State could obtain
+            better results by establishing a partnership between the public
+            sector, the private sector, and other stakeholder seeking to meet a
+            common social interest.<br>For the implementation of the strategy,
+            the organizational structure of the PCI Committee - CEEPCI -- was
+            created, through Decree No. 468, of March 31, 2016. The Committee is
+            responsible for approving the actions developed by the coordinating
+            secretariats of the thematic axes, follow-up on the implementation
+            of the strategy and the fulfillment of the goals, as well as the
+            definition of its governance structure and fundraising
+            mechanisms.<br>www.pci.mt.gov.br</p>
+      partners:
+        value:
+          string: >-
+            Government of the State of Mato Grosso through its secretariats,
+            private cmpanies, representative entities of production
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: >-
+            Contract expected to be signed October 2017, project will last 6
+            years
+    - id: 575e6660-ce1c-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T17:57:57.829Z'
+      name:
+        value:
+          string: >-
+            Memorandum of Understanding Between Aprosoja, ABIOVE, FEFAC, FEDIOL
+            & IDH
+      description:
+        value:
+          html: >-
+            <p><em>Recognition of sustainable soy production programs in Mato
+            Grosso as a guarantee of supply for European
+            importers.</em></p><p>On January 19, 2017, a Memorandum of
+            Understanding (MoU) was signed by AproSoja, ABIOVE, FEFAC, FEDIOL
+            and IDH at the Brazilian Embassy in Lisbon. The objective of the
+            agreement is to strengthen cooperation in the area of responsible
+            soy production in Brazil. Brazil has developed comprehensive and
+            detailed legislation to preserve its rich biodiversity, notably the
+            Brazilian Forest Code. This strong regulation leads to a substantial
+            protection and regeneration of natural habitats on the private
+            properties of Brazilian rural producers, who face a challenge of
+            competitiveness since this type of legislation differs strongly from
+            what is done in the rest of the world.<br>MoU signatories recognize
+            that implementation of environmental legislation requires
+            coordinated and meaningful supportive actions by farmers and supply
+            chain partners to preserve the balance between environmental and
+            social protection objectives and the economic viability of Brazilian
+            agriculture. The Aprosoja / ABIOVE Soja Plus program and the FEFAC
+            Soy Sourcing guidelines play an important role in achieving the
+            common goal of improving the sustainability of soybean production in
+            Brazil, in parallel with landscape and restoration initiatives,
+            including the Regularization Program (PRA), in collaboration with
+            IDH.</p>
+      partners:
+        value:
+          string: 'Abiove, Aprosoja, Fefac, Fediol, Idh'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Preferential Sourcing Agreement
+      initiativeStatus:
+        value:
+          string: Signed (2017) and under implementation
+    - id: ab362cf0-ce1c-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:00:18.495Z'
+      name:
+        value:
+          string: >-
+            Agreement Carrefour - Mato Grosso IMAC - Instituto Mato Grossense da
+            Carne
+      description:
+        value:
+          html: >-
+            <p><em>Partnership for the sale of meat with guarantee of origin
+            certified by the IMAC in stores of the network
+            Carrefour</em>.</p><p>The Government of Mato Grosso, through the
+            Mato Grosso Institute of Meats (Imac), is a partner in the Carrefour
+            group initiative which establishes traceability of sustainably
+            produced beef that will be resold in the supermarkets of the
+            network. The program was launched in August 2016.<br>Based on a
+            national policy for the purchase of fresh beef, the company has
+            adopted a system to monitor the production processes and
+            socio-environmental practices of all its suppliers in the country.
+            The tool will be implemented in partnership with the 22 suppliers of
+            fresh beef that they provide to the company and which must strictly
+            comply with the criteria and good practices established by this
+            policy. The initiative reinforces the Carrefour Group's global
+            commitment to zero deforestation and its commitment to maintaining
+            partnerships that foster sustainable production practices.</p>
+      partners:
+        value:
+          string: IMAC - Instituto Mato Grossense da Carne and Carrefour
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Preferential Sourcing Agreement
+      initiativeStatus:
+        value:
+          string: Under implementation
+    - id: 04261eb0-ce1d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:05:33.251Z'
+      name:
+        value:
+          string: MIP Althelia
+      description:
+        value:
+          html: >-
+            <p><em>Creation of a trading platform for carbon credits and a
+            private equity fund for investments.</em></p><p>The Althelia Fund
+            presented a Public Interest Statement to the Government of the State
+            of Mato Grosso, through theMTPar, for the creation of a carbon
+            credit trading platform and a private equity fund for investments in
+            business opportunities with environmental impact positive.</p>
+      partners:
+        value:
+          string: 'Althelia Climate Fund, MTPar'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Private Investment
+      initiativeStatus:
+        value:
+          string: Economic modeling and legal execution
+    - id: a9f30920-ce1d-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:08:24.154Z'
+      name:
+        value:
+          string: PECSA
+      description:
+        value:
+          html: >-
+            <p>Pecsa is an agricultural management and partnership company
+            founded in June 2015, headquartered in Alta Floresta, in the north
+            of Mato Grosso. The company promotes the sustainable livestock
+            production chain in the Amazon through partnerships, technology
+            andinvestments. Pecsa has partnered with the Althelia Climate Fund.
+            The fund invests in sustainable land use initiatives that generate
+            financial returns and environmental benefits, such as reducing
+            deforestation.</p><table border="0" cellpadding="0" cellspacing="0"
+            class="MsoNormalTable" width="100%"><tbody><tr><td
+            width="100%"><br></td></tr></tbody></table><p><br></p>
+      partners:
+        value:
+          string: 'Althelia Climate Fund, Pecsa'
+      fundingSource:
+        value:
+          string: Althelia Climate Fund
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Private Investment
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 3a1f4cc0-ce1e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:11:27.756Z'
+      name:
+        value:
+          string: Mato Grosso Sustainable Landscapes Initiative ISLA
+      description:
+        value:
+          html: >-
+            <p>IDH has a memorandum of understanding signed with the Government
+            of the State of Mato Grosso, which is one of the jurisdictions that
+            make up the Sustainable Landscapes project, as a result of the IDH
+            partnership with the Government of Norway.<br>Within this project,
+            the work in Mato Grosso has three main axes of action:<br>•
+            Governance: support the development of policies at the state
+            level<br>• Finance: attracting international investments for
+            profitable conservation activities<br>• Market: supply chains and
+            verified sourcing areas.</p>
+      partners:
+        value:
+          string: 'IDH, Government of the State of Mato Grosso '
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under implementation
+    - id: 8304cc80-ce1e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:13:30.056Z'
+      name:
+        value:
+          string: >-
+            TFA2020 - Accession of Mato Grosso to TFA to Support Sustainable
+            Development in the Jurisdiction 
+      description:
+        value:
+          html: >-
+            <p>The goals of production, conservation and inclusion of PCI are
+            shared by many TFA 2020 platform members, here in the region and in
+            the world, making membership an opportunity to access multiple
+            concrete experiences, possibilities of partnerships, articulations,
+            exchanges and shared constructions .<br>Membership also strengthens
+            the international projection of the State of Mato Grosso, placing it
+            alongside important government actors in support and encouragement
+            of this agenda, such as the governments of Norway, the United
+            Kingdom, Colombia, the United States and the Netherlands, of
+            multinational companies such as Cargill , Marfrig, Kellogg, Mars,
+            McDonald's, Nestlé, Unilever and Walmart, financial agents and
+            leading civil society organizations in the area of conservation and
+            environmental services.<br>TFA 2020 has taken the jurisdictional
+            approach as a strategic option to address the challenges related to
+            reducing deforestation associated with commodities.<br>The TFA has
+            elected 5 priority jurisdictions worldwide to work in bilateral
+            partnership, and also to promote articulations among themselves,
+            with Mato Grosso being one of them.</p>
+      partners:
+        value:
+          string: 'TFA, Government of the State of Mato Grosso '
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: cbb336b0-ce1e-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T18:15:31.995Z'
+      name:
+        value:
+          string: REDD+ Early Movers Program
+      description:
+        value:
+          html: >-
+            <p><em>Implementation of the program of payment -for-performance
+            totaling EUR 17 million.</em></p><p>REM is a pilt program that
+            rewards and recognizes the climate change mitigation effort of REDD
+            pioneers (Early Movers). Through a clear distribution of benefits,
+            REM fosters sustainable development for the benefit of farmers,
+            indigenous communities and extractive communities and also supports
+            the implementation of REDD core components (from REDD records to
+            safeguards to financial mechanisms that can reach the local
+            level).</p>
+      partners:
+        value:
+          string: 'KfW (Germany), State Government of Mato Grosso'
+      fundingSource:
+        value:
+          string: KfW (Germany)
+      fundingAmount:
+        value:
+          string: 'EUR 17 million '
+      initiativeType:
+        value:
+          string: Pay for Performance Agreement
+      initiativeStatus:
+        value:
+          string: Contract under development
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 82
+        src: '82'
+    - id: 2
+      value:
+        value: 18
+        src: '18'
+  citation:
+    html: 'Censo Demográfico IBGE, 2010'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 52
+        src: '52'
+    - id: a2
+      value:
+        value: 37
+        src: '37'
+    - id: a3
+      value:
+        value: 8
+        src: '8'
+    - id: a4
+      value:
+        value: 2
+        src: '2'
+    - id: a6
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Censo Demográfico IBGE, 2010'
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 54.48
+        src: '54.48'
+    - id: a2
+      value:
+        value: 28.6
+        src: '28.6'
+    - id: a4
+      value:
+        value: 16.89
+        src: '16.89'
+    - id: a5
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'IBGE, 2009'
+current_forest_area_typologies:
+  timestamp: '2017-12-06T23:11:47.874Z'
+  values:
+    - id: u2017e
+      value:
+        value: 394879.49
+        src: null
+    - id: u2017b
+      value:
+        value: 311030.2
+        src: null
+    - id: u2017c
+      value:
+        value: 126586.46
+        src: null
+    - id: u2017a
+      value:
+        value: 38919.84
+        src: null
+    - id: u2017d
+      value:
+        value: 31830.72
+        src: null
+  citation:
+    html: ''
+forest_management:
+  timestamp: '2017-12-06T22:08:35.337Z'
+  values:
+    - id: u2017b
+      value:
+        value: 273536
+        src: null
+    - id: u2017a
+      value:
+        value: 40464
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 60.33
+        src: '60.33'
+    - id: 2
+      value:
+        value: 39.67
+        src: '39.67'
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'PRODES/INPE, 2011'
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Pedro
+    lastName: Taques
+    email: ''
+    companyTitle: ''
+  citation:
+    html: '-'
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Alcilene
+    lastName: Freitas
+    email: alcilene@sema.mt.gov.br
+    companyTitle: Coordenadora de Gestão do Sistema de REDD+ de Mato Grosso
+  citation:
+    html: '-'
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Maurício
+    lastName: Philipp
+    email: mmphilipp@sema.mt.gov.br
+    companyTitle: 'Climate Change Coordinator, SEMA'
+  citation:
+    html: '-'
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 6543
+        src: '6,543'
+    - id: '1997'
+      value:
+        value: 5271
+        src: '5,271'
+    - id: '1998'
+      value:
+        value: 6466
+        src: '6,466'
+    - id: '1999'
+      value:
+        value: 6963
+        src: '6,963'
+    - id: '2000'
+      value:
+        value: 6369
+        src: '6,369'
+    - id: '2001'
+      value:
+        value: 7703
+        src: '7,703'
+    - id: '2002'
+      value:
+        value: 7892
+        src: '7,892'
+    - id: '2003'
+      value:
+        value: 10405
+        src: '10,405'
+    - id: '2004'
+      value:
+        value: 11814
+        src: '11,814'
+    - id: '2005'
+      value:
+        value: 7145
+        src: '7,145'
+    - id: '2006'
+      value:
+        value: 4333
+        src: '4,333'
+    - id: '2007'
+      value:
+        value: 2678
+        src: '2,678'
+    - id: '2008'
+      value:
+        value: 3258
+        src: '3,258'
+    - id: '2009'
+      value:
+        value: 1049
+        src: '1,049'
+    - id: '2010'
+      value:
+        value: 871
+        src: '871'
+    - id: '2011'
+      value:
+        value: 1126
+        src: '1,126'
+    - id: '2012'
+      value:
+        value: 757
+        src: '757'
+    - id: '2013'
+      value:
+        value: 1139
+        src: '1139'
+    - id: '2014'
+      value:
+        value: 1075
+        src: '1075'
+    - id: '2015'
+      value:
+        value: 1601
+        src: '1601'
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: Prodes INPE
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: PRODES/INPE
+are_current_degradation_rates_known:
+  timestamp: '2017-10-31T14:09:57.418Z'
+  value:
+    value: '2'
+  citation:
+    html: Degradation rates have been estimated through DEGRAD

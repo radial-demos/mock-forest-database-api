@@ -1,0 +1,242 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 65700
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 538.29
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2017-12-05T15:55:59.618Z'
+  value:
+    value: 508517
+    string: ''
+  citation:
+    html: ''
+per_capita_income:
+  timestamp: '2017-12-05T15:55:05.434Z'
+  value:
+    value: 2919.03
+    currency: USD
+    string: ''
+  citation:
+    html: ''
+human_development_index:
+  timestamp: '2017-12-05T15:57:18.988Z'
+  value:
+    value: 75.2
+    string: ''
+  citation:
+    html: 'PNUD, Colombia , 2010'
+land_area:
+  timestamp: '2017-12-05T15:57:35.530Z'
+  value:
+    value: 88965
+    string: ''
+  citation:
+    html: ''
+main_exports:
+  timestamp: '2017-12-05T15:54:42.613Z'
+  value:
+    string: >-
+      Bananas and plantains ( 74009 tons), Cassava ( 52842 tons), Sugarcane (
+      23803 tons), Rice (7623 tons)
+  citation:
+    html: ''
+txt_state_description:
+  timestamp: '2017-12-05T15:52:25.911Z'
+  value:
+    html: >-
+      <p>The Department of Caquetá (capital Florencia) is located in the south
+      of the country in the Amazon region. With an area of 88,965 km², it is the
+      third largest department. The region of the Caquetá begins in the foot of
+      Andean mountain and<br />ends in the escarpments of Araracuara, in the
+      Amazon forest<br /><br />The region occupies 7.8% of the national
+      territory and 22.9% of the area that Colombia contributes to the Great
+      Amazon basin.<br /><br />The entire department's territory corresponds to
+      the great Amazon basin, a world reserve of mega biodiversity of global
+      importance and of interest to mankind.<br /><br /> Caquetà is divided into
+      16 municipalities: Florence, capital city, Albania, Belén de los
+      Andaquíes, Cartagena del Chairá, Curillo, El Doncello, El Paujil, Milan,
+      La Montañita, Morelia, Puerto Rico, San José de Fragua, San Vicente del
+      Caguán, Solano, Valparaíso and Solita; 63 police inspections, numerous
+      hamlets and populated places.</p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T17:39:23.217Z'
+  value:
+    html: >-
+      <p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/colombia/caqueta/caqueta_ordinance_18_2015.pdf"
+      target="_blank">Ordinance 18/2015</a> - Establishes the Public Policy for
+      the indigenous sector in the department, recognizing the traditions and
+      customs of the indigenous peoples of the region.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/colombia/caqueta/caqueta_ordinance_17_2015.pdf"
+      target="_blank">Ordinance 17/2015</a> - Establishes the system of
+      protected areas (SIDAP) in Caqueta.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-07T21:18:17.491Z'
+  value:
+    html: >-
+      <p><strong>Secretary of Planning </strong>-  Formulates development plans,
+      programs and projects, in accordance with national policies and
+      governmental, departmental and regional purposes. </p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-05T15:54:12.144Z'
+  value:
+    html: '<p>Large-scale cattle, Smallholder cattle , Smallholder Agriculture</p>'
+  citation:
+    html: ''
+urban_vs_rural_population_percent:
+  timestamp: '2017-12-05T15:55:49.447Z'
+  values:
+    - id: 1
+      value:
+        value: 61.03
+        src: null
+    - id: 2
+      value:
+        value: 38.97
+        src: null
+  citation:
+    html: 'DANE, Colombia , 2020'
+forest_management:
+  timestamp: '2017-12-05T15:56:52.046Z'
+  values:
+    - id: u2017b
+      value:
+        value: 40510
+        src: null
+    - id: u2017a
+      value:
+        value: 25190
+        src: null
+  citation:
+    html: ''
+governor:
+  timestamp: '2017-12-01T17:51:22.690Z'
+  value:
+    firstName: Alvaro
+    lastName: Pacheco Alvarez
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2017-12-01T17:51:57.258Z'
+  value:
+    firstName: Oscar Raúl
+    lastName: Rojas Peña
+    email: planeacion@caqueta.gov.co
+    companyTitle: Secretary of Planning
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-12-01T17:52:31.616Z'
+  value:
+    firstName: Lorenzo Andrés
+    lastName: Vargas Gutiérrez
+    email: lorenzoandresvg@gmail.com
+    companyTitle: Advisor
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2017-12-05T15:58:02.922Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: null
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: null
+        src: null
+    - id: '2004'
+      value:
+        value: null
+        src: null
+    - id: '2005'
+      value:
+        value: null
+        src: null
+    - id: '2006'
+      value:
+        value: 35388
+        src: null
+    - id: '2007'
+      value:
+        value: 35388
+        src: null
+    - id: '2008'
+      value:
+        value: 35388
+        src: null
+    - id: '2009'
+      value:
+        value: 35388
+        src: null
+    - id: '2010'
+      value:
+        value: 35388
+        src: null
+    - id: '2011'
+      value:
+        value: 29023
+        src: null
+    - id: '2012'
+      value:
+        value: 29023
+        src: null
+    - id: '2013'
+      value:
+        value: 31863
+        src: null
+    - id: '2014'
+      value:
+        value: 29817
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'IDEAM, Colombia , 2014'

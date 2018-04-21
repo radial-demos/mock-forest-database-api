@@ -1,0 +1,274 @@
+national_population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 140431790
+    string: ''
+  citation:
+    html: 'NBS, 2012'
+national_gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 37936747890000
+    currency: NGN
+    string: ''
+  citation:
+    html: >-
+      National Bureau of Statistics, 2012. Grodd Domestic Product for Nigeria <a
+      href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;ved=0CEQQFjAC&amp;url=http%3A%2F%2Fwww.nigerianstat.gov.ng%2Fpages%2Fdownload%2F75&amp;ei=ylDIUYfpN42MswaQwYHACA&amp;usg=AFQjCNFJVpW--0xuwCs4vbnn_EYSR6N0ZA&amp;sig2=7wXD-m46HByaLT1D5xeD4g&amp;bvm=bv.48293060,d.Yms&amp;cad=rja">The
+      World Factbook</a>
+national_per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 270143.59
+    currency: NGN
+    string: ''
+  citation:
+    html: Calculated value GDP/population 2011
+national_human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.471
+    string: ''
+  citation:
+    html: >-
+      UNDP Human Development Report, 2013. <a
+      href="http://hdr.undp.org/en/media/HDR2013_EN_Statistics.pdf">UNDP Human
+      Development Report</a>
+national_land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 923769
+    string: ''
+  citation:
+    html: >-
+      NBS, 2010. Annual Abstract of Statistics, Abuja <a
+      href="http://www.nigerianstat.gov.ng/pages/download/71">The World
+      Factbook</a>
+national_percent_forested:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 16.6
+    string: ''
+  citation:
+    html: >-
+      2010. Oyebo, M., F. Bisong, and T. Morakinyo, A Preliminary Assessment of
+      the Context for REDD in Nigeria, citing FORMECU (1998), World Bank
+      Environment Management Programme, Forestry Node. <a
+      href="http://www.unredd.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=4129&amp;Itemid=53">A
+      Preliminary Assessment of the Context for REDD in Nigeria</a>
+national_main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Petroleum and petroleum products (95%), cocoa, and rubber'
+  citation:
+    html: >-
+      The World Factbook, CIA - May 23, 2012. <a
+      href="https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html">The
+      World Factbook</a>
+national_social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 30.2
+        src: '30.2'
+    - id: a2
+      value:
+        value: 30.2
+        src: '30.2'
+    - id: a3
+      value:
+        value: 25.8
+        src: '25.8'
+    - id: a6
+      value:
+        value: 5.6
+        src: '5.6'
+    - id: a8
+      value:
+        value: 4.1
+        src: '4.1'
+    - id: a5
+      value:
+        value: 4
+        src: '4'
+    - id: a7
+      value:
+        value: 2.5
+        src: '2.5'
+    - id: a4
+      value:
+        value: 2.2
+        src: '2.2'
+  citation:
+    html: 'NBS, Nigeria Data Portal'
+national_urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 51.6
+        src: '51.6'
+    - id: 2
+      value:
+        value: 48.4
+        src: '48.4'
+  citation:
+    html: >-
+      Trading Economics <a
+      href="http://www.tradingeconomics.com/nigeria/urban-population-wb-data.html">The
+      World Factbook</a>
+national_gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 5
+      value:
+        value: 41.5
+        src: '41.5'
+    - id: 1
+      value:
+        value: 30.9
+        src: '30.9'
+    - id: 3
+      value:
+        value: 26
+        src: '26'
+    - id: 2
+      value:
+        value: 1.5
+        src: '1.5'
+    - id: 4
+      value:
+        value: 0.37
+        src: '0.37'
+  citation:
+    html: >-
+      calculated using values from: NBS, 2012. Gross Domestic Product for
+      Nigeria <a href="http://www.nigerianstat.gov.ng/pages/download/71">Gross
+      Domestic Product for Nigeria</a>
+national_deforestation_rate:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '2000'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2001'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2002'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2003'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2004'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2005'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2006'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2007'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2008'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2009'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2010'
+      value:
+        value: 4100
+        src: '4,100'
+    - id: '2011'
+      value:
+        value: null
+        src: null
+    - id: '2012'
+      value:
+        value: null
+        src: null
+    - id: '2013'
+      value:
+        value: null
+        src: null
+    - id: '2014'
+      value:
+        value: null
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      The Food and Agriculture Organization of the United Nations (FAO) 2010
+      Global Forest Resources Assessment. <a
+      href="http://www.fao.org/forestry/fra/fra2010/en/">link</a>
+txt_laws:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p><strong>Forest Law (1961) and Regulations
+      (1963)</strong></p><p>Provides for powers of authority with respect to
+      forest rights, protection of forest reserves and produce, fires, licences
+      for the taking of forest products, fees and royalties, marking and
+      registration and timber floating</p><p><strong>National Forest Policy
+      (2006)</strong></p><p>Seeks to promote sustainable forest management
+      focusing on economic, social and environmental benefits from forests. 
+      Includes objectives to increase, maintain and enhance the national forest
+      estate through sound forest management practices; Address the underlying
+      causes of deforestation, desertification including lack of policy support,
+      market distortions, weak regulations and rural poverty; and promote and
+      regulate private sector involvement in forestry development, and to create
+      a more positive investment climate in the sector.</p>
+  citation:
+    html: ''
+txt_policies_and_plans:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p><strong>REDD+ Strategy</strong></p><p>Nigeria’s national REDD+ strategy
+      is expected to be complete in
+      2017.</p><p><strong>INDC</strong></p><p>Commits to 20% unconditional and
+      45% conditional cuts by 2030 (2010-2014 baseline).  Includes strategy for
+      forests, including implementing national forest policy and strengthening
+      community based forest management.</p>
+  citation:
+    html: >-
+      Fameso, T.F. 2008. Forest Policy, Legal and Institutional Framework
+      Information Sheet Nigeria. Rome: FAO.
+txt_institutions:
+  timestamp: '2017-12-01T15:45:31.652Z'
+  value:
+    html: >-
+      <p><strong>Department of Climate Change, Federal Ministry of the
+      Environme</strong><strong>nt</strong> - Responsible for the coordination
+      of activities towards national implementation of the Climate Change
+      Convention and the Kyoto Protocol.</p><p><strong>Inter-ministerial
+      Committee on Climate Change (ICCC) -</strong> ICCC forms a policy advisory
+      organ for the Federal Government of Nigeria under the Chairmanship of the
+      Federal Ministry of Environment. The Committee meets regularly on
+      quarterly basis and on ad-hoc basis to review polices on climate change,
+      advice the Federal Government on appropriate actions, and put up Nigeria’s
+      position at meetings where climate change issues are being discussed or
+      negotiated.<br /><br /></p>
+  citation:
+    html: '<a href="http://www.fao.org/docrep/004/ab592e/AB592E00.htm#TOC">link</a>'

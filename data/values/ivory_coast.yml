@@ -1,0 +1,76 @@
+national_urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      FCPF <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2015/April/English%20Cote%20d'Ivoire%20early%20ideas%20ER-PIN%20April%207%20%202015.pdf">link</a>
+txt_laws:
+  timestamp: '2017-12-05T16:31:08.972Z'
+  value:
+    html: >-
+      <p><strong>Law 2014-427 </strong>– Forest Code clarifies the nature and
+      management of the various types of forest, and the Ministry of Water
+      Resources and Forests has started setting up a forest consultative body
+      whose purpose will be to define the new development policy for Ivorian
+      forests</p><p><strong>Law 2014-451</strong>-  Guidance of the general
+      organization of The Territorial Administration - Defines responsabilities
+      of decentralized governance. Local and regional authorities are
+      responsible for the participation of local people in the management of
+      local affairs; Promotion and realization of local development; The
+      modernization of the rural world; Improving the quality of life; The
+      management of terroirs and the environment. The jurisdiction of regions
+      versus districts is still not fully clear.</p><p><strong>Decree No.
+      2012-1049 of October 24, 2012</strong> – Created SEP-REDD+ and established
+      the foundation for national REDD+ processes.</p><p><strong>Law 98-750 of
+      23 December 1998, modified by law of 28 July 2004 </strong>- establishes
+      the basis for land tenure in the Ivory Coast</p>
+  citation:
+    html: ''
+txt_policies_and_plans:
+  timestamp: '2017-12-05T16:31:33.170Z'
+  value:
+    html: >-
+      <p><strong>National Strategy for Climate Change, 2015-2020 - </strong>aims
+      to establish by 2020 a sustainable socioeconomic framework that integrates
+      the challenges of climate change in all sectors while also striving to
+      improve the population’s living conditions and
+      resilience.</p><p><strong>National Development Plan (2016-2020) -
+      </strong> Adopted in December 2015, seeks to advance economic progress. 
+      The national government <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2015/April/English%20Cote%20d'Ivoire%20early%20ideas%20ER-PIN%20April%207%20%202015.pdf">has
+      committed to 'greening' the plan</a>and incorporate REDD+ into sectoral
+      policies.</p>
+  citation:
+    html: ''
+txt_institutions:
+  timestamp: '2017-12-05T16:30:23.071Z'
+  value:
+    html: >-
+      <p><strong>Permanent REDD+ Executive Secretariat (SEP-REDD+) </strong>-
+      structured under the responsibility of the Ministry of the Environment.
+      The SEP REDD+ is the coordinating entity for the REDD+ process in Côte
+      d'Ivoire, (including, planning, mobilization of financial resources, and
+      technical support for the country’s REDD+ readiness
+      process).</p><p>National REDD+ Commission (CN-REDD+) – Multistakeholder
+      committee convened by The Ministry of the Environment, Urban Sanitation,
+      and Sustainable Development (MINESUDD)</p><p><strong>Ministry of
+      Agriculture (MINAGRI) </strong>– responsible for overarching agricultural
+      policies and promoting zero deforestation
+      agriculture</p><p><strong>Ministry for Environment, Urban Sanitation and
+      Sustainable Development (MINESUDD) </strong>– hold primary mandate for
+      environmental management and is the implementing agency for
+      REDD+</p><p><strong>Ministry of Water Resources and Forests
+      (MINEF)</strong> - responsible for management of forest in the rural
+      domain</p><p><strong>SODEFOR</strong> - responsible for management of
+      gazetted forests</p>
+  citation:
+    html: ''

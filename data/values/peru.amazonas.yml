@@ -1,0 +1,651 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 28700
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 226.1
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 422629
+    string: ''
+  citation:
+    html: >-
+      (BCRP, 2016) <a
+      href="https://drive.google.com/open?id=0B6YWLvHtYOEmYlQtOHM3ckhubnc">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2797856
+    currency: PEN
+    string: ''
+  citation:
+    html: '(INEI, 2016) <a href="http://iinei.inei.gob.pe/iinei/SIRTOD/">link</a>'
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 6620
+    currency: PEN
+    string: ''
+  citation:
+    html: '(INEI, 2017) <a href="http://iinei.inei.gob.pe/iinei/SIRTOD/">link</a>'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.384564816839811
+    string: ''
+  citation:
+    html: >-
+      (PNUD-Perú, S/F) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmZDhiTGQwUHh6UE0/view?usp=sharing">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 29227.89
+    string: ''
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmbExIWkRoYkxFWlE/view?usp=sharing">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 39249.13
+    string: ''
+  citation:
+    html: >-
+      (INEI, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmUTVuSGJjZ0xxaUU/view?usp=sharing">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Coffee beans, cocoa beans, tara powder and tropical fruits'
+  citation:
+    html: >-
+      (PROMPERÚ, S/F) <a
+      href="http://www.siicex.gob.pe/siicex/resources/ficharegion/general/INF_GEN_AMAZONAS.PDF">link</a>
+txt_state_description:
+  timestamp: '2017-12-28T17:43:57.765Z'
+  value:
+    html: >-
+      <p>While the Region of Amazonas has historically low rates of
+      deforestation, it is facing but several challenges in the management of
+      their forests.  The tegion is home to a number of indigenous communities 
+      (including the awajun and wampis) who depend on forest and ecosystem
+      services to sustain their livelihoods.</p><p>Amazonas has taken  steps to
+      improve the management of its forests through the creation of a Regional
+      Environmental Authority and the implementation of a Regional Conservation
+      System. However, there are pending challenges such as designing a
+      jurisdictional forest conservation strategy, improving management for
+      sustainable use of forest resources (especially indigenous community
+      forests),and increasing funding to support these
+      initiatives.</p><p>Additional information can be found on the<a
+      href="http://gcfimpact.org/states?region=1781,states"><strong> GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T18:40:54.429Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><em><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_regional_plan_of_environmental_action_2014_2021.pdf"
+      target="_blank">Regional Plan of Environmental Action
+      2014-2021</a></em><strong>– </strong>The plan is an instrument of
+      long-term regional environmental planning, formulated from the regional
+      environmental diagnosis and based on the axes of the National
+      Environmental Policy: Conservation and sustainable use of resources and
+      biological diversity, integral management of environmental quality,
+      environmental governance and international environmental commitments and
+      opportunities.<br />The Regional Plan of Environmental Action 2014-2021
+      contains the strategic axes, objectives, indicators, actions, baseline of
+      2012, goals to 2017 and 2021, as well as the scope and responsible
+      institutions.Each of these goals can be achieved through strategic actions
+      and activities that will be carried out by the responsible entities and
+      the society as a whole in the Regional and Local Government, which will be
+      evaluated through environmental indicators, under the supervision of the
+      Regional Environmental Authority.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_regional_environmental_policy.pdf"
+      target="_blank"><em>Regional Environmental Policy</em></a> – This policy
+      is an instrument of environmental management, prepared taking into account
+      the analysis of the environmental situation of the Amazon region. It
+      constitutes the basis for the conservation of the environment, in such a
+      way as to promote and ensure the sustainable and responsible use of
+      natural resources and the environment that sustains them, to contribute to
+      the integral, social, economic and cultural development of
+      people.</p><p><em>Regional Strategy for Climate Change of the
+      Amazonas</em><strong> -</strong> completed in 2008 and formalized through
+      Regional Ordinance No. 223. The need to control migratory agriculture and
+      unplanned settlements is highlighted, and support for the development of
+      institutional capacities is noted as a key priority.</p><p><strong>Laws
+      and Regulations</strong></p><p><strong><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_ordinance_397_2017.pdf"
+      target="_blank">Ordinance No. 00397/2017</a>- </strong>Approves the
+      Regional Environmental Agenda for the period 2017-2018, with a focus on
+      three topics: policy, conservation and sustainable use of natural
+      resources and biodiversity, and integrated management and environmental
+      governance.</p><p><strong><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_ordinace_366_2015.pdf"
+      target="_blank">Ordinance No. 00366/2015</a> – </strong>Ordinance updating
+      the regional system of environmental management in the region of
+      Amazonas</p><p><strong>Regional Ordinance 362/2015 -
+      </strong>institutionalizes the Community Forest Management Platform of the
+      Amazon Region (PMFC) as a space for dialogue, consensus and permanent
+      promotion of the sustainable management of forests on lands of native
+      communities in the region.</p><p><strong><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_regulation_of_organization_and_functions_regional_environment_authority_2015.pdf"
+      target="_blank">Regulation of Organization and Functions - Regional
+      Environment Authority 2015</a></strong> - Defines the structure and
+      responsibility of the Regional Environment Authority. It highlights the
+      authority of the ARA in the implementation of policies, strategies,
+      programs and plans in the field of territorial planning, sustainable
+      management of natural resources, conservation of biodiversity and
+      protection of the public environment.</p><p><strong><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_ordinance_364_2014.pdf"
+      target="_blank">Ordinance No. 00364/2014</a> –</strong>Ordinance approving
+      the regional plan of environmental action 2014-2020</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_regional_ordinance_354_2014.pdf"
+      target="_blank"><strong>Regional Ordinance No. 354/2014 </strong></a>–
+      Ordinance approving the<a
+      href="http://siar.regionamazonas.gob.pe/download/file/fid/55056"> Regional
+      Environmental Diagnosis 2012-2021</a> and the <a
+      href="http://siar.regionamazonas.gob.pe/download/file/fid/55057">Amazonas
+      Regional Environmental Policy</a> </p><p><strong><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_ordinance_327_2013.pdf"
+      target="_blank">Ordinance No. 00327/2013</a> –</strong> Ordinance
+      formalizing the creation of regional environmental authority (ARA) and
+      promulgating the regulation of the organization and its
+      functions.</p><p><strong>Ministerial Resolution 0696/2010</strong> -
+      Transfers forest management functions for the regional government of
+      Amazonas.</p><p><strong>Ordinance 223/2008</strong> - Regional Strategy
+      for Climate Change -The Amazon Climate Change Strategy highlights the need
+      to control migratory agriculture and unplanned settlements and to develop
+      and support institutions to control deforestation.</p><p><strong><a
+      href="http://www.regionamazonas.gob.pe/docs/portal/contenidos/2/189-2007.pdf">Ordinance
+      No. 00023/2007</a></strong> – Creates the Regional Environmental
+      Information System – SIAR – of Amazonas, as the environmental management
+      instrument, aimed at concentrating the environmental information of the
+      Amazon Region</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-03T21:05:19.331Z'
+  value:
+    html: >-
+      <p><strong>Regional Environmental Authority </strong>- environmental
+      authority, territorial organization and sustainable management of natural
+      resources, within the regional scope, with technical and regulatory
+      autonomy<br /><br /><strong>Regional Agrarian Direction</strong> - The
+      Amazonas Regional Agrarian Bureau, a subsidiary of the Regional Government
+      of Amazonas, through the Regional Economic Development Management, has the
+      institutional mission of &quot;Promoting the development of organized
+      agricultural producers in value chains or productive chains and
+      contributing to improve the conditions of life of our rural settlers
+      through activities of promotion, training and dissemination of
+      agricultural statistical information and to achieve a sustainable
+      economic, social and environmental agriculture</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-16T18:41:13.559Z'
+  value:
+    html: >-
+      <p>Amazonas completed a <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/amazonas/amazonas_2010_regional_zoning_plan.pdf"
+      target="_blank">regional zoning plan in 2010</a>.The plan seeks to
+      identify the potential and limitations of the territory and its natural
+      resources. It is a tool to support the formulation of policies, plans and
+      programs aimed at sustainable development of the region. The study was
+      elaborated at the macrozonation level, using a scale of work of 1: 250,000
+      and a publication scale of 1: 500,000.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-04T16:39:04.351Z'
+  value:
+    html: <p>Smallholder Cattle<br />Smallholder Agriculture<br />Mining</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 99c64b60-cec8-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:31:02.678Z'
+      name:
+        value:
+          string: 'Phase 3 of the Forests, Farms and Finance Initiative'
+      description:
+        value:
+          html: >-
+            <p><em>Phase 3 of the Forests, Farms and Finance Initiative
+            "Building bridges between local policies, REDD + and initiatives for
+            sustainable supply chains" will support the construction of
+            jurisdictional low emissions rural development plans.</em></p><p>In
+            Peru, the 3FI initiative is led by the Earth Innovation Institute
+            and the Amazon Regional Council (CIAM, in Spanish) and is developing
+            incentives for low-emission rural development under a production and
+            protection approach. The activities of 3FI in the Peruvian Amazon
+            are led by the regional governments and are open to the
+            participation of any public or private institution that wishes to
+            contribute. 3FI considers with special attention the participation
+            of indigenous peoples and women in the activities to be carried out.
+            The initiative is based on empowering the progress of each region to
+            make the necessary incentives proposals by building tailored
+            instruments for each jurisdiction. Output from the project include:
+            (a) developing regional plans or roadmaps to promote a transition to
+            low-emission rural development; (b) promoting a transparent dialogue
+            process at the regional level which includes the perspectives of
+            indigenous peoples and women; and (c) developing a business plan to
+            attract private investment and promote low-emission rural
+            development in the Peruvian Amazon.</p>
+      partners:
+        value:
+          string: 'Earth Innovation Institute, CIAM'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: d94b5270-cec9-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:39:58.743Z'
+      name:
+        value:
+          string: >-
+            Implementing Strategies for transition at regional level towards a
+            low-emission rural development in Indonesia, Peru, Mexico, Colombia
+            and Kenya
+      description:
+        value:
+          html: >-
+            <p><em>Development of policies and monitoring instruments for rural
+            development plan for the Amazon.</em></p><p>This project seeks
+            reduce emissions of greenhouse gases (GHG) emissions associated with
+            deforestation and promote sustainable use of natural resources in
+            the field of six regional governments in the Peruvian Amazon as
+            contribution to mitigation and adaptation to climate change,
+            biodiversity conservation, improved livelihoods of the local
+            population and the development of practices regional, national and
+            international policies and market mechanisms for rural development
+            under emissions.The project will be implemented in two scales. At
+            the interregional scalepolicies and monitoring instruments will be
+            developed for rural development plans for the Amazon under a
+            competitive, inclusive and low emission approach. The second scale
+            is local and focuses on the basin of the Pachitea to develop a
+            platform for low-emission rural development and strengthen
+            capacities of local authorities and indigenous organizations. Work
+            on the Pachitea is led by Instituto del Bien Comun -
+            IBC.&nbsp;</p><p>The project is expected achieve as first product
+            the development of an Interregional Plan for promotion of a low
+            emission development involving all participating regions. The
+            project will also develop a platform for performance monitoring
+            territorial performance as well as models of competitive and
+            inclusive governance and incentives to reduce deforestation.</p>
+      partners:
+        value:
+          string: 'Regional Governments, Forest Trends, IBC'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: c55aec50-cecc-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:00:53.781Z'
+      name:
+        value:
+          string: >-
+            Sustainable Forestry Development Program, inclusive and competitive
+            - SERFOR - CAF
+      description:
+        value:
+          html: >-
+            <p>This project supports regions in strengthening their management
+            capacity and monitoring in forestry, with their equipment offices
+            and checkpoints. The project also has specific activities with
+            regional governments and the management of protected areas, forest
+            land, advancing the national forest inventory, implementation of
+            spatial data infrastructures, implementation of anticorruption plan
+            in the forestry sector, improved control and forest monitoring and
+            promotion of forestry value chains. The project also has a grant
+            fund for submitting public investment projects at regional
+            level.&nbsp;</p>
+      partners:
+        value:
+          string: >-
+            National forest and Wildlife Service, Andean Development
+            Corporation, regional governments
+      fundingSource:
+        value:
+          string: >-
+            National forest and Wildlife Service, Andean Development
+            Corporation, regional governments
+      fundingAmount:
+        value:
+          string: $76M
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Public Investment'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 7056c8d0-cece-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:12:50.141Z'
+      name:
+        value:
+          string: Public-Private Coalition of the Declaration of San Martin
+      description:
+        value:
+          html: >-
+            <p>This Coalition of 52 member organizations from government,
+            private sector and civil society seeks to promote sustainable rural
+            development and create synergies between regional governments, the
+            private business sector, producer organizations, NGOs and
+            organizations representing indigenous peoples. The coalition has
+            established an agenda to promote development amazon focused on: i)
+            ensuring land rights and forest native communities and agricultural
+            and forestry producers; ii) optimizing the sustainable use of forest
+            landscapes in the Amazon; iii) building the set of enabling
+            conditions and generate the necessary changes for rural development
+            low emission. Goals of the coalition include reducing deforestation
+            associated with agriculture, creating roadmaps for public - private
+            coordination by Amazon region, designing an architecture of
+            financing, increasing the productivity of agricultural crops and
+            increasing the value of forests and promote forest plantations. It
+            is expected that these measures will open a pathway to build
+            sustainable jurisdictions, especially in the value chains of the
+            Amazon through a Production - Protection approach. A group of
+            companies from the Pro Ucayali network, comprising the largest
+            companies in the region, have joined the coalition.</p>
+      partners:
+        value:
+          string: >-
+            GORE San Martin, GORE Ucayali, GORE Amazonas, GORE Madre de Dios,
+            GORE Huanuco.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Agreement Signed
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 55
+        src: '55'
+    - id: 1
+      value:
+        value: 45
+        src: '45'
+  citation:
+    html: >-
+      (INEI, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmREl2UWcydi1EMVU/view?usp=sharing">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 33.4
+        src: '33.4'
+    - id: 1
+      value:
+        value: 26.7
+        src: '26.7'
+    - id: 4
+      value:
+        value: 10.7
+        src: '10.7'
+    - id: 5
+      value:
+        value: 4
+        src: '4.0'
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      (BCRP, 2016) <a
+      href="https://drive.google.com/open?id=0B6YWLvHtYOEmYlQtOHM3ckhubnc">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-04T16:47:36.006Z'
+  values:
+    - id: u2017a
+      value:
+        value: 30956.5
+        src: null
+    - id: u2017c
+      value:
+        value: 22999.54
+        src: null
+    - id: u2017b
+      value:
+        value: 3525.75
+        src: null
+    - id: u2017g
+      value:
+        value: 3062.99
+        src: null
+    - id: u2017d
+      value:
+        value: 884.97
+        src: null
+    - id: u2017f
+      value:
+        value: 408.8919633
+        src: null
+    - id: u2017e
+      value:
+        value: 359.82
+        src: null
+  citation:
+    html: >-
+      <table border="0" cellpadding="0" cellspacing="0"
+      width="286"><tbody><tr><td class="xl67" height="20"
+      width="100%">&nbsp;Mapa de vegetacion del MINAM
+      (2016)</td></tr></tbody></table>
+forest_management:
+  timestamp: '2017-12-04T16:42:56.720Z'
+  values:
+    - id: u2017c
+      value:
+        value: 7059.55
+        src: null
+    - id: u2017b
+      value:
+        value: 1754.28
+        src: null
+    - id: u2017d
+      value:
+        value: 1342.3
+        src: null
+    - id: u2017a
+      value:
+        value: 1267.33
+        src: null
+    - id: u2017e
+      value:
+        value: null
+        src: null
+    - id: u2017f
+      value:
+        value: null
+        src: null
+    - id: u2017g
+      value:
+        value: null
+        src: null
+    - id: u2017h
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Fuente: Elaboracion propia basada en informacion proporcionada por el
+      Gobierno Regional de Amazonas.&nbsp;<table border="0" cellpadding="0"
+      cellspacing="0" style="width: 100%;" width="286"><tbody><tr><td
+      class="xl65" height="20"
+      style="color:black;font-size:15px;font-weight:400;font-style:normal;text-decoration:none;font-family:Calibri,
+      sans-serif;text-align:left;vertical-align:top;height:15.0pt;width:215pt;"
+      width="100%">* &nbsp; Incluye ACP Los Chilchos que según fuente nacional
+      pertenece a Amazonas</td></tr></tbody></table>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Gilmer Wilson
+    lastName: Orna Corrales
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      (JNE, 2014) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmR2xfNVZNcjNzZ2c/view?usp=sharing">link</a>
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Percy
+    lastName: Chávez Escalante
+    email: pchavez@regionamazonas.gob.pe
+    companyTitle: Manager of the Amazonas Regional Environmental Authority
+  citation:
+    html: >-
+      GORE Amazonas (2016) <a
+      href="http://www.regionamazonas.gob.pe/sede/directorio_funcionarios.php?criterio=">link</a>
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Roberto Carlos
+    lastName: Mori Zabarburu
+    email: rmori@regionamazonas.gob.pe
+    companyTitle: General Manager
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: 30.34
+        src: '30.34'
+    - id: '2002'
+      value:
+        value: 39.23
+        src: '39.23'
+    - id: '2003'
+      value:
+        value: 38.9
+        src: |
+          38.90
+    - id: '2004'
+      value:
+        value: 35.54
+        src: '35.54'
+    - id: '2005'
+      value:
+        value: 36.21
+        src: |
+          36.21
+    - id: '2006'
+      value:
+        value: 38.56
+        src: '38.56'
+    - id: '2007'
+      value:
+        value: 55.82
+        src: '55.82'
+    - id: '2008'
+      value:
+        value: 30.48
+        src: '30.48'
+    - id: '2009'
+      value:
+        value: 45.45
+        src: '45.45'
+    - id: '2010'
+      value:
+        value: 35.95
+        src: '35.95'
+    - id: '2011'
+      value:
+        value: 31.81
+        src: '31.81'
+    - id: '2012'
+      value:
+        value: 47.46
+        src: '47.46'
+    - id: '2013'
+      value:
+        value: 66.82
+        src: '66.82'
+    - id: '2014'
+      value:
+        value: 51.99
+        src: '51.99'
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmbExIWkRoYkxFWlE/view?usp=sharing">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmbExIWkRoYkxFWlE/view?usp=sharing">link</a>

@@ -1,0 +1,587 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 400
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1.2
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2017-12-04T17:13:38.843Z'
+  value:
+    value: 1844129
+    string: ''
+  citation:
+    html: 'http://gcfimpact.org/states'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 18706750
+    currency: PEN
+    string: ''
+  citation:
+    html: >-
+      (BCRP, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmSzlKYmhJM0lTbDQ/view?usp=sharing">link</a>
+per_capita_income:
+  timestamp: '2017-12-04T17:13:19.047Z'
+  value:
+    value: 4023.08
+    currency: USD
+    string: ''
+  citation:
+    html: 'http://gcfimpact.org/states'
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.437917137692348
+    string: ''
+  citation:
+    html: >-
+      (PNUD-Perú, S/F) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmZDhiTGQwUHh6UE0/view?usp=sharing">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 447.65
+    string: ''
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmeDYzc21MUzBxem8/view?usp=sharing">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 35657.5
+    string: ''
+  citation:
+    html: >-
+      (INEI, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmSzlKYmhJM0lTbDQ/view?usp=sharing">link</a>
+main_exports:
+  timestamp: '2017-12-04T17:14:22.990Z'
+  value:
+    string: >-
+      Fresh grapes, fresh mango, organic bananas, squid, squid, fan shells,
+      prawns, calcium phosphate, gypsum, phosphoric rock, andalusite and
+      bentonite mineral
+  citation:
+    html: >-
+      (PROMPERÚ, S/F) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmMXN5OEt2dU8tcTQ/view?usp=sharing">link</a>
+txt_state_description:
+  timestamp: '2017-12-28T17:52:39.173Z'
+  value:
+    html: >-
+      <p>The Piura Region is located in the North-Western zone of Peru, between
+      latitude South 4º04'50 &quot;and 6º22'10&quot; and longitude West 79º13'15
+      &quot;and 81º19'35&quot;; at a distance of 981 km from the city of Lima.
+      Its territorial extension is 35,892km2, which represents 2.79% of the
+      country's territory.<br />At a political-administrative level, the region
+      is divided into 08 provinces: Piura, Sullana, Talara, Paita, Sechura,
+      Morropón, Huancabamba and Ayabaca. It also has 65 districts.<br />The
+      climate of the department of Piura is varied, the coast is warm with high
+      temperatures throughout the year, which fluctuate between 34.2ºC and 15ºC.
+      In the mountains, the climate is mild, with rainfall according to the
+      season. An important characteristic of the territory is the recurrent
+      presence of the &quot;El Niño&quot; FEN Phenomenon, which occurs in
+      certain non-periodic periods with positive and negative effects that
+      influence Regional behavior.<br />Piura is a region with a unique
+      biodiversity, which is an important source of resources on which
+      activities such as agriculture, fishing, aquaculture and tourism that
+      contribute greatly to the regional economy, it is important to note that
+      according to the Ecological and Economic Zoning of the Region (2013),
+      22.30% of the continental territory of Piura has aptitude for conservation
+      and protection, which reflects the ecological value of several important
+      areas in the region.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=17820,states"><strong>GCF Impact
+      Platform. </strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T18:54:18.534Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_master_plan_of_the_dry_forest_regional_conservation_area_salitral_huarmaca_2017_2021.pdf"
+      target="_blank">Master Plan of the Dry Forest Regional Conservation Area
+      Salitral - Huarmaca,  2017-2021</a>- A planning documents for the the
+      first protected natural area of Regional Administration in the department
+      of Piura -  The Regional Conservation Area Bosques Secos Salitral -
+      Huarmaca.  The plan seeks to develop and promote practices for the
+      sustainable use of dry forest resources that ensure the sustainability of
+      the ecosystem and the valuable objects of conservation that
+      houses.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_environmental_action_plan_piura_2016_2021.pdf"
+      target="_blank">Regional Environmental Action Plan Piura 2016 – 2021</a> –
+      Intended to be a long-term regional planning instrument, formulated on the
+      basis of the Regional Environmental Policy and Regional System of
+      Environmental Management. The plan contains the priority environmental
+      goals for a six year period for the region and has an objective to improve
+      the quality of life of people, ensuring the existence of healthy, viable
+      and functional ecosystems in the long term, the sustainable development of
+      Piura, through prevention , protection and recovery of the environment and
+      its components, the conservation and sustainable use of natural resources,
+      in a responsible and consistent manner</p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_392_2017.pdf"
+      target="_blank">Ordinance 392/2017</a> – Approves the Master Plan of the
+      Dry Forest Regional Conservation Area Salitral -Huarmaca, for the period
+      2017-2021, as a higher-level planning document to develop and promote
+      practices for the sustainable use of dry forest resources that ensure the
+      sustainability of the ecosystem. </p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_378_2017.pdf"
+      target="_blank">Ordinance 378/2017</a> - Approves the regional
+      environmental agenda 2017 – 2019 - the Regional Environmental Agenda
+      2017-2019, prepared by the Regional Environmental Commission, is a
+      management instrument of a cross-sectoral nature of mandatory compliance
+      for the treatment of environmental issues in the region in the short term,
+      conservation of natural resources and improvement of quality of life, in
+      order to achieve sustainable regional development in four (04) fronts: a)
+      Front of Biodiversity, b) Environmental Quality Front, c) Environmental
+      Governance Front, and d) Climate Change Front.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_346_2016.pdf"
+      target="_blank">Ordinance 346/2016</a> - Approves the Regional
+      Environmental Action Plan of Piura  within the framework of the Regional
+      Environmental Policy.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_316_2015.pdf"
+      target="_blank">Ordinance 316/2015</a>- Approves the Policy Guidelines for
+      the Territorial Planning of the Piura Region.  Entrust the Regional
+      General Management, in coordination with the Regional Management of
+      Natural Resources and Environmental Management and the Regional Center for
+      Strategic Planning - CEPLAR, with the implementation of this territorial
+      planning.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_286_2014.pdf"
+      target="_blank">Ordinance 286/2014</a>- Ordinance that approves the
+      regional action plan to combat desertification and drought</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_261_2013_grp_cr.pdf"
+      target="_blank">Ordinance 261/2013</a>- Ordinance that approves the
+      economic ecological mesozonification of the piura department</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_274_2013.pdf"
+      target="_blank">Ordinance 274/2013</a> - Ordinance that modifies the
+      regulations of organization and functions - ROF of the piura regional
+      government, including the function of issuing environmental
+      certifications</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-07T21:06:32.294Z'
+  value:
+    html: >-
+      <p><strong>Regional Management of Natural Resources and Environment
+      Management </strong>- Formulates, proposes, directs, executes, and
+      administers the regional policies related to protected areas and
+      environment in accordance with regional and sectoral
+      plans.</p><p><strong>Regional Management of Economic Development</strong>
+      - Formulates, proposes, directs, executes, and administers the regional
+      policies related to agriculture, mining, fishing, energy, and tourism in
+      accordance with regional and national plans. </p><p><br /></p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-16T18:54:58.209Z'
+  value:
+    html: >-
+      <p>Piura has developed an Ecologic and Economic Zoning at the meso level
+      (scale 1/100,000), which has been approved through <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_regional_ordinance_261_2013_grp_cr.pdf"
+      target="_blank">Regional Ordinance No. 261-2013-GRP-CR</a>
+      .</p><p>Currently, ZEE is being applied as a guiding instrument for
+      decision making and sustainable management of the territory, taking
+      advantage of the potential and minimizing the risks for the benefit of the
+      population. In this sense, they are articulating the EEZ to other
+      territorial management instruments such as the Concerted Development
+      Plan.</p><p>Additionally, in this department four (04) micro-EEZ processes
+      (1/25 000 scale) have been executed in priority areas of the provinces of
+      Ayabaca, Huamcabamba, Morropón and Sullana, with resources from the Budget
+      Support Agreement Euro Eco Trade</p><p>Both the zoning <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_zee_study.pdf"
+      target="_blank">study</a> and <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/piura/piura_zee_map.pdf"
+      target="_blank">map</a> are available for download. </p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 3a19fde0-ced4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-12-04T17:15:03.626Z'
+      name:
+        value:
+          string: >-
+            Capacity Building Management System Regional Natural Areas
+            Conservation
+      description:
+        value:
+          html: >-
+            <p>The initiative will create 15 Private Conservation Areas.
+            Currently, Piura has 233,382.10 hectares of conservation areas,
+            which represents 6.5% of the regional territory as part of the
+            Regional Conservation System.</p>
+      partners:
+        value:
+          string: Servicio Nacional de Áreas Naturales Protegidas - SERNANP
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Investment
+      initiativeStatus:
+        value:
+          string: In Pogress
+    - id: 5536c1d0-ced4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:55:01.613Z'
+      name:
+        value:
+          string: >-
+            Binational Integrated Management of transboundary river basins as
+            mitigation and adaptation to climate change water without frontiers
+      description:
+        value:
+          html: >-
+            <p>The initiative will improve binational watershed management of
+            the border area with Ecuador- Peru. The project seeks to advance
+            both climate change adapatation and mitigation measures and will
+            help reduce povertyfrom 2016-2018.. Currently the project is
+            undergoing a participatory process to establish forest roundtable.
+            The project is supported by partner organizations likeEIA, ECO,
+            REDD, Ecological Forum and DAR.</p>
+      partners:
+        value:
+          string: AIDESEP
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 6f7310d0-ced4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:55:45.629Z'
+      name:
+        value:
+          string: >-
+            Services improving protection and sustainable management of forests
+            Regional Conservation Area Dry Salitral Huarmaca
+      description:
+        value:
+          html: >-
+            <p>The project seeks to promote sustainable management of ACR
+            Salitral Huarmaca Dry Forest through six primary activities: i) the
+            construction of infrastructure and equipment for management, control
+            and monitoring; ii) the preparation of planning and normative
+            documents of the ACR and provide technical assistance for the design
+            and development of planning software; iii) the development of an
+            efficient system of control, monitoring and surveillance; iv)
+            designing a management plan for the protection of flora and fauna;
+            v) the development of appropriate knowledge and commitments of the
+            population for participation in conservation; vi) a commitment from
+            the local government to suppor the conservation and protection of
+            the ACR.</p>
+      partners:
+        value:
+          string: SERNANP
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Progress
+    - id: 8e754c50-ced4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:56:37.653Z'
+      name:
+        value:
+          string: Interregional Northern Forests Platform
+      description:
+        value:
+          html: >-
+            <p>The objectives of the Platform are: to share a common territorial
+            vision that integrates the fight against deforestation and forest
+            degradation with the generation of local productive and economic
+            development options. In addition, platform wants increase visibility
+            to contribution of forests in environmental, economic and social
+            terms and reduces vulnerability to natural hazards; develop climate
+            change mitigation strategies through a macroregional conservation
+            system that integrates dry forests, cloud forests, mangroves and
+            coastal marine areas. Also, design a common strategy against illegal
+            logging from forest mapping and identification of deforested areas;
+            strengthen internal coordination between natural resource management
+            and environmental management, economic development and planning
+            offices; enhance management capacity to secure funding for
+            conservation projects; develop broad strategies for partnerships and
+            synergies with institutions and the recognition of the macroregional
+            platform by MINAM and SERFOR as the valid interlocutor of regional
+            governments.</p>
+      partners:
+        value:
+          string: 'GORE Piura, GORE Tumbes, GORE Lambayeque'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Governmental Planning Initiative
+      initiativeStatus:
+        value:
+          string: In Design
+urban_vs_rural_population_percent:
+  timestamp: '2017-12-04T17:12:55.946Z'
+  values:
+    - id: 1
+      value:
+        value: 77.47
+        src: null
+    - id: 2
+      value:
+        value: 22.53
+        src: null
+  citation:
+    html: ''
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 34.6
+        src: '34.6'
+    - id: 4
+      value:
+        value: 25.6
+        src: '25.6'
+    - id: 5
+      value:
+        value: 11.6
+        src: '11.6'
+    - id: 2
+      value:
+        value: 8.3
+        src: '8.3'
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      (BCRP, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmSzlKYmhJM0lTbDQ/view?usp=sharing">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-04T17:21:46.415Z'
+  values:
+    - id: u2017g
+      value:
+        value: 18079.0185
+        src: null
+    - id: u2017c
+      value:
+        value: 510.5425
+        src: null
+    - id: u2017a
+      value:
+        value: null
+        src: null
+    - id: u2017b
+      value:
+        value: null
+        src: null
+    - id: u2017d
+      value:
+        value: null
+        src: null
+    - id: u2017e
+      value:
+        value: null
+        src: null
+    - id: u2017f
+      value:
+        value: null
+        src: null
+  citation:
+    html: 'Other: Dry Forests'
+forest_management:
+  timestamp: '2017-12-04T17:18:33.091Z'
+  values:
+    - id: u2017h
+      value:
+        value: 43570.74
+        src: null
+    - id: u2017c
+      value:
+        value: 1573.4944
+        src: null
+    - id: u2017e
+      value:
+        value: 230.6552
+        src: null
+    - id: u2017a
+      value:
+        value: null
+        src: null
+    - id: u2017b
+      value:
+        value: null
+        src: null
+    - id: u2017d
+      value:
+        value: null
+        src: null
+    - id: u2017f
+      value:
+        value: null
+        src: null
+    - id: u2017g
+      value:
+        value: null
+        src: null
+  citation:
+    html: ''
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Reynaldo Alonso
+    lastName: Hilbck Guzman
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      (JNE, 2014) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmR2xfNVZNcjNzZ2c/view?usp=sharing">link</a>
+representative_1:
+  timestamp: '2017-12-01T15:22:08.156Z'
+  value:
+    firstName: Ronald
+    lastName: Ruiz Chapiliquen
+    email: rruizch@regionpiura.gob.pe
+    companyTitle: Manager of the Regional Environmental Authority
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2017-12-01T15:22:17.964Z'
+  value:
+    firstName: César
+    lastName: Talledo Mendoza
+    email: ctalledo@regionpiura.gob.pe
+    companyTitle: ''
+  citation:
+    html: Deputy Manager of Natural Resource Management
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: 2.57
+        src: '2.57'
+    - id: '2002'
+      value:
+        value: 2.75
+        src: '2.75'
+    - id: '2003'
+      value:
+        value: 0.96
+        src: '0.96'
+    - id: '2004'
+      value:
+        value: 1.43
+        src: '1.43'
+    - id: '2005'
+      value:
+        value: 2.31
+        src: '2.31'
+    - id: '2006'
+      value:
+        value: 2.02
+        src: '2.02'
+    - id: '2007'
+      value:
+        value: 2.81
+        src: '2.81'
+    - id: '2008'
+      value:
+        value: 1.5
+        src: '1.5'
+    - id: '2009'
+      value:
+        value: 1.25
+        src: '1.25'
+    - id: '2010'
+      value:
+        value: 1.74
+        src: '1.74'
+    - id: '2011'
+      value:
+        value: 3.27
+        src: '3.27'
+    - id: '2012'
+      value:
+        value: 0.83
+        src: '0.83'
+    - id: '2013'
+      value:
+        value: 0.44
+        src: '0.44'
+    - id: '2014'
+      value:
+        value: 0.65
+        src: '0.65'
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmeDYzc21MUzBxem8/view?usp=sharing">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmeDYzc21MUzBxem8/view?usp=sharing">link</a>

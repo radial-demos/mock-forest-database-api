@@ -1,0 +1,835 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 94700
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 947.4
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 489664
+    string: ''
+  citation:
+    html: >-
+      (Instituto Nacional de Estadística e Informática - INEI, 2014) <a
+      href="http://www.inei.gob.pe/">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2188412
+    currency: PEN
+    string: ''
+  citation:
+    html: >-
+      (Banco Central de Reserva del Perú - BCRP, 2014) <a
+      href="http://www.bcrp.gob.pe/docs/Sucursales/Iquitos/ucayali-caracterizacion.pdf">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 10150.71
+    currency: PEN
+    string: ''
+  citation:
+    html: >-
+      (Instituto Nacional de Estadística e Informática - INEI, 2012) <a
+      href="http://www.inei.gob.pe/">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.4324
+    string: ''
+  citation:
+    html: >-
+      (Programa de las Naciones Unidas para el Desarrollo - PNUD, 2013) <a
+      href="http://www.pe.undp.org/content/peru/es/home/library/poverty/Informesobredesarrollohumano2013/IDHPeru2013/">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2423268075
+    string: ''
+  citation:
+    html: >-
+      PNCB <a
+      href="http://geobosques.minam.gob.pe/geobosque/view/perdida.php">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 102399.9
+    string: ''
+  citation:
+    html: >-
+      (Instituto Nacional de Estadística e Informática - INEI, 2014) <a
+      href="http://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1157/libro.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-05T17:19:30.258Z'
+  value:
+    html: >-
+      <p>As a region, Ucayali is characterized by its high forest cover, 12
+      percent of which is included as natural protected areas. It has a great
+      wealth of natural resources, as well as substantial  water resources and
+      highly biodiverse  flora and fauna.</p><p>The department of Ucayali
+      occupies a surface of 102 411 km, that represents 8.0 percent of the total
+      country. It is located in the eastern part of Peru, in the jungle area. It
+      limits by the North with the department of Loreto, by the West with the
+      departments of Huánuco, Pasco and Junín; on the South with the departments
+      of Cuzco and Madre de Dios and on the East with the Republic of Brazil.
+      The capital of the department of Ucayali is the city of Pucallpa.<br
+      />According to information from the National Institute of Statistics and
+      Informatics (INEI) published for the year 2011, the Gross Value Added
+      (GVA) of the department of Ucayali represented 1.0 percent of the national
+      total. The main activities are related to trade, agriculture, hunting and
+      forestry, other services and manufacturing.</p>
+  citation:
+    html: >-
+      (Banco Central de Reserva del Perú - BCRP, 2014) <a
+      href="http://www.bcrp.gob.pe/docs/Sucursales/Iquitos/ucayali-caracterizacion.pdf">link</a>
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-16T21:23:33.911Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies:</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_regional_development_plan_2016_2021.pdf"
+      target="_blank"><em>Regional Development Plan 2016-2021</em></a> - Short
+      term development plan which focuses on focuses on<br />to establish very
+      clearly the six strategic objectives that are required for achieve the
+      regional vision, as well as the strategic actions that allow implement
+      these strategic decisions.  One of the strategic objectives in environment
+      and natural resource management.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_regional_climate_change_strategy.pdf"
+      target="_blank"><em>Regional Climate Change Strategy</em></a><strong>
+      -</strong>The Regional Climate Change Strategy of Ucayali is a tool to
+      support decision-making which allows planning and the development of
+      actions, programs and projects in a coordinated and articulated way with
+      national policies that lead to adequate adaptation and mitigation of
+      inevitable climate change. The Region of Ucayali, as an Amazonian region,
+      is highly vulnerable to effects of climate change because it has a great
+      biodiversity of flora and interrelated fauna in fragile ecosystems and
+      settled indigenous populations on the banks of rivers and streams, which
+      can be directly affected. This strategy highlights the need for action to
+      adapt to changes in climate, giving priority to vulnerable areas and
+      mitigating the effects of climate change, such as floods and damage to
+      agricultural products. In addition, it gives priority to research, such as
+      climate change and population health, study of the fragile ecosystems of
+      the Ucayali Region, among others.</p><p><a
+      href="http://www.regionucayali.gob.pe/transparencia/planificacion/pdc2012.php"><em>Regional
+      Development Plan 2011-2021</em></a> -  The plan outlines strategic
+      medium-term economic development initiatives in Ucayali through 2021. It
+      was formalized through Regional Ordinance 0924/2011.  The plan was updated
+      in 2016</p><p><strong>Laws and Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_regional_ordinance_15_2017.pdf"
+      target="_blank">Ordinance 15/2017</a><a
+      href="https://drive.google.com/file/d/0Bwka-dFrnoVvZmZESUtPM0NOZmc/view"></a><a
+      href="https://drive.google.com/file/d/0Bwka-dFrnoVvZmZESUtPM0NOZmc/view">–</a>
+      Ordinance finalizing the economic and ecological zoning (ZEE) for the
+      region.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_regional_ordinance_4_2017.pdf"
+      target="_blank">Ordinance 4/2017</a><strong>- </strong>Declares of
+      Regional Interest the creation of Collective Mark &quot;Marca
+      Ucayali&quot; Ordinance 01/2013, to distinguish the production of the
+      Ucayali Region that is differentiated by: (i) being produced in the
+      Amazon, (ii) coming (iii) their rejection of child labor, (iv) their
+      rejection of coca cultivation, (v) promoting gender equity, and (vi)
+      meeting international and competitive standards.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_regional_ordinance_1_2014.pdf"
+      target="_blank">Ordinance 1/2014</a><strong> - </strong>Regulation of
+      Organization and Functions - Authority in 2014.Defines the structure and
+      responsibility of the Regional Environment Authority. It highlights the
+      authority of the ARA in the implementation of policies, strategies,
+      programs and plans in the field of territorial planning, sustainable
+      management of natural resources, conservation of biodiversity and
+      protection of the public environment.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_regional_ordinance_11_2014.pdf"
+      target="_blank">Ordinance 11/2014</a><strong> – </strong>Officially adopts
+      Ucayali’s <a
+      href="http://proyectoapoyocambioclimatico.pe/wp-content/uploads/2016/11/2.Estr_.-Reg.-Cambio-Clima%CC%81tico-de-Ucayali_GOREUcayali_2014.pdf">Regional
+      Strategy for Climate Change</a><strong> .</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_regional_ordinance_1_2013.pdf"
+      target="_blank">Ordinance 1/2013</a>-<strong> </strong>Creates the
+      Regional Environmental Authority of Uucayali (ARAU) as an institution
+      dependent on the Regional General Management, in charge of consolidating,
+      planning and exercise authority in environmental matters, territorial
+      planning and management sustainable use of renewable natural resources
+      within the regional scope, in charge of an official with the rank of
+      regional manager, appointed by the Regional
+      President.</p><p><strong>Ministerial Resolution 019/2010 </strong>-
+      Transfers forest management functions to the regional government of
+      Ucayali.</p><p><a
+      href="http://www.regionamazonas.gob.pe/docs/portal/contenidos/2/021120171153281671318105.pdf"></a></p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-06T15:16:50.252Z'
+  value:
+    html: >-
+      <p><strong>Regional Environmental Authority of Ucay</strong><strong>ali
+      -</strong><br />The Regional Environmental Authority of Ucayali (ARAU) was
+      unanimously approved in the Regional Council of Ucayali in 2013; this
+      instance will allow the Regional Government to manage in a more efficient
+      manner the important forest and wildlife resources that constitute its
+      natural forests. The ARAU is the result of the work process prioritized in
+      the Gray Towers Act, which was signed by the five Amazonian regional
+      presidents of the Amazon Interegional Council (CIAM) in October 2011 in
+      Milford, Pennsylvania (USA), in the framework of the internship in which
+      the municipal authorities participated as part of the cooperation of the
+      Forest Service of the United States, with the support of USAID.<br /><br
+      /><strong>Directorate of Agriculture - </strong>The Sectoral Regional
+      Directorate is the Body responsible for directing, guiding, coordinating,
+      executing, supervising, controlling and evaluating the various agrarian
+      productive activities within its jurisdiction.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-16T21:24:26.072Z'
+  value:
+    html: >-
+      <p>Ucayali  formally approved its ecological and economic zoning (ZEE)
+      plan in August of 2017 through Regional Ordinance No 015-2017-GRU-CR.  The
+      zoning study is <a
+      href="https://drive.google.com/file/d/0Bwka-dFrnoVvX3RKLUpmcEZzNjg/view">available
+      for download</a>, along with the <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/peru/ucayali/ucayali_zoning_map.png"
+      target="_blank">zoning map</a>, which is also available in <a
+      href="https://drive.google.com/file/d/0Bwka-dFrnoVvdUVCWGtibHVGTGM/view?usp=sharing">GIS
+      files.</a></p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-12-05T16:53:44.312Z'
+  value:
+    html: >-
+      <p>There are no official documents of the region that have been
+      systematized in documents. The reference of the national level expressed
+      in the ENBCC indicates:<br />1. Agriculture and livestock expansion<br
+      />2. Illegal and informal extractive activities<br />3. Land traffic and
+      land lease for illegal activities</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: 27931f60-cec2-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T13:55:46.213Z'
+      name:
+        value:
+          string: >-
+            Production-Protection Approach in the Value Chains of the Peruvian
+            Amazon
+      description:
+        value:
+          html: >-
+            <p><em>The aim is to increase the productivity and the conservation
+            of the forests in small producers of value chains of cocoa and
+            coffee.</em>&nbsp;</p><p>Activities that are likely to be
+            implemented include:</p><ul><li>Evaluation of the current value
+            chain</li><li>Interventions to add value to supply chain (production
+            and postproduction centered on coffee and cocoa)</li><li>Development
+            of multi-stakeholder platforms to improve supply chain
+            sustainability</li><li>Improving production capacity at the farm
+            level, and</li><li>Development of business models and enabling
+            policies</li></ul>
+      partners:
+        value:
+          string: >-
+            Norway Institute for Bioeconomy Research, Instituto de Cultivos
+            Tropicales, Mecanismos de Desarrollo Alternos
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: '$3.2 M four-year project '
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: In Design
+    - id: a4d1d8d0-cec3-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:02:48.596Z'
+      name:
+        value:
+          string: Regional Development Fund (FONDESAM)
+      description:
+        value:
+          html: >-
+            <p><em>Financing Regional Public Investment Projects and Supply
+            Chains under the Production - Protection Approach.</em></p><p>The
+            FONDESAM Ucayali (Amazon Development Fund) will finance and
+            co-finance the design and execution of regional public investment
+            projects, including the facilitation of access to credit for
+            smallholders producers (OR 599-2014). This fund is administered by
+            COFIDE as trust of the Regional Government of Ucayali. In 2017, the
+            Government of Ucayali began using these resources to guarantee the
+            credit of small agricultural producers. A pilot began in July 2017
+            with the issuance of a letter of guarantee for US$ 200 000 to the
+            Cooperative Collpa de Loros.</p>
+      partners:
+        value:
+          string: COFIDE; Cooperative Collpa de Loros.
+      fundingSource:
+        value:
+          string: FONDESAM Ucayali (Amazon Development Fund)
+      fundingAmount:
+        value:
+          string: 'Initial guarantee US $200 000 '
+      initiativeType:
+        value:
+          string: Public Investment
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 9ad85470-cec4-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:02:26.487Z'
+      name:
+        value:
+          string: 'Phase 3 of the Forests, Farms and Finance Initiative'
+      description:
+        value:
+          html: >-
+            <p><em>Phase 3 of the Forests, Farms and Finance Initiative
+            "Building bridges between local policies, REDD + and initiatives for
+            sustainable supply chains" will support the construction of
+            jurisdictional low emissions rural development plans. </em></p><p>In
+            Peru, the 3FI initiative is led by the Earth Innovation Institute
+            and the Amazon Regional Council (CIAM, in Spanish) and is developing
+            incentives for low-emission rural development under a production and
+            protection approach. The activities of 3FI in the Peruvian Amazon
+            are led by the regional governments and are open to the
+            participation of any public or private institution that wishes to
+            contribute. 3FI considers with special attention the participation
+            of indigenous peoples and women in the activities to be carried out.
+            The initiative is based on empowering the progress of each region to
+            make the necessary incentives proposals by building tailored
+            instruments for each jurisdiction. Output from the project include:
+            (a) developing regional plans or roadmaps to promote a transition to
+            low-emission rural development; (b) promoting a transparent dialogue
+            process at the regional level which includes the perspectives of
+            indigenous peoples and women; and (c) developing a business plan to
+            attract private investment and promote low-emission rural
+            development in the Peruvian Amazon.</p>
+      partners:
+        value:
+          string: 'Earth Innovation Institute, CIAM'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 71931630-ceca-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:44:14.227Z'
+      name:
+        value:
+          string: >-
+            Implementing Strategies for transition at regional level towards a
+            low-emission rural development in Indonesia, Peru, Mexico, Colombia
+            and Kenya
+      description:
+        value:
+          html: >-
+            <p><em>Development of policies and monitoring instruments for rural
+            development plan for the Amazon.</em></p><p>This project seeks
+            reduce emissions of greenhouse gases (GHG) emissions associated with
+            deforestation and promote sustainable use of natural resources in
+            the field of six regional governments in the Peruvian Amazon as
+            contribution to mitigation and adaptation to climate change,
+            biodiversity conservation, improved livelihoods of the local
+            population and the development of practices regional, national and
+            international policies and market mechanisms for rural development
+            under emissions.The project will be implemented in two scales. At
+            the interregional scalepolicies and monitoring instruments will be
+            developed for rural development plans for the Amazon under a
+            competitive, inclusive and low emission approach. The second scale
+            is local and focuses on the basin of the Pachitea to develop a
+            platform for low-emission rural development and strengthen
+            capacities of local authorities and indigenous organizations. Work
+            on the Pachitea is led by Instituto del Bien Comun - IBC. The
+            project is expected achieve as first product the development of an
+            Interregional Plan for promotion of a low emission development
+            involving all participating regions. The project will also develop a
+            platform for performance monitoring territorial performance as well
+            as models of competitive and inclusive governance and incentives to
+            reduce deforestation.</p>
+      partners:
+        value:
+          string: 'Regional Governments, Forest Trends, IBC'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: ebc049e0-cecb-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:54:48.702Z'
+      name:
+        value:
+          string: Support the implementation of the DCI-UNDP
+      description:
+        value:
+          html: >-
+            <p>In the case of Ucayali and San Martin this project seeks
+            implement forest zoning by providing technical personnel, equipment
+            and funding processes for zoning and titling in coordination with
+            the Regional Environmental Authority and the Regional Agrarian
+            Authority. To date, it has been advancing on Module I of the Forest
+            Zoning. The project also supports the titling of areas of native
+            communities (seeking recognition, titling and expansion of 53 native
+            communities). The project will conclude in November 2017.</p>
+      partners:
+        value:
+          string: >-
+            United Nations Development Program; MINAGRI - Dirección General de
+            Asuntos Ambientales Agrarios Gobierno; Reional Governments of San
+            Martin and Ucayali
+      fundingSource:
+        value:
+          string: UNDP
+      fundingAmount:
+        value:
+          string: $6M
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Indigenous Peoples Initiative'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 5a5faf80-cecc-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T14:57:54.296Z'
+      name:
+        value:
+          string: >-
+            Sustainable Forestry Development Program, inclusive and competitive
+            - SERFOR - CAF
+      description:
+        value:
+          html: >-
+            <p>This project supports regions in strengthening their management
+            capacity and monitoring in forestry, with their equipment offices
+            and checkpoints. The project also has specific activities with
+            regional governments and the management of protected areas, forest
+            land, advancing the national forest inventory, implementation of
+            spatial data infrastructures, implementation of anticorruption plan
+            in the forestry sector, improved control and forest monitoring and
+            promotion of forestry value chains. The project also has a grant
+            fund for submitting public investment projects at regional
+            level.&nbsp;</p>
+      partners:
+        value:
+          string: >-
+            National forest and Wildlife Service, Andean Development
+            Corporation, regional governments
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: $76M
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Public Investment'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: d7c6cdf0-cecc-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:03:40.869Z'
+      name:
+        value:
+          string: Forest Investment Program (FIP)
+      description:
+        value:
+          html: >-
+            <p>The overall objective of FIP is:</p><ol><li>support the efforts
+            of developing countries in reducing emissions from deforestation and
+            forest degradation;&nbsp;</li><li>promoting sustainable forest
+            management that lead to reduced emissions of greenhouse gases and
+            preservation of carbon stocks.&nbsp;</li></ol><p>In Ucayali the
+            investment plan is under development for the province of Atalaya,
+            and in San Martin for the Tarapoto - Turimaguas area.Both plans are
+            expected to be finalized in 2017.Public investments will be used to
+            support integrated forest landscape management, governance,
+            legalization of lands, property titling and registration,
+            environmental assets valuation.</p>
+      partners:
+        value:
+          string: Peruvian State Funds Investment Climate
+      fundingSource:
+        value:
+          string: Peruvian State Funds Investment Climate.
+      fundingAmount:
+        value:
+          string: $50M
+      initiativeType:
+        value:
+          string: 'Public investment, Technical Assistance Partnership'
+      initiativeStatus:
+        value:
+          string: In Design
+    - id: 75a16b20-cecd-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:05:49.522Z'
+      name:
+        value:
+          string: ProAmbiente
+      description:
+        value:
+          html: >-
+            <p>Support to advance national and regional targets selected related
+            to sustainable use of ecosystems, conservation of biodiversity, and
+            capacity to mitigate and adapt to climate change.Key components
+            include (1) sustainable forest management, (2) management and
+            environmental policy, (3) environmental and climate finance, and (4)
+            innovation in biodiversity. In the case of Ucayali, the Project has
+            focused on promoting the development of the value chain sustainable
+            timber production.</p>
+      partners:
+        value:
+          string: GIZ
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 9ffa0670-cecd-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:07:00.567Z'
+      name:
+        value:
+          string: Sustainable Productive Landscapes
+      description:
+        value:
+          html: >-
+            <p>The project aims create favorable policies, regulations and land
+            planning instruments to reduce pressures on the Amazon forests,
+            taking into account the needs of developing and implementing
+            sustainable production systems.The initiative will transform
+            production practices of principal deforestation drivers (coffee, oil
+            palm and cocoa) towards more sustainable techniques. The project is
+            implemented in the province of Padre Abad in Ucayali.&nbsp;</p>
+      partners:
+        value:
+          string: 'UNDP, Ministry of Environment, Ministry of Agriculture'
+      fundingSource:
+        value:
+          string: UNDP
+      fundingAmount:
+        value:
+          string: $18M
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: Pending Approval
+    - id: c5c26b40-cecd-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:08:03.956Z'
+      name:
+        value:
+          string: Public-Private Coalition of the Declaration of San Martin
+      description:
+        value:
+          html: >-
+            <p>This Coalition of 52 member organizations from government,
+            private sector and civil society seeks to promote sustainable rural
+            development and create synergies between regional governments, the
+            private business sector, producer organizations, NGOs and
+            organizations representing indigenous peoples. The coalition has
+            established an agenda to promote development amazon focused on: i)
+            ensuring land rights and forest native communities and agricultural
+            and forestry producers; ii) optimizing the sustainable use of forest
+            landscapes in the Amazon; iii) building the set of enabling
+            conditions and generate the necessary changes for rural development
+            low emission. Goals of the coalition include reducing deforestation
+            associated with agriculture, creating roadmaps for public - private
+            coordination by Amazon region, designing an architecture of
+            financing, increasing the productivity of agricultural crops and
+            increasing the value of forests and promote forest plantations. It
+            is expected that these measures will open a pathway to build
+            sustainable jurisdictions, especially in the value chains of the
+            Amazon through a Production - Protection approach. A group of
+            companies from the Pro Ucayali network, comprising the largest
+            companies in the region, have joined the coalition.</p>
+      partners:
+        value:
+          string: >-
+            GORE San Martin, GORE Ucayali, GORE Amazonas, GORE Madre de Dios,
+            GORE Huanuco.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Agreement Signed
+    - id: 96b7eb30-cece-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-21T15:13:54.531Z'
+      name:
+        value:
+          string: Activities to improve forest governance in Ucayali
+      description:
+        value:
+          html: >-
+            <p>Ucayali is implementing the following actions directed by the
+            Regional Environmental Authority financed with internal resources
+            and with the support of civil society partners:Complete the process
+            of the Economic and Ecological Zoning meso level;Develop Expedited
+            Procedure for Timber Forest Concessions by an estimated 800,000
+            Ha;Implementation Virtual Platform for Monitoring and Control of
+            Forest by spatial data Infrastructure (IDER);Registration forest
+            plantations of fast growing species:. 2424.757 hectares of a total
+            of 441 Registration plantations; Design proposals for two regional
+            conservation areas with 151,500 ha in size, Tamaya - Abujao and
+            Laguna Encantada (Atalaya); Development a pilot Community Forest
+            Management (322,857.193 ha with permission from timber logging and
+            nontimber) and a pilot of Local Forests: ( Ha 7,500.00, 7,000.00
+            timber ha and 500.00 hanon timber).</p>
+      partners:
+        value:
+          string: 'TPIH, CEDIA, GIZ, Nature and Culture International'
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: 'Technical Assistance Partnership, Public Investment'
+      initiativeStatus:
+        value:
+          string: In Progress
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 73.6
+        src: 73.60%
+    - id: 2
+      value:
+        value: 26.4
+        src: 26.40%
+  citation:
+    html: >-
+      (Instituto Nacional de Estadística e Informática - INEI, 2014) <a
+      href="http://proyectos.inei.gob.pe/web/biblioineipub/bancopub/Est/Lib0844/index.htm">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 17.5
+        src: '17.5'
+    - id: 5
+      value:
+        value: 1.7
+        src: '1.7'
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 3
+      value:
+        value: null
+        src: null
+    - id: 4
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      (Banco Central de Reserva del Perú - BCRP, 2014) <a
+      href="http://www.bcrp.gob.pe/docs/Sucursales/Iquitos/ucayali-caracterizacion.pdf">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-05T16:53:00.088Z'
+  values:
+    - id: u2017b
+      value:
+        value: 48739.4
+        src: null
+    - id: u2017d
+      value:
+        value: 23080.3
+        src: null
+    - id: u2017c
+      value:
+        value: 15329.3
+        src: null
+    - id: u2017g
+      value:
+        value: 15262
+        src: null
+    - id: u2017a
+      value:
+        value: null
+        src: null
+    - id: u2017e
+      value:
+        value: null
+        src: null
+    - id: u2017f
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      &nbsp;UN Environment, CDB Convention of Biological Diversity
+      "https://www.cbd.int/doc/nbsap/sbsap/pe-sbsap-ucayali-es.pdf"
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Manuel
+    lastName: Gambini
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Luigi
+    lastName: Vargas Mera
+    email: lvargasm@regionucayali.gob.pe
+    companyTitle: Manager of the Regional Environmental Authority
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Luis
+    lastName: Briceno Jara
+    email: bricenojara@yahoo.com
+    companyTitle: General Manager of the Regional Government
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: null
+        src: null
+    - id: '1998'
+      value:
+        value: null
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: 117.32
+        src: |
+          117.32
+    - id: '2002'
+      value:
+        value: 107.75
+        src: |
+          107.75
+    - id: '2003'
+      value:
+        value: 121.22
+        src: |
+          121.22
+    - id: '2004'
+      value:
+        value: 117.52
+        src: |
+          117.52
+    - id: '2005'
+      value:
+        value: 226.86
+        src: |
+          226.86
+    - id: '2006'
+      value:
+        value: 124.9
+        src: |
+          124.9
+    - id: '2007'
+      value:
+        value: 103.46
+        src: |
+          103.46
+    - id: '2008'
+      value:
+        value: 173
+        src: |
+          173
+    - id: '2009'
+      value:
+        value: 260.91
+        src: |
+          260.91
+    - id: '2010'
+      value:
+        value: 181.71
+        src: |
+          181.71
+    - id: '2011'
+      value:
+        value: 241.29
+        src: |
+          241.29
+    - id: '2012'
+      value:
+        value: 249.14
+        src: |
+          249.14
+    - id: '2013'
+      value:
+        value: 369.1
+        src: |
+          369.1
+    - id: '2014'
+      value:
+        value: 328.84
+        src: |
+          328.84
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: Peru FREL

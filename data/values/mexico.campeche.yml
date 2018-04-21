@@ -1,0 +1,823 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 41063.28
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 215.67
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 822441
+    string: ''
+  citation:
+    html: >-
+      INEGI, 2013. Volumen y crecimiento. Población total por entidad
+      federativa, 1895 a 2010 <a
+      href="http://www.inegi.org.mx/sistemas/sisept/Default.aspx?t=mdemo148&amp;s=est&amp;c=29192">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 269539000000
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      Anuario estadístico. Campeche, Edición: 2012, Cobertura temporal: 2011
+      Desglose geográfico: Municipal, ISSN: 0188-8587 Formato: Electrónico <a
+      href="http://www.inegi.org.mx/sistemas/bie/?idserPadre=10200070#D0">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 957622.8
+    currency: MXN
+    string: ''
+  citation:
+    html: >-
+      Anuario estadístico. Campeche, Edición: 2012, Cobertura temporal: 2011
+      Desglose geográfico: Municipal, ISSN: 0188-8587 Formato: Electrónico <a
+      href="http://www.inegi.org.mx/sistemas/bie/?idserPadre=10200070#D0">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.8311
+    string: ''
+  citation:
+    html: >-
+      PNUD. El índice de desarrollo humano en México: cambios metodológicos e
+      información para las entidades federativas. 2012 <a
+      href="http://www.miguelcarbonell.com/artman/uploads/1/Indice_de_desarrollo_humano.pdf">link</a>
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 80
+    year: '2020'
+    string: ''
+  citation:
+    html: Estrategia Estatal REDD+ Campeche
+deforestation_rate_target_value:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 23419.6
+    string: ''
+  citation:
+    html: >-
+      CONAFOR, 2016. Iniciativa de Reducción de Emisiones de México <a
+      href="http://www.conafor.gob.mx/web/temas-forestales/iniciativa-de-reduccion-de-emisiones/">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 48679.06
+    string: ''
+  citation:
+    html: Mexico FREL <a href="/assets/downloads/EPRI.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 57924.351
+    string: ''
+  citation:
+    html: >-
+      Mexico FREL <a
+      href="https://www.forestcarbonpartnership.org/sites/fcp/files/2016/Nov/Final__ENGLISH_20november_2016.pdf">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: oil
+  citation:
+    html: >-
+      INEGI.Perspectiva Estadística. Serie por Entidad Federativa. México. <a
+      href="http://cuentame.inegi.org.mx/monografias/informacion/Camp/Economia/default.aspx?tema=ME&amp;e=04#sp">link</a>
+txt_state_description:
+  timestamp: '2018-02-05T16:42:12.409Z'
+  value:
+    html: >-
+      <p>The territory of the State of Campeche has an area of 56,859 km2 of
+      which 76.2% is still a mosaic of forests in relatively good condition. The
+      state has the largest mangrove area (197,000 ha), in Mexico, which is
+      equivalent to 30% of the national total. These forests and mangroves have
+      the highest carbon storage capacities, above 100 MgCl / ha (Government of
+      the State of Campeche, 2012b). Campeche has the largest area under
+      protection (2,278,765.59 ha) through Protected Natural Areas (ANP's) in
+      the Yucatan Peninsula, representing 40% of the state's surface. The good
+      state of conservation and connectivity of the states of Campeche, Yucatan
+      and Quintana Roo, with the forests of Guatemala and Belize in Central
+      America, make the jungles of Campeche one of the areas for the survival of
+      threatened and endangered species with high spatial requirements such as
+      felines (jaguar and puma), or that perform local &quot;migrations&quot;
+      (such as birds or butterflies). Recent studies in Mexico infer that the
+      forests of Campeche probably maintain the largest populations of species
+      such as the jaguar (Panthera onca), the tapir (Tapirus bairdii), the
+      white-lipped peccary (Tayassu pecari), the howler monkey (Alouatta spp) ,
+      the spider monkey (Ateles geoffroyi), the elegant eagle (Spizaetus
+      ornatus), the king vulture (Sarcoramphus papa), the ocellated turkey
+      (Meleagris ocellata) and the snout (Crax rubra) (Campeche State
+      Government, 2012b).</p><p>Most of Campeche's territory is characterized by
+      a subhumid climate and a dense tropical forest.  There is also a lowlands
+      region with lakes and a riparian area.  The &quot;milpa&quot; system,
+      which predominates in the state, requires a deep understanding of specific
+      ecological systems, including the cycles of various plants and the rain
+      cycle, as well as the fallow period required by its soils.  Hunting and
+      gathering are supplementary subsistence activities.  The local natural
+      resources are used as materials to build houses and for energy needs. 
+      Together, these activities along with forestry and livestock activities,
+      have had a devastating impact on the tropical forest, and attempts are
+      being made to reverse the impact through sustainable development programs
+      focused on reforestation and wildlife management.  The State of Campeche
+      faces a great challenge in the face of the potential effects of climate
+      change and of the phenomena of deforestation and forest degradation.
+      Preservation policy has brought about the creation of various protected
+      areas, among them the Calakmul Biosphere Reserve--notable for the number
+      of indigenous migrants who live within the reserve's 723,185 hectares of
+      forest and also for plans to develop ecological and archaeological tourism
+      opportunities.</p><p>More information can be fond on the <a
+      href="http://gcfimpact.org/states?region=1434,states">GCF Impact
+      Platform.</a></p>
+  citation:
+    html: >-
+      INEGI. Censo de Población y Vivienda 2010. Panorama sociodemográfico de
+      Campeche. 2011. <a
+      href="http://www.inegi.org.mx/prod_serv/contenidos/espanol/bvinegi/productos/censos/poblacion/2010/panora_socio/camp/Panorama_Cam.pdf">link</a>
+frameworksLawsPoliciesStrategies:
+  timestamp: '2017-11-07T18:32:17.015Z'
+  value:
+    html: >-
+      <p><strong>Strategies and Policies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Campeche%20State%20Climate%20Change%20Plan.pdf"><strong>State
+      Action Plan on Climate Change</strong></a> - Campeche's State Action Plan
+      on Climate Change outlines its vision through 2030, including conserving,
+      restoring and managing ecosystems.  The action plan aims to have 80% of
+      its territory under protection by 2030, turn the LULCF sector to carbon
+      positive (absorbing 2,000,000 tc02eq), and increase investment in
+      mitigation activities.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Campeche%20EEREDD+.pdf"><strong>State
+      REDD+ Strategy</strong></a><strong> (EE-REDD+)</strong> - Campeche is the
+      only GCF state in Mexico to have a finalized REDD+ strategy (EEREDD +),
+      which was published in 2015.</p><p><strong>Laws and
+      Regulations</strong></p><p><strong>Decree 271</strong><strong> 2/10/2009
+      Law that Creates the State Forestry Commission -</strong> Establishes
+      general guidelines for the conservation, protection, and sustainable
+      management of forests in Campeche while establishing the State Forestry
+      Commission and State Forestry State Forestry Program.</p><p><strong>Decree
+      145</strong><strong>  3/7/2008 State Law on Sustainable Forest Development
+      - </strong>Serves to regulate and promote the conservation, protection,
+      restoration, management and use of forest resources; establishes the state
+      forest inventory; and provides provisions for the organization and
+      training of farmers and promotion of investments needed to encourage
+      sustainable forest development in the State of
+      Campeche.</p><p><strong>Decree 182</strong><strong> 8/12/2002</strong>
+      <strong>Wildlife Act of the State of Campeche </strong>- Establishes
+      standards for the protection and conservation of wildlife habitat, in
+      accordance with the General Wildlife law.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-07T18:32:54.276Z'
+  value:
+    html: >-
+      <p><strong>Environment and Natural Resources Secretariat of
+      Campeche</strong><strong> (SEMARNAT</strong>) - Promotes sustainable
+      development and promotes the protection, restoration and conservation of
+      natural resources. Responsible for implementing
+      REDD+.</p><p><strong>Sustainable Development Secretariat (SMAAS) of the
+      State Government of Campeche </strong>- Responsible for forest management,
+      control of fires, management of protected areas and indigenous
+      territories, forest/deforestation monitoring.</p><p><strong>Rural
+      Development Secretariat of Campeche (SDR) </strong>- Oversees activities
+      in the agricultural sector and promotes sustainable rural
+      development</p><p><strong>Procuraduria Ambiental</strong>
+      <strong>(PROFEPA)</strong> - Oversees law enforcement</p><p><strong>REDD+
+      Technical Advisory Council (CTC) for the State of
+      Campeche</strong></p><p>The CTC allows the integration of producers and
+      representatives of the social base and civil organization including
+      academic sectors, civil associations and NGOs, and consult the projects
+      and programs in the design and construction of the State Strategy REDD +
+      of Campeche.</p><p>The CTC designed a State Council on REDD +, which will
+      boost efforts in Campeche to build the State's REDD + Strategy and Vision,
+      and give strength to the programs and actions promoted by government
+      authorities including the Coffee Agenda and White Agenda of the Economic
+      and Regional Sectorial Committee of the Forest, formed within the Planning
+      Committee for the Development of the State of Campeche (COPLADECAM), the
+      highest state planning body.</p><p><br /></p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2018-03-16T15:30:24.192Z'
+  value:
+    html: >-
+      <p>In Campeche ecological zoning (Ordenamiento Ecológico)  is an
+      environmental policy tool used to regulate land use, protect the
+      environment, and preserve the sustainable use of natural resources. 
+      Zoning is carried out at the municipal level, with plans completed for <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/campeche/campeche_calakmul_zoning.pdf"
+      target="_blank">Calakmul</a>, <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/campeche/campeche_campeche_zoning.pdf"
+      target="_blank">Campeche</a>, and <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/mexico/campeche/campeche_champoton_zoning.pdf"
+      target="_blank">Champoton.</a></p>
+  citation:
+    html: ''
+frameworksSafeguards:
+  timestamp: '2018-03-16T15:34:31.682Z'
+  value:
+    html: ''
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-09-20T17:00:20.690Z'
+  value:
+    html: >-
+      <p>Mainly driven by conversion to pasture land and to a lesser extent by
+      agricultural land. A lack of forestry related economic activities also
+      contributes.</p>
+  citation:
+    html: ''
+initiatives:
+  rows:
+    - id: e8181e20-9d62-11e7-936d-a3cde4287d33
+      timestamp: '2017-09-19T18:22:02.449Z'
+      name:
+        value:
+          string: Monitoring of tropical forests "FOREST 2020"
+      description:
+        value:
+          html: >-
+            <p>The UK Space Agency through the International Collaboration
+            Program initiates a project to improve global forest management and
+            protection on 300 million hectares of tropical forest "Forest 2020"
+            to assist countries with high biological diversity improve the
+            management and conservation of their forest ecosystems, through the
+            monitoring of tropical forests. Ecometrica is the international
+            consortium that brings together international experts for the
+            monitoring of forests in the world, including: University of
+            Edinburgh, University of Leicester and Edinburgh Carbomap. For
+            Mexico, window areas were selected in two states, Jalisco
+            (345,531.82 ha.) And Chiapas (500,015.61 ha.), Signing collaboration
+            agreements with local partners such as FIPRODEFO in Jalisco,
+            PRONATURA-SUR, AMBIO and ECOSUR in Chiapas.</p>
+      partners:
+        value:
+          string: Ecometrica FIPRODEFO
+      fundingSource:
+        value:
+          string: UK Space Agency
+      fundingAmount:
+        value:
+          string: '$9’000,000.00 '
+      initiativeType:
+        value:
+          string: Technical Assistance Partnership
+      initiativeStatus:
+        value:
+          string: '$1’630,000 pesos have been invested in 2016-2017'
+    - id: 38ec87a0-c3e2-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T18:08:42.706Z'
+      name:
+        value:
+          string: >-
+            Yucatan Peninsula Framework Agreement on Sustainability for 2030
+            (ASPY 2030)
+      description:
+        value:
+          html: >-
+            <p>At COP 13 of the Conventions on Biodiversity held in Cancun in
+            2016, Quintana Roo, the Governments of the Yucatan Peninsula signed
+            a collaborative work plan for 2030 called "Agreement for
+            Sustainability of the Yucatan Peninsula" (ASPY 2030). This agreement
+            strengthens collaboration among subnational governments to
+            facilitate transition and compliance with the Paris Agreement, the
+            Bonn Challenge, Rio Branco Declaration and the Aichi Goals among
+            others. The implementation of the ASPY 2030 will occur through the
+            Regional Climate Change Commission, formed through the first
+            regional agreement on climate change signed at COP16 in 2010, and
+            supported by NGO initiatives such as the Mayan Forest Observatory
+            which generates inputs for forest policy. ASPY 2030 covers 8
+            components, each with specific lines of action:</p><ul
+            type="disc"><li class="MsoNormal">Sustainable agricultural
+            development</li><li class="MsoNormal">Effective forest
+            management</li><li class="MsoNormal">Ecosystem conservation</li><li
+            class="MsoNormal">Water and ecosystems</li><li
+            class="MsoNormal">Sustainable coastal management</li><li
+            class="MsoNormal">Sustainable fisheries</li><li
+            class="MsoNormal">Green and responsible market development</li><li
+            class="MsoNormal">Sustainable tourism</li></ul><p>ASPY is also
+            supported by a Declaration of the Private and Financial Sector, in
+            which 70 companies of great impact in the region have expressed
+            their interest in contributing social and environmental
+            responsibility towards corporate sustainability, which will
+            contribute strongly to achieving the goals of the Agreement of
+            Governors of the Yucatan Peninsula, ASPY 2030. The Governors of ASPY
+            2030 are: Mr. Rolando Zapata Bello, Governor of Yucatan, Mexico;
+            Lic. Carlos Joaquín González, Governor of Quintana Roo, Mexico and
+            Lic. Rafael Alejandro Moreno Cárdenas, Governor of Campeche,
+            Mexico.</p>
+      partners:
+        value:
+          string: >-
+            State governments in collaboration with private sector actors, civil
+            society and the federal government
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Development phase (implementation plan finalized in June 2017)
+    - id: a2e91c50-c3e6-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T18:08:20.117Z'
+      name:
+        value:
+          string: 'Tumbira Letter: A Call to Action '
+      description:
+        value:
+          html: >-
+            <p>The National Association of State Environmental Authorities
+            (ANAAE), who chairs the Government of Campeche through the
+            Secretariat of Environment and Natural Resources of Campeche
+            (SEMARNATCAM) is promoting a new regional model of cooperation
+            through the signing of the Charter of Tumbira: A Call to Action in
+            May 2017, in the city of Manaus, Brazil.The purpose of the call is
+            to strengthen cooperation between Latin American institutions in
+            efforts to advance the Sustainable Development Goals. This model
+            represents an example of leadership and teamwork to motivate and
+            direct investment towards the strategic and responsible use of
+            natural resources in Latin America.Outreach to additional members of
+            the alliance, including from the private sector, has begun.</p>
+      partners:
+        value:
+          string: >-
+            Governments and private sector leaders of Bolivia, Brazil, Mexico
+            and Peru
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Public Private Partnership
+      initiativeStatus:
+        value:
+          string: Planning phase (Charter signed in May 2017)
+    - id: 857d1bc0-c3e7-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T18:14:40.252Z'
+      name:
+        value:
+          string: >-
+            Leadership Group of Subnational Governments for Meeting the Aichi
+            Biodiversity Targets
+      description:
+        value:
+          html: >-
+            <p>Within the framework of the Conference of the Parties of the
+            Convention on Biodiversity (COP13) held in December 2016 in Cancun,
+            Quintana Roo, the Campeche Secretary of Environment and Natural
+            Resources of Campeche (SEMARNATCAM) in coordination with the
+            National Commission for Knowledge and Use of Biodiversity (CONABIO)
+            and Local Governments for Sustainability (ICLEI) co - organized the
+            5th Global Biodiversity Summit of Cities and subnational
+            governments. As a result of the meeting, leaders of subnational
+            governments established an intative to build a new cooperative
+            approach to exchange experiences and best practices, and established
+            a plan of action for participating governments to meet the Aichi
+            Biodiversity Targets.</p>
+      partners:
+        value:
+          string: >-
+            Aichi, Japan; Catalonia, Spain; Ontario and Quebec in Canada; and
+            Sao Paulo, Brazil
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Government Partnership
+      initiativeStatus:
+        value:
+          string: Development of the 2017-2018 Action Plan
+    - id: bde54e00-c3e8-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T18:23:24.384Z'
+      name:
+        value:
+          string: 'Yucatan Peninsula Climate Fund '
+      description:
+        value:
+          html: >-
+            <p>The Yucatan Peninsula Climate Fund was established in 2016 in
+            partnership with the three Autonomous Universities of Campeche,
+            Quintana Roo and Yucatan.The state governments participate as
+            members of the Advisory Council of the fund which has the mission of
+            supporting regional intiatives to mitigate and adapt to climate
+            change by funding regional climate priorities. It will also seek to
+            be a regional counterpart in the REDD+ payment scheme of the FCPF
+            Carbon Fund, in coordination with CONAFOR. This fund started
+            operations in December 2016, in phase 1, developing the executive
+            plan to implement the trust, coordinating the operational strategy
+            of the Advisory Council, designing the fundraising plan and the
+            procedures manual. This Fund is a trust that can capture and
+            distribute resources in a regional and state way, so that it can
+            receive private and international resources for the development of
+            climate policy actions.</p>
+      partners:
+        value:
+          string: >-
+            The Nature Conservancy, state governments of Quinatana Roo, Campeche
+            and Yucatan, Autonomous Universities of Campeche, Quintana Roo and
+            Yucatan
+      fundingSource:
+        value:
+          string: Private and International Funding including the FCPF Carbon Fund
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Financing Intiative
+      initiativeStatus:
+        value:
+          string: Development of Executive Plan (first phase of implementation)
+    - id: 347ea200-c3e9-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T18:26:43.360Z'
+      name:
+        value:
+          string: State Plan on Safegurads (Plan Estatal de Salvaguardas - PES) REDD+
+      description:
+        value:
+          html: >-
+            <p>The state plan on safeguards (PES for its acronym in Spanish) is
+            the operational instrument for environmental and social risk
+            management through which Campeche, as one of the 5 Mexican states
+            within the Emission Reduction Initiative (IRE) of the FCPF Carbon
+            Fund, will promote the guidelines, mechanisms and procedures
+            established in the World Bank Safeguards Framework to reduce and
+            manage risks and enhance the benefits associated with REDD +
+            activities that will be developed within Campeche’s Investment
+            Programs for the IRE. The PES will have a validity of 5 years to
+            coincide with the implementation of the IRE. Campeche prepared the
+            draft of its Plan, which Mexico proposed to the World Bank in June
+            2017. After the validation, the final version of the PES of each of
+            the 5 Mexican states will be integrated.</p>
+      partners:
+        value:
+          string: National Forestry Commision (CONAFOR)
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Indigenous Peoples initiative
+      initiativeStatus:
+        value:
+          string: Planning stage (draft version complete)
+    - id: c090e730-c402-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-07T21:29:35.779Z'
+      name:
+        value:
+          string: Milpa Maya Program
+      description:
+        value:
+          html: >-
+            <p>The Special Concurrent Program of the Maya Milpa Regions and Area
+            of Influence of the State of Yucatan recognizes the historical,
+            environmental, social, economic, cultural and legal factors that
+            affect the milpa as a form of production and reproduction of the
+            Maya community in the State of Yucatan. It identifies and develops
+            proposals to improve living conditions and increase levels of
+            well-being for Mayan families. The Milpa Program of the Milpera
+            Region and area of influence has the purpose of guaranteeing and
+            promoting the responsible and efficient use of the ecosystem
+            services that ecosystems provide to society and whose benefits are
+            distributed as widely as possible for human well-being.</p>
+      partners:
+        value:
+          string: >-
+            State Government units that make up the Intersecretarial Commission
+            for Sustainable Rural Development; State Council for Sustainable
+            Rural Development.
+      fundingSource:
+        value:
+          string: ''
+      fundingAmount:
+        value:
+          string: ''
+      initiativeType:
+        value:
+          string: Indigenous Peoples Initiative
+      initiativeStatus:
+        value:
+          string: >-
+            Integration of the Intersecretarial Commission for Sustainable Rural
+            Development and budget programming for 2018.
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 74.6
+        src: '74.6'
+    - id: 2
+      value:
+        value: 25.4
+        src: '25.4'
+  citation:
+    html: >-
+      INEGI, 2014. Perspectiva estadística Campeche <a
+      href="http://internet.contenidos.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/integracion/estd_perspect/sep_2014/camp/702825060374.pdf">link</a>
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 77
+        src: '77'
+    - id: a2
+      value:
+        value: 10
+        src: '10'
+    - id: a7
+      value:
+        value: 7
+        src: '7'
+    - id: a3
+      value:
+        value: 2
+        src: '2'
+    - id: a4
+      value:
+        value: 1.8
+        src: '1.8'
+    - id: a5
+      value:
+        value: 1.1
+        src: '1.1'
+  citation:
+    html: >-
+      EPRI, 2012. Overview of Subnational Programs to Reduce Emissions from
+      Deforestation and Forest Degradation (REDD) as Part of the Governors’
+      Climate and Forests Task Force, Palo Alto.
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a2
+      value:
+        value: 81.8
+        src: '81.8'
+    - id: a3
+      value:
+        value: 17.1
+        src: '17.1'
+    - id: a1
+      value:
+        value: 1.1
+        src: '1.1'
+  citation:
+    html: >-
+      calculated using values derived from INEGI, 2013, <a
+      href="http://www3.inegi.org.mx/sistemas/mexicocifras/default.aspx?e=4">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-07T17:05:33.869Z'
+  values:
+    - id: u2017e
+      value:
+        value: 25691
+        src: null
+    - id: u2017f
+      value:
+        value: 7759
+        src: null
+    - id: u2017d
+      value:
+        value: 2439
+        src: null
+    - id: u2017k
+      value:
+        value: 2384.33
+        src: null
+    - id: u2017l
+      value:
+        value: 800
+        src: null
+    - id: u2017j
+      value:
+        value: 346
+        src: null
+    - id: u2017h
+      value:
+        value: 8
+        src: null
+    - id: u2017c
+      value:
+        value: null
+        src: null
+    - id: u2017i
+      value:
+        value: null
+        src: null
+    - id: u2017a
+      value:
+        value: null
+        src: null
+    - id: u2017b
+      value:
+        value: null
+        src: null
+    - id: u2017g
+      value:
+        value: null
+        src: null
+  citation:
+    html: ERPD annexes
+forest_management:
+  timestamp: '2017-12-12T17:11:50.180Z'
+  values:
+    - id: u2017a
+      value:
+        value: 28391
+        src: null
+    - id: u2017b
+      value:
+        value: 19403
+        src: null
+    - id: u2017c
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      http://osse.org.mx/Recursos/Investigaciones/Estad%C3%ADsticas/Propiedad-Social/Ejidos
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 3
+      value:
+        value: 25.7
+        src: '25.7'
+    - id: 1
+      value:
+        value: null
+        src: null
+    - id: 2
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Nájera M, Y. Rodríguez y M. Zorrilla, 2011. Enfoque estratégico, arreglos
+      institucionales y corredores clave para REDD+ y la conservación de la
+      biodiversidad en el estado de Campeche. <a
+      href="http://www.conafor.gob.mx:8080/documentos/docs/35/4447An%C3%A1lisis%20del%20enfoque%20estrat%C3%A9gico,%20arreglos%20institucionales%20para%20REDD_%20en%20Campeche.pdf">link</a>
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Rafael Alejandro
+    lastName: Moreno Cardenas
+    email: ''
+    companyTitle: ''
+  citation:
+    html: ''
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Roberto
+    lastName: Alcala
+    email: tao8@hotmail.com
+    companyTitle: Secretario de Medio Ambiente y Recursos Naturales del estado de Campeche
+  citation:
+    html: ''
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Martha
+    lastName: San Roman
+    email: martha.sanroman.estrategia@gmail.com
+    companyTitle: Directora de Política Ambiental
+  citation:
+    html: ''
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 361.41
+        src: '361.41'
+    - id: '1997'
+      value:
+        value: 361.41
+        src: '361.41'
+    - id: '1998'
+      value:
+        value: 361.41
+        src: '361.41'
+    - id: '1999'
+      value:
+        value: 361.41
+        src: '361.41'
+    - id: '2000'
+      value:
+        value: 361.41
+        src: '361.41'
+    - id: '2001'
+      value:
+        value: 361.41
+        src: '361.41'
+    - id: '2002'
+      value:
+        value: 447.42
+        src: '447.42'
+    - id: '2003'
+      value:
+        value: 447.42
+        src: '447.42'
+    - id: '2004'
+      value:
+        value: 447.42
+        src: '447.42'
+    - id: '2005'
+      value:
+        value: 447.42
+        src: '447.42'
+    - id: '2006'
+      value:
+        value: 447.42
+        src: '447.42'
+    - id: '2007'
+      value:
+        value: 447.42
+        src: '447.42'
+    - id: '2008'
+      value:
+        value: 292.745
+        src: |
+          292.745
+    - id: '2009'
+      value:
+        value: 292.745
+        src: |
+          292.745
+    - id: '2010'
+      value:
+        value: 292.745
+        src: |
+          292.745
+    - id: '2011'
+      value:
+        value: 292.745
+        src: |
+          292.745
+    - id: '2012'
+      value:
+        value: null
+        src: null
+    - id: '2013'
+      value:
+        value: null
+        src: null
+    - id: '2014'
+      value:
+        value: null
+        src: null
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: INEGI/FCPF FREL
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      CONAFOR, 2016. Iniciativa de Reducción de Emisiones de México <a
+      href="http://www.conafor.gob.mx/web/temas-forestales/iniciativa-de-reduccion-de-emisiones/">link</a>
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      CONAFOR, 2016. Iniciativa de Reducción de Emisiones de México <a
+      href="http://www.conafor.gob.mx/web/temas-forestales/iniciativa-de-reduccion-de-emisiones/">link</a>

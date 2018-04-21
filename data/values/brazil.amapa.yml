@@ -1,0 +1,522 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 101700
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1452.3
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 782295
+    string: ''
+  citation:
+    html: '<a href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=ap">IBGE</a>'
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 13400000000
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ap&amp;tema=contasregionais2009">IBGE</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 17845.34
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ap&amp;tema=contasregionais2009">IBGE</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.708
+    string: ''
+  citation:
+    html: '<a href="http://www.ipeadata.gov.br/">IPEA</a>'
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 80
+    year: '2020'
+    string: ''
+  citation:
+    html: Rio Branco Declaration
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: null
+    year: '2020'
+    string: ''
+  citation:
+    html: ''
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 113946.75
+    string: ''
+  citation:
+    html: >-
+      FONTE:  Macrodiagnóstico do Estado do Amapá, Primeira Aproximação do ZEE -
+      3a. Edição/2008 Tabor e M. Steininger. 2004. Estimativas de perda da área
+      do Cerrado brasileiro. Relatório técnico não publicado. Conservação
+      Internacional, Brasília, DF.
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 142828.52
+    string: ''
+  citation:
+    html: >-
+      Instituto Brasileiro de Geografia e Estatística -IBGE <a
+      href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=ap">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Gold iron and other ores, wood and fruit.'
+  citation:
+    html: >-
+      <a
+      href="http://www.mdic.gov.br//sitio/interna/interna.php?area=5&amp;menu=1076">MDIC</a>
+txt_state_description:
+  timestamp: '2017-12-27T20:22:11.385Z'
+  value:
+    html: >-
+      <p>Among the states of the Brazilian Amazon, Amapá has more than 60% of
+      its territory (143.453.70 km²) under some special modality of protection,
+      there are 19 Conservation Units (CUs). The state has an important forestry
+      economic sector, with extraction of wood and non-timber products
+      (including açaí, brazil nuts and lianas). Mineral extraction consists of
+      91% of the export of the amapaense market, wood contributes 5% and only
+      1.5% are fruits, pulps and derivatives of plants. </p><p>The government
+      has developed the Plan of Prevention and Control of Deforestation and
+      Burning of the State of Amapá (PPCDAP), which aims to contain
+      deforestation by means of 4 main types of actions: territorial planning,
+      monitoring and control, promotion of sustainable economic activities and
+      governance and institutional strengthening. </p><p>Currently, Amapá does
+      not have an official regulatory framework on Climate Change, Environmental
+      Services or REDD +. However, discussions are ongoing between government,
+      civil society and academic institutions about creating a formal strategy
+      for environmental services and REDD +. A Bill is being formulated with the
+      objective of regulating strategies aimed at encouraging sustainability
+      through Environmental Services Payments Programs. </p><p>Currently, the
+      use of natural resources on a sustainable basis is one of the greatest
+      challenges for the State Government. In this context, the State Forest of
+      Amapá (FLOTA / AP) was created, with approximately 23,694 km ². The FLOTA
+      / AP is a Sustainable Use Conservation Unit that promotes the orderly
+      occupation of land and the use of natural resources in the face of
+      principles of sustainable forest management with technical, social,
+      economic and ecological approaches. </p><p>Further studies are needed for
+      the elaboration of strategies for mitigation and compensation for GHG
+      emissions (Greenhouse Gases) arising from anthropization processes in the
+      areas of the State forests. In this context, the State Institute of
+      Forests of Amapá (IEF / AP) concluded a work that quantified the carbon
+      stocks in a fragment of Dense Forest of Terra Firma of FLOTA / AP. This
+      study was carried out in collaboration with the National Institute of
+      Amazonian Research (INPA) and the Center for Agroforestry Research
+      (Embrapa Amapá). </p><p>Embrapa Amapá develops a research project together
+      with other national and state institutions, including IEF / AP. The
+      objective is to evaluate the environmental services provided by FLOTA /
+      AP, with emphasis on module 4. The project completion forecast is
+      mid-2013, the information collected will subsidize the implementation of a
+      REDD + pilot project in the state of Amapá. </p><p>Additional information
+      can be  found on the <a
+      href="http://gcfimpact.org/states?region=3216,states"><strong>GCF Impact
+      Platform</strong></a></p>
+  citation:
+    html: ''
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-09T20:50:09.145Z'
+  value:
+    html: >-
+      <p><strong>Policies and Strategies</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Amapa%20PPCD.pdf"><em>Plan
+      for Deforestation Prevention and Contro</em></a><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Amapa%20PPCD.pdf"><em>l
+      </em><strong><em>-</em></strong></a><strong><em> </em></strong>Amapa's
+      PPCD was completed in 2009.  <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Amapa%20PPCD.pdf">The
+      plan</a> is organized around four lines of action: Territorial Planning;
+      Monitoring and Control; Promotion of sustainable activities; and
+      Governance and Institutional Strengthening.  Amapa is in the process of
+      finalizing the next phase of its PPCD.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amapa/amapa_state_forest_management_plan.pdf"><em>State
+      Forest Management Plan</em></a><em> </em><strong><em>- </em></strong>In
+      2014 Amapa passed its State Forest Management plan through <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Amapa%20Forest%20Management%20Plan%20Regulation.pdf">Joint
+      Order SEMA/IEF/AP No. 1</a></p><p><strong>Laws and
+      Regulations</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amapa/amapa_law_1176_2008.pdf"><em>Law
+      1,176 of 02/01/2008</em></a><em>-</em> provides for the organization of
+      the Executive Branch of the State of Amapá, which deal respectively with
+      the structure organizational structure and the structure of positions of
+      the Secretariat of State for the Environment - SEMA.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amapa/amapa_law_702_2002.pdf"><em>Law
+      0702 of 28/06/02</em></a>- Provides on the State Policy of Forests and
+      other Forms of Vegetation of the State of Amapá and other
+      measures.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/amapa/amapa_law_267_1996.pdf"><em>Law
+      0267 OF  09/04/1996</em></a> - Creates the Secretariat of the Environment
+      - SEMA and gives other measures.</p><p><a
+      href="https://docs.google.com/document/d/1xknxDVLQKW38Ty664IyIL-OL_C97-s2NguX6dM2axc4/edit?pli=1"><em>Draft
+      Climate Change Law</em></a><strong>- </strong>The current draft climate
+      change law provides a broad framework for climate change mitigation and
+      adaptation measures. The law consists of principles, definitions,
+      objectives, and instruments to address energy, transport, solid waste,
+      REDD, and other sectors. The law creates the Climate Change System, which
+      defines the institutional arrangement as well as instruments such as a
+      Climate Change Plan with 5 programs: Education and capacity building for
+      climate change; a “Bolsa Floresta” (forest allowance) as a compensation
+      mechanism for forest peoples; carbon stock monitoring; clean technologies
+      and alternative energy.</p><p>The law was drafted in 2009  and new efforts
+      are underway in 2016 to pass the law.</p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-11-01T14:49:16.581Z'
+  value:
+    html: >-
+      <p><strong>State Environmental Secretariat (SEMA)</strong> - Founded in
+      1989 with a purpose to guide the environmental policy of the State of
+      Amapá. Develops policies and norms related to Protected Area management,
+      responsible for planning, executing and managing projects and activities
+      and administration of Conservation Units<br /><br /><strong>Center for the
+      Green Agenda - SEMA</strong> - responsible for coordinating, monitoring
+      and evaluating the implementation of the Environmental Policies and
+      Standards for the use and access to Natural Resources in the biodiversity
+      of the State of Amapá.  </p><p><strong>Center for Climate Change and REDD+
+      - SEMA </strong>-The Climate Change and REDD + Center was created in
+      January 2016, is directly linked to the Secretary's office and is
+      responsible for promoting discussion, establishing parameters and creating
+      mechanisms, as well as providing strategies for adaptation and mitigation
+      of the effects of climate change on the population urban and rural areas
+      of Amapá.</p><p><strong>State Environmental and Territorial Planning
+      Institute (IMAP) </strong>– Linked to SEMA; has three main
+      responsibilities: land tenure regulation, environmental licensing, and
+      control and surveillance<br /><br /><strong>The State Environmental
+      Council (COEMA)- </strong>Responsible for establishing the guidelines and
+      proposal of the defense policy, preservation and improvement of the
+      environment,</p><p><strong>State Rural Development Secretariat
+      (SDR)</strong> - Develops policies and norms associated with agriculture
+      and cattle ranching</p><p><strong>State Forestry Institute (IEF)</strong>
+      – Linked to SDR; responsible for executing the policies for and management
+      of State Forests</p><p><strong>State Rural Development Institute
+      (RURAP)</strong> - Linked to SDR; responsible for rural extension and
+      technical assistance</p><p><strong>State Scientific and Technical Research
+      Institute (IEPA)</strong> –  Linked to Science and Technology Secretariat;
+      responsible for development of the EEZ</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-10-31T16:44:13.995Z'
+  value:
+    html: >-
+      <p>Ecological and Economic Zoning (<em>Zoneamento Ecológico-Econômico –
+      </em><em>ZEE)</em> is required by the Federal Government to designate
+      areas for economic and conservation activities within each state’s
+      territory. In Amapa the  State Scientific and Technical Research Institute
+      (IEPA) is responsible for development of the ZEE, which is based in State
+      law No. 919 of 18 August 2005. Amapa performed a <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Amapa%20ZEE.pdf">state-wide
+      analysis for it its ZEE</a>in 2008 and has performed additional detailed
+      analyses for the Cerrado and <a
+      href="http://www.iepa.ap.gov.br/biblioteca/publicacoes/atlas2.pdf.pdf">southern
+      area of the state</a>. Amapa has yet to normalize its ZEEs through legal
+      instruments. </p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    html: >-
+      <p>No official study on the drivers and causes of deforestation for the
+      State of Amapá exists, but information on deforestation trends is
+      available both from state and federal monitoring programs. An Amapá State
+      Secretariat of Environment (SEMA) report on deforestation over the
+      2005-2006 period reveals that 130 km² were deforested in the 2005-2006
+      period, with 89% of that deforestation occurring within 10 km of roads, in
+      accordance with patterns observed elsewhere in the Amazon. The report also
+      concludes that 84% of individual patches cleared in this period are
+      relatively small, ranging from 0 to 10 ha. These small patches represented
+      31% of total deforestation, whereas patches ranging from 10 to 50 ha
+      accounted for 33% of total deforestation (but only 14% of all patches
+      cleared). One quarter of total deforestation was caused by clearing of
+      only 15 large (100-500 ha) patches.  </p><p>Considering that 81% of the
+      deforestation in 2005-2006 occured in the savannahs (Cerrado) and in the
+      Terra Firme Highland Forests combined and that 37% of this deforestation
+      occurred in the cerrado, it is possible to assume that silviculture
+      (eucalyptus) has been growing in the cerrado areas and may be responsible
+      for deforestation patches over 100 ha. Sixty-three percent of
+      deforestation occurred in Dense Highland Forests. Deforestation
+      encompasses settlement projects and other small households in protected
+      areas dedicated to subsistence agriculture. Eighteen percent of total
+      deforestation took place within 31 settlement projects.</p><p>Meanwhile,
+      PRODES detected an increase in annual deforestation from 2007 (7 km²) to
+      2008 (100 km²). Although this difference falls within the analysis’ margin
+      of error (as described in the monitoring methodology), long-term
+      monitoring by PRODES shows increasing annual deforestation rates before
+      and after this period. </p>
+  citation:
+    html: ''
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 89.77
+        src: '89.77'
+    - id: 2
+      value:
+        value: 10.23
+        src: '10.23'
+  citation:
+    html: '<a href="http://www.ibge.gov.br/estadosat/perfil.php?sigla=ap.">IBGE</a>'
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 65.23
+        src: '65.23'
+    - id: a2
+      value:
+        value: 23.97
+        src: '23.97'
+    - id: a3
+      value:
+        value: 8.7
+        src: '8.7'
+    - id: a4
+      value:
+        value: 1.11
+        src: '1.11'
+    - id: a6
+      value:
+        value: 0.99
+        src: '0.99'
+  citation:
+    html: >-
+      <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=ap&amp;tema=resultuniverso_censo2010">IBGE</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 87.4
+        src: '87.4'
+    - id: a4
+      value:
+        value: 10.5
+        src: '10.5'
+    - id: a2
+      value:
+        value: 2.2
+        src: '2.2'
+    - id: a5
+      value:
+        value: 0.44
+        src: '0.44'
+  citation:
+    html: >-
+      <a
+      href="www.ibge.gov.br/home/estatistica/economia/contasregionais/2009/defaultrepond_zip.shtm">IBGE</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-06T22:59:43.251Z'
+  values:
+    - id: u2017b
+      value:
+        value: 110686.54
+        src: null
+    - id: u2017e
+      value:
+        value: 30275.98
+        src: null
+    - id: u2017d
+      value:
+        value: 1291.43
+        src: null
+    - id: u2017c
+      value:
+        value: 511.45
+        src: null
+    - id: u2017a
+      value:
+        value: 0.07
+        src: null
+  citation:
+    html: TerraClass 2014<br><br>
+forest_management:
+  timestamp: '2017-12-06T22:03:51.531Z'
+  values:
+    - id: u2017a
+      value:
+        value: 90776
+        src: null
+    - id: u2017b
+      value:
+        value: 10924
+        src: null
+  citation:
+    html: ''
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 95.96
+        src: '95.96'
+    - id: 2
+      value:
+        value: 3.02
+        src: '3.02'
+    - id: 3
+      value:
+        value: 0.121
+        src: '0.121'
+  citation:
+    html: 'INPE <a href="http://www.obt.inpe.br/degrad/">link</a>'
+governor:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Antônio Waldez
+    lastName: Góes da Silva
+    email: ''
+    companyTitle: ''
+  citation:
+    html: >-
+      Site do Amapá, acessado em 28/11/2016 <a
+      href="http://www.ap.gov.br/estrutura/governo">link</a>
+representative_1:
+  timestamp: '2018-02-05T16:12:13.241Z'
+  value:
+    firstName: Bernardino
+    lastName: Nogueira dos Santos
+    email: bernardino.pt@bol.com.br
+    companyTitle: Secretário de Estado do Meio Ambiente
+  citation:
+    html: '-'
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Marcos
+    lastName: da Silva Tenório
+    email: marcostenorio@ief.ap.gov.br
+    companyTitle: Diretor do Instituto Estadual de Florestas
+  citation:
+    html: '-'
+deforestation_rates:
+  timestamp: '2017-12-01T20:38:24.775Z'
+  values:
+    - id: '1996'
+      value:
+        value: null
+        src: null
+    - id: '1997'
+      value:
+        value: 18
+        src: null
+    - id: '1998'
+      value:
+        value: 30
+        src: null
+    - id: '1999'
+      value:
+        value: null
+        src: null
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: 7
+        src: null
+    - id: '2002'
+      value:
+        value: null
+        src: null
+    - id: '2003'
+      value:
+        value: 25
+        src: null
+    - id: '2004'
+      value:
+        value: 46
+        src: null
+    - id: '2005'
+      value:
+        value: 33
+        src: null
+    - id: '2006'
+      value:
+        value: 30
+        src: null
+    - id: '2007'
+      value:
+        value: 39
+        src: null
+    - id: '2008'
+      value:
+        value: 100
+        src: null
+    - id: '2009'
+      value:
+        value: 70
+        src: null
+    - id: '2010'
+      value:
+        value: 53
+        src: null
+    - id: '2011'
+      value:
+        value: 51
+        src: null
+    - id: '2012'
+      value:
+        value: 27
+        src: null
+    - id: '2013'
+      value:
+        value: 23
+        src: null
+    - id: '2014'
+      value:
+        value: 31
+        src: null
+    - id: '2015'
+      value:
+        value: 25
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Prodes <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2015n.htm">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: ''
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: ''

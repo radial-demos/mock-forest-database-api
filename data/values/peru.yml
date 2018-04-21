@@ -1,0 +1,292 @@
+national_population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 30814175
+    string: ''
+  citation:
+    html: >-
+      (Instituto Nacional de Estadística e Informática - INEI, 2014) <a
+      href="http://www.inei.gob.pe/">link</a>
+national_gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 434611945999
+    currency: PEN
+    string: ''
+  citation:
+    html: >-
+      Ministerio de Economía y Finanzas, Estadísticas, Política Económica y
+      Social <a
+      href="www.mef.gob.pe/index.php?option=com_content&amp;view=article&amp;id=266%3Aestadisticas&amp;catid=136%3Aestadisticas&amp;Itemid=100236&amp;lang=es">link</a>
+national_per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 17852.69
+    currency: PEN
+    string: ''
+  citation:
+    html: >-
+      (Instituto Nacional de Estadística e Informática - INEI, 2012) <a
+      href="http://www.inei.gob.pe/">link</a>
+national_human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.741
+    string: ''
+  citation:
+    html: >-
+      UNDP 2013. Human Development Report. The Rise of the South: Human Progress
+      in a Diverse World. Summary, New York <a
+      href="http://hdr.undp.org/en/media/HDR2013_EN_Summary.pdf">link</a>
+national_land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1285215.6
+    string: ''
+  citation:
+    html: >-
+      (INEI, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmUTVuSGJjZ0xxaUU/view">INEI</a>
+national_percent_forested:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 56.09
+    string: ''
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmMkJqZm82b1kzOUE/view?usp=sharing">link</a>
+national_main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: >-
+      "Copper (10711) Gold (10104) Petroleum and Derivatives (3421) Lead (2424)
+      Fishmeal (1767) Coffee (1581) Clothes and other garments (1540) Zinc
+      (1522) Natural Gas (1284) Iron (1023)"
+  citation:
+    html: >-
+      BCRP <a
+      href="www.bcrp.gob.pe/publicaciones/nota-semanal/cuadros-estadisticos.html">link</a>
+national_social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a6
+      value:
+        value: 88.67
+        src: '88.67'
+    - id: a5
+      value:
+        value: 10.9
+        src: '10.9'
+    - id: a1
+      value:
+        value: 0.17
+        src: '0.17'
+    - id: a2
+      value:
+        value: 0.14
+        src: '0.14'
+    - id: a3
+      value:
+        value: 0.07
+        src: '0.07'
+    - id: a4
+      value:
+        value: 0.05
+        src: '0.05'
+  citation:
+    html: Own calculations
+national_urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 75.9
+        src: '75.9'
+    - id: 2
+      value:
+        value: 24.1
+        src: '24.1'
+  citation:
+    html: 'INEI - Censos Nacionales 2007: XI de Población y VI de Vivienda'
+national_gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 3
+      value:
+        value: 53.7
+        src: '53.7'
+    - id: 2
+      value:
+        value: 20.5
+        src: '20.5'
+    - id: 5
+      value:
+        value: 11.3
+        src: '11.3'
+    - id: 1
+      value:
+        value: 5.6
+        src: '5.6'
+    - id: 4
+      value:
+        value: 2.5
+        src: '2.5'
+  citation:
+    html: >-
+      INEI 2011 <a
+      href="http://www.inei.gob.pe/web/aplicaciones/siemweb/index.asp?id=003">link</a>
+national_deforestation_rate:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '2000'
+      value:
+        value: null
+        src: null
+    - id: '2001'
+      value:
+        value: 839.96
+        src: |
+          839.96
+    - id: '2002'
+      value:
+        value: 798.29
+        src: |
+          798.29
+    - id: '2003'
+      value:
+        value: 728.74
+        src: '728.74'
+    - id: '2004'
+      value:
+        value: 931.46
+        src: |
+          931.46
+    - id: '2005'
+      value:
+        value: 1476.22
+        src: |
+          1476.22
+    - id: '2006'
+      value:
+        value: 744.99
+        src: |
+          744.99
+    - id: '2007'
+      value:
+        value: 1061.84
+        src: '1061.84'
+    - id: '2008'
+      value:
+        value: 1057.04
+        src: |
+          1057.04
+    - id: '2009'
+      value:
+        value: 1521.57
+        src: '1521.57'
+    - id: '2010'
+      value:
+        value: 1362.02
+        src: '1362.02'
+    - id: '2011'
+      value:
+        value: 1235.63
+        src: '1235.63'
+    - id: '2012'
+      value:
+        value: 1494.7
+        src: '1494.7'
+    - id: '2013'
+      value:
+        value: 1502.8
+        src: '1502.8'
+    - id: '2014'
+      value:
+        value: 1775.66
+        src: '1775.66'
+    - id: '2015'
+      value:
+        value: null
+        src: null
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      (MINAM, 2016) <a
+      href="https://drive.google.com/file/d/0B6YWLvHtYOEmTE5yUXVvejBlOTQ/view?usp=sharing">link</a>
+txt_laws:
+  timestamp: '2017-12-04T15:44:06.205Z'
+  value:
+    html: >-
+      <p><strong>National regulations related to forest and environmental
+      services:</strong><br />Regulation of the Payment for Environmental
+      Services Law (2016)<br />Regulations of Forest and Wildlife Law (2015)<br
+      />Payment for Environmental Services Law (2014)<br />National Forest and
+      Wildlife Policy (2013)<br />Forest and Wildlife Law (2011)</p><p><br
+      /><strong>National regulations related to climate change:</strong><br
+      />National Climate Change Strategy (2015)<br />National Forest and Climate
+      Change Strategy (2016)<br />INDC (2015)<br /><br /><br /></p>
+  citation:
+    html: ''
+txt_policies_and_plans:
+  timestamp: '2017-12-04T16:03:10.937Z'
+  value:
+    html: >-
+      <p><strong>National Forest and Land Use
+      Policies:</strong></p><ul><li>National Forestry and Wildlife
+      Policy</li><li>National Plan for the Prevention and Control of
+      Deforestation</li><li>National Environmental Action Plan
+      2011-2021</li><li>National Multi-sectoral Strategy to Combat Illegal
+      Logging</li><li>National Environmental Policy</li><li>National
+      Reforestation Plan</li><li>National Forest Strategy</li><li>Peru 2021
+      Bicentennial Plan</li></ul><p><strong>National Climate Change Policies and
+      Plans:</strong></p><ul><li>Action Plan for Adaptation and Mitigation
+      Against Climate Change</li><li>National Climate Change
+      Strategy</li></ul><p><strong>National policies related to
+      REDD+</strong>:</p><ul><li>Guidelines for management and implementation of
+      REDD+ in Peru (2016)</li><li>Guidelines for management and implementation
+      of REDD+ National Registry (2016)</li></ul>
+  citation:
+    html: 'https://theredddesk.org/countries/peru/plans-policies'
+txt_institutions:
+  timestamp: '2017-12-04T15:36:04.797Z'
+  value:
+    html: >-
+      <p><strong>Ministry of Environment (<em>Ministerio del Ambiente -
+      MINAM</em>) - </strong>Established with a mission to ensure sustainable
+      use and conservation of natural resources and environmental quality for
+      the benefit of people and the environment in an effective and
+      decentralized in collaboration with public and private organizations and
+      civil society, within the framework of green growth and environmental
+      governance.  MINAM serves as the focal point for climate change issues in
+      the country and has established the following seven areas as
+      priorities:</p><ol><li>Sustainable use of biodiversity and, in particular,
+      forests</li><li>Adaptation and mitigation to climate
+      change</li><li>Efficient management of solid waste</li><li>Comprehensive
+      marine-coastal management</li><li>Prevention, pollution control and
+      eco-efficiency</li><li>Adequacy of environmental
+      institutions</li><li>Means of implementation of environmental
+      policy</li></ol><p><strong>National Service of Natural Protected Areas
+      (</strong><em><strong>El Servicio Nacional de Áreas Naturales Protegidas
+      por el Estado - SERNANP) - </strong></em>Established in 2008 as a body
+      within MINAM, SERNANP is the governing body of the National System of
+      Natural Areas Protected by the State (Sinanpe), and in its capacity as a
+      technical-normative authority it carries out its work in coordination with
+      regional governments, local and owners of properties recognized as private
+      conservation areas.Its mission is to ensure the conservation of the
+      country's Natural Protected Areas, their biological diversity and the
+      maintenance of their services environmental</p><p><strong>National Forest
+      Service (</strong><em>Servicio Forestal Nacional - SERFOR</em><strong>) -
+      </strong>Established in 2014 within the Ministry of Agriculture, SERFOR is
+      the  National Forestry and Wildlife Authority of Peru and the governing
+      body of the National Forestry and Wildlife Management System (SINAFOR). It
+      was created with the Forestry and Wildlife Law (Law No. 29763) and began
+      operations on July 26, 2014. SERFOR carries a mission to promote
+      sustainable and participatory management of forest resources and wildlife,
+      and the use of their ecosystem services, providing quality services that
+      contribute to the well-being of citizens.</p><p><br /><br /></p>
+  citation:
+    html: ''

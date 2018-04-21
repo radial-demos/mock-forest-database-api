@@ -1,0 +1,788 @@
+forestArea:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 2600
+    string: ''
+  citation:
+    html: ''
+forestCarbon:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 17.4
+    string: ''
+  citation:
+    html: ''
+population:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 1383445
+    string: ''
+  citation:
+    html: >-
+      Censo Demográfico IBGE, 2010 <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=to&amp;tema=sinopse_censodemog2010">link</a>
+gdp:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 17240000
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      Contas Regionais do Brasil, IBGE, 2010 <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=to&amp;tema=contasregionais2010">link</a>
+per_capita_income:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 12461.67
+    currency: BRL
+    string: ''
+  citation:
+    html: >-
+      Contas Regionais do Brasil, IBGE, 2010 <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=to&amp;tema=contasregionais2010">link</a>
+human_development_index:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 0.756
+    string: ''
+  citation:
+    html: >-
+      PNUD, 2005 <a
+      href="http://www.bcb.gov.br/pec/boletimregional/port/2009/01/br200901b1p.pdf">link</a>
+deforestation_reduction_goal:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: null
+    year: '2013'
+    string: ''
+  citation:
+    html: >-
+      Plano de Ação para Prevenção e Controle do Desmatamento e Queimadas do
+      Estado do Tocantins, 2009 <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Tocantins.pdf">link</a>
+tons_of_co2_avoided:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 10307.9
+    year: '2010'
+    string: ''
+  citation:
+    html: >-
+      PRODES/INPE, 2012 <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2012.htm">link</a>
+deforestation_rate_target_value:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 52.3
+    string: ''
+  citation:
+    html: >-
+      Plano de Ação para Prevenção e Controle do Desmatamento e Queimadas no
+      Estado do Tocantins, 2009 <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Tocantins.pdf">link</a>
+original_forest_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 278420.7
+    string: ''
+  citation:
+    html: >-
+      Machado, R.B., M.B. Ramos Neto, P.G.P. Pereira, E.F. Caldas, D.A.
+      Gonçalves, N.S. Santos, K. Tabor e M. Steininger. 2004. Estimativas de
+      perda da área do Cerrado brasileiro. Relatório técnico não publicado.
+      Conservação Internacional, Brasília, DF. <a
+      href="http://www.conservation.org.br/arquivos/RelatDesmatamCerrado.pdf">link</a>
+land_area:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: 277620.914
+    string: ''
+  citation:
+    html: >-
+      Atlas do Tocantins: subsídios ao planejamento da gestão territorial,
+      Secretaria do Planejamento e da Modernização da Gestão Pública - SEPLAN,
+      2012 <a
+      href="http://www.seplan.to.gov.br/seplan/br/index2.php?area=estatico&amp;id_m=169">link</a>
+main_exports:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    string: 'Soy, meat, pineapple'
+  citation:
+    html: >-
+      Indicadores sócio-econômicos do Tocantins, SEPLAN, 2011 <a
+      href="http://www.seplan.to.gov.br/seplan/br/download/indicadores/003-Indicadores_Socio-Economico.pdf">link</a>
+txt_state_description:
+  timestamp: '2017-12-27T21:30:43.361Z'
+  value:
+    html: >-
+      <p>Tocantins is the most recent state in the twenty-seven states of
+      Brazil, having been created in 1988. With 22% of its protected area in
+      protected areas or indigenous lands (equivalent to about 62,000 km²),
+      Tocantins is a State with great relevance in the national and
+      international context due to the natural resources and the
+      sociobiodiversity that it harbors. Two biomes are present, the Cerrado
+      biome, with greater predominance in terms of the occupied area, and the
+      Amazon biome, as well as transition zones between biomes (Cerrado-Amazon
+      ecotone and Cerrado-Caatinga ecotone). Economically, the agricultural
+      sector is the most relevant sector, with emphasis on the production of
+      soybeans and meat and its derivatives. According to data from CONAB -
+      Companhia Nacional de Abastecimento (March 2013), it is estimated that the
+      soybean harvest in Tocantins in 2012/2013 has a record increase compared
+      to the previous harvest, with an expected growth of the area cultivated in
+      about 20% to 543 thousand hectares, and a production of 1,657 thousand
+      tons, the largest in the North Region. </p><p>Regarding the existence of
+      regulatory frameworks in the areas of Climate Change, REDD + or
+      Environmental Services, Tocantins pioneered the establishment of a State
+      Policy on Climate Change, published in 2008. Currently, this Policy on
+      Climate Change, Conservation (Law No. 1,917 / 2008) is in the process of
+      being reformulated to accommodate recent national and international
+      developments in the field of climate, including REDD +. The State Plan for
+      Mitigation and Adaptation to Climate Change is also in the initial stage
+      of elaboration, as well as the State Policy on Environmental Services, the
+      latter aiming to define the guidelines for encouraging biodiversity
+      conservation and services provided through ecosystem services, notably
+      through Environmental Services Payment Programs and other conservation
+      incentive strategies. </p><p>The Secretariat for the Environment and
+      Sustainable Development of Tocantins has a Climate Change Coordination and
+      an Environmental Services Payment Coordination, which demonstrates efforts
+      to create robust regulatory frameworks in both areas. The State also
+      reactivated the State Forum on Climate Change in 2012 (through Decree-Law
+      no. 4,550), which is composed of governmental and non-governmental
+      representatives, whose objective is to raise awareness and foment public
+      discussion on issues related to change climate, energy, biodiversity,
+      forests and ecosystem services and REDD +. </p><p>In addition to having
+      specific legislation on Climate Change in the process of revision and
+      developing a regulatory framework in the area of environmental services,
+      the State of Tocantins has a great legal tool that provides for actions to
+      reduce illegal deforestation and degradation forestry: the Plan of
+      Prevention and Control of Deforestation and Burnings of Tocantins - PPCDQ
+      / TO, published in May 2009, revised in 2015, and under consultation for a
+      further revision in 2017 or 2018. This plan aims to contain illegal
+      deforestation and forest fires through integrated actions in four areas of
+      action: monitoring, territorial and landscape management, forest
+      management and promotion of sustainable production practices. Among the 23
+      targets of the PPCDAM-TO, the reduction of illegal deforestation rates to
+      zero within five years stands out; the reduction of 15% per year of fire
+      outbreaks in the municipalities with the highest incidence; the promotion
+      of environmental regularization, the improvement of annual monitoring
+      routines and the implementation of the environmental register of rural
+      properties (CAR). </p><p>In addition to these policies, Tocantins is
+      committed to developing a State Plan for Reducing GHG Emissions and
+      Adapting to Climate Change.<br />Tocantins will make every effort to
+      elaborate a plan that will have as objectives (i)<br />to make an
+      inventory of GHG emissions in each sector, (ii) identify possible
+      actions<br />reduction, mitigation and compensation (iii) strengthen
+      municipalities and<br />decentralization of actions, thus ensuring the
+      promotion of a low-income economy.<br />carbon. The Plan will be in force
+      until 2020.</p><p>Additional information can be found on the <a
+      href="http://gcfimpact.org/states?region=3217,states">GCF Impact Platform.
+      </a></p>
+  citation:
+    html: '<p>SEMADES, 2013</p>'
+frameworksLawsPoliciesStrategies:
+  timestamp: '2018-03-12T17:37:08.789Z'
+  value:
+    html: >-
+      <p><strong>Strategies:</strong></p><p><em><a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Tocantins%20-%20PPCD.pdf">The
+      Plan of Action for the Prevention and Control of Deforestation and Fires
+      of the State of Tocantins (PPCDQ-TO)</a> - </em>the PPCDQ-TO<em> </em>was
+      created in 2009 and outlines a action-oriented action plan for the
+      prevention and control of deforestation and forest fires in the State. The
+      Plan serves not only the Amazon biome, which covers a relatively small
+      part of the State, but also the Cerrado biome, covering all the state
+      territory and providing a plan of action for better forest management and
+      a reduction of deforestation rates and of the use of fire in an integrated
+      manner. To achieve this, the PPCDQ-TO has a total of 12 actions, divided
+      into four main areas: (i) monitoring; (ii) land and landscape management;
+      (iii) forest management; and (iv) promotion of productive
+      alternatives.</p><p>These are specific objectives of the
+      Plan:</p><ul><li>To strengthen the capacity of the State to analyze the
+      dynamics of deforestation and forest fires, through the implementation of
+      routines of (a) monitoring vegetation cover, deforestation and impacts on
+      soil and water resources; (b) the monitoring of fires and their impacts;
+      (c) the monitoring of degraded areas.</li><li>Create and implement a
+      system of compensation and regularization of environmental liabilities
+      representative of the state's biodiversity, capable of conserving this
+      biodiversity, of producing the necessary environmental services to support
+      the economic activities of the State and to energize the local
+      economy.</li><li>Promote modernization of the management of forest
+      resources in the State through the improvement of technologies and
+      procedures.</li><li>Foster sustainable production alternatives and
+      practices.</li></ul><p>In the PPCDQ-TO, 23 goals were defined, and the
+      coordination of the Plan involves federal and state public institutions
+      and private institutions, while the implementation of the actions is in
+      charge of the Nature Institute of Tocantins - NATURATINS (actions of the
+      areas of monitoring and management forestry), the State Secretariat for
+      Planning (SEPLAN) (actions of the Territorial Planning and Landscape) and
+      the State Secretariat of Agriculture - SEAGRO (Actions for the Promotion
+      of Sustainable Productive Activities). </p><p>The <a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_ppcdq_to_2015_update.pdf"
+      target="_blank">PPCDQ-TO was updated in 2015</a>, and the state is <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Tocantins.pdf">currently
+      undertaking</a> a third revision to the strategy.</p><p><a
+      href="https://central3.to.gov.br/arquivo/220487/"><em>State Plan for
+      Mitigation and Adaptation to Climate</em></a><em> </em><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_abc_to_state_plan.pdf"
+      target="_blank"><em>Change to Consolidate a Low Carbon Economy in
+      Agriculture (ABC-TO Plan)</em></a><em> -</em> one of the sectoral plans
+      elaborated in accordance with Article 3 of Decree No. 7,390 / 2010 and
+      purpose is the organization and planning of the actions to be taken to
+      adopt the sustainable production technologies, selected in order to
+      respond to the commitments of reduction of GHG emissions in the
+      agricultural sector assumed by the country.<br /><br />The ABC Plan is
+      comprised of seven programs, six of which are related to mitigation
+      technologies, as well as one last program with actions to adapt to climate
+      change. In this context, Tocantins assumed a commitment by 2020 to
+      mitigate between 8.5 and 10.5 million tons of CO2 eq. the Plan ABC will be
+      reviewed and updated with a view to the new reduction and mitigation
+      goals. The plan was formalized through <a
+      href="https://central3.to.gov.br/arquivo/220486/">decree on March 28,
+      2014.</a></p><p><strong>Laws</strong></p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_law_2713_2013.pdf"
+      target="_blank">Law No. 2.713/2013</a> -  Creates the Programme for the
+      Environmental Harmonisation of Rural Property and Productive Activities. .
+      This Programme aims at promoting the the environmental regularization of
+      rural properties (through permanent preservation areas and legal reserve
+      activities) and infrastructure by including them in the system of the
+      Rural Environmental Register – CAR, owned by the Institution
+      &quot;Natureza do Tocantins&quot; – NATURATINS.</p><p><a
+      href="/assets/downloads/GCFF/database/Tocantins%20ZEE%20law%202012.pdf">Law
+      No. 2.656 /2012</a>- establishes the Economic Ecological Zoning of the
+      State of Tocantins.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_law_2_476.pdf"
+      target="_blank">Law 2476/2011</a>- Establishes the Program of
+      Environmental Adequacy of Property and Rural Activity - TO-LEGAL, and
+      adopts other measures.</p><p><a
+      href="/assets/downloads/GCFF/database/Tocantins%20Climate%20Change%20Law.pdf">Law
+      No. 1,917 / 2008</a> - Institutes the State Policy on Climate Change,
+      Environmental Conservation and Sustainable Development of Tocantins, and
+      adopts other measures. Recognizes the states' climate change,
+      environmental conservation, and sustainable development policy  which
+      references actions to reduce deforestation and regulations on
+      environmental services such as forest carbon.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_law_1_789.pdf"
+      target="_blank">Law 1789/ 2007</a> - Established the State Council for the
+      Environment of Tocantins - COEMA / TO.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_law_1560_2005.pdf"
+      target="_blank">Law 1.560/2005</a> - establishes state system of
+      conservation units in Tocantins</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_law_1_445.pdf"
+      target="_blank">Law 1445/2004</a> - Establishes instruments of
+      compensation for areas of Legal Reserve.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_law_1_307.pdf"
+      target="_blank">Law 1307/2002</a> - Provides for the State Policy of Water
+      Resources, and adopts other measures.</p><p><a
+      href="http://gcftaskforce-database.org/assets/downloads/managed/brazil/tocantins/tocantins_law_1_236.pdf"
+      target="_blank">Law 1.236/2001</a> - amends the State Policy on Forestry
+      and establishes regulations for extracting timber in legal
+      reserves</p><p><br /><br /></p>
+  citation:
+    html: ''
+frameworksInstitutionalFramework:
+  timestamp: '2017-10-27T17:40:48.307Z'
+  value:
+    html: >-
+      <p><strong><a href="http://naturatins.to.gov.br/">Naturatins</a></strong>
+      - Institute of Nature of Tocantins. Responsible for the implementation of
+      the State's environmental policy; environmental monitoring and control;
+      supervision of compliance with environmental legislation; the provision of
+      the service related to it resulting from agreements, agreements and
+      contracts</p><p><strong><a href="http://semarh.to.gov.br/">Secretariat for
+      Environment and Water Resources (SEMARH)</a>- </strong>Restructured in
+      2015,  the Secretariat for Environment and Water Resources (Semarh) has a
+      mandate which includes:t o Coordinate the process of reviewing the state
+      policy on the environment and water resources and their instruments; to
+      promote the environmental adequacy of the rural property in an agile and
+      efficient way; encourage and strengthen municipal environmental
+      management; evaluate the environmental assets of the State of Tocantins;
+      Consolidate the state system of water resources management; Promote the
+      recovery and conservation of hydrographic basins and aquifer systems;
+      Implement projects to adapt to climate change with a focus on adequacy of
+      social and environmental infrastructure; implement a system of management
+      and maintenance of Conservation Units with financial return; Encourage the
+      management of solid waste in partnership with the Secretariat of Cities
+      and Urban Development, with support in legislation, fundraising and
+      training; Encourage and strengthen the Environmental Organizations of
+      Civil Society.</p><p><strong><a href="http://seplan.to.gov.br/">Secretary
+      of Planning (SEPLAN)</a> </strong>- the government body responsible for
+      coordinating and managing the government plans of the State of Tocantins.
+      It is responsible for preparing and monitoring budget programming, also
+      responding to ecological-economic zoning and the formulation and
+      implementation of statistical systems and socioeconomic research in the
+      within the state.</p>
+  citation:
+    html: ''
+frameworksZoningSpatialPlanning:
+  timestamp: '2017-10-31T16:45:17.054Z'
+  value:
+    html: >-
+      <p>Ecological and Economic Zoning (<em>Zoneamento Ecológico-Econômico –
+      </em><em>ZEE)</em> is required by the Federal Government to designate
+      areas for economic and conservation activities within each state’s
+      territory. Tocantins carried out ecological-ecological zoning (EEZ) in the
+      <a
+      href="http://gcftaskforce-database.org/assets/downloads/GCFF/database/Tocantins%20-%20ZEE%20Norte.pdf">Northern
+      Region of the State</a>, comprising 37 communes, covering an area of
+      approximately 34,000 km², encompassing areas of the Amazon Forest and
+      Cerrado, as well as the transition between these two ecomes (ecotone). The
+      Northern Region EEZ was developed with the support of the Natural
+      Resources Policy Subprogram (SPRN) of the Pilot Program for the
+      Conservation of Brazilian Tropical Forests (PPG7). Five zones and four
+      ecological and economic subzones were defined: Areas for Human Occupation
+      (Zone A); Areas for Environmental Conservation and Cultural Heritage (Zone
+      B); Priority Areas for Comprehensive Protection Areas (Zone C); Areas of
+      Conservation Units of Sustainable Use (Zone D); and Areas under Federal
+      Administration (Zone E), including Apinayé and Xambioá indigenous lands,
+      and the Extractive Reserve (Resex) of the Far North of
+      Tocantins.</p><p>Currently, the Planning Secretariat (SEPLAN) is preparing
+      the EEZ for the whole territory of the State, as part of the World
+      Bank-financed Integrated Regional Sustainable Development Program (PDRIS).
+      The zoning should identify more precisely the areas with the best
+      suitability for agriculture and the key areas for biodiversity
+      conservation and the production of environmental services.</p>
+  citation:
+    html: ''
+frameworksSafeguards:
+  timestamp: '2017-10-27T17:42:16.962Z'
+  value:
+    html: >-
+      <p>The safeguards to be designed by the state of Tocantins in a future
+      REDD + scheme will aim to minimize the occurrence of socio-environmental
+      risks of defined policies and activities associated with REDD +, such as
+      the non-involvement or lack of involvement of forest peoples in the
+      construction of projects of REDD (and in the construction of the legal
+      framework of REDD + at the state level, considering its traditional
+      knowledge and its forms of interaction with the forest) and the
+      non-directed distribution of benefits to those who are effectively
+      responsible for forest conservation. The promotion of forest conservation
+      through future REDD + projects should also include the identification of
+      biodiversity conservation and ecosystem services associated with forest
+      preservation. All the documentation generated in the scope of national and
+      international discussion groups on the subject will be consulted and a
+      discussion will be carried out at the state level to focus on the
+      particularities of the State of Tocantins.</p><p>Studies are currently
+      being proposed to identify and evaluate the ecosystem services associated
+      with conservation units of integral protection of the State (project to be
+      financed by GEF-MMA)</p><p>The future REDD + system to be developed by the
+      State will take into account the increase in biodiversity and other
+      ecosystem services to be promoted together with the reduction of emissions
+      from deforestation and forest degradation.</p>
+  citation:
+    html: ''
+txt_causes_of_deforestation:
+  timestamp: '2017-09-21T14:23:45.745Z'
+  value:
+    html: >-
+      <p>The most recent deforestation in the state of Tocantins has been
+      occurring: </p><p>1) in the vicinity of the intensive and semi-intensive
+      agricultural production zone in the Papagaio Bico (North Tocantins);
+      </p><p>2) around the northwest region of the state, for the production of
+      beef cattle by small and medium-sized producers; </p><p>3) around the
+      central belt, along the BR 153 highway, as a result of the competition
+      between the different uses and the intensification process; </p><p>4) in
+      the extreme northeast and east of the state under pressure from the
+      soybean fronts in Bahia and Maranhão; </p><p>5) along BR010, TO 050 and
+      marginal and isolated areas; </p><p>6) in the Southeast and Northeast of
+      the State for the production of charcoal. </p><p>In summary, the main
+      drivers of deforestation are: the expansion of agriculture, the lack of
+      land-use planning caused by squatting of public lands by squatters,
+      livestock and infrastructure works, especially roads. </p>
+  citation:
+    html: >-
+      Plano de Ação para Prevenção e Controle do Desmatamento e das Queimadas no
+      Estado do Tocantins, 2009 <a
+      href="http://www.fundoamazonia.gov.br/FundoAmazonia/export/sites/default/site_pt/Galerias/Arquivos/Publicacoes/Plano_Estadual_do_Tocantins.pdf">link</a>
+initiatives:
+  rows:
+    - id: 54d43810-ce27-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:16:38.033Z'
+      name:
+        value:
+          string: >-
+            Project Prevention, Control and Monitoring of Irregular Fires and
+            Forest Fires in the Cerrado - Jalapao
+      description:
+        value:
+          html: >-
+            <p>The Cerrado-Jalapão Project aims at the prevention, control and
+            monitoring of fires in the Cerrado and contributes to the
+            maintenance of the Cerrado as a carbon sink of global relevance for
+            the reduction of greenhouse gas emissions and for the conservation
+            biodiversity by improving the integrated and adaptive management of
+            fire in selected areas of the Cerrado. The project has already
+            produced and published documents on alternatives to fire use,
+            participatory management of PAs and terms of engagement,monitoring,
+            fire research, operational plans and protection plans, seminars and
+            videotapes, bulletins and project factsheets; all available at
+            &lt;http://cerradojalapao.mma.gov.br/biblioteca/arquivos&gt;.</p>
+      partners:
+        value:
+          string: 'Private Investment KfW, GIZ and Caixa'
+      fundingSource:
+        value:
+          string: 'Private Investment KfW, GIZ and Caixa'
+      fundingAmount:
+        value:
+          string: >-
+            12,000,000 eurofor the maintenance of the Cerrado's functions,
+            through improvement, control of deforestation, irregular fires and
+            forest fires in the Cerrado Region.
+      initiativeType:
+        value:
+          string: 'Public investment, Private investment'
+      initiativeStatus:
+        value:
+          string: In progress expected to end in 2017
+    - id: 91f8fd70-ce27-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:19:29.842Z'
+      name:
+        value:
+          string: Tocantins Integrated and Sustainable Regional Development Project
+      description:
+        value:
+          html: >-
+            <p>Within the PDRIS a number of projects are being developed, some
+            of which fall under the categories of the Balikpapan
+            Challenge:</p><p>• REDD + Jurisdictional Program: This initiative,
+            which is still in the development phase, means that isolated REDD+
+            projects are integrated to a jurisdictional level, allowing a
+            greater alignment with national policies and legislation. In
+            addition, it aims to ensure that emission reductions scale to a
+            jurisdictional level and can be inserted into a registration system,
+            which in turn will promote a fair distribution of benefits and
+            enable the implementation of socio-environmental safeguards;</p><p>•
+            The elaboration of the State Policy for the Sustainable Use of
+            Capim-Dourado and Buriti was finalized, whose objective is to
+            promote the socioeconomic development of traditional communities
+            that historically make handicrafts of Capim-Dourado and Buriti by
+            means of the incentive to sustainable practices of use of these two
+            species and their environments;</p><p>• Tocantins is finalizing its
+            legal framework, the draft Law that establishes the State Policy on
+            Climate Change and Environmental Services of Tocantins, with the
+            general objective of promoting the regional economy with low
+            emission of greenhouse gases and encouraging and promote
+            environmental services in the biomes of the State;</p><p>•
+            Environmental Monitoring and Fire Management Center (CeMAF) -
+            Through a Term of Cooperation, the Secretariat of Environment and
+            Water Resources (SEMARH) and the Federal University of Tocantins
+            (UFT) promote the mutual conjugation of efforts to carry out the
+            activities technical and research related to the implementation of
+            CeMAF. The Center works in the production of studies, technical and
+            scientific information, mainly related to burned forest fires, which
+            subsidize the actions of the state, municipal and other public
+            authorities through mutual collaboration in the evaluation of
+            regulatory mechanisms and development of new technical instruments
+            to improve environmental management. The partnership also involves
+            the training of managers and technical experts in order to improve
+            the efficiency of public management, especially related to
+            conservation activities and the sustainable use of natural
+            resources. CeMAF is located on the UFT campus in the city of
+            Gurupi.</p><table border="0" cellpadding="0" cellspacing="0"
+            class="MsoNormalTable" width="100%"><tbody><tr><td
+            width="100%"><br></td></tr></tbody></table>
+      partners:
+        value:
+          string: World Bank
+      fundingSource:
+        value:
+          string: World Bank
+      fundingAmount:
+        value:
+          string: >-
+            US $ 300 million to improve the efficiency of road transport,
+            logistics and the quality of the selection of public services in the
+            State 
+      initiativeType:
+        value:
+          string: 'Public investment, Private investment'
+      initiativeStatus:
+        value:
+          string: Under Implementation
+    - id: 09446360-ce28-11e7-8fdf-ede48c4bd1f9
+      timestamp: '2017-11-20T19:21:40.758Z'
+      name:
+        value:
+          string: Tocantins Rural Environment Registry (CAR)
+      description:
+        value:
+          html: >-
+            <p>Description: The project aims to reduce deforestation in the
+            territory of the State of Tocantins in the Amazon and Cerrado biomes
+            through the creation of a monitoring and control system for
+            deforestation; the implementation of the Rural Environmental
+            Registry (CAR); encouraging the decentralization of environmental
+            management to the municipalities with the greatest number of
+            inhabitants; the strengthening of the organs of the State System of
+            Environment, the implementation of Sustainable and Certified
+            Production Poles and the implementation of a system of protected
+            areas.&nbsp;</p>
+      partners:
+        value:
+          string: 'Amazon Fund, BNDES'
+      fundingSource:
+        value:
+          string: 'Amazon Fund, BNDES'
+      fundingAmount:
+        value:
+          string: >-
+            BNDES (R $ 40,504,400.00) and counterpart of the State (R $
+            3,060,000.00) for implementation of the Rural Environmental Registry
+            - CAR in the municipalities of the State of Tocantins.
+      initiativeType:
+        value:
+          string: 'Public investment, Government Planning Initiative'
+      initiativeStatus:
+        value:
+          string: >-
+            Tocantins already has 62% of areas registered by the end of June /
+            17
+urban_vs_rural_population_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 1
+      value:
+        value: 78.8
+        src: '78.8'
+    - id: 2
+      value:
+        value: 21.2
+        src: '21.2'
+  citation:
+    html: >-
+      Censo Demográfico IBGE, 2010 <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=to&amp;tema=sinopse_censodemog2010">link</a>
+social_groups_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 63.1
+        src: '63.1'
+    - id: a2
+      value:
+        value: 25
+        src: '25.0'
+    - id: a3
+      value:
+        value: 9.1
+        src: '9.1'
+    - id: a6
+      value:
+        value: 1.8
+        src: '1.8'
+    - id: a4
+      value:
+        value: 0.9
+        src: '0.9'
+  citation:
+    html: >-
+      Censo Demográfico IBGE, 2010 <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=to&amp;tema=resultuniverso_censo2010">link</a>
+gdp_breakdown_percent:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: a1
+      value:
+        value: 63.1
+        src: '63.1'
+    - id: a4
+      value:
+        value: 18.3
+        src: '18.3'
+    - id: a2
+      value:
+        value: 18.1
+        src: '18.1'
+    - id: a5
+      value:
+        value: 0.4
+        src: '0.4'
+  citation:
+    html: >-
+      Contas Regionais do Brasil, IBGE, 2010 <a
+      href="http://www.ibge.gov.br/estadosat/temas.php?sigla=to&amp;tema=contasregionais2010">link</a>
+current_forest_area_typologies:
+  timestamp: '2017-12-06T23:15:32.824Z'
+  values:
+    - id: u2017e
+      value:
+        value: 234804.66
+        src: null
+    - id: u2017c
+      value:
+        value: 22616.34
+        src: null
+    - id: u2017b
+      value:
+        value: 9726.95
+        src: null
+    - id: u2017d
+      value:
+        value: 6501.33
+        src: null
+    - id: u2017a
+      value:
+        value: 116.55
+        src: null
+  citation:
+    html: TerraClass 2014<br><br>
+deforestation_vs_degradation:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: 2
+      value:
+        value: 59.12
+        src: '59.12'
+    - id: 1
+      value:
+        value: 40.8
+        src: '40.8'
+    - id: 3
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Lemos, André L. F.  &amp; Silva, José de Arimatea, 2011. Desmatamento na
+      Amazônia Legal: Evolução, Causas, Monitoramento e Possibilidades de
+      Mitigação Através do Fundo Amazônia. Artigo de Pesquisa Floresta e
+      Ambiente 2011 jan./mar.; 18(1):98-108 <a
+      href="http://www.floram.org/files/v18n1/v18n1a11.pdf">Desmatamento na
+      Amazônia Legal: Evolução, Causas, Monitoramento e Possibilidades de
+      Mitigação Através do Fundo Amazônia</a>
+governor:
+  timestamp: '2018-03-22T15:18:11.459Z'
+  value:
+    firstName: ''
+    lastName: ''
+    email: ''
+    companyTitle: ''
+  citation:
+    html: '-'
+representative_1:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Luzimeire
+    lastName: Carreira
+    email: meire.carreira@gmail.com
+    companyTitle: Secretary of Environment and Water Resources
+  citation:
+    html: '-'
+representative_2:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    firstName: Rubens
+    lastName: Brito
+    email: rubens_smaf@semades.to.gov.br
+    companyTitle: Diretor of SEMARH
+  citation:
+    html: '-'
+deforestation_rates:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  values:
+    - id: '1996'
+      value:
+        value: 320
+        src: '320'
+    - id: '1997'
+      value:
+        value: 273
+        src: '273'
+    - id: '1998'
+      value:
+        value: 576
+        src: '576'
+    - id: '1999'
+      value:
+        value: 216
+        src: '216'
+    - id: '2000'
+      value:
+        value: 244
+        src: '244'
+    - id: '2001'
+      value:
+        value: 189
+        src: '189'
+    - id: '2002'
+      value:
+        value: 212
+        src: '212'
+    - id: '2003'
+      value:
+        value: 156
+        src: '156'
+    - id: '2004'
+      value:
+        value: 158
+        src: '158'
+    - id: '2005'
+      value:
+        value: 271
+        src: '271'
+    - id: '2006'
+      value:
+        value: 124
+        src: '124'
+    - id: '2007'
+      value:
+        value: 63
+        src: '63'
+    - id: '2008'
+      value:
+        value: 107
+        src: '107'
+    - id: '2009'
+      value:
+        value: 61
+        src: '61'
+    - id: '2010'
+      value:
+        value: 49
+        src: '49'
+    - id: '2011'
+      value:
+        value: 40
+        src: '40'
+    - id: '2012'
+      value:
+        value: 52
+        src: '52'
+    - id: '2013'
+      value:
+        value: 74
+        src: '74'
+    - id: '2014'
+      value:
+        value: 50
+        src: '50'
+    - id: '2015'
+      value:
+        value: 57
+        src: '57'
+    - id: '2016'
+      value:
+        value: null
+        src: null
+  citation:
+    html: >-
+      Prodes <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2015n.htm">link</a>
+are_current_deforestation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: '0'
+  citation:
+    html: >-
+      PRODES/INPE, 2012 <a
+      href="http://www.obt.inpe.br/prodes/prodes_1988_2012.htm">link</a>
+are_current_degradation_rates_known:
+  timestamp: '2016-12-31T00:00:00.000Z'
+  value:
+    value: ''
+  citation:
+    html: >-
+      INPE, Mapeamento da Degradação Florestal na Amazônia Brasileira - Degrad,
+      2013 <a href="http://www.obt.inpe.br/degrad/">link</a>
