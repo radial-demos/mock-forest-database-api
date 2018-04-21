@@ -4,6 +4,7 @@
   "description": "API for a database of tropical forest nations and states/provinces.",
   "main": "server.js",
   "scripts": {
+    "debug": "nodemon --inspect ./server.js",
     "test": "jest"
   },
   "repository": {
@@ -28,6 +29,7 @@
     "fs-extra": "5.0.0",
     "hapi": "17.3.1",
     "js-yaml": "3.11.0",
-    "klaw-sync": "3.0.2"
+    "klaw-sync": "3.0.2",
+    "lodash": "4.17.5"
   }
 }
