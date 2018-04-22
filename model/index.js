@@ -9,7 +9,9 @@ const yaml = require('js-yaml');
 const klawSync = require('klaw-sync');
 const values = require('./values');
 // Error Classes Used In This Module
-const MissingArgumentError = require('../config/errors/MissingArgumentError');
+// const MissingArgumentError = require('../config/errors/MissingArgumentError');
+const InvalidOptionsError = require('../config/errors/InvalidOptionsError');
+const InvalidOptionError = require('../config/errors/InvalidOptionError');
 // Module-Level "Constants"
 const YAML_EXTENSION = '.yml';
 const CONFIG_PATH = path.resolve(__dirname, '..', 'config');
@@ -52,7 +54,21 @@ const getNationDefs = () => {
     return _.cloneDeep(nationDefs);
 };
 
-const getData = async (regionId, lang) => {
+const assertValidOptionArgument = (options, validOptionKeys) => {
+
+    if (options === undefined) return; // options are ... optional
+    if (!_.isPlainObject(options)) throw new InvalidOptionsError(); // ... but when supplied must be a plain object
+    if (!Array.isArray(validOptionKeys)) return; // any keys are valid
+    const suppliedOptionKeys = Object.keys(options);
+    suppliedOptionKeys.forEach((key) => {
+
+        if (!validOptionKeys.includes(key)) throw new InvalidOptionError(`The option '${key}' is invalid. Valid options are '${validOptionKeys.join('\', \'')}'`);
+    });
+};
+
+const getData = async (options) => {
+
+    assertValidOptionArgument(options, ['regionId', 'lang']);
 
     /** Note that nationDefs has not been 'deep cloned'. DO NOT modify (corrupt) its objects! */
     /** For each nation and jurisdiction, we are copying necessary string properties and assigning a 'data' property with all the fields/values */
