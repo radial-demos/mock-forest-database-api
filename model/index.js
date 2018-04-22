@@ -12,6 +12,7 @@ const values = require('./values');
 // const MissingArgumentError = require('../config/errors/MissingArgumentError');
 const InvalidOptionsError = require('../config/errors/InvalidOptionsError');
 const InvalidOptionError = require('../config/errors/InvalidOptionError');
+const RegionNotFoundError = require('../config/errors/RegionNotFoundError');
 // Module-Level "Constants"
 const YAML_EXTENSION = '.yml';
 const CONFIG_PATH = path.resolve(__dirname, '..', 'config');
@@ -69,6 +70,17 @@ const assertValidOptionArgument = (options, validOptionKeys) => {
 const getData = async (options) => {
 
     assertValidOptionArgument(options, ['regionId', 'lang']);
+
+    if (options.regionId) {
+        const [nationIdSegment, jurisdictionIdSegment] = options.regionId.split('.');
+        const nation = nationDefs.find(n => (n.id === nationIdSegment));
+        if (!nation) throw new RegionNotFoundError(`There is no nation with the id '${nationIdSegment}' in the database.`);
+        if (jurisdictionIdSegment) {
+            // supplied regionId is a jurisdiction
+            const jurisdiction = (nation.jurisdictions || []).find(j => (j.id === jurisdictionIdSegment));
+            if (!jurisdiction) throw new RegionNotFoundError(`There is no jurisdiction with the id '${options.regionId}' in the database.`);
+        }
+    }
 
     /** Note that nationDefs has not been 'deep cloned'. DO NOT modify (corrupt) its objects! */
     /** For each nation and jurisdiction, we are copying necessary string properties and assigning a 'data' property with all the fields/values */
