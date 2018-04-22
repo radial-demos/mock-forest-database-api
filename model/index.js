@@ -81,15 +81,7 @@ const getData = async (regionId, lang) => {
     return data;
 };
 
-const getEntries = async (regionId, lang) => {
-
-    // if (typeof regionId !== 'string') throw new MissingArgumentError('The "regionId" argument to getEntries(regionId) is required.');
-    // const [nationIdSegment, jurisdictionIdSegment]
-    return [];
-};
-
 module.exports = {
     getNationDefs,
     getData,
-    getEntries,
 };
