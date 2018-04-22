@@ -67,44 +67,51 @@ const assertValidOptionArgument = (options, validOptionKeys) => {
     });
 };
 
+const getNationData = (nationDef) => {
+
+    /** We are copying necessary string properties and assigning a 'data' property with all the saved values */
+    return {
+        id: nationDef.id,
+        name: nationDef.name,
+        currency: nationDef.currency,
+        data: values.parseData(nationDef.id, fieldDefs.national, nationDefs.fields),
+        jurisdictions: (nationDef.jurisdictions || []).map((jurisdictionDef) => {
+
+            const jurisdictionId = `${nationDef.id}.${jurisdictionDef.id}`; /** pre-append the nation ID (e.g. brazil.acre) */
+            return {
+                id: jurisdictionId,
+                name: jurisdictionDef.name,
+                /** include some useful properties from nationDef */
+                currency: nationDef.currency,
+                nationId: nationDef.id,
+                nationName: nationDef.name,
+                data: values.parseData(jurisdictionId, fieldDefs.jurisdictional, nationDef.jurisdictionalFields, jurisdictionDef.fields),
+            };
+        }),
+    };
+};
+
+/** Note that nationDefs has not been 'deep cloned'. DO NOT modify (corrupt) its objects! */
 const getData = async (options) => {
 
     assertValidOptionArgument(options, ['regionId', 'lang']);
 
     if (options.regionId) {
         const [nationIdSegment, jurisdictionIdSegment] = options.regionId.split('.');
-        const nation = nationDefs.find(n => (n.id === nationIdSegment));
-        if (!nation) throw new RegionNotFoundError(`There is no nation with the id '${nationIdSegment}' in the database.`);
-        if (jurisdictionIdSegment) {
-            // supplied regionId is a jurisdiction
-            const jurisdiction = (nation.jurisdictions || []).find(j => (j.id === jurisdictionIdSegment));
-            if (!jurisdiction) throw new RegionNotFoundError(`There is no jurisdiction with the id '${options.regionId}' in the database.`);
-        }
+        const nationDef = nationDefs.find(n => (n.id === nationIdSegment));
+        if (!nationDef) throw new RegionNotFoundError(`There is no nation with the id '${nationIdSegment}' in the database.`);
+        const nationData = getNationData(nationDef);
+        if (!jurisdictionIdSegment) return nationData; // just return the data for the requested nation
+        // supplied regionId is a jurisdiction
+        const jurisdictionDef = (nationDef.jurisdictions || []).find(j => (j.id === jurisdictionIdSegment));
+        if (!jurisdictionDef) throw new RegionNotFoundError(`There is no jurisdiction with the id '${options.regionId}' in the database.`);
+        return (nationData.jurisdictions || []).find(j =>(j.id === options.regionId));
     }
 
-    /** Note that nationDefs has not been 'deep cloned'. DO NOT modify (corrupt) its objects! */
-    /** For each nation and jurisdiction, we are copying necessary string properties and assigning a 'data' property with all the fields/values */
+    /** Get data for each nation  */
     const data = nationDefs.map((nationDef) => {
 
-        return {
-            id: nationDef.id,
-            name: nationDef.name,
-            currency: nationDef.currency,
-            data: values.parseData(nationDef.id, fieldDefs.national, nationDefs.fields),
-            jurisdictions: (nationDef.jurisdictions || []).map((jurisdictionDef) => {
-
-                const jurisdictionId = `${nationDef.id}.${jurisdictionDef.id}`; /** pre-append the nation ID (e.g. brazil.acre) */
-                return {
-                    id: jurisdictionId,
-                    name: jurisdictionDef.name,
-                    /** include some useful properties from nationDef */
-                    currency: nationDef.currency,
-                    nationId: nationDef.id,
-                    nationName: nationDef.name,
-                    data: values.parseData(jurisdictionId, fieldDefs.jurisdictional, nationDef.jurisdictionalFields, jurisdictionDef.fields),
-                };
-            }),
-        };
+        return getNationData(nationDef);
     });
     return data;
 };

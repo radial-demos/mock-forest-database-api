@@ -41,22 +41,27 @@ test('Route getData with no arguments resolves to object with a "data" array', a
     const data = await res.json();
     expect(res.ok).toBe(true);
     await expect(data.data).toEqual(expect.any(Array));
+    await expect(data.data.length).toBeGreaterThan(0);
 });
 
-test('Route getData with a valid national regionId resolves to object with a "data" array', async () => {
+test('Route getData with a valid national regionId resolves to object with a "data" object', async () => {
 
     const method = 'getData';
     const res = await fetch(`${URI_BASE}/${method}?regionId=${NATION_ID}`);
     const data = await res.json();
     expect(res.ok).toBe(true);
-    await expect(data.data).toEqual(expect.any(Array));
+    await expect(data.data).toEqual(expect.any(Object));
+    expect(data.data).toHaveProperty('id');
+    expect(data.data.id).toEqual(NATION_ID);
 });
 
-test('Route getData with a valid jurisdictional regionId resolves to object with a "data" array', async () => {
+test('Route getData with a valid jurisdictional regionId resolves to object with a "data" object', async () => {
 
     const method = 'getData';
     const res = await fetch(`${URI_BASE}/${method}?regionId=${JURISDICTION_ID}`);
     const data = await res.json();
     expect(res.ok).toBe(true);
-    await expect(data.data).toEqual(expect.any(Array));
+    await expect(data.data).toEqual(expect.any(Object));
+    expect(data.data).toHaveProperty('id');
+    expect(data.data.id).toEqual(JURISDICTION_ID);
 });
