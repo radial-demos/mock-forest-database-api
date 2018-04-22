@@ -1,0 +1,11 @@
+name: Ecuador
+navColumn: 4
+currency: USD
+jurisdictions:
+  - id: pastaza
+    name: Pastaza
+    fields:
+      - id: forestArea
+        value: 640
+      - id: forestCarbon
+        value: 0.89

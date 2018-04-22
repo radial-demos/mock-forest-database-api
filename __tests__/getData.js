@@ -3,7 +3,7 @@ require('dotenv').config();
 
 const fetch = require('node-fetch');
 
-const NATION_ID = 'brazil';
+const NATION_ID = 'ecuador';
 const JURISDICTION_ID = 'mexico.chiapas';
 const INVALID_NATION_ID = 'this_is_not_a_nation';
 const INVALID_JURISDICTION_ID = 'mexico.this_is_not_a_jurisdiction';
