@@ -4,6 +4,7 @@ require('dotenv').config();
 const debug = require('debug')('debug:server');
 const Hapi = require('hapi');
 
+const AppError = require('./config/errors/AppError');
 const model = require('./model');
 
 const server = Hapi.server({
@@ -33,8 +34,15 @@ server.route({
     options: { cors: true },
     handler: async (request, h) => {
 
-        const data = await model.getData(request.query);
-        return { status: 'success', data };
+        try {
+            const data = await model.getData(request.query);
+            return { status: 'success', data };
+        } catch (err) {
+            if (err instanceof AppError) {
+                // These are planned for and defined in config/errors. They have a 'message' and 'status' property
+                return h.response({ status: 'error', message: err.message }).code(err.status);
+            }
+        }
     },
 });
 
