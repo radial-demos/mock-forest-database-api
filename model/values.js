@@ -142,7 +142,8 @@ const parseData = (regionId, fieldDefs, nationLevelOverrides, jurisdictionLevelO
             datum.companyTitle = _.get(savedValue, ['value', 'companyTitle'], '');
         }
         else if (fieldDef.type === 'select') {
-            datum.value = String(_.get(savedValue, ['value', 'value'], '')); // Coerce to string in case a number string was coerced to a number
+            // TODO: modify data files to store this in an 'option' key also
+            datum.option = String(_.get(savedValue, ['value', 'value'], '')); // Coerce to string in case a number string was coerced to a number
             // Assign 'isSelected' to each option. Note that the override is used if available.
             datum.options = assignOptionValues(fieldOverride.options || fieldDef.options, datum.value);
             // Provide a string property, which is just the label of the selected option or empty string if no option is selected
