@@ -8,7 +8,7 @@ const JURISDICTION_ID = 'mexico.chiapas';
 const INVALID_NATION_ID = 'this_is_not_a_nation';
 const INVALID_JURISDICTION_ID = 'mexico.this_is_not_a_jurisdiction';
 // const FAKE_REGION_ID = 'noncounrty.nonstate';
-const URI_BASE = 'http://127.0.0.1:8000';
+const URI_BASE = 'http://127.0.0.1:8001';
 
 test('Route "getData" with an invalid query string option, responds with not OK.', async () => {
 

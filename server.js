@@ -9,7 +9,7 @@ const model = require('./model');
 
 const server = Hapi.server({
     host: 'localhost',
-    port: 8000,
+    port: 8001,
     debug: { request: ['error'] }
 });
 
@@ -40,7 +40,7 @@ server.route({
         } catch (err) {
             if (err instanceof AppError) {
                 // These are planned for and defined in config/errors. They have a 'message' and 'status' property
-                return h.response({ status: 'error', message: err.message }).code(err.status);
+                return h.response({ status: 'error', type: err.constructor.name, message: err.message }).code(err.status);
             }
         }
     },
