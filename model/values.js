@@ -13,12 +13,12 @@ const getFilePath = (regionId) => {
     return path.join(DATA_PATH, 'values', `${regionId}.yml`);
 };
 
-const getFormattedNumberString = (value, formatOptions) => {
+const getFormattedNumberString = (amount, formatOptions) => {
 
-    if ((value === null) || (value === undefined)) return '';
-    if ((typeof value) === 'string') return value;
-    if ((typeof value) !== 'number') '<UnknownValueType>';
-    return (typeof formatOptions === 'object') ? value.toLocaleString(undefined, formatOptions) : value.toLocaleString();
+    if ((amount === null) || (amount === undefined)) return '';
+    if ((typeof amount) === 'string') return amount; // this should not happen, but it's not worth throwing
+    if ((typeof amount) !== 'number') '<UnknownValueType>'; // just in case, at least display something (again, not worth throwing)
+    return (typeof formatOptions === 'object') ? amount.toLocaleString(undefined, formatOptions) : amount.toLocaleString();
 };
 
 const read = (regionId) => {
@@ -75,28 +75,29 @@ const assignCategoryValues = (categoryDefs = [], categoryValues = [], formatOpti
         // Coerce IDs to strings since string numbers may or may not have been converted to numbers
         const categoryId = String(category.id);
         const categoryValue = categoryValues.find((o) => (String(o.id) === categoryId)) || {};
+        // TODO: refactor dataset to be ['value', 'amount']
         const categoryValueAmount = _.get(categoryValue, ['value', 'value'], null);
         return {
             id: categoryId,
             label: category.label,
-            value: categoryValueAmount,
+            amount: categoryValueAmount,
             string: getFormattedNumberString(categoryValueAmount, formatOptions),
         };
     });
 };
 
-const assignOptionValues = (optionDefs = [], value = '') => {
+const assignOptionValues = (optionDefs = [], option = '') => {
 
-    const valueString = String(value); // Make absolutely sure this is a string
+    const optionString = String(option); // Make absolutely sure this is a string
 
-    return optionDefs.map((option) => {
+    return optionDefs.map((optionDef) => {
 
         // Coerce IDs to strings since string numbers may or may not have been converted to numbers
-        const optionValueString = String(option.value);
+        const optionDefString = String(optionDef.value);
         return {
-            value: optionValueString,
-            label: option.label,
-            isSelected: (optionValueString === valueString),
+            option: optionDefString,
+            label: optionDef.label,
+            isSelected: (optionDefString === optionString),
         };
     });
 };
@@ -105,11 +106,12 @@ const parseData = (regionId, fieldDefs, nationLevelOverrides, jurisdictionLevelO
 
     const fieldOverrides = buildFieldOverrides(nationLevelOverrides, jurisdictionLevelOverrides);
     const savedValues = read(regionId);
-    const data = [];
+    const data = {};
     fieldDefs.forEach((fieldDef) => {
 
         const fieldOverride = fieldOverrides.find((o) => (o.id === fieldDef.id)) || {};
         const savedValue = _.get(savedValues, fieldDef.id, {});
+        let isValidField = true;
         const datum = {
             id: fieldDef.id,
             type: fieldDef.type,
@@ -119,8 +121,9 @@ const parseData = (regionId, fieldDefs, nationLevelOverrides, jurisdictionLevelO
         };
         if (['number', 'numberAndCurrency', 'numberAndYear'].includes(fieldDef.type)) {
             datum.units = fieldDef.units || '';
-            datum.value = _.get(savedValue, ['value', 'value'], null);
-            datum.string = getFormattedNumberString(datum.value, fieldDef.formatOptions);
+            // TODO: modify data files to store this in an 'amount' key also
+            datum.amount = _.get(savedValue, ['value', 'value'], null);
+            datum.string = getFormattedNumberString(datum.amount, fieldDef.formatOptions);
             // Include currency or year for these respective subtypes
             if (fieldDef.type == 'numberAndCurrency') datum.currency = _.get(savedValue, ['value', 'currency'], '');
             if (fieldDef.type == 'numberAndYear') datum.year = String(_.get(savedValue, ['value', 'year'], ''));
@@ -145,7 +148,7 @@ const parseData = (regionId, fieldDefs, nationLevelOverrides, jurisdictionLevelO
             // TODO: modify data files to store this in an 'option' key also
             datum.option = String(_.get(savedValue, ['value', 'value'], '')); // Coerce to string in case a number string was coerced to a number
             // Assign 'isSelected' to each option. Note that the override is used if available.
-            datum.options = assignOptionValues(fieldOverride.options || fieldDef.options, datum.value);
+            datum.options = assignOptionValues(fieldOverride.options || fieldDef.options, datum.option);
             // Provide a string property, which is just the label of the selected option or empty string if no option is selected
             datum.string = (datum.options.find(o => (o.isSelected)) || {}).label || '';
         }
@@ -164,7 +167,11 @@ const parseData = (regionId, fieldDefs, nationLevelOverrides, jurisdictionLevelO
                 };
             });
         }
-        data.push(datum);
+        else {
+            debug(`Unknown data type '${fieldDef.type}'`);
+            isValidField = false;
+        }
+        if (isValidField) data[fieldDef.id] = datum;
     });
     return data;
 };
