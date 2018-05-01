@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "API for a database of tropical forest nations and states/provinces.",
   "main": "server.js",
-  "engines" : { "node" : ">=8" },
+  "engines": {
+    "node": ">=8"
+  },
   "scripts": {
     "debug": "nodemon --inspect ./server.js",
     "test": "jest",
@@ -28,10 +30,10 @@
   "dependencies": {
     "debug": "3.1.0",
     "dotenv": "5.0.1",
-    "fs-extra": "5.0.0",
-    "hapi": "17.3.1",
+    "fs-extra": "6.0.0",
+    "hapi": "17.4.0",
     "js-yaml": "3.11.0",
-    "klaw-sync": "3.0.2",
-    "lodash": "4.17.5"
+    "klaw-sync": "4.0.0",
+    "lodash": "4.17.10"
   }
 }
