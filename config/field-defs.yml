@@ -2,6 +2,7 @@ national:
   - id: national_population
     type: number
     label: Population of Country
+    sectionPath: [overview, demographics]
     translations:
       es: Población del país
       id: Penduduk Negara
@@ -9,6 +10,7 @@ national:
   - id: national_gdp
     type: numberAndCurrency
     label: Country GDP
+    sectionPath: [overview, economy]
     isRescale: true
     isCurrency: true
     translations:
@@ -18,6 +20,7 @@ national:
   - id: national_per_capita_income
     type: numberAndCurrency
     label: Annual Per Capita Income
+    sectionPath: [overview, economy]
     formatOptions:
       minimumFractionDigits: 0
       maximumFractionDigits: 0
@@ -30,6 +33,7 @@ national:
   - id: national_human_development_index
     type: number
     label: Human Development Index
+    sectionPath: [overview, economy]
     formatOptions:
       minimumIntegerDigits: 1
       minimumFractionDigits: 3
@@ -264,7 +268,7 @@ national:
       id: Tren Deforestasi
       pt: Tendência do desmatamento
 jurisdictional:
-  - forestArea:
+  - id: forestArea
     type: number
     label: Current Forest Area
     formatOptions:
